@@ -1,0 +1,28 @@
+{
+  "setKey": "ScrollOfTheHeroOfCinderCity",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "pyro_dmg_",
+  "level": 20,
+  "substats": [
+    {
+      "key": "atk",
+      "value": 14.0
+    },
+    {
+      "key": "atk_",
+      "value": 5.3
+    },
+    {
+      "key": "hp",
+      "value": 687.0
+    },
+    {
+      "key": "critRate_",
+      "value": 8.6
+    }
+  ],
+  "location": "Traveler",
+  "lock": true,
+  "id": 30
+}

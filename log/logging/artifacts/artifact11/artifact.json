@@ -1,0 +1,28 @@
+{
+  "setKey": "SilkenMoonsSerenade",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 20,
+  "substats": [
+    {
+      "key": "hp_",
+      "value": 9.9
+    },
+    {
+      "key": "def",
+      "value": 44.0
+    },
+    {
+      "key": "def_",
+      "value": 20.4
+    },
+    {
+      "key": "eleMas",
+      "value": 37.0
+    }
+  ],
+  "location": "Lauma",
+  "lock": false,
+  "id": 11
+}

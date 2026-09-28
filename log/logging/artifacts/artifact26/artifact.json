@@ -1,0 +1,28 @@
+{
+  "setKey": "ObsidianCodex",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "critRate_",
+  "level": 20,
+  "substats": [
+    {
+      "key": "hp",
+      "value": 747.0
+    },
+    {
+      "key": "def_",
+      "value": 13.9
+    },
+    {
+      "key": "critDMG_",
+      "value": 7.8
+    },
+    {
+      "key": "eleMas",
+      "value": 40.0
+    }
+  ],
+  "location": "Mavuika",
+  "lock": false,
+  "id": 26
+}

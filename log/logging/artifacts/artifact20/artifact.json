@@ -1,0 +1,28 @@
+{
+  "setKey": "FinaleOfTheDeepGalleries",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
+  "level": 20,
+  "substats": [
+    {
+      "key": "eleMas",
+      "value": 23.0
+    },
+    {
+      "key": "hp_",
+      "value": 19.8
+    },
+    {
+      "key": "hp",
+      "value": 598.0
+    },
+    {
+      "key": "atk_",
+      "value": 5.8
+    }
+  ],
+  "location": "Skirk",
+  "lock": false,
+  "id": 20
+}

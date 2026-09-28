@@ -1,0 +1,28 @@
+{
+  "setKey": "FinaleOfTheDeepGalleries",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 20,
+  "substats": [
+    {
+      "key": "critRate_",
+      "value": 5.8
+    },
+    {
+      "key": "atk_",
+      "value": 12.8
+    },
+    {
+      "key": "atk",
+      "value": 33.0
+    },
+    {
+      "key": "def_",
+      "value": 6.6
+    }
+  ],
+  "location": "Skirk",
+  "lock": true,
+  "id": 19
+}

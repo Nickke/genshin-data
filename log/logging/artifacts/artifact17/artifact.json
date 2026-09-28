@@ -1,0 +1,28 @@
+{
+  "setKey": "NightOfTheSkysUnveiling",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "eleMas",
+  "level": 20,
+  "substats": [
+    {
+      "key": "def",
+      "value": 16.0
+    },
+    {
+      "key": "atk_",
+      "value": 15.7
+    },
+    {
+      "key": "enerRech_",
+      "value": 13.0
+    },
+    {
+      "key": "hp_",
+      "value": 9.9
+    }
+  ],
+  "location": "Zibai",
+  "lock": true,
+  "id": 17
+}

@@ -1,0 +1,28 @@
+{
+  "setKey": "HeartOfTheFurnace",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
+  "level": 20,
+  "substats": [
+    {
+      "key": "critDMG_",
+      "value": 28.8
+    },
+    {
+      "key": "critRate_",
+      "value": 2.7
+    },
+    {
+      "key": "atk_",
+      "value": 5.8
+    },
+    {
+      "key": "def",
+      "value": 46.0
+    }
+  ],
+  "location": "Odette",
+  "lock": false,
+  "id": 1
+}

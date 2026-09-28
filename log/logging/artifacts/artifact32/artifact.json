@@ -1,0 +1,28 @@
+{
+  "setKey": "ScrollOfTheHeroOfCinderCity",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "critRate_",
+  "level": 20,
+  "substats": [
+    {
+      "key": "def",
+      "value": 46.0
+    },
+    {
+      "key": "atk_",
+      "value": 5.3
+    },
+    {
+      "key": "critDMG_",
+      "value": 28.8
+    },
+    {
+      "key": "hp",
+      "value": 299.0
+    }
+  ],
+  "location": "Traveler",
+  "lock": true,
+  "id": 32
+}

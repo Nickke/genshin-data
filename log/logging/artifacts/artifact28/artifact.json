@@ -1,0 +1,28 @@
+{
+  "setKey": "ScrollOfTheHeroOfCinderCity",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "atk_",
+  "level": 20,
+  "substats": [
+    {
+      "key": "critDMG_",
+      "value": 5.4
+    },
+    {
+      "key": "atk",
+      "value": 51.0
+    },
+    {
+      "key": "def",
+      "value": 58.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 10.4
+    }
+  ],
+  "location": "Traveler",
+  "lock": false,
+  "id": 28
+}

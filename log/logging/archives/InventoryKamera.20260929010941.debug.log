@@ -1,0 +1,254 @@
+2026-09-29 01:02:26.020|INFO|InventoryKamera|Kamera initialized
+2026-09-29 01:02:28.115|INFO|GenshinProcesor|Scraper initialized
+2026-09-29 01:02:28.171|INFO|MainForm|Inventory Kamera version 1.3.17
+2026-09-29 01:02:28.380|INFO|DatabaseManager|Checking for newer game data...
+2026-09-29 01:02:28.698|INFO|DatabaseManager|Checking for newer game data...
+2026-09-29 01:02:29.110|INFO|MainForm|Current game data is up to date with data for 7.1
+2026-09-29 01:02:29.110|INFO|MainForm|Game data is up to date (7.1)
+2026-09-29 01:08:10.621|INFO|MainForm|Starting scan
+2026-09-29 01:08:10.627|INFO|MainForm|Hotkey registered
+2026-09-29 01:08:10.627|INFO|MainForm|Scan settings: 
+	Game Version Data:			 7.1
+	Weapons:				 True
+	Artifacts:				 True
+	Characters:				 True
+	Dev Items:				 True
+	Materials:				 True
+	Min Weapon Rarity:		 1
+	Min Weapon Level:		 1
+	Equip Weapons:			 True
+	Min Artifact Rarity:	 1
+	Min Artifact Level:		 0
+	Equip Artifacts:		 True
+	Delay:					 0
+2026-09-29 01:08:10.670|DEBUG|Navigation|Checking for GenshinImpact.exe
+2026-09-29 01:08:10.680|DEBUG|Navigation|Found GenshinImpact.exe
+2026-09-29 01:08:10.680|DEBUG|Navigation|Window location (1600x900): x=160, y=101
+2026-09-29 01:08:10.748|INFO|InventoryKamera|Kamera initialized
+2026-09-29 01:08:10.748|INFO|MainForm|Resolution: 1600x900
+2026-09-29 01:08:15.183|INFO|InventoryKamera|Logging directory reset
+2026-09-29 01:08:15.206|DEBUG|InventoryKamera|Added 3 workers
+2026-09-29 01:08:15.220|DEBUG|InventoryKamera|Thread #8 priority: Normal
+2026-09-29 01:08:15.220|DEBUG|InventoryKamera|Thread #4 priority: Normal
+2026-09-29 01:08:15.220|DEBUG|InventoryKamera|Thread #5 priority: Normal
+2026-09-29 01:08:15.901|DEBUG|GenshinProcesor|8 Engines restarted
+2026-09-29 01:08:15.901|INFO|GenshinProcesor|Internally set traveler custom name to sunshine
+2026-09-29 01:08:15.909|INFO|GenshinProcesor|Internally set wanderer custom name to zefiro
+2026-09-29 01:08:15.909|INFO|GenshinProcesor|Internally set manekin custom name to bruce
+2026-09-29 01:08:15.909|INFO|GenshinProcesor|Internally set manekina custom name to astra
+2026-09-29 01:08:15.909|INFO|InventoryKamera|Scanning weapons...
+2026-09-29 01:08:21.165|INFO|UserInterface|Parsed 273 weapons to scan
+2026-09-29 01:08:21.165|INFO|WeaponScraper|Found 273 for weapon count.
+2026-09-29 01:08:21.165|DEBUG|WeaponScraper|Sorting by quality to optimize scan time.
+2026-09-29 01:08:21.190|DEBUG|WeaponScraper|Inventory is sorted by quality
+2026-09-29 01:08:21.190|DEBUG|WeaponScraper|Scanning weapon page 0
+2026-09-29 01:08:21.190|DEBUG|WeaponScraper|Located 40 possible item locations on page.
+2026-09-29 01:08:28.625|DEBUG|WeaponScraper|Finished queuing page of weapons. Scrolling...
+2026-09-29 01:08:31.262|DEBUG|WeaponScraper|Scanning weapon page 1
+2026-09-29 01:08:31.262|DEBUG|WeaponScraper|Located 40 possible item locations on page.
+2026-09-29 01:08:38.302|DEBUG|WeaponScraper|Finished queuing page of weapons. Scrolling...
+2026-09-29 01:08:40.526|DEBUG|WeaponScraper|Scanning weapon page 2
+2026-09-29 01:08:40.526|DEBUG|WeaponScraper|Located 40 possible item locations on page.
+2026-09-29 01:08:47.300|DEBUG|WeaponScraper|Finished queuing page of weapons. Scrolling...
+2026-09-29 01:08:49.560|DEBUG|WeaponScraper|Scanning weapon page 3
+2026-09-29 01:08:49.560|DEBUG|WeaponScraper|Located 40 possible item locations on page.
+2026-09-29 01:08:56.896|DEBUG|WeaponScraper|Finished queuing page of weapons. Scrolling...
+2026-09-29 01:08:59.485|DEBUG|WeaponScraper|Scanning weapon page 4
+2026-09-29 01:08:59.485|DEBUG|WeaponScraper|Located 40 possible item locations on page.
+2026-09-29 01:09:06.606|DEBUG|WeaponScraper|Finished queuing page of weapons. Scrolling...
+2026-09-29 01:09:08.946|DEBUG|WeaponScraper|Scanning weapon page 5
+2026-09-29 01:09:08.946|DEBUG|WeaponScraper|Located 40 possible item locations on page.
+2026-09-29 01:09:15.831|DEBUG|WeaponScraper|Finished queuing page of weapons. Scrolling...
+2026-09-29 01:09:18.041|DEBUG|WeaponScraper|Scanning weapon page 6
+2026-09-29 01:09:18.041|DEBUG|WeaponScraper|Located 40 possible item locations on page.
+2026-09-29 01:09:24.092|INFO|WeaponScraper|Stopping weapon scan based on scans queued (273 of 273)
+2026-09-29 01:09:26.122|INFO|InventoryKamera|Done scanning weapons
+2026-09-29 01:09:26.122|INFO|InventoryKamera|Scanning artifacts...
+2026-09-29 01:09:31.373|INFO|UserInterface|Parsed 1967 artifacts to scan
+2026-09-29 01:09:31.373|INFO|ArtifactScraper|Found 1967 for artifact count.
+2026-09-29 01:09:31.446|DEBUG|ArtifactScraper|Scanning artifact page 1
+2026-09-29 01:09:31.446|DEBUG|ArtifactScraper|Located 32 possible item locations on page.
+2026-09-29 01:09:31.900|DEBUG|ArtifactScraper|Parsing artifact substat: atk+35
+2026-09-29 01:09:31.900|DEBUG|ArtifactScraper|Parsing artifact substat: atk+8.7%
+2026-09-29 01:09:31.900|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+8.9%
+2026-09-29 01:09:31.900|DEBUG|ArtifactScraper|Parsing artifact substat: def+23
+2026-09-29 01:09:32.199|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+28.8%
+2026-09-29 01:09:32.199|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+2.7%
+2026-09-29 01:09:32.199|DEBUG|ArtifactScraper|Parsing artifact substat: atk+5.8%
+2026-09-29 01:09:32.199|DEBUG|ArtifactScraper|Parsing artifact substat: def+46
+2026-09-29 01:09:32.298|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+18.1%
+2026-09-29 01:09:32.298|DEBUG|ArtifactScraper|Parsing artifact substat: def+16
+2026-09-29 01:09:32.298|DEBUG|ArtifactScraper|Parsing artifact substat: def+14.6%
+2026-09-29 01:09:32.298|DEBUG|ArtifactScraper|Parsing artifact substat: hp+657
+2026-09-29 01:09:32.561|DEBUG|ArtifactScraper|Parsing artifact substat: hp+299
+2026-09-29 01:09:32.561|DEBUG|ArtifactScraper|Parsing artifact substat: hp+4.7%
+2026-09-29 01:09:32.561|DEBUG|ArtifactScraper|Parsing artifact substat: atk+45
+2026-09-29 01:09:32.561|DEBUG|ArtifactScraper|Parsing artifact substat: def+19.0%
+2026-09-29 01:09:32.742|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+19
+2026-09-29 01:09:32.742|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+10.9%
+2026-09-29 01:09:32.742|DEBUG|ArtifactScraper|Parsing artifact substat: hp+5.3%
+2026-09-29 01:09:32.742|DEBUG|ArtifactScraper|Parsing artifact substat: hp+777
+2026-09-29 01:09:32.897|DEBUG|ArtifactScraper|Parsing artifact substat: atk+13.4%
+2026-09-29 01:09:32.897|DEBUG|ArtifactScraper|Parsing artifact substat: def+49
+2026-09-29 01:09:32.897|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+7.0%
+2026-09-29 01:09:32.897|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+5.8%
+2026-09-29 01:09:33.200|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+18.7%
+2026-09-29 01:09:33.200|DEBUG|ArtifactScraper|Parsing artifact substat: hp+448
+2026-09-29 01:09:33.200|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+3.9%
+2026-09-29 01:09:33.200|DEBUG|ArtifactScraper|Parsing artifact substat: atk+9.3%
+2026-09-29 01:09:33.312|DEBUG|ArtifactScraper|Parsing artifact substat: def+10.9%
+2026-09-29 01:09:33.312|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+23
+2026-09-29 01:09:33.312|DEBUG|ArtifactScraper|Parsing artifact substat: hp+21.0%
+2026-09-29 01:09:33.312|DEBUG|ArtifactScraper|Parsing artifact substat: def+39
+2026-09-29 01:09:33.371|DEBUG|ArtifactScraper|Parsing artifact substat: atk+64
+2026-09-29 01:09:33.371|DEBUG|ArtifactScraper|Parsing artifact substat: def+21
+2026-09-29 01:09:33.371|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+44
+2026-09-29 01:09:33.371|DEBUG|ArtifactScraper|Parsing artifact substat: hp+598
+2026-09-29 01:09:33.645|DEBUG|ArtifactScraper|Parsing artifact substat: hp+777
+2026-09-29 01:09:33.645|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+14.0%
+2026-09-29 01:09:33.645|DEBUG|ArtifactScraper|Parsing artifact substat: atk+4.1%
+2026-09-29 01:09:33.645|DEBUG|ArtifactScraper|Parsing artifact substat: def+13.1%
+2026-09-29 01:09:33.763|DEBUG|ArtifactScraper|Parsing artifact substat: hp+11.7%
+2026-09-29 01:09:33.763|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+35
+2026-09-29 01:09:33.763|DEBUG|ArtifactScraper|Parsing artifact substat: def+13.1%
+2026-09-29 01:09:33.763|DEBUG|ArtifactScraper|Parsing artifact substat: def+37
+2026-09-29 01:09:34.071|DEBUG|ArtifactScraper|Parsing artifact substat: atk+5.3%
+2026-09-29 01:09:34.071|DEBUG|ArtifactScraper|Parsing artifact substat: def+60
+2026-09-29 01:09:34.071|DEBUG|ArtifactScraper|Parsing artifact substat: hp+14.0%
+2026-09-29 01:09:34.071|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+5.2%
+2026-09-29 01:09:34.078|DEBUG|ArtifactScraper|Parsing artifact substat: hp+9.9%
+2026-09-29 01:09:34.078|DEBUG|ArtifactScraper|Parsing artifact substat: def+44
+2026-09-29 01:09:34.078|DEBUG|ArtifactScraper|Parsing artifact substat: def+20.4%
+2026-09-29 01:09:34.078|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+37
+2026-09-29 01:09:34.431|DEBUG|ArtifactScraper|Parsing artifact substat: hp+4.1%
+2026-09-29 01:09:34.431|DEBUG|ArtifactScraper|Parsing artifact substat: def+39
+2026-09-29 01:09:34.431|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+16.8%
+2026-09-29 01:09:34.431|DEBUG|ArtifactScraper|Parsing artifact substat: hp+508
+2026-09-29 01:09:34.499|DEBUG|ArtifactScraper|Parsing artifact substat: def+37
+2026-09-29 01:09:34.499|DEBUG|ArtifactScraper|Parsing artifact substat: hp+866
+2026-09-29 01:09:34.500|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+5.2%
+2026-09-29 01:09:34.500|DEBUG|ArtifactScraper|Parsing artifact substat: hp+9.9%
+2026-09-29 01:09:34.747|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+3.5%
+2026-09-29 01:09:34.747|DEBUG|ArtifactScraper|Parsing artifact substat: atk+33
+2026-09-29 01:09:34.747|DEBUG|ArtifactScraper|Parsing artifact substat: hp+8.7%
+2026-09-29 01:09:34.747|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+20.2%
+2026-09-29 01:09:34.839|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+10.4%
+2026-09-29 01:09:34.839|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+10.9%
+2026-09-29 01:09:34.839|DEBUG|ArtifactScraper|Parsing artifact substat: hp+926
+2026-09-29 01:09:34.839|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+23
+2026-09-29 01:09:35.096|DEBUG|ArtifactScraper|Parsing artifact substat: def+16
+2026-09-29 01:09:35.096|DEBUG|ArtifactScraper|Parsing artifact substat: atk+15.7%
+2026-09-29 01:09:35.096|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+13.0%
+2026-09-29 01:09:35.096|DEBUG|ArtifactScraper|Parsing artifact substat: hp+9.9%
+2026-09-29 01:09:35.130|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+37
+2026-09-29 01:09:35.130|DEBUG|ArtifactScraper|Parsing artifact substat: atk+54
+2026-09-29 01:09:35.130|DEBUG|ArtifactScraper|Parsing artifact substat: def+44
+2026-09-29 01:09:35.130|DEBUG|ArtifactScraper|Parsing artifact substat: atk+11.7%
+2026-09-29 01:09:35.466|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+5.8%
+2026-09-29 01:09:35.466|DEBUG|ArtifactScraper|Parsing artifact substat: atk+12.8%
+2026-09-29 01:09:35.466|DEBUG|ArtifactScraper|Parsing artifact substat: atk+33
+2026-09-29 01:09:35.466|DEBUG|ArtifactScraper|Parsing artifact substat: def+6.6%
+2026-09-29 01:09:35.483|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+23
+2026-09-29 01:09:35.483|DEBUG|ArtifactScraper|Parsing artifact substat: hp+19.8%
+2026-09-29 01:09:35.483|DEBUG|ArtifactScraper|Parsing artifact substat: hp+598
+2026-09-29 01:09:35.483|DEBUG|ArtifactScraper|Parsing artifact substat: atk+5.8%
+2026-09-29 01:09:35.766|DEBUG|ArtifactScraper|Parsing artifact substat: hp+299
+2026-09-29 01:09:35.766|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+7.0%
+2026-09-29 01:09:35.766|DEBUG|ArtifactScraper|Parsing artifact substat: atk+21.0%
+2026-09-29 01:09:35.766|DEBUG|ArtifactScraper|Parsing artifact substat: def+23
+2026-09-29 01:09:35.877|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+13.0%
+2026-09-29 01:09:35.877|DEBUG|ArtifactScraper|Parsing artifact substat: atk+35
+2026-09-29 01:09:35.877|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+14.0%
+2026-09-29 01:09:35.877|DEBUG|ArtifactScraper|Parsing artifact substat: hp+9.9%
+2026-09-29 01:09:36.181|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+7.8%
+2026-09-29 01:09:36.181|DEBUG|ArtifactScraper|Parsing artifact substat: hp+16.9%
+2026-09-29 01:09:36.181|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+3.1%
+2026-09-29 01:09:36.181|DEBUG|ArtifactScraper|Parsing artifact substat: atk+14.0%
+2026-09-29 01:09:36.196|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+19
+2026-09-29 01:09:36.196|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+6.6%
+2026-09-29 01:09:36.196|DEBUG|ArtifactScraper|Parsing artifact substat: atk+5.3%
+2026-09-29 01:09:36.196|DEBUG|ArtifactScraper|Parsing artifact substat: def+27.0%
+2026-09-29 01:09:36.280|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+8.9%
+2026-09-29 01:09:36.280|DEBUG|ArtifactScraper|Parsing artifact substat: def+5.8%
+2026-09-29 01:09:36.280|DEBUG|ArtifactScraper|Parsing artifact substat: def+42
+2026-09-29 01:09:36.280|DEBUG|ArtifactScraper|Parsing artifact substat: atk+35
+2026-09-29 01:09:36.587|DEBUG|ArtifactScraper|Parsing artifact substat: hp+747
+2026-09-29 01:09:36.587|DEBUG|ArtifactScraper|Parsing artifact substat: def+13.9%
+2026-09-29 01:09:36.587|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+7.8%
+2026-09-29 01:09:36.587|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+40
+2026-09-29 01:09:36.688|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+14.2%
+2026-09-29 01:09:36.688|DEBUG|ArtifactScraper|Parsing artifact substat: atk+10.5%
+2026-09-29 01:09:36.688|DEBUG|ArtifactScraper|Parsing artifact substat: atk+18
+2026-09-29 01:09:36.688|DEBUG|ArtifactScraper|Parsing artifact substat: def+46
+2026-09-29 01:09:36.859|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+5.4%
+2026-09-29 01:09:36.859|DEBUG|ArtifactScraper|Parsing artifact substat: atk+51
+2026-09-29 01:09:36.859|DEBUG|ArtifactScraper|Parsing artifact substat: def+58
+2026-09-29 01:09:36.859|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+10.4%
+2026-09-29 01:09:36.986|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+27.2%
+2026-09-29 01:09:36.986|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+23
+2026-09-29 01:09:36.986|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+7.4%
+2026-09-29 01:09:36.986|DEBUG|ArtifactScraper|Parsing artifact substat: def+5.8%
+2026-09-29 01:09:36.986|DEBUG|ArtifactScraper|Finished queuing page of artifacts. Scrolling...
+2026-09-29 01:09:37.218|DEBUG|ArtifactScraper|Parsing artifact substat: atk+14
+2026-09-29 01:09:37.218|DEBUG|ArtifactScraper|Parsing artifact substat: atk+5.3%
+2026-09-29 01:09:37.218|DEBUG|ArtifactScraper|Parsing artifact substat: hp+687
+2026-09-29 01:09:37.218|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+8.6%
+2026-09-29 01:09:37.328|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+21
+2026-09-29 01:09:37.328|DEBUG|ArtifactScraper|Parsing artifact substat: atk+58
+2026-09-29 01:09:37.328|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+11.7%
+2026-09-29 01:09:37.328|DEBUG|ArtifactScraper|Parsing artifact substat: def+5.8%
+2026-09-29 01:09:39.086|DEBUG|ArtifactScraper|Scanning artifact page 2
+2026-09-29 01:09:39.086|DEBUG|ArtifactScraper|Located 32 possible item locations on page.
+2026-09-29 01:09:39.621|DEBUG|ArtifactScraper|Parsing artifact substat: def+46
+2026-09-29 01:09:39.621|DEBUG|ArtifactScraper|Parsing artifact substat: atk+5.3%
+2026-09-29 01:09:39.621|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+28.8%
+2026-09-29 01:09:39.621|DEBUG|ArtifactScraper|Parsing artifact substat: hp+299
+2026-09-29 01:09:39.687|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+2.7%
+2026-09-29 01:09:39.687|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+6.5%
+2026-09-29 01:09:39.687|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+20.2%
+2026-09-29 01:09:39.687|DEBUG|ArtifactScraper|Parsing artifact substat: atk+16.9%
+2026-09-29 01:09:39.972|DEBUG|ArtifactScraper|Parsing artifact substat: def+32
+2026-09-29 01:09:39.972|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+17.5%
+2026-09-29 01:09:39.972|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+6.6%
+2026-09-29 01:09:39.972|DEBUG|ArtifactScraper|Parsing artifact substat: atk+18
+2026-09-29 01:09:40.041|DEBUG|ArtifactScraper|Parsing artifact substat: atk+4.1%
+2026-09-29 01:09:40.041|DEBUG|ArtifactScraper|Parsing artifact substat: hp+10.5%
+2026-09-29 01:09:40.041|DEBUG|ArtifactScraper|Parsing artifact substat: atk+54
+2026-09-29 01:09:40.041|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+42
+2026-09-29 01:09:40.289|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+12.4%
+2026-09-29 01:09:40.289|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+12.4%
+2026-09-29 01:09:40.289|DEBUG|ArtifactScraper|Parsing artifact substat: def+11.7%
+2026-09-29 01:09:40.289|DEBUG|ArtifactScraper|Parsing artifact substat: hp+269
+2026-09-29 01:09:40.407|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+4.5%
+2026-09-29 01:09:40.407|DEBUG|ArtifactScraper|Parsing artifact substat: def+28.4%
+2026-09-29 01:09:40.407|DEBUG|ArtifactScraper|Parsing artifact substat: hp+239
+2026-09-29 01:09:40.407|DEBUG|ArtifactScraper|Parsing artifact substat: atk+4.7%
+2026-09-29 01:09:40.578|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+17.1%
+2026-09-29 01:09:40.578|DEBUG|ArtifactScraper|Parsing artifact substat: def+19.0%
+2026-09-29 01:09:40.578|DEBUG|ArtifactScraper|Parsing artifact substat: hp+209
+2026-09-29 01:09:40.578|DEBUG|ArtifactScraper|Parsing artifact substat: hp+8.7%
+2026-09-29 01:09:40.744|DEBUG|ArtifactScraper|Parsing artifact substat: def+21
+2026-09-29 01:09:40.744|DEBUG|ArtifactScraper|Parsing artifact substat: atk+16.3%
+2026-09-29 01:09:40.744|DEBUG|ArtifactScraper|Parsing artifact substat: atk+33
+2026-09-29 01:09:40.744|DEBUG|ArtifactScraper|Parsing artifact substat: hp+10.5%
+2026-09-29 01:09:40.899|DEBUG|ArtifactScraper|Parsing artifact substat: def+58
+2026-09-29 01:09:40.899|DEBUG|ArtifactScraper|Parsing artifact substat: atk+9.9%
+2026-09-29 01:09:40.899|DEBUG|ArtifactScraper|Parsing artifact substat: hp+747
+2026-09-29 01:09:40.899|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+23
+2026-09-29 01:09:41.127|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+10.1%
+2026-09-29 01:09:41.127|DEBUG|ArtifactScraper|Parsing artifact substat: def+42
+2026-09-29 01:09:41.127|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+11.0%
+2026-09-29 01:09:41.127|DEBUG|ArtifactScraper|Parsing artifact substat: hp+4.7%
+2026-09-29 01:09:41.242|DEBUG|ArtifactScraper|Parsing artifact substat: atk+53
+2026-09-29 01:09:41.242|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+40
+2026-09-29 01:09:41.242|DEBUG|ArtifactScraper|Parsing artifact substat: def+11.7%
+2026-09-29 01:09:41.242|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+5.2%
+2026-09-29 01:09:41.479|DEBUG|ArtifactScraper|Parsing artifact substat: atk+13.4%
+2026-09-29 01:09:41.644|DEBUG|ArtifactScraper|Parsing artifact substat: atk+19
+2026-09-29 01:09:41.644|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+42
+2026-09-29 01:09:41.644|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+17.5%
+2026-09-29 01:09:41.644|DEBUG|ArtifactScraper|Parsing artifact substat: atk+10.5%
+2026-09-29 01:09:41.828|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+7.4%
+2026-09-29 01:09:41.828|DEBUG|ArtifactScraper|Parsing artifact substat: atk+33
+2026-09-29 01:09:41.828|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+10.4%
+2026-09-29 01:09:41.828|DEBUG|ArtifactScraper|Parsing artifact substat: hp+9.9%

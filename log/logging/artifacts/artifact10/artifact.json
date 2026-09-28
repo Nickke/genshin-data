@@ -1,0 +1,28 @@
+{
+  "setKey": "AubadeOfMorningstarAndMoon",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 20,
+  "substats": [
+    {
+      "key": "hp_",
+      "value": 11.7
+    },
+    {
+      "key": "eleMas",
+      "value": 35.0
+    },
+    {
+      "key": "def_",
+      "value": 13.1
+    },
+    {
+      "key": "def",
+      "value": 37.0
+    }
+  ],
+  "location": "Zhongli",
+  "lock": false,
+  "id": 10
+}
