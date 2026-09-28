@@ -2,3 +2,6 @@
 *.dll
 Thumbs.db
 desktop.ini
+
+# Immagini di log IK (troppo pesanti per git)
+log/**/*.png
