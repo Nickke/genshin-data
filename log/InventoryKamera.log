@@ -1,0 +1,167 @@
+2026-09-29 08:39:11.322|INFO|InventoryKamera|Kamera initialized
+2026-09-29 08:39:12.347|INFO|GenshinProcesor|Scraper initialized
+2026-09-29 08:39:12.364|INFO|MainForm|Inventory Kamera version 1.3.17
+2026-09-29 08:39:12.467|INFO|DatabaseManager|Checking for newer game data...
+2026-09-29 08:39:12.700|INFO|DatabaseManager|Checking for newer game data...
+2026-09-29 08:39:12.992|INFO|MainForm|Current game data is up to date with data for 7.1
+2026-09-29 08:39:12.992|INFO|MainForm|Game data is up to date (7.1)
+2026-09-29 08:41:59.171|INFO|MainForm|Starting scan
+2026-09-29 08:41:59.177|INFO|MainForm|Hotkey registered
+2026-09-29 08:41:59.177|INFO|MainForm|Scan settings: 
+	Game Version Data:			 7.1
+	Weapons:				 False
+	Artifacts:				 True
+	Characters:				 False
+	Dev Items:				 True
+	Materials:				 True
+	Min Weapon Rarity:		 1
+	Min Weapon Level:		 1
+	Equip Weapons:			 True
+	Min Artifact Rarity:	 1
+	Min Artifact Level:		 0
+	Equip Artifacts:		 True
+	Delay:					 0
+2026-09-29 08:41:59.255|INFO|InventoryKamera|Kamera initialized
+2026-09-29 08:41:59.255|INFO|MainForm|Resolution: 1600x900
+2026-09-29 08:42:05.744|INFO|InventoryKamera|Logging directory reset
+2026-09-29 08:42:06.268|INFO|GenshinProcesor|Internally set traveler custom name to nickke
+2026-09-29 08:42:06.268|INFO|GenshinProcesor|Internally set wanderer custom name to zefiro
+2026-09-29 08:42:06.268|INFO|GenshinProcesor|Internally set manekin custom name to bruce
+2026-09-29 08:42:06.268|INFO|GenshinProcesor|Internally set manekina custom name to astra
+2026-09-29 08:42:06.268|INFO|InventoryKamera|Scanning artifacts...
+2026-09-29 08:42:11.676|INFO|UserInterface|Parsed 1967 artifacts to scan
+2026-09-29 08:42:11.676|INFO|ArtifactScraper|Found 1967 for artifact count.
+2026-09-29 08:42:22.184|ERROR|UserInterface|Unable to validate information for artifact ID#43
+2026-09-29 08:42:22.190|ERROR|UserInterface|Invalid artifact level
+Artifact ID: 43
+Slot: circlet
+Set: GoldenTroupe
+Rarity: 5
+Level: 24
+Main Stat: critRate_
+Substat 1: atk_ + 13,4%
+Substat 2: critDMG_ + 7,8%
+Substat 3: def + 19
+Locked: False
+Equipped character: Fischl
+
+2026-09-29 08:42:31.146|ERROR|UserInterface|Unable to validate information for artifact ID#80
+2026-09-29 08:42:31.146|ERROR|UserInterface|Invalid artifact level
+Artifact ID: 80
+Slot: goblet
+Set: VermillionHereafter
+Rarity: 5
+Level: 24
+Main Stat: anemo_dmg_
+Substat 1: critRate_ + 9,3%
+Substat 2: critDMG_ + 29,5%
+Substat 3: atk + 19
+Locked: False
+Equipped character: Xiao
+
+2026-09-29 08:42:32.633|ERROR|UserInterface|Unable to validate information for artifact ID#88
+2026-09-29 08:42:32.649|ERROR|UserInterface|Invalid artifact level
+Artifact ID: 88
+Slot: plume
+Set: EmblemOfSeveredFate
+Rarity: 5
+Level: 24
+Main Stat: atk
+Substat 1: critRate_ + 18,3%
+Substat 2: critDMG_ + 5,4%
+Substat 3: def + 42
+Locked: False
+Equipped character: Xingqiu
+
+2026-09-29 08:42:45.573|ERROR|UserInterface|Unable to validate information for artifact ID#136
+2026-09-29 08:42:45.573|ERROR|UserInterface|Invalid artifact level
+Artifact ID: 136
+Slot: sands
+Set: NoblesseOblige
+Rarity: 5
+Level: 24
+Main Stat: enerRech_
+Substat 1: hp + 747
+Substat 2: hp_ + 5,3%
+Substat 3: critRate_ + 9,3%
+Locked: False
+Equipped character: Bennett
+
+2026-09-29 08:42:45.728|ERROR|UserInterface|Unable to validate information for artifact ID#137
+2026-09-29 08:42:45.728|ERROR|UserInterface|Invalid artifact level
+Artifact ID: 137
+Slot: goblet
+Set: NoblesseOblige
+Rarity: 5
+Level: 24
+Main Stat: hp_
+Substat 1: hp + 747
+Substat 2: enerRech_ + 6,5%
+Substat 3: def + 16
+Locked: False
+Equipped character: Bennett
+
+2026-09-29 08:42:51.990|ERROR|UserInterface|Unable to validate information for artifact ID#160
+2026-09-29 08:42:51.990|ERROR|UserInterface|Invalid artifact level
+Artifact ID: 160
+Slot: flower
+Set: EmblemOfSeveredFate
+Rarity: 5
+Level: 24
+Main Stat: hp
+Substat 1: critRate_ + 6,2%
+Substat 2: critDMG_ + 7,8%
+Substat 3: enerRech_ + 10,4%
+Locked: False
+Equipped character: Xingqiu
+
+2026-09-29 08:47:50.033|ERROR|UserInterface|Unable to validate information for artifact ID#1407
+2026-09-29 08:47:50.036|ERROR|UserInterface|Invalid artifact level
+Artifact ID: 1407
+Slot: sands
+Set: ViridescentVenerer
+Rarity: 5
+Level: 24
+Main Stat: eleMas
+Substat 1: hp_ + 4,1%
+Substat 2: enerRech_ + 5,2%
+Substat 3: atk + 16
+Locked: False
+Equipped character: YumemizukiMizuki
+
+2026-09-29 08:47:57.440|ERROR|UserInterface|Unable to validate information for artifact ID#1439
+2026-09-29 08:47:57.440|ERROR|UserInterface|Invalid artifact level
+Artifact ID: 1439
+Slot: circlet
+Set: ViridescentVenerer
+Rarity: 5
+Level: 24
+Main Stat: eleMas
+Substat 1: hp_ + 4,1%
+Substat 2: enerRech_ + 5,8%
+Substat 3: atk_ + 5,8%
+Locked: False
+Equipped character: YumemizukiMizuki
+
+2026-09-29 08:50:03.878|INFO|ArtifactScraper|Stopping artifact scan based on scans queued (1967 of 1967)
+2026-09-29 08:50:05.888|INFO|InventoryKamera|Done scanning artifacts
+2026-09-29 08:50:06.013|INFO|InventoryKamera|Scanning character development materials...
+2026-09-29 08:52:25.746|ERROR|UserInterface|Failed to parse quantity for TeachingsOfKindling
+2026-09-29 08:52:27.272|ERROR|UserInterface|Failed to parse quantity for PhilosophiesOfMoonlight
+2026-09-29 08:52:30.170|ERROR|UserInterface|Failed to parse quantity for TeachingsOfVagrancy
+2026-09-29 08:52:31.670|ERROR|UserInterface|Failed to parse quantity for PhilosophiesOfFortitude
+2026-09-29 08:52:36.379|ERROR|UserInterface|Failed to parse quantity for TeachingsOfGlory
+2026-09-29 08:52:43.081|ERROR|UserInterface|Failed to parse quantity for MistVeiledGoldElixir
+2026-09-29 08:52:44.336|ERROR|UserInterface|Failed to parse quantity for BitOfAerosiderite
+2026-09-29 08:52:53.561|ERROR|UserInterface|Failed to parse quantity for DrossOfPureSacredDewdrop
+2026-09-29 08:52:54.365|ERROR|UserInterface|Failed to parse quantity for SilverGobletOfThePristineSea
+2026-09-29 08:52:55.541|ERROR|UserInterface|Failed to parse quantity for BlazingSacrificialHeartsResolve
+2026-09-29 08:52:56.346|ERROR|UserInterface|Failed to parse quantity for BlazingSacrificialHeartsTerror
+2026-09-29 08:52:57.130|ERROR|UserInterface|Failed to parse quantity for DeliriousDecadenceOfTheSacredLord
+2026-09-29 08:52:57.575|ERROR|UserInterface|Failed to parse quantity for NightWindsMysticAugury
+2026-09-29 08:53:13.152|INFO|InventoryKamera|Done scanning character development materials
+2026-09-29 08:53:13.152|INFO|InventoryKamera|Scanning materials...
+2026-09-29 08:55:00.997|INFO|InventoryKamera|Done scanning materials
+2026-09-29 08:55:01.023|INFO|MainForm|Data converted to GOOD
+2026-09-29 08:55:01.062|INFO|MainForm|Exported data
+2026-09-29 08:55:01.082|INFO|MainForm|Auto-copied JSON to C:\Users\nicob\Documents\GitHub\genshin-data\GenshinData
