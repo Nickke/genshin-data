@@ -1,0 +1,28 @@
+{
+  "setKey": "DesertPavilionChronicle",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
+  "level": 20,
+  "substats": [
+    {
+      "key": "def",
+      "value": 60.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 23.3
+    },
+    {
+      "key": "hp",
+      "value": 209.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.8
+    }
+  ],
+  "location": "Noelle",
+  "lock": false,
+  "id": 52
+}

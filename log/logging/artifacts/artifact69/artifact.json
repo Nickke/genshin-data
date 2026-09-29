@@ -1,0 +1,28 @@
+{
+  "setKey": "GildedDreams",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "hp_",
+  "level": 20,
+  "substats": [
+    {
+      "key": "eleMas",
+      "value": 42.0
+    },
+    {
+      "key": "def",
+      "value": 37.0
+    },
+    {
+      "key": "def_",
+      "value": 7.3
+    },
+    {
+      "key": "atk_",
+      "value": 13.4
+    }
+  ],
+  "location": "Zhongli",
+  "lock": true,
+  "id": 69
+}

@@ -1,0 +1,28 @@
+{
+  "setKey": "DisenchantmentInDeepShadow",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "atk_",
+  "level": 20,
+  "substats": [
+    {
+      "key": "def_",
+      "value": 10.9
+    },
+    {
+      "key": "eleMas",
+      "value": 23.0
+    },
+    {
+      "key": "hp_",
+      "value": 21.0
+    },
+    {
+      "key": "def",
+      "value": 39.0
+    }
+  ],
+  "location": "Sandrone",
+  "lock": false,
+  "id": 7
+}

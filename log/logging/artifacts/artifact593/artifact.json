@@ -1,0 +1,28 @@
+{
+  "setKey": "MarechausseeHunter",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "hydro_dmg_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "hp",
+      "value": 239.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.2
+    },
+    {
+      "key": "eleMas",
+      "value": 21.0
+    },
+    {
+      "key": "def",
+      "value": 21.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 593
+}

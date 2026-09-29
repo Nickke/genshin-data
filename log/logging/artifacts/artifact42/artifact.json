@@ -1,0 +1,28 @@
+{
+  "setKey": "GoldenTroupe",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "hp_",
+  "level": 20,
+  "substats": [
+    {
+      "key": "atk",
+      "value": 53.0
+    },
+    {
+      "key": "eleMas",
+      "value": 40.0
+    },
+    {
+      "key": "def_",
+      "value": 11.7
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.2
+    }
+  ],
+  "location": "Furina",
+  "lock": false,
+  "id": 42
+}

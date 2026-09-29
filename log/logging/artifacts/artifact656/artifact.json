@@ -1,0 +1,28 @@
+{
+  "setKey": "DeepwoodMemories",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def_",
+      "value": 5.1
+    },
+    {
+      "key": "enerRech_",
+      "value": 4.5
+    },
+    {
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "hp_",
+      "value": 5.3
+    }
+  ],
+  "location": "Kaveh",
+  "lock": false,
+  "id": 656
+}

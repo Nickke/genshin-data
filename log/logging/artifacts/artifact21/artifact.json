@@ -1,0 +1,28 @@
+{
+  "setKey": "FinaleOfTheDeepGalleries",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
+  "level": 20,
+  "substats": [
+    {
+      "key": "hp",
+      "value": 299.0
+    },
+    {
+      "key": "critRate_",
+      "value": 7.0
+    },
+    {
+      "key": "atk_",
+      "value": 21.0
+    },
+    {
+      "key": "def",
+      "value": 23.0
+    }
+  ],
+  "location": "Zhongli",
+  "lock": false,
+  "id": 21
+}

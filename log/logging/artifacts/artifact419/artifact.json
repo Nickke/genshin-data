@@ -1,0 +1,28 @@
+{
+  "setKey": "LongNightsOath",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "pyro_dmg_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "eleMas",
+      "value": 19.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 6.5
+    },
+    {
+      "key": "critRate_",
+      "value": 3.5
+    }
+  ],
+  "location": "",
+  "lock": true,
+  "id": 419
+}

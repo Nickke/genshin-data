@@ -1,0 +1,28 @@
+{
+  "setKey": "GildedDreams",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "hp_",
+  "level": 20,
+  "substats": [
+    {
+      "key": "def",
+      "value": 53.0
+    },
+    {
+      "key": "atk_",
+      "value": 8.7
+    },
+    {
+      "key": "hp",
+      "value": 717.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 7.0
+    }
+  ],
+  "location": "Layla",
+  "lock": true,
+  "id": 68
+}
