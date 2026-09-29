@@ -3,7 +3,7 @@
   "slotKey": "plume",
   "rarity": 5,
   "mainStatKey": "atk",
-  "level": 24,
+  "level": 20,
   "substats": [
     {
       "key": "critRate_",

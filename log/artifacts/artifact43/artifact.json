@@ -3,7 +3,7 @@
   "slotKey": "circlet",
   "rarity": 5,
   "mainStatKey": "critRate_",
-  "level": 24,
+  "level": 20,
   "substats": [
     {
       "key": "atk_",

@@ -3,7 +3,7 @@
   "slotKey": "goblet",
   "rarity": 5,
   "mainStatKey": "anemo_dmg_",
-  "level": 24,
+  "level": 20,
   "substats": [
     {
       "key": "critRate_",

@@ -2,27 +2,27 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "pyro_dmg_",
   "level": 20,
   "substats": [
     {
-      "key": "def_",
-      "value": 20.4
+      "key": "eleMas",
+      "value": 44.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.9
     },
     {
       "key": "critDMG_",
-      "value": 7.0
+      "value": 13.2
     },
     {
-      "key": "enerRech_",
-      "value": 9.1
-    },
-    {
-      "key": "hp_",
-      "value": 9.3
+      "key": "hp",
+      "value": 747.0
     }
   ],
-  "location": "",
+  "location": "Arlecchino",
   "lock": true,
   "id": 153
 }
