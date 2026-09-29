@@ -1,0 +1,28 @@
+{
+  "setKey": "ObsidianCodex",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "atk_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def_",
+      "value": 6.6
+    },
+    {
+      "key": "hp_",
+      "value": 5.3
+    },
+    {
+      "key": "hp",
+      "value": 299.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 6.5
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 459
+}

@@ -1,0 +1,28 @@
+{
+  "setKey": "ADayCarvedFromRisingWinds",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 0,
+  "substats": [
+    {
+      "key": "enerRech_",
+      "value": 5.2
+    },
+    {
+      "key": "atk",
+      "value": 18.0
+    },
+    {
+      "key": "eleMas",
+      "value": 23.0
+    },
+    {
+      "key": "def",
+      "value": 16.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 281
+}

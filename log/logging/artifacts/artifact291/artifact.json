@@ -1,0 +1,28 @@
+{
+  "setKey": "ADayCarvedFromRisingWinds",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
+  "level": 0,
+  "substats": [
+    {
+      "key": "hp",
+      "value": 299.0
+    },
+    {
+      "key": "critRate_",
+      "value": 2.7
+    },
+    {
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "hp_",
+      "value": 5.3
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 291
+}

@@ -1,0 +1,28 @@
+{
+  "setKey": "WanderersTroupe",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "hp_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "critRate_",
+      "value": 3.9
+    },
+    {
+      "key": "eleMas",
+      "value": 16.0
+    },
+    {
+      "key": "atk_",
+      "value": 4.1
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
+    }
+  ],
+  "location": "Mualani",
+  "lock": true,
+  "id": 1217
+}

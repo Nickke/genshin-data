@@ -1,0 +1,28 @@
+{
+  "setKey": "CrimsonWitchOfFlames",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "atk_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "eleMas",
+      "value": 19.0
+    },
+    {
+      "key": "hp",
+      "value": 299.0
+    },
+    {
+      "key": "def_",
+      "value": 5.1
+    },
+    {
+      "key": "atk",
+      "value": 19.0
+    }
+  ],
+  "location": "Gaming",
+  "lock": false,
+  "id": 1046
+}

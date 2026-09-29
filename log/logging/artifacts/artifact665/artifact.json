@@ -1,0 +1,28 @@
+{
+  "setKey": "DeepwoodMemories",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "def_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "enerRech_",
+      "value": 6.5
+    },
+    {
+      "key": "atk",
+      "value": 16.0
+    },
+    {
+      "key": "hp",
+      "value": 269.0
+    },
+    {
+      "key": "hp_",
+      "value": 5.8
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 665
+}

@@ -1,0 +1,28 @@
+{
+  "setKey": "DisenchantmentInDeepShadow",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 0,
+  "substats": [
+    {
+      "key": "atk_",
+      "value": 5.3
+    },
+    {
+      "key": "def",
+      "value": 23.0
+    },
+    {
+      "key": "hp_",
+      "value": 5.8
+    },
+    {
+      "key": "def_",
+      "value": 6.6
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 239
+}

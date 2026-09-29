@@ -1,0 +1,28 @@
+{
+  "setKey": "ShimenawasReminiscence",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "hp_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def",
+      "value": 16.0
+    },
+    {
+      "key": "hp",
+      "value": 269.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 7.8
+    },
+    {
+      "key": "atk_",
+      "value": 5.3
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 959
+}

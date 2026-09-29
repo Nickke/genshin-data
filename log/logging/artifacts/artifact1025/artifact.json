@@ -1,0 +1,28 @@
+{
+  "setKey": "HeartOfDepth",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "critRate_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "atk",
+      "value": 14.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 6.5
+    },
+    {
+      "key": "def",
+      "value": 23.0
+    },
+    {
+      "key": "hp_",
+      "value": 4.1
+    }
+  ],
+  "location": "Rosaria",
+  "lock": true,
+  "id": 1025
+}

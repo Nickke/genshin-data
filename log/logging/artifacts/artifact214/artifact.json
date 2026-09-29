@@ -1,0 +1,28 @@
+{
+  "setKey": "ScarletProof",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def",
+      "value": 21.0
+    },
+    {
+      "key": "hp_",
+      "value": 4.1
+    },
+    {
+      "key": "atk_",
+      "value": 4.7
+    },
+    {
+      "key": "atk",
+      "value": 14.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 214
+}

@@ -1,0 +1,28 @@
+{
+  "setKey": "GildedDreams",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "def_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "atk",
+      "value": 19.0
+    },
+    {
+      "key": "eleMas",
+      "value": 19.0
+    },
+    {
+      "key": "hp",
+      "value": 239.0
+    },
+    {
+      "key": "atk_",
+      "value": 4.7
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 636
+}

@@ -1,0 +1,28 @@
+{
+  "setKey": "GladiatorsFinale",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "physical_dmg_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "atk_",
+      "value": 5.8
+    },
+    {
+      "key": "def",
+      "value": 16.0
+    },
+    {
+      "key": "hp",
+      "value": 239.0
+    },
+    {
+      "key": "hp_",
+      "value": 5.8
+    }
+  ],
+  "location": "",
+  "lock": true,
+  "id": 1685
+}

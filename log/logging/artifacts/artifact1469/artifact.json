@@ -1,0 +1,28 @@
+{
+  "setKey": "GladiatorsFinale",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 0,
+  "substats": [
+    {
+      "key": "atk_",
+      "value": 4.7
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
+    },
+    {
+      "key": "atk",
+      "value": 16.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 6.5
+    }
+  ],
+  "location": "Qiqi",
+  "lock": true,
+  "id": 1469
+}

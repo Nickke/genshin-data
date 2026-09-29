@@ -1,0 +1,28 @@
+{
+  "setKey": "GladiatorsFinale",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def",
+      "value": 16.0
+    },
+    {
+      "key": "atk_",
+      "value": 5.3
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
+    },
+    {
+      "key": "hp",
+      "value": 269.0
+    }
+  ],
+  "location": "Razor",
+  "lock": true,
+  "id": 1538
+}

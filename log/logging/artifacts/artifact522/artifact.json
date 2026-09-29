@@ -1,0 +1,28 @@
+{
+  "setKey": "ScrollOfTheHeroOfCinderCity",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "hp_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "atk_",
+      "value": 5.3
+    },
+    {
+      "key": "hp",
+      "value": 209.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.1
+    },
+    {
+      "key": "def",
+      "value": 23.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 522
+}

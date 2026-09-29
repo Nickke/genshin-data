@@ -1,0 +1,28 @@
+{
+  "setKey": "GladiatorsFinale",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 0,
+  "substats": [
+    {
+      "key": "critDMG_",
+      "value": 7.0
+    },
+    {
+      "key": "atk",
+      "value": 14.0
+    },
+    {
+      "key": "atk_",
+      "value": 4.7
+    },
+    {
+      "key": "hp_",
+      "value": 5.8
+    }
+  ],
+  "location": "Freminet",
+  "lock": true,
+  "id": 1472
+}

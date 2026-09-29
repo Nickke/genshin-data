@@ -1,0 +1,28 @@
+{
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "hp_",
+  "level": 20,
+  "substats": [
+    {
+      "key": "hp",
+      "value": 508.0
+    },
+    {
+      "key": "critRate_",
+      "value": 7.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 16.8
+    },
+    {
+      "key": "eleMas",
+      "value": 19.0
+    }
+  ],
+  "location": "Dehya",
+  "lock": true,
+  "id": 111
+}

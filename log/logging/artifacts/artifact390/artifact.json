@@ -1,0 +1,28 @@
+{
+  "setKey": "NightOfTheSkysUnveiling",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "atk_",
+      "value": 4.1
+    },
+    {
+      "key": "hp_",
+      "value": 5.3
+    },
+    {
+      "key": "enerRech_",
+      "value": 4.5
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 390
+}

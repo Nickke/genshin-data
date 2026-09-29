@@ -1,0 +1,28 @@
+{
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "atk_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "eleMas",
+      "value": 21.0
+    },
+    {
+      "key": "def",
+      "value": 16.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.5
+    },
+    {
+      "key": "def_",
+      "value": 5.8
+    }
+  ],
+  "location": "Faruzan",
+  "lock": false,
+  "id": 837
+}

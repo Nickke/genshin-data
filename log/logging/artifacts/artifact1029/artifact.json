@@ -1,0 +1,28 @@
+{
+  "setKey": "HeartOfDepth",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "heal_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "critDMG_",
+      "value": 7.8
+    },
+    {
+      "key": "hp",
+      "value": 269.0
+    },
+    {
+      "key": "hp_",
+      "value": 4.7
+    },
+    {
+      "key": "eleMas",
+      "value": 16.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1029
+}

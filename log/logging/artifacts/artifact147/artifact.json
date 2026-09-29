@@ -1,0 +1,28 @@
+{
+  "setKey": "ViridescentVenerer",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "critRate_",
+  "level": 20,
+  "substats": [
+    {
+      "key": "atk",
+      "value": 18.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 13.2
+    },
+    {
+      "key": "def_",
+      "value": 5.1
+    },
+    {
+      "key": "hp_",
+      "value": 22.2
+    }
+  ],
+  "location": "Sucrose",
+  "lock": false,
+  "id": 147
+}

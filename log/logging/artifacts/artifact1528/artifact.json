@@ -1,0 +1,28 @@
+{
+  "setKey": "GladiatorsFinale",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def_",
+      "value": 5.1
+    },
+    {
+      "key": "eleMas",
+      "value": 19.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.2
+    },
+    {
+      "key": "atk",
+      "value": 16.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1528
+}

@@ -1,0 +1,20 @@
+{
+  "setKey": "WanderersTroupe",
+  "slotKey": "goblet",
+  "rarity": 4,
+  "mainStatKey": "hp_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def",
+      "value": 17.0
+    },
+    {
+      "key": "hp",
+      "value": 215.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1936
+}

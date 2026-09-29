@@ -1,0 +1,28 @@
+{
+  "setKey": "ViridescentVenerer",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 20,
+  "substats": [
+    {
+      "key": "def_",
+      "value": 14.6
+    },
+    {
+      "key": "atk_",
+      "value": 8.7
+    },
+    {
+      "key": "atk",
+      "value": 33.0
+    },
+    {
+      "key": "def",
+      "value": 37.0
+    }
+  ],
+  "location": "Sucrose",
+  "lock": false,
+  "id": 144
+}

@@ -1,0 +1,28 @@
+{
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "hydro_dmg_",
+  "level": 20,
+  "substats": [
+    {
+      "key": "atk",
+      "value": 37.0
+    },
+    {
+      "key": "hp",
+      "value": 717.0
+    },
+    {
+      "key": "hp_",
+      "value": 8.7
+    },
+    {
+      "key": "critDMG_",
+      "value": 12.4
+    }
+  ],
+  "location": "Xingqiu",
+  "lock": true,
+  "id": 103
+}

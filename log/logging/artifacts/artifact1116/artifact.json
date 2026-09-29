@@ -1,0 +1,28 @@
+{
+  "setKey": "WanderersTroupe",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def_",
+      "value": 6.6
+    },
+    {
+      "key": "atk",
+      "value": 19.0
+    },
+    {
+      "key": "atk_",
+      "value": 5.3
+    },
+    {
+      "key": "def",
+      "value": 23.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1116
+}

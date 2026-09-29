@@ -1,0 +1,24 @@
+{
+  "setKey": "TravelingDoctor",
+  "slotKey": "flower",
+  "rarity": 3,
+  "mainStatKey": "hp",
+  "level": 8,
+  "substats": [
+    {
+      "key": "eleMas",
+      "value": 14.0
+    },
+    {
+      "key": "hp_",
+      "value": 3.2
+    },
+    {
+      "key": "def_",
+      "value": 3.5
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 184
+}

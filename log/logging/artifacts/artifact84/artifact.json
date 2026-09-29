@@ -1,0 +1,28 @@
+{
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 20,
+  "substats": [
+    {
+      "key": "atk",
+      "value": 51.0
+    },
+    {
+      "key": "hp_",
+      "value": 4.7
+    },
+    {
+      "key": "critDMG_",
+      "value": 16.3
+    },
+    {
+      "key": "def",
+      "value": 44.0
+    }
+  ],
+  "location": "Yelan",
+  "lock": false,
+  "id": 84
+}

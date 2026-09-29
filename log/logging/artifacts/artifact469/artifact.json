@@ -1,0 +1,28 @@
+{
+  "setKey": "ObsidianCodex",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "physical_dmg_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "atk",
+      "value": 19.0
+    },
+    {
+      "key": "eleMas",
+      "value": 16.0
+    },
+    {
+      "key": "atk_",
+      "value": 5.8
+    },
+    {
+      "key": "def_",
+      "value": 6.6
+    }
+  ],
+  "location": "",
+  "lock": true,
+  "id": 469
+}

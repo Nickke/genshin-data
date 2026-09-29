@@ -1,0 +1,28 @@
+{
+  "setKey": "HeartOfDepth",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "def_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "hp",
+      "value": 209.0
+    },
+    {
+      "key": "hp_",
+      "value": 4.7
+    },
+    {
+      "key": "eleMas",
+      "value": 16.0
+    },
+    {
+      "key": "atk",
+      "value": 19.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1019
+}

@@ -1,0 +1,28 @@
+{
+  "setKey": "WanderersTroupe",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "electro_dmg_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "hp",
+      "value": 239.0
+    },
+    {
+      "key": "eleMas",
+      "value": 19.0
+    },
+    {
+      "key": "atk",
+      "value": 19.0
+    },
+    {
+      "key": "def_",
+      "value": 6.6
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1247
+}

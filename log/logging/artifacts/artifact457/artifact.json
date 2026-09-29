@@ -1,0 +1,28 @@
+{
+  "setKey": "ObsidianCodex",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "atk_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "critDMG_",
+      "value": 5.4
+    },
+    {
+      "key": "atk",
+      "value": 16.0
+    },
+    {
+      "key": "hp_",
+      "value": 4.1
+    },
+    {
+      "key": "eleMas",
+      "value": 16.0
+    }
+  ],
+  "location": "",
+  "lock": true,
+  "id": 457
+}

@@ -1,0 +1,28 @@
+{
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "electro_dmg_",
+  "level": 20,
+  "substats": [
+    {
+      "key": "atk",
+      "value": 35.0
+    },
+    {
+      "key": "eleMas",
+      "value": 40.0
+    },
+    {
+      "key": "hp",
+      "value": 209.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 21.0
+    }
+  ],
+  "location": "RaidenShogun",
+  "lock": true,
+  "id": 105
+}

@@ -1,0 +1,28 @@
+{
+  "setKey": "DeepwoodMemories",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 20,
+  "substats": [
+    {
+      "key": "atk",
+      "value": 33.0
+    },
+    {
+      "key": "atk_",
+      "value": 12.8
+    },
+    {
+      "key": "eleMas",
+      "value": 47.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 15.5
+    }
+  ],
+  "location": "",
+  "lock": true,
+  "id": 72
+}

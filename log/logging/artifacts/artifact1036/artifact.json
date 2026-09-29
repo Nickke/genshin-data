@@ -1,0 +1,28 @@
+{
+  "setKey": "NoblesseOblige",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def_",
+      "value": 6.6
+    },
+    {
+      "key": "atk",
+      "value": 14.0
+    },
+    {
+      "key": "hp_",
+      "value": 4.1
+    },
+    {
+      "key": "def",
+      "value": 21.0
+    }
+  ],
+  "location": "Dori",
+  "lock": false,
+  "id": 1036
+}

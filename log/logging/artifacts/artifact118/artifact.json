@@ -1,0 +1,28 @@
+{
+  "setKey": "ShimenawasReminiscence",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
+  "level": 20,
+  "substats": [
+    {
+      "key": "hp",
+      "value": 478.0
+    },
+    {
+      "key": "def_",
+      "value": 19.0
+    },
+    {
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 16.2
+    }
+  ],
+  "location": "Xiangling",
+  "lock": false,
+  "id": 118
+}

@@ -1,0 +1,28 @@
+{
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "critDMG_",
+  "level": 20,
+  "substats": [
+    {
+      "key": "atk",
+      "value": 19.0
+    },
+    {
+      "key": "critRate_",
+      "value": 7.8
+    },
+    {
+      "key": "hp_",
+      "value": 21.0
+    },
+    {
+      "key": "def_",
+      "value": 5.8
+    }
+  ],
+  "location": "Neuvillette",
+  "lock": true,
+  "id": 112
+}

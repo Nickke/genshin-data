@@ -1,0 +1,28 @@
+{
+  "setKey": "ScarletProof",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
+  "level": 0,
+  "substats": [
+    {
+      "key": "critRate_",
+      "value": 3.1
+    },
+    {
+      "key": "hp",
+      "value": 299.0
+    },
+    {
+      "key": "atk_",
+      "value": 5.8
+    },
+    {
+      "key": "enerRech_",
+      "value": 4.5
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 220
+}

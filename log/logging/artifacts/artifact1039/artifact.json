@@ -1,0 +1,28 @@
+{
+  "setKey": "NoblesseOblige",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "electro_dmg_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "hp_",
+      "value": 4.1
+    },
+    {
+      "key": "critRate_",
+      "value": 3.1
+    },
+    {
+      "key": "def",
+      "value": 16.0
+    },
+    {
+      "key": "eleMas",
+      "value": 16.0
+    }
+  ],
+  "location": "Dori",
+  "lock": false,
+  "id": 1039
+}

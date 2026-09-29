@@ -1,0 +1,28 @@
+{
+  "setKey": "WanderersTroupe",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "geo_dmg_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "atk",
+      "value": 16.0
+    },
+    {
+      "key": "hp_",
+      "value": 5.8
+    },
+    {
+      "key": "def_",
+      "value": 6.6
+    },
+    {
+      "key": "atk_",
+      "value": 4.7
+    }
+  ],
+  "location": "",
+  "lock": true,
+  "id": 1258
+}

@@ -1,0 +1,28 @@
+{
+  "setKey": "WanderersTroupe",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "pyro_dmg_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "critDMG_",
+      "value": 6.2
+    },
+    {
+      "key": "def",
+      "value": 23.0
+    },
+    {
+      "key": "hp",
+      "value": 269.0
+    },
+    {
+      "key": "eleMas",
+      "value": 19.0
+    }
+  ],
+  "location": "Yanfei",
+  "lock": true,
+  "id": 1262
+}

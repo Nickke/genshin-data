@@ -1,0 +1,28 @@
+{
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "atk_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def",
+      "value": 16.0
+    },
+    {
+      "key": "hp",
+      "value": 209.0
+    },
+    {
+      "key": "atk",
+      "value": 18.0
+    },
+    {
+      "key": "hp_",
+      "value": 4.1
+    }
+  ],
+  "location": "Thoma",
+  "lock": false,
+  "id": 805
+}

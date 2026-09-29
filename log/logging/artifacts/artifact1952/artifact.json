@@ -1,0 +1,16 @@
+{
+  "setKey": "Instructor",
+  "slotKey": "circlet",
+  "rarity": 3,
+  "mainStatKey": "critRate_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def_",
+      "value": 3.9
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1952
+}

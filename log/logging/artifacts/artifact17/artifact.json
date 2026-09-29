@@ -23,6 +23,6 @@
     }
   ],
   "location": "Zibai",
-  "lock": true,
+  "lock": false,
   "id": 17
 }

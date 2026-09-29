@@ -1,0 +1,28 @@
+{
+  "setKey": "CrimsonWitchOfFlames",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 0,
+  "substats": [
+    {
+      "key": "atk",
+      "value": 18.0
+    },
+    {
+      "key": "atk_",
+      "value": 4.7
+    },
+    {
+      "key": "hp_",
+      "value": 4.1
+    },
+    {
+      "key": "critDMG_",
+      "value": 5.4
+    }
+  ],
+  "location": "Gaming",
+  "lock": true,
+  "id": 1042
+}

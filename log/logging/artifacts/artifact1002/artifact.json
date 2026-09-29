@@ -1,0 +1,28 @@
+{
+  "setKey": "HeartOfDepth",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "hp_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "atk",
+      "value": 14.0
+    },
+    {
+      "key": "hp",
+      "value": 209.0
+    },
+    {
+      "key": "atk_",
+      "value": 5.8
+    },
+    {
+      "key": "def",
+      "value": 23.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1002
+}

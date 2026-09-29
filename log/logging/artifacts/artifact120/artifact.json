@@ -1,0 +1,28 @@
+{
+  "setKey": "ShimenawasReminiscence",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
+  "level": 20,
+  "substats": [
+    {
+      "key": "def",
+      "value": 35.0
+    },
+    {
+      "key": "eleMas",
+      "value": 44.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 17.9
+    },
+    {
+      "key": "hp",
+      "value": 209.0
+    }
+  ],
+  "location": "Wanderer",
+  "lock": false,
+  "id": 120
+}

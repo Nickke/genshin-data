@@ -1,0 +1,28 @@
+{
+  "setKey": "GildedDreams",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "atk_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "hp_",
+      "value": 4.1
+    },
+    {
+      "key": "eleMas",
+      "value": 21.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.5
+    },
+    {
+      "key": "def",
+      "value": 23.0
+    }
+  ],
+  "location": "Collei",
+  "lock": true,
+  "id": 632
+}

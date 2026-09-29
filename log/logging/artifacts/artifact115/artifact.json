@@ -1,0 +1,28 @@
+{
+  "setKey": "ShimenawasReminiscence",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 20,
+  "substats": [
+    {
+      "key": "def",
+      "value": 60.0
+    },
+    {
+      "key": "atk_",
+      "value": 5.3
+    },
+    {
+      "key": "def_",
+      "value": 23.3
+    },
+    {
+      "key": "eleMas",
+      "value": 21.0
+    }
+  ],
+  "location": "Ningguang",
+  "lock": false,
+  "id": 115
+}

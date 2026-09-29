@@ -1,0 +1,28 @@
+{
+  "setKey": "EchoesOfAnOffering",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "hydro_dmg_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "critDMG_",
+      "value": 7.0
+    },
+    {
+      "key": "eleMas",
+      "value": 23.0
+    },
+    {
+      "key": "hp",
+      "value": 239.0
+    },
+    {
+      "key": "def_",
+      "value": 6.6
+    }
+  ],
+  "location": "",
+  "lock": true,
+  "id": 679
+}

@@ -1,0 +1,28 @@
+{
+  "setKey": "CelestialGift",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 0,
+  "substats": [
+    {
+      "key": "hp_",
+      "value": 5.3
+    },
+    {
+      "key": "atk",
+      "value": 19.0
+    },
+    {
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "atk_",
+      "value": 4.1
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 264
+}

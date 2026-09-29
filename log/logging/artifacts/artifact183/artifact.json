@@ -1,0 +1,28 @@
+{
+  "setKey": "Berserker",
+  "slotKey": "plume",
+  "rarity": 4,
+  "mainStatKey": "atk",
+  "level": 8,
+  "substats": [
+    {
+      "key": "enerRech_",
+      "value": 5.2
+    },
+    {
+      "key": "def_",
+      "value": 5.8
+    },
+    {
+      "key": "critDMG_",
+      "value": 5.6
+    },
+    {
+      "key": "hp",
+      "value": 239.0
+    }
+  ],
+  "location": "YunJin",
+  "lock": false,
+  "id": 183
+}

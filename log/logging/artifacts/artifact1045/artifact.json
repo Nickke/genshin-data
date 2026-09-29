@@ -1,0 +1,28 @@
+{
+  "setKey": "CrimsonWitchOfFlames",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "atk_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "hp",
+      "value": 299.0
+    },
+    {
+      "key": "eleMas",
+      "value": 21.0
+    },
+    {
+      "key": "def_",
+      "value": 6.6
+    },
+    {
+      "key": "def",
+      "value": 19.0
+    }
+  ],
+  "location": "Gaming",
+  "lock": false,
+  "id": 1045
+}

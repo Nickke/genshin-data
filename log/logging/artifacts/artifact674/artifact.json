@@ -1,0 +1,28 @@
+{
+  "setKey": "EchoesOfAnOffering",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "eleMas",
+  "level": 0,
+  "substats": [
+    {
+      "key": "critRate_",
+      "value": 2.7
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.2
+    },
+    {
+      "key": "atk",
+      "value": 18.0
+    },
+    {
+      "key": "hp",
+      "value": 239.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 674
+}

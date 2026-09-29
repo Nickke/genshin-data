@@ -1,0 +1,28 @@
+{
+  "setKey": "GoldenTroupe",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "def_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "hp",
+      "value": 239.0
+    },
+    {
+      "key": "atk_",
+      "value": 5.8
+    },
+    {
+      "key": "hp_",
+      "value": 4.7
+    },
+    {
+      "key": "atk",
+      "value": 19.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 567
+}

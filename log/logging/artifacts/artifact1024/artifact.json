@@ -1,0 +1,28 @@
+{
+  "setKey": "HeartOfDepth",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "critRate_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "enerRech_",
+      "value": 4.5
+    },
+    {
+      "key": "hp_",
+      "value": 4.7
+    },
+    {
+      "key": "eleMas",
+      "value": 23.0
+    },
+    {
+      "key": "atk",
+      "value": 14.0
+    }
+  ],
+  "location": "Lisa",
+  "lock": true,
+  "id": 1024
+}

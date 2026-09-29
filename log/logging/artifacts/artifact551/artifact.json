@@ -1,0 +1,28 @@
+{
+  "setKey": "UnfinishedReverie",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "heal_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def_",
+      "value": 5.1
+    },
+    {
+      "key": "def",
+      "value": 23.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 6.5
+    },
+    {
+      "key": "atk",
+      "value": 16.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 551
+}

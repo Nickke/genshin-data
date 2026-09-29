@@ -1,0 +1,28 @@
+{
+  "setKey": "ShimenawasReminiscence",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 20,
+  "substats": [
+    {
+      "key": "critDMG_",
+      "value": 23.3
+    },
+    {
+      "key": "enerRech_",
+      "value": 11.0
+    },
+    {
+      "key": "hp_",
+      "value": 11.7
+    },
+    {
+      "key": "eleMas",
+      "value": 19.0
+    }
+  ],
+  "location": "Dehya",
+  "lock": false,
+  "id": 116
+}

@@ -1,0 +1,28 @@
+{
+  "setKey": "WanderersTroupe",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 0,
+  "substats": [
+    {
+      "key": "hp_",
+      "value": 4.1
+    },
+    {
+      "key": "eleMas",
+      "value": 23.0
+    },
+    {
+      "key": "atk",
+      "value": 14.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.5
+    }
+  ],
+  "location": "",
+  "lock": true,
+  "id": 1074
+}

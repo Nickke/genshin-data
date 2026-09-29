@@ -1,0 +1,28 @@
+{
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
+  "level": 0,
+  "substats": [
+    {
+      "key": "atk_",
+      "value": 5.3
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.8
+    },
+    {
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "hp",
+      "value": 269.0
+    }
+  ],
+  "location": "Faruzan",
+  "lock": true,
+  "id": 729
+}

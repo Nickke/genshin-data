@@ -1,0 +1,28 @@
+{
+  "setKey": "MaidenBeloved",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 0,
+  "substats": [
+    {
+      "key": "atk",
+      "value": 16.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
+    },
+    {
+      "key": "enerRech_",
+      "value": 6.5
+    },
+    {
+      "key": "def",
+      "value": 21.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1836
+}

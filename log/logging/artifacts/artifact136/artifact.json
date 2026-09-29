@@ -1,0 +1,24 @@
+{
+  "setKey": "NoblesseOblige",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "enerRech_",
+  "level": 24,
+  "substats": [
+    {
+      "key": "hp",
+      "value": 747.0
+    },
+    {
+      "key": "hp_",
+      "value": 5.3
+    },
+    {
+      "key": "critRate_",
+      "value": 9.3
+    }
+  ],
+  "location": "Bennett",
+  "lock": false,
+  "id": 136
+}

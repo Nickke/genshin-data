@@ -1,0 +1,28 @@
+{
+  "setKey": "ObsidianCodex",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "heal_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def",
+      "value": 21.0
+    },
+    {
+      "key": "atk",
+      "value": 19.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 7.8
+    },
+    {
+      "key": "hp",
+      "value": 269.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 482
+}

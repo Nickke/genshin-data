@@ -1,0 +1,28 @@
+{
+  "setKey": "HeartOfTheFurnace",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "eleMas",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def",
+      "value": 16.0
+    },
+    {
+      "key": "hp",
+      "value": 239.0
+    },
+    {
+      "key": "atk",
+      "value": 14.0
+    },
+    {
+      "key": "hp_",
+      "value": 4.1
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 198
+}

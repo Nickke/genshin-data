@@ -1,0 +1,28 @@
+{
+  "setKey": "UnfinishedReverie",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "atk_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def_",
+      "value": 5.8
+    },
+    {
+      "key": "hp_",
+      "value": 5.3
+    },
+    {
+      "key": "atk",
+      "value": 18.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.5
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 552
+}

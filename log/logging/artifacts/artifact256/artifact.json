@@ -1,0 +1,28 @@
+{
+  "setKey": "DisenchantmentInDeepShadow",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "hp_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "eleMas",
+      "value": 23.0
+    },
+    {
+      "key": "atk",
+      "value": 19.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.1
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 256
+}

@@ -1,0 +1,28 @@
+{
+  "setKey": "ShimenawasReminiscence",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "eleMas",
+  "level": 20,
+  "substats": [
+    {
+      "key": "enerRech_",
+      "value": 10.4
+    },
+    {
+      "key": "def_",
+      "value": 19.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
+    },
+    {
+      "key": "def",
+      "value": 44.0
+    }
+  ],
+  "location": "Lynette",
+  "lock": false,
+  "id": 126
+}

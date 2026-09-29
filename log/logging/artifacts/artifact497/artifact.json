@@ -1,0 +1,28 @@
+{
+  "setKey": "ScrollOfTheHeroOfCinderCity",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 0,
+  "substats": [
+    {
+      "key": "atk",
+      "value": 16.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 6.5
+    },
+    {
+      "key": "def",
+      "value": 16.0
+    },
+    {
+      "key": "atk_",
+      "value": 4.1
+    }
+  ],
+  "location": "Kachina",
+  "lock": false,
+  "id": 497
+}

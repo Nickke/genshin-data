@@ -1,0 +1,28 @@
+{
+  "setKey": "GoldenTroupe",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "eleMas",
+  "level": 0,
+  "substats": [
+    {
+      "key": "enerRech_",
+      "value": 5.2
+    },
+    {
+      "key": "critRate_",
+      "value": 3.9
+    },
+    {
+      "key": "atk_",
+      "value": 5.8
+    },
+    {
+      "key": "hp",
+      "value": 299.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 568
+}

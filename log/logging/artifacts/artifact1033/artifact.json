@@ -1,0 +1,28 @@
+{
+  "setKey": "BloodstainedChivalry",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "anemo_dmg_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "critDMG_",
+      "value": 7.8
+    },
+    {
+      "key": "def_",
+      "value": 5.8
+    },
+    {
+      "key": "hp",
+      "value": 239.0
+    },
+    {
+      "key": "atk",
+      "value": 19.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1033
+}

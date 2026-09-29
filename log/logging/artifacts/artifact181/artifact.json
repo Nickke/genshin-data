@@ -1,0 +1,28 @@
+{
+  "setKey": "GladiatorsFinale",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
+  "level": 8,
+  "substats": [
+    {
+      "key": "critRate_",
+      "value": 6.2
+    },
+    {
+      "key": "atk_",
+      "value": 5.8
+    },
+    {
+      "key": "def_",
+      "value": 5.8
+    },
+    {
+      "key": "critDMG_",
+      "value": 13.2
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 181
+}

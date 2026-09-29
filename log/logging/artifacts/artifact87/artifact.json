@@ -1,0 +1,28 @@
+{
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 20,
+  "substats": [
+    {
+      "key": "enerRech_",
+      "value": 10.4
+    },
+    {
+      "key": "atk",
+      "value": 33.0
+    },
+    {
+      "key": "eleMas",
+      "value": 44.0
+    },
+    {
+      "key": "def_",
+      "value": 12.4
+    }
+  ],
+  "location": "Arlecchino",
+  "lock": false,
+  "id": 87
+}

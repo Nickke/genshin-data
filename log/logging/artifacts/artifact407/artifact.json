@@ -1,0 +1,28 @@
+{
+  "setKey": "NightOfTheSkysUnveiling",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "hp_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "eleMas",
+      "value": 19.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.9
+    },
+    {
+      "key": "def_",
+      "value": 7.3
+    },
+    {
+      "key": "atk",
+      "value": 19.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 407
+}

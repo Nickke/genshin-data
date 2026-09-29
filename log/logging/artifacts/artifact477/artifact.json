@@ -1,0 +1,28 @@
+{
+  "setKey": "ObsidianCodex",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "def_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "atk_",
+      "value": 4.1
+    },
+    {
+      "key": "hp",
+      "value": 299.0
+    },
+    {
+      "key": "atk",
+      "value": 18.0
+    },
+    {
+      "key": "def",
+      "value": 19.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 477
+}

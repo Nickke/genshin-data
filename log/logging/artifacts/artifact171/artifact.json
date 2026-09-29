@@ -1,0 +1,28 @@
+{
+  "setKey": "TheExile",
+  "slotKey": "flower",
+  "rarity": 4,
+  "mainStatKey": "hp",
+  "level": 16,
+  "substats": [
+    {
+      "key": "critDMG_",
+      "value": 23.0
+    },
+    {
+      "key": "eleMas",
+      "value": 19.0
+    },
+    {
+      "key": "hp_",
+      "value": 4.7
+    },
+    {
+      "key": "atk_",
+      "value": 4.2
+    }
+  ],
+  "location": "Columbina",
+  "lock": false,
+  "id": 171
+}

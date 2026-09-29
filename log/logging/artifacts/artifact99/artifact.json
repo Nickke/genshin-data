@@ -1,0 +1,28 @@
+{
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "enerRech_",
+  "level": 20,
+  "substats": [
+    {
+      "key": "def",
+      "value": 42.0
+    },
+    {
+      "key": "hp",
+      "value": 508.0
+    },
+    {
+      "key": "atk_",
+      "value": 9.3
+    },
+    {
+      "key": "eleMas",
+      "value": 42.0
+    }
+  ],
+  "location": "RaidenShogun",
+  "lock": false,
+  "id": 99
+}

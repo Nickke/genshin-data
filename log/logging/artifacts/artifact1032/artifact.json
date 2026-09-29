@@ -1,0 +1,28 @@
+{
+  "setKey": "HeartOfDepth",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "hp_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "atk",
+      "value": 16.0
+    },
+    {
+      "key": "atk_",
+      "value": 4.7
+    },
+    {
+      "key": "def_",
+      "value": 5.1
+    },
+    {
+      "key": "hp",
+      "value": 269.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1032
+}

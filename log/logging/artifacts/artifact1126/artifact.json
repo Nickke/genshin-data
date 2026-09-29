@@ -1,0 +1,28 @@
+{
+  "setKey": "WanderersTroupe",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
+  "level": 0,
+  "substats": [
+    {
+      "key": "atk_",
+      "value": 4.1
+    },
+    {
+      "key": "def_",
+      "value": 7.3
+    },
+    {
+      "key": "def",
+      "value": 23.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.9
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1126
+}

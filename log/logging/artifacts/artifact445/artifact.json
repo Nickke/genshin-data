@@ -1,0 +1,28 @@
+{
+  "setKey": "ObsidianCodex",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
+  "level": 0,
+  "substats": [
+    {
+      "key": "enerRech_",
+      "value": 4.5
+    },
+    {
+      "key": "hp",
+      "value": 239.0
+    },
+    {
+      "key": "eleMas",
+      "value": 16.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 7.8
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 445
+}

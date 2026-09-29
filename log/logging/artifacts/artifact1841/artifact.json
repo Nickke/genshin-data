@@ -1,0 +1,28 @@
+{
+  "setKey": "MaidenBeloved",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
+  "level": 0,
+  "substats": [
+    {
+      "key": "hp_",
+      "value": 4.1
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
+    },
+    {
+      "key": "def_",
+      "value": 5.8
+    },
+    {
+      "key": "hp",
+      "value": 269.0
+    }
+  ],
+  "location": "",
+  "lock": true,
+  "id": 1841
+}

@@ -1,0 +1,28 @@
+{
+  "setKey": "NoblesseOblige",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 20,
+  "substats": [
+    {
+      "key": "enerRech_",
+      "value": 11.0
+    },
+    {
+      "key": "hp_",
+      "value": 14.0
+    },
+    {
+      "key": "def_",
+      "value": 12.4
+    },
+    {
+      "key": "atk",
+      "value": 19.0
+    }
+  ],
+  "location": "Bennett",
+  "lock": false,
+  "id": 134
+}

@@ -1,0 +1,28 @@
+{
+  "setKey": "ADayCarvedFromRisingWinds",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "def_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "atk_",
+      "value": 4.7
+    },
+    {
+      "key": "eleMas",
+      "value": 21.0
+    },
+    {
+      "key": "hp",
+      "value": 209.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 294
+}

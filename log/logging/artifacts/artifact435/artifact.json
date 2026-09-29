@@ -1,0 +1,28 @@
+{
+  "setKey": "ObsidianCodex",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 0,
+  "substats": [
+    {
+      "key": "enerRech_",
+      "value": 5.8
+    },
+    {
+      "key": "eleMas",
+      "value": 16.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.9
+    },
+    {
+      "key": "def",
+      "value": 19.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 435
+}

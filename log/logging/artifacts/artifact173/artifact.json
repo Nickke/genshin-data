@@ -1,0 +1,28 @@
+{
+  "setKey": "MartialArtist",
+  "slotKey": "goblet",
+  "rarity": 4,
+  "mainStatKey": "hp_",
+  "level": 16,
+  "substats": [
+    {
+      "key": "atk",
+      "value": 12.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 10.0
+    },
+    {
+      "key": "atk_",
+      "value": 4.2
+    },
+    {
+      "key": "def_",
+      "value": 11.1
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 173
+}

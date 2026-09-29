@@ -1,0 +1,20 @@
+{
+  "setKey": "PrayersToSpringtime",
+  "slotKey": "circlet",
+  "rarity": 4,
+  "mainStatKey": "atk_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "critDMG_",
+      "value": 4.4
+    },
+    {
+      "key": "hp_",
+      "value": 3.7
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1932
+}

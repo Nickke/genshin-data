@@ -1,0 +1,28 @@
+{
+  "setKey": "WanderersTroupe",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "critRate_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "enerRech_",
+      "value": 4.5
+    },
+    {
+      "key": "def_",
+      "value": 7.3
+    },
+    {
+      "key": "hp_",
+      "value": 4.7
+    },
+    {
+      "key": "critDMG_",
+      "value": 5.4
+    }
+  ],
+  "location": "KujouSara",
+  "lock": true,
+  "id": 1348
+}

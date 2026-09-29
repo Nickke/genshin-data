@@ -1,0 +1,28 @@
+{
+  "setKey": "GildedDreams",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "electro_dmg_",
+  "level": 20,
+  "substats": [
+    {
+      "key": "atk",
+      "value": 33.0
+    },
+    {
+      "key": "hp_",
+      "value": 8.7
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
+    },
+    {
+      "key": "enerRech_",
+      "value": 17.5
+    }
+  ],
+  "location": "Cyno",
+  "lock": true,
+  "id": 64
+}

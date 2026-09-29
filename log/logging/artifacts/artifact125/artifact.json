@@ -1,0 +1,28 @@
+{
+  "setKey": "ShimenawasReminiscence",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "eleMas",
+  "level": 20,
+  "substats": [
+    {
+      "key": "enerRech_",
+      "value": 4.5
+    },
+    {
+      "key": "hp",
+      "value": 657.0
+    },
+    {
+      "key": "critRate_",
+      "value": 6.6
+    },
+    {
+      "key": "atk",
+      "value": 35.0
+    }
+  ],
+  "location": "Sucrose",
+  "lock": false,
+  "id": 125
+}

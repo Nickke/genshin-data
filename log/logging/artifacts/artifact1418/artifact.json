@@ -1,0 +1,28 @@
+{
+  "setKey": "ViridescentVenerer",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "hydro_dmg_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "critDMG_",
+      "value": 7.0
+    },
+    {
+      "key": "eleMas",
+      "value": 16.0
+    },
+    {
+      "key": "atk_",
+      "value": 5.8
+    },
+    {
+      "key": "hp",
+      "value": 269.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1418
+}

@@ -1,0 +1,28 @@
+{
+  "setKey": "WanderersTroupe",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "atk_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "hp_",
+      "value": 4.7
+    },
+    {
+      "key": "hp",
+      "value": 239.0
+    },
+    {
+      "key": "atk",
+      "value": 16.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.5
+    }
+  ],
+  "location": "",
+  "lock": true,
+  "id": 1213
+}

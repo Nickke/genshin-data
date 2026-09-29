@@ -1,0 +1,28 @@
+{
+  "setKey": "ScrollOfTheHeroOfCinderCity",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "atk",
+      "value": 18.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.1
+    },
+    {
+      "key": "eleMas",
+      "value": 21.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 491
+}

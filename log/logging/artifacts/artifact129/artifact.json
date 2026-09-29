@@ -1,0 +1,28 @@
+{
+  "setKey": "ShimenawasReminiscence",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "critDMG_",
+  "level": 20,
+  "substats": [
+    {
+      "key": "def",
+      "value": 35.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 12.3
+    },
+    {
+      "key": "hp",
+      "value": 956.0
+    },
+    {
+      "key": "atk_",
+      "value": 5.3
+    }
+  ],
+  "location": "Nefer",
+  "lock": true,
+  "id": 129
+}

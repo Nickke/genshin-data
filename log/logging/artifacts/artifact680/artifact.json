@@ -1,0 +1,28 @@
+{
+  "setKey": "EchoesOfAnOffering",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "hp_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "eleMas",
+      "value": 23.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 7.8
+    },
+    {
+      "key": "def_",
+      "value": 5.1
+    },
+    {
+      "key": "atk",
+      "value": 14.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 680
+}

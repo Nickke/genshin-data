@@ -1,0 +1,28 @@
+{
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "hp_",
+  "level": 20,
+  "substats": [
+    {
+      "key": "hp",
+      "value": 986.0
+    },
+    {
+      "key": "critRate_",
+      "value": 6.6
+    },
+    {
+      "key": "atk_",
+      "value": 9.9
+    },
+    {
+      "key": "enerRech_",
+      "value": 6.5
+    }
+  ],
+  "location": "Columbina",
+  "lock": false,
+  "id": 102
+}

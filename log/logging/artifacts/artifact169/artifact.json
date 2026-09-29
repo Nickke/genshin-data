@@ -1,0 +1,28 @@
+{
+  "setKey": "CrimsonWitchOfFlames",
+  "slotKey": "plume",
+  "rarity": 4,
+  "mainStatKey": "atk",
+  "level": 16,
+  "substats": [
+    {
+      "key": "def",
+      "value": 31.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 9.3
+    },
+    {
+      "key": "atk_",
+      "value": 3.7
+    },
+    {
+      "key": "enerRech_",
+      "value": 4.7
+    }
+  ],
+  "location": "Gaming",
+  "lock": false,
+  "id": 169
+}

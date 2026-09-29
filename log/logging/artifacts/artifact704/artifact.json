@@ -1,0 +1,28 @@
+{
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 0,
+  "substats": [
+    {
+      "key": "critRate_",
+      "value": 2.7
+    },
+    {
+      "key": "hp_",
+      "value": 5.8
+    },
+    {
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "atk",
+      "value": 14.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 704
+}

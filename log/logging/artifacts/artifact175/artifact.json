@@ -1,0 +1,28 @@
+{
+  "setKey": "NoblesseOblige",
+  "slotKey": "circlet",
+  "rarity": 4,
+  "mainStatKey": "hp_",
+  "level": 12,
+  "substats": [
+    {
+      "key": "atk_",
+      "value": 7.9
+    },
+    {
+      "key": "def_",
+      "value": 4.1
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.2
+    },
+    {
+      "key": "def",
+      "value": 13.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 175
+}

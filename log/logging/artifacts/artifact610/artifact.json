@@ -1,0 +1,28 @@
+{
+  "setKey": "FlowerOfParadiseLost",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "def_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "critRate_",
+      "value": 3.9
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.8
+    },
+    {
+      "key": "critDMG_",
+      "value": 5.4
+    },
+    {
+      "key": "hp",
+      "value": 269.0
+    }
+  ],
+  "location": "YunJin",
+  "lock": true,
+  "id": 610
+}

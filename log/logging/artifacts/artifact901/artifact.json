@@ -1,0 +1,28 @@
+{
+  "setKey": "ShimenawasReminiscence",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def_",
+      "value": 6.6
+    },
+    {
+      "key": "def",
+      "value": 21.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 6.5
+    },
+    {
+      "key": "atk_",
+      "value": 4.7
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 901
+}

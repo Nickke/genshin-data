@@ -1,0 +1,28 @@
+{
+  "setKey": "ViridescentVenerer",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def_",
+      "value": 5.1
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
+    },
+    {
+      "key": "critRate_",
+      "value": 3.9
+    },
+    {
+      "key": "atk_",
+      "value": 4.7
+    }
+  ],
+  "location": "",
+  "lock": true,
+  "id": 1400
+}

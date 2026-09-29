@@ -1,0 +1,28 @@
+{
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "critRate_",
+  "level": 20,
+  "substats": [
+    {
+      "key": "hp",
+      "value": 687.0
+    },
+    {
+      "key": "def",
+      "value": 37.0
+    },
+    {
+      "key": "eleMas",
+      "value": 21.0
+    },
+    {
+      "key": "atk_",
+      "value": 14.6
+    }
+  ],
+  "location": "Xingqiu",
+  "lock": false,
+  "id": 109
+}

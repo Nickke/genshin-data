@@ -1,0 +1,28 @@
+{
+  "setKey": "ShimenawasReminiscence",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "atk_",
+  "level": 20,
+  "substats": [
+    {
+      "key": "critRate_",
+      "value": 3.5
+    },
+    {
+      "key": "critDMG_",
+      "value": 21.8
+    },
+    {
+      "key": "atk",
+      "value": 33.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 16.8
+    }
+  ],
+  "location": "Wriothesley",
+  "lock": true,
+  "id": 122
+}

@@ -1,0 +1,28 @@
+{
+  "setKey": "CelestialGift",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "def_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "enerRech_",
+      "value": 5.2
+    },
+    {
+      "key": "critRate_",
+      "value": 3.5
+    },
+    {
+      "key": "hp_",
+      "value": 4.1
+    },
+    {
+      "key": "hp",
+      "value": 239.0
+    }
+  ],
+  "location": "",
+  "lock": true,
+  "id": 274
+}

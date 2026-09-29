@@ -1,0 +1,28 @@
+{
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "atk_",
+  "level": 20,
+  "substats": [
+    {
+      "key": "def",
+      "value": 37.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 14.0
+    },
+    {
+      "key": "eleMas",
+      "value": 42.0
+    },
+    {
+      "key": "atk",
+      "value": 35.0
+    }
+  ],
+  "location": "Kaeya",
+  "lock": false,
+  "id": 113
+}

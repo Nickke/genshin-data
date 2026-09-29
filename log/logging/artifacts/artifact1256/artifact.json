@@ -1,0 +1,28 @@
+{
+  "setKey": "WanderersTroupe",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "pyro_dmg_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def_",
+      "value": 6.6
+    },
+    {
+      "key": "critRate_",
+      "value": 3.9
+    },
+    {
+      "key": "critDMG_",
+      "value": 5.4
+    },
+    {
+      "key": "def",
+      "value": 21.0
+    }
+  ],
+  "location": "Gaming",
+  "lock": true,
+  "id": 1256
+}
