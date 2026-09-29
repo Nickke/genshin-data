@@ -1,0 +1,28 @@
+{
+  "setKey": "VermillionHereafter",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "atk_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def_",
+      "value": 5.1
+    },
+    {
+      "key": "def",
+      "value": 16.0
+    },
+    {
+      "key": "hp",
+      "value": 209.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 5.4
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 687
+}

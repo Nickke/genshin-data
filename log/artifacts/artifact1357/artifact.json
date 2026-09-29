@@ -1,0 +1,28 @@
+{
+  "setKey": "WanderersTroupe",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "critDMG_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "hp",
+      "value": 269.0
+    },
+    {
+      "key": "def_",
+      "value": 6.6
+    },
+    {
+      "key": "eleMas",
+      "value": 16.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.2
+    }
+  ],
+  "location": "Zibai",
+  "lock": true,
+  "id": 1357
+}

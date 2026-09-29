@@ -1,0 +1,24 @@
+{
+  "setKey": "Berserker",
+  "slotKey": "goblet",
+  "rarity": 4,
+  "mainStatKey": "atk_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "enerRech_",
+      "value": 41.7
+    },
+    {
+      "key": "critRate_",
+      "value": 4.7
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 174
+}

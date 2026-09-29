@@ -1,0 +1,28 @@
+{
+  "setKey": "AubadeOfMorningstarAndMoon",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "cryo_dmg_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "eleMas",
+      "value": 21.0
+    },
+    {
+      "key": "hp",
+      "value": 209.0
+    },
+    {
+      "key": "hp_",
+      "value": 5.8
+    },
+    {
+      "key": "atk",
+      "value": 19.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 323
+}

@@ -1,0 +1,28 @@
+{
+  "setKey": "GoldenTroupe",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 20,
+  "substats": [
+    {
+      "key": "atk_",
+      "value": 4.1
+    },
+    {
+      "key": "hp_",
+      "value": 10.5
+    },
+    {
+      "key": "atk",
+      "value": 54.0
+    },
+    {
+      "key": "eleMas",
+      "value": 42.0
+    }
+  ],
+  "location": "Fischl",
+  "lock": true,
+  "id": 35
+}

@@ -1,0 +1,28 @@
+{
+  "setKey": "MaidenBeloved",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "critRate_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "atk",
+      "value": 16.0
+    },
+    {
+      "key": "hp",
+      "value": 269.0
+    },
+    {
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "def_",
+      "value": 5.8
+    }
+  ],
+  "location": "",
+  "lock": true,
+  "id": 1878
+}

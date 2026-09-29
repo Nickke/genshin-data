@@ -1,0 +1,24 @@
+{
+  "setKey": "Scholar",
+  "slotKey": "circlet",
+  "rarity": 4,
+  "mainStatKey": "critDMG_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "enerRech_",
+      "value": 857.0
+    },
+    {
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "hp",
+      "value": 382.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 170
+}

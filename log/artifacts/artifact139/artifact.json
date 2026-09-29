@@ -1,0 +1,28 @@
+{
+  "setKey": "WanderersTroupe",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "eleMas",
+  "level": 20,
+  "substats": [
+    {
+      "key": "critRate_",
+      "value": 18.3
+    },
+    {
+      "key": "hp_",
+      "value": 11.7
+    },
+    {
+      "key": "atk",
+      "value": 14.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 7.0
+    }
+  ],
+  "location": "Nefer",
+  "lock": true,
+  "id": 139
+}

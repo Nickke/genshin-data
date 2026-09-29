@@ -1,0 +1,28 @@
+{
+  "setKey": "ScarletProof",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "critDMG_",
+  "level": 20,
+  "substats": [
+    {
+      "key": "eleMas",
+      "value": 19.0
+    },
+    {
+      "key": "critRate_",
+      "value": 10.9
+    },
+    {
+      "key": "hp_",
+      "value": 5.3
+    },
+    {
+      "key": "hp",
+      "value": 777.0
+    }
+  ],
+  "location": "Sandrone",
+  "lock": true,
+  "id": 4
+}

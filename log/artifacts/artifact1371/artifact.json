@@ -1,0 +1,28 @@
+{
+  "setKey": "WanderersTroupe",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "atk_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "atk",
+      "value": 16.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 7.8
+    },
+    {
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "def_",
+      "value": 7.3
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1371
+}

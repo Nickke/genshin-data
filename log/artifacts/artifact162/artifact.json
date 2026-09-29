@@ -1,0 +1,24 @@
+{
+  "setKey": "DisenchantmentInDeepShadow",
+  "slotKey": "goblet",
+  "rarity": 4,
+  "mainStatKey": "atk_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "enerRech_",
+      "value": 66.7
+    },
+    {
+      "key": "hp",
+      "value": 382.0
+    },
+    {
+      "key": "def",
+      "value": 17.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 162
+}

@@ -1,0 +1,28 @@
+{
+  "setKey": "SilkenMoonsSerenade",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def_",
+      "value": 5.8
+    },
+    {
+      "key": "hp",
+      "value": 269.0
+    },
+    {
+      "key": "def",
+      "value": 16.0
+    },
+    {
+      "key": "hp_",
+      "value": 4.7
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 341
+}

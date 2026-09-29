@@ -1,0 +1,28 @@
+{
+  "setKey": "AubadeOfMorningstarAndMoon",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
+  "level": 0,
+  "substats": [
+    {
+      "key": "enerRech_",
+      "value": 4.5
+    },
+    {
+      "key": "hp_",
+      "value": 4.1
+    },
+    {
+      "key": "def_",
+      "value": 6.6
+    },
+    {
+      "key": "def",
+      "value": 19.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 314
+}

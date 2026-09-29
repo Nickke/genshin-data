@@ -1,0 +1,28 @@
+{
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def",
+      "value": 21.0
+    },
+    {
+      "key": "hp_",
+      "value": 5.8
+    },
+    {
+      "key": "def_",
+      "value": 5.1
+    },
+    {
+      "key": "hp",
+      "value": 209.0
+    }
+  ],
+  "location": "Thoma",
+  "lock": false,
+  "id": 748
+}

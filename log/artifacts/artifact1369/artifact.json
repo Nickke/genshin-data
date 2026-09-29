@@ -1,0 +1,28 @@
+{
+  "setKey": "WanderersTroupe",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "atk_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def_",
+      "value": 5.8
+    },
+    {
+      "key": "enerRech_",
+      "value": 4.5
+    },
+    {
+      "key": "atk",
+      "value": 19.0
+    },
+    {
+      "key": "def",
+      "value": 23.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1369
+}

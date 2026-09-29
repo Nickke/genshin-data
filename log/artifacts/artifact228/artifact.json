@@ -1,0 +1,28 @@
+{
+  "setKey": "ScarletProof",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "hp_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def_",
+      "value": 7.3
+    },
+    {
+      "key": "def",
+      "value": 21.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 7.8
+    },
+    {
+      "key": "hp",
+      "value": 209.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 228
+}

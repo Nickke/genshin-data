@@ -1,0 +1,28 @@
+{
+  "setKey": "GoldenTroupe",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "atk_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def",
+      "value": 21.0
+    },
+    {
+      "key": "hp_",
+      "value": 5.8
+    },
+    {
+      "key": "atk",
+      "value": 18.0
+    },
+    {
+      "key": "hp",
+      "value": 239.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 580
+}

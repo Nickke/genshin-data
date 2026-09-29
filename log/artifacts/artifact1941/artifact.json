@@ -1,0 +1,20 @@
+{
+  "setKey": "Berserker",
+  "slotKey": "plume",
+  "rarity": 4,
+  "mainStatKey": "atk",
+  "level": 0,
+  "substats": [
+    {
+      "key": "",
+      "value": 117.0
+    },
+    {
+      "key": "hp_",
+      "value": 3.3
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1941
+}

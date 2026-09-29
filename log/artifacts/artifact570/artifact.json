@@ -1,0 +1,28 @@
+{
+  "setKey": "GoldenTroupe",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "hydro_dmg_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "eleMas",
+      "value": 21.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 7.8
+    },
+    {
+      "key": "def",
+      "value": 21.0
+    },
+    {
+      "key": "atk_",
+      "value": 4.1
+    }
+  ],
+  "location": "",
+  "lock": true,
+  "id": 570
+}

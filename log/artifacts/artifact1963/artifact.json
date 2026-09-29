@@ -1,0 +1,16 @@
+{
+  "setKey": "Berserker",
+  "slotKey": "circlet",
+  "rarity": 3,
+  "mainStatKey": "heal_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "hp_",
+      "value": 2.5
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1963
+}

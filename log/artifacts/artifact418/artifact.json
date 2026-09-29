@@ -1,0 +1,28 @@
+{
+  "setKey": "LongNightsOath",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "hp_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "critDMG_",
+      "value": 6.2
+    },
+    {
+      "key": "critRate_",
+      "value": 3.1
+    },
+    {
+      "key": "atk",
+      "value": 14.0
+    },
+    {
+      "key": "hp",
+      "value": 239.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 418
+}

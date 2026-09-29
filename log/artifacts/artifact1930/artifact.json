@@ -1,0 +1,16 @@
+{
+  "setKey": "ScrollOfTheHeroOfCinderCity",
+  "slotKey": "circlet",
+  "rarity": 4,
+  "mainStatKey": "def_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "",
+      "value": 137.0
+    }
+  ],
+  "location": "Kachina",
+  "lock": false,
+  "id": 1930
+}

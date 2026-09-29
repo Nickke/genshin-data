@@ -1,0 +1,24 @@
+{
+  "setKey": "ObsidianCodex",
+  "slotKey": "circlet",
+  "rarity": 4,
+  "mainStatKey": "critDMG_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "",
+      "value": 14.0
+    },
+    {
+      "key": "hp",
+      "value": 191.0
+    },
+    {
+      "key": "hp_",
+      "value": 7.5
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 166
+}

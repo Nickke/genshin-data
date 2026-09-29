@@ -1,0 +1,28 @@
+{
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "cryo_dmg_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "enerRech_",
+      "value": 5.8
+    },
+    {
+      "key": "eleMas",
+      "value": 16.0
+    },
+    {
+      "key": "hp_",
+      "value": 5.3
+    },
+    {
+      "key": "atk_",
+      "value": 4.7
+    }
+  ],
+  "location": "",
+  "lock": true,
+  "id": 783
+}

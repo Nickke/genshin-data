@@ -1,0 +1,28 @@
+{
+  "setKey": "WanderersTroupe",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "def_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def",
+      "value": 16.0
+    },
+    {
+      "key": "eleMas",
+      "value": 19.0
+    },
+    {
+      "key": "atk",
+      "value": 18.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 7.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1313
+}

@@ -1,0 +1,20 @@
+{
+  "setKey": "HeartOfDepth",
+  "slotKey": "plume",
+  "rarity": 4,
+  "mainStatKey": "atk",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def",
+      "value": 30.0
+    },
+    {
+      "key": "atk_",
+      "value": 4.7
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 167
+}

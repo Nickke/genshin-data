@@ -1,0 +1,28 @@
+{
+  "setKey": "AubadeOfMorningstarAndMoon",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "enerRech_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "hp_",
+      "value": 5.8
+    },
+    {
+      "key": "hp",
+      "value": 239.0
+    },
+    {
+      "key": "eleMas",
+      "value": 16.0
+    },
+    {
+      "key": "atk",
+      "value": 16.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 321
+}

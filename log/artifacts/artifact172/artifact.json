@@ -1,0 +1,24 @@
+{
+  "setKey": "TheExile",
+  "slotKey": "circlet",
+  "rarity": 4,
+  "mainStatKey": "critDMG_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "",
+      "value": 117.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 4.7
+    },
+    {
+      "key": "def",
+      "value": 17.0
+    }
+  ],
+  "location": "Columbina",
+  "lock": false,
+  "id": 172
+}

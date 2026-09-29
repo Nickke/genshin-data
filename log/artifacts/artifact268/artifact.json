@@ -1,0 +1,28 @@
+{
+  "setKey": "CelestialGift",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "eleMas",
+  "level": 0,
+  "substats": [
+    {
+      "key": "atk_",
+      "value": 5.3
+    },
+    {
+      "key": "def",
+      "value": 16.0
+    },
+    {
+      "key": "hp_",
+      "value": 4.7
+    },
+    {
+      "key": "critRate_",
+      "value": 3.9
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 268
+}

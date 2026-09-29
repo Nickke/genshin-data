@@ -1,0 +1,24 @@
+{
+  "setKey": "HeartOfTheFurnace",
+  "slotKey": "circlet",
+  "rarity": 4,
+  "mainStatKey": "critDMG_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "heal_",
+      "value": 137.1
+    },
+    {
+      "key": "enerRech_",
+      "value": 4.1
+    },
+    {
+      "key": "hp_",
+      "value": 7.9
+    }
+  ],
+  "location": "",
+  "lock": true,
+  "id": 161
+}

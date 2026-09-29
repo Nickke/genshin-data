@@ -1,0 +1,28 @@
+{
+  "setKey": "GildedDreams",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "hp_",
+  "level": 20,
+  "substats": [
+    {
+      "key": "atk",
+      "value": 53.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
+    },
+    {
+      "key": "hp",
+      "value": 508.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 11.7
+    }
+  ],
+  "location": "Barbara",
+  "lock": false,
+  "id": 70
+}

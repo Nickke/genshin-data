@@ -1,0 +1,28 @@
+{
+  "setKey": "DisenchantmentInDeepShadow",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "atk_",
+  "level": 20,
+  "substats": [
+    {
+      "key": "atk",
+      "value": 64.0
+    },
+    {
+      "key": "def",
+      "value": 21.0
+    },
+    {
+      "key": "eleMas",
+      "value": 44.0
+    },
+    {
+      "key": "hp",
+      "value": 598.0
+    }
+  ],
+  "location": "Sandrone",
+  "lock": false,
+  "id": 8
+}

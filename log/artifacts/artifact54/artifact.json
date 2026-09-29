@@ -1,0 +1,28 @@
+{
+  "setKey": "GildedDreams",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 20,
+  "substats": [
+    {
+      "key": "critDMG_",
+      "value": 13.2
+    },
+    {
+      "key": "def_",
+      "value": 11.7
+    },
+    {
+      "key": "def",
+      "value": 23.0
+    },
+    {
+      "key": "hp_",
+      "value": 14.6
+    }
+  ],
+  "location": "Cyno",
+  "lock": true,
+  "id": 54
+}

@@ -1,0 +1,28 @@
+{
+  "setKey": "WanderersTroupe",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "anemo_dmg_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "hp_",
+      "value": 5.3
+    },
+    {
+      "key": "hp",
+      "value": 269.0
+    },
+    {
+      "key": "def",
+      "value": 21.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.2
+    }
+  ],
+  "location": "",
+  "lock": true,
+  "id": 1268
+}

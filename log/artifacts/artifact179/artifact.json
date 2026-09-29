@@ -1,0 +1,28 @@
+{
+  "setKey": "Instructor",
+  "slotKey": "goblet",
+  "rarity": 3,
+  "mainStatKey": "pyro_dmg_",
+  "level": 12,
+  "substats": [
+    {
+      "key": "eleMas",
+      "value": 14.0
+    },
+    {
+      "key": "atk",
+      "value": 7.0
+    },
+    {
+      "key": "def_",
+      "value": 8.3
+    },
+    {
+      "key": "hp",
+      "value": 115.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 179
+}

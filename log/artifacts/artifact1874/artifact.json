@@ -1,0 +1,28 @@
+{
+  "setKey": "MaidenBeloved",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "geo_dmg_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "atk",
+      "value": 19.0
+    },
+    {
+      "key": "hp",
+      "value": 209.0
+    },
+    {
+      "key": "atk_",
+      "value": 4.7
+    },
+    {
+      "key": "def",
+      "value": 23.0
+    }
+  ],
+  "location": "",
+  "lock": true,
+  "id": 1874
+}

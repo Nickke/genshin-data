@@ -1,0 +1,28 @@
+{
+  "setKey": "TravelingDoctor",
+  "slotKey": "goblet",
+  "rarity": 3,
+  "mainStatKey": "electro_dmg_",
+  "level": 12,
+  "substats": [
+    {
+      "key": "eleMas",
+      "value": 14.0
+    },
+    {
+      "key": "hp",
+      "value": 129.0
+    },
+    {
+      "key": "atk_",
+      "value": 3.5
+    },
+    {
+      "key": "hp_",
+      "value": 2.5
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 177
+}

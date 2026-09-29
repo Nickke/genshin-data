@@ -1,0 +1,28 @@
+{
+  "setKey": "CelestialGift",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "def_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "hp",
+      "value": 239.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.8
+    },
+    {
+      "key": "hp_",
+      "value": 5.3
+    },
+    {
+      "key": "atk_",
+      "value": 5.3
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 279
+}

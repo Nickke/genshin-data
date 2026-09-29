@@ -1,0 +1,28 @@
+{
+  "setKey": "ObsidianCodex",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 20,
+  "substats": [
+    {
+      "key": "enerRech_",
+      "value": 13.0
+    },
+    {
+      "key": "atk",
+      "value": 35.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 14.0
+    },
+    {
+      "key": "hp_",
+      "value": 9.9
+    }
+  ],
+  "location": "Mavuika",
+  "lock": false,
+  "id": 22
+}

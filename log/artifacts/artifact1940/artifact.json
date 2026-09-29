@@ -1,0 +1,16 @@
+{
+  "setKey": "GladiatorsFinale",
+  "slotKey": "circlet",
+  "rarity": 4,
+  "mainStatKey": "atk_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "heal_",
+      "value": 17.1
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1940
+}

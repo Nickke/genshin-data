@@ -1,0 +1,16 @@
+{
+  "setKey": "Berserker",
+  "slotKey": "sands",
+  "rarity": 3,
+  "mainStatKey": "enerRech_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "hp_",
+      "value": 3.2
+    }
+  ],
+  "location": "Gorou",
+  "lock": false,
+  "id": 1961
+}

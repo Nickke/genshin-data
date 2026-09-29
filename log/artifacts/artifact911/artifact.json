@@ -1,0 +1,28 @@
+{
+  "setKey": "ShimenawasReminiscence",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "enerRech_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "hp_",
+      "value": 5.3
+    },
+    {
+      "key": "def_",
+      "value": 5.8
+    },
+    {
+      "key": "critRate_",
+      "value": 3.1
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
+    }
+  ],
+  "location": "",
+  "lock": true,
+  "id": 911
+}

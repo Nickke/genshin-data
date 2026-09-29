@@ -1,0 +1,28 @@
+{
+  "setKey": "ScarletProof",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "enerRech_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "critRate_",
+      "value": 3.1
+    },
+    {
+      "key": "hp_",
+      "value": 4.7
+    },
+    {
+      "key": "def_",
+      "value": 6.6
+    },
+    {
+      "key": "hp",
+      "value": 299.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 229
+}

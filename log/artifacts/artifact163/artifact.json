@@ -1,0 +1,24 @@
+{
+  "setKey": "SilkenMoonsSerenade",
+  "slotKey": "flower",
+  "rarity": 4,
+  "mainStatKey": "hp",
+  "level": 0,
+  "substats": [
+    {
+      "key": "",
+      "value": 11447.0
+    },
+    {
+      "key": "atk",
+      "value": 11.0
+    },
+    {
+      "key": "hp_",
+      "value": 7.9
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 163
+}

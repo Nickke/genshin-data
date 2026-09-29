@@ -1,0 +1,28 @@
+{
+  "setKey": "GladiatorsFinale",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "critRate_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "hp_",
+      "value": 4.7
+    },
+    {
+      "key": "atk_",
+      "value": 4.1
+    },
+    {
+      "key": "atk",
+      "value": 18.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
+    }
+  ],
+  "location": "Razor",
+  "lock": true,
+  "id": 1777
+}

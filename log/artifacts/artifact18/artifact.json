@@ -1,0 +1,28 @@
+{
+  "setKey": "NightOfTheSkysUnveiling",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "critDMG_",
+  "level": 20,
+  "substats": [
+    {
+      "key": "eleMas",
+      "value": 37.0
+    },
+    {
+      "key": "atk",
+      "value": 54.0
+    },
+    {
+      "key": "def",
+      "value": 44.0
+    },
+    {
+      "key": "atk_",
+      "value": 11.7
+    }
+  ],
+  "location": "Durin",
+  "lock": false,
+  "id": 18
+}

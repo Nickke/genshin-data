@@ -1,0 +1,28 @@
+{
+  "setKey": "SilkenMoonsSerenade",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "atk_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "critDMG_",
+      "value": 7.8
+    },
+    {
+      "key": "hp_",
+      "value": 4.1
+    },
+    {
+      "key": "def_",
+      "value": 5.1
+    },
+    {
+      "key": "critRate_",
+      "value": 3.5
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 357
+}

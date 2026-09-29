@@ -1,0 +1,28 @@
+{
+  "setKey": "WanderersTroupe",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "critDMG_",
+  "level": 20,
+  "substats": [
+    {
+      "key": "enerRech_",
+      "value": 10.4
+    },
+    {
+      "key": "hp",
+      "value": 807.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.9
+    },
+    {
+      "key": "def",
+      "value": 60.0
+    }
+  ],
+  "location": "Wriothesley",
+  "lock": false,
+  "id": 143
+}

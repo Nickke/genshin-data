@@ -1,0 +1,28 @@
+{
+  "setKey": "GoldenTroupe",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
+  "level": 0,
+  "substats": [
+    {
+      "key": "hp",
+      "value": 269.0
+    },
+    {
+      "key": "atk_",
+      "value": 4.1
+    },
+    {
+      "key": "def",
+      "value": 21.0
+    },
+    {
+      "key": "def_",
+      "value": 7.3
+    }
+  ],
+  "location": "",
+  "lock": true,
+  "id": 559
+}

@@ -1,0 +1,24 @@
+{
+  "setKey": "BlizzardStrayer",
+  "slotKey": "flower",
+  "rarity": 4,
+  "mainStatKey": "hp",
+  "level": 0,
+  "substats": [
+    {
+      "key": "",
+      "value": 3.0
+    },
+    {
+      "key": "atk",
+      "value": 31.0
+    },
+    {
+      "key": "def_",
+      "value": 5.8
+    }
+  ],
+  "location": "Kaeya",
+  "lock": false,
+  "id": 176
+}

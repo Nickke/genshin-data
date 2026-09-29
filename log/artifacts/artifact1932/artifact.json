@@ -1,0 +1,16 @@
+{
+  "setKey": "PrayersToSpringtime",
+  "slotKey": "circlet",
+  "rarity": 4,
+  "mainStatKey": "atk_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "",
+      "value": 970.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1932
+}

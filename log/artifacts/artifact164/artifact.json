@@ -1,0 +1,24 @@
+{
+  "setKey": "SilkenMoonsSerenade",
+  "slotKey": "circlet",
+  "rarity": 4,
+  "mainStatKey": "hp_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "",
+      "value": 19.0
+    },
+    {
+      "key": "atk",
+      "value": 37.0
+    },
+    {
+      "key": "eleMas",
+      "value": 26.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 164
+}

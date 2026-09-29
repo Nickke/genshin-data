@@ -1,0 +1,28 @@
+{
+  "setKey": "MaidenBeloved",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "physical_dmg_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def_",
+      "value": 7.3
+    },
+    {
+      "key": "hp",
+      "value": 269.0
+    },
+    {
+      "key": "def",
+      "value": 16.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 7.8
+    }
+  ],
+  "location": "",
+  "lock": true,
+  "id": 1872
+}

@@ -1,0 +1,16 @@
+{
+  "setKey": "Instructor",
+  "slotKey": "plume",
+  "rarity": 3,
+  "mainStatKey": "atk",
+  "level": 0,
+  "substats": [
+    {
+      "key": "hp",
+      "value": 129.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1950
+}
