@@ -1,0 +1,28 @@
+{
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "hp_",
+  "level": 20,
+  "substats": [
+    {
+      "key": "def_",
+      "value": 24.1
+    },
+    {
+      "key": "critDMG_",
+      "value": 7.0
+    },
+    {
+      "key": "critRate_",
+      "value": 7.4
+    },
+    {
+      "key": "atk",
+      "value": 16.0
+    }
+  ],
+  "location": "Columbina",
+  "lock": true,
+  "id": 95
+}

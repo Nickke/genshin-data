@@ -1,0 +1,28 @@
+{
+  "setKey": "DeepwoodMemories",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
+  "level": 20,
+  "substats": [
+    {
+      "key": "eleMas",
+      "value": 47.0
+    },
+    {
+      "key": "atk_",
+      "value": 19.8
+    },
+    {
+      "key": "def_",
+      "value": 12.4
+    },
+    {
+      "key": "hp_",
+      "value": 4.1
+    }
+  ],
+  "location": "Ningguang",
+  "lock": true,
+  "id": 73
+}

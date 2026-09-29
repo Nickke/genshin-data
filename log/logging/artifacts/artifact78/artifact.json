@@ -1,0 +1,28 @@
+{
+  "setKey": "VermillionHereafter",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
+  "level": 20,
+  "substats": [
+    {
+      "key": "eleMas",
+      "value": 84.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 14.0
+    },
+    {
+      "key": "atk_",
+      "value": 4.1
+    },
+    {
+      "key": "def",
+      "value": 19.0
+    }
+  ],
+  "location": "Xiao",
+  "lock": true,
+  "id": 78
+}
