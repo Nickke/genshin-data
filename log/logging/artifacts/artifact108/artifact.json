@@ -23,6 +23,6 @@
     }
   ],
   "location": "Durin",
-  "lock": false,
+  "lock": true,
   "id": 108
 }

@@ -23,6 +23,6 @@
     }
   ],
   "location": "Wriothesley",
-  "lock": true,
+  "lock": false,
   "id": 122
 }
