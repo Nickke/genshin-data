@@ -2,7 +2,7 @@
   "setKey": "MaidenBeloved",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
@@ -10,12 +10,12 @@
       "value": 23.0
     },
     {
-      "key": "eleMas",
-      "value": 19.0
+      "key": "critDMG_",
+      "value": 5.4
     },
     {
-      "key": "hp",
-      "value": 209.0
+      "key": "hp_",
+      "value": 4.1
     },
     {
       "key": "atk",

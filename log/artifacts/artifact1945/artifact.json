@@ -1,17 +1,17 @@
 {
-  "setKey": "TheExile",
-  "slotKey": "plume",
-  "rarity": 3,
-  "mainStatKey": "atk",
+  "setKey": "Berserker",
+  "slotKey": "sands",
+  "rarity": 4,
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 14.0
+      "key": "",
+      "value": 970.0
     },
     {
-      "key": "hp",
-      "value": 115.0
+      "key": "critRate_",
+      "value": 2.2
     }
   ],
   "location": "",

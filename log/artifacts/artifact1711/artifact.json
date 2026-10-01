@@ -2,7 +2,7 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
@@ -10,16 +10,16 @@
       "value": 18.0
     },
     {
-      "key": "def_",
-      "value": 5.8
-    },
-    {
       "key": "enerRech_",
       "value": 5.8
     },
     {
+      "key": "def",
+      "value": 23.0
+    },
+    {
       "key": "eleMas",
-      "value": 19.0
+      "value": 16.0
     }
   ],
   "location": "",

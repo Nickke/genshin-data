@@ -2,27 +2,27 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "cryo_dmg_",
+  "mainStatKey": "physical_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 4.5
+      "key": "hp",
+      "value": 209.0
     },
     {
-      "key": "hp_",
-      "value": 4.7
-    },
-    {
-      "key": "def_",
-      "value": 7.3
+      "key": "atk",
+      "value": 14.0
     },
     {
       "key": "atk_",
       "value": 4.7
+    },
+    {
+      "key": "critRate_",
+      "value": 3.1
     }
   ],
-  "location": "",
+  "location": "Razor",
   "lock": true,
   "id": 1680
 }

@@ -2,27 +2,27 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "cryo_dmg_",
   "level": 0,
   "substats": [
     {
       "key": "enerRech_",
-      "value": 5.2
+      "value": 4.5
+    },
+    {
+      "key": "hp_",
+      "value": 4.7
     },
     {
       "key": "def_",
       "value": 7.3
     },
     {
-      "key": "critDMG_",
-      "value": 5.4
-    },
-    {
-      "key": "eleMas",
-      "value": 21.0
+      "key": "atk_",
+      "value": 4.7
     }
   ],
-  "location": "Sayu",
+  "location": "",
   "lock": true,
   "id": 1681
 }

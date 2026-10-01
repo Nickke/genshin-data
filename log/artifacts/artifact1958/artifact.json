@@ -1,13 +1,13 @@
 {
-  "setKey": "Berserker",
-  "slotKey": "plume",
+  "setKey": "Instructor",
+  "slotKey": "sands",
   "rarity": 3,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 2.1
+      "key": "critDMG_",
+      "value": 4.2
     }
   ],
   "location": "",

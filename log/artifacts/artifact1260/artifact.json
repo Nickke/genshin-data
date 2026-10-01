@@ -2,7 +2,7 @@
   "setKey": "WanderersTroupe",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
@@ -11,18 +11,18 @@
     },
     {
       "key": "critDMG_",
-      "value": 7.0
+      "value": 5.4
     },
     {
-      "key": "atk_",
-      "value": 4.1
+      "key": "critRate_",
+      "value": 3.9
     },
     {
-      "key": "eleMas",
-      "value": 19.0
+      "key": "atk",
+      "value": 16.0
     }
   ],
-  "location": "",
+  "location": "Kachina",
   "lock": true,
   "id": 1260
 }

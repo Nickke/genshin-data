@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
+      "key": "enerRech_",
+      "value": 4.5
+    },
+    {
+      "key": "critRate_",
+      "value": 2.7
+    },
+    {
       "key": "def",
-      "value": 16.0
+      "value": 21.0
     },
     {
       "key": "atk_",
-      "value": 5.3
-    },
-    {
-      "key": "critDMG_",
-      "value": 6.2
-    },
-    {
-      "key": "hp",
-      "value": 269.0
+      "value": 4.7
     }
   ],
-  "location": "Razor",
+  "location": "Keqing",
   "lock": true,
   "id": 1538
 }

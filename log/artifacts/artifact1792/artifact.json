@@ -2,19 +2,19 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
+      "key": "atk",
+      "value": 19.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.9
+    },
+    {
       "key": "enerRech_",
-      "value": 6.5
-    },
-    {
-      "key": "eleMas",
-      "value": 23.0
-    },
-    {
-      "key": "hp_",
       "value": 5.8
     },
     {
@@ -22,7 +22,7 @@
       "value": 19.0
     }
   ],
-  "location": "",
+  "location": "Thoma",
   "lock": false,
   "id": 1792
 }

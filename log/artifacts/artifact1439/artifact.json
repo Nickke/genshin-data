@@ -1,24 +1,28 @@
 {
   "setKey": "ViridescentVenerer",
-  "slotKey": "circlet",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "eleMas",
-  "level": 20,
+  "mainStatKey": "atk_",
+  "level": 0,
   "substats": [
     {
-      "key": "hp_",
-      "value": 4.1
+      "key": "hp",
+      "value": 209.0
+    },
+    {
+      "key": "def_",
+      "value": 5.8
+    },
+    {
+      "key": "eleMas",
+      "value": 16.0
     },
     {
       "key": "enerRech_",
-      "value": 5.8
-    },
-    {
-      "key": "atk_",
-      "value": 5.8
+      "value": 6.5
     }
   ],
-  "location": "YumemizukiMizuki",
+  "location": "",
   "lock": false,
   "id": 1439
 }

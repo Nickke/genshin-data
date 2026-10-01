@@ -2,27 +2,27 @@
   "setKey": "WanderersTroupe",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "geo_dmg_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
-    {
-      "key": "critRate_",
-      "value": 3.9
-    },
-    {
-      "key": "hp_",
-      "value": 4.1
-    },
     {
       "key": "atk",
       "value": 16.0
     },
     {
-      "key": "atk_",
-      "value": 4.1
+      "key": "critRate_",
+      "value": 3.1
+    },
+    {
+      "key": "critDMG_",
+      "value": 5.4
+    },
+    {
+      "key": "hp",
+      "value": 269.0
     }
   ],
-  "location": "",
+  "location": "Diona",
   "lock": true,
   "id": 1264
 }

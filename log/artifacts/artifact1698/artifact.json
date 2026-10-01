@@ -2,27 +2,27 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "anemo_dmg_",
+  "mainStatKey": "pyro_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 209.0
+      "key": "atk_",
+      "value": 4.1
     },
     {
       "key": "atk",
-      "value": 19.0
+      "value": 18.0
     },
     {
       "key": "critRate_",
-      "value": 3.1
+      "value": 2.7
     },
     {
       "key": "def_",
-      "value": 5.1
+      "value": 7.3
     }
   ],
-  "location": "Wanderer",
+  "location": "",
   "lock": true,
   "id": 1698
 }

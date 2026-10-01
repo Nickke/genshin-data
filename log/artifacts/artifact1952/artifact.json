@@ -1,13 +1,13 @@
 {
-  "setKey": "Instructor",
-  "slotKey": "circlet",
+  "setKey": "TheExile",
+  "slotKey": "plume",
   "rarity": 3,
-  "mainStatKey": "critRate_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "def_",
-      "value": 3.9
+      "key": "atk_",
+      "value": 2.8
     }
   ],
   "location": "",

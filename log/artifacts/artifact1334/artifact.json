@@ -2,24 +2,24 @@
   "setKey": "WanderersTroupe",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 5.4
+      "key": "hp",
+      "value": 269.0
     },
     {
-      "key": "atk",
-      "value": 18.0
+      "key": "def",
+      "value": 23.0
     },
     {
-      "key": "critRate_",
-      "value": 3.9
-    },
-    {
-      "key": "hp_",
+      "key": "atk_",
       "value": 5.8
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
     }
   ],
   "location": "",

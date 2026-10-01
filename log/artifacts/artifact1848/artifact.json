@@ -11,15 +11,15 @@
     },
     {
       "key": "critRate_",
-      "value": 3.9
+      "value": 2.7
     },
     {
-      "key": "critDMG_",
-      "value": 5.4
+      "key": "hp_",
+      "value": 4.1
     },
     {
-      "key": "eleMas",
-      "value": 19.0
+      "key": "def",
+      "value": 21.0
     }
   ],
   "location": "",

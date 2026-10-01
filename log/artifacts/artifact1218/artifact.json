@@ -2,27 +2,27 @@
   "setKey": "WanderersTroupe",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "enerRech_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 19.0
+      "key": "critRate_",
+      "value": 3.9
     },
     {
-      "key": "hp",
-      "value": 269.0
-    },
-    {
-      "key": "def",
-      "value": 19.0
+      "key": "eleMas",
+      "value": 16.0
     },
     {
       "key": "atk_",
       "value": 4.1
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "Mualani",
+  "lock": true,
   "id": 1218
 }

@@ -1,13 +1,13 @@
 {
   "setKey": "Berserker",
-  "slotKey": "circlet",
+  "slotKey": "flower",
   "rarity": 3,
-  "mainStatKey": "heal_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
-      "value": 2.5
+      "key": "def_",
+      "value": 3.9
     }
   ],
   "location": "",

@@ -7,7 +7,11 @@
   "substats": [
     {
       "key": "critDMG_",
-      "value": 6.2
+      "value": 7.0
+    },
+    {
+      "key": "eleMas",
+      "value": 19.0
     },
     {
       "key": "atk_",
@@ -15,14 +19,10 @@
     },
     {
       "key": "def",
-      "value": 19.0
-    },
-    {
-      "key": "def_",
-      "value": 5.1
+      "value": 23.0
     }
   ],
-  "location": "Kaeya",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 1901
 }

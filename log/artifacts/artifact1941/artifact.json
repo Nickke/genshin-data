@@ -1,17 +1,13 @@
 {
-  "setKey": "Berserker",
-  "slotKey": "plume",
+  "setKey": "GladiatorsFinale",
+  "slotKey": "goblet",
   "rarity": 4,
-  "mainStatKey": "atk",
+  "mainStatKey": "anemo_dmg_",
   "level": 0,
   "substats": [
     {
       "key": "",
-      "value": 117.0
-    },
-    {
-      "key": "hp_",
-      "value": 3.3
+      "value": 470.0
     }
   ],
   "location": "",

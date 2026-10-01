@@ -1,0 +1,11 @@
+{
+  "setKey": "LuckyDog",
+  "slotKey": "goblet",
+  "rarity": 2,
+  "mainStatKey": "dendro_dmg_",
+  "level": 0,
+  "substats": [],
+  "location": "",
+  "lock": false,
+  "id": 1975
+}

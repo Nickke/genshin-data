@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 7.8
+      "key": "def",
+      "value": 21.0
+    },
+    {
+      "key": "atk_",
+      "value": 5.8
     },
     {
       "key": "hp_",
       "value": 4.7
     },
     {
-      "key": "def",
-      "value": 19.0
-    },
-    {
       "key": "def_",
-      "value": 7.3
+      "value": 6.6
     }
   ],
-  "location": "Noelle",
+  "location": "",
   "lock": false,
   "id": 1492
 }

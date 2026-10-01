@@ -1,13 +1,17 @@
 {
-  "setKey": "LuckyDog",
+  "setKey": "Berserker",
   "slotKey": "plume",
-  "rarity": 3,
+  "rarity": 4,
   "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 11.0
+      "key": "",
+      "value": 117.0
+    },
+    {
+      "key": "hp_",
+      "value": 3.3
     }
   ],
   "location": "",

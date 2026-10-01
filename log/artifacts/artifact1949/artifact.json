@@ -1,13 +1,13 @@
 {
-  "setKey": "Instructor",
-  "slotKey": "flower",
+  "setKey": "LuckyDog",
+  "slotKey": "plume",
   "rarity": 3,
-  "mainStatKey": "hp",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 2.3
+      "key": "def",
+      "value": 11.0
     }
   ],
   "location": "",

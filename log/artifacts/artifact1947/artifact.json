@@ -1,13 +1,17 @@
 {
-  "setKey": "TheExile",
-  "slotKey": "sands",
+  "setKey": "LuckyDog",
+  "slotKey": "flower",
   "rarity": 3,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 2.7
+      "key": "def_",
+      "value": 3.5
+    },
+    {
+      "key": "def",
+      "value": 10.0
     }
   ],
   "location": "",

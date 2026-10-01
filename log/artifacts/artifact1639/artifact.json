@@ -7,19 +7,19 @@
   "substats": [
     {
       "key": "atk",
-      "value": 14.0
+      "value": 16.0
     },
     {
-      "key": "def",
-      "value": 21.0
+      "key": "hp",
+      "value": 269.0
     },
     {
-      "key": "def_",
-      "value": 6.6
+      "key": "eleMas",
+      "value": 16.0
     },
     {
-      "key": "critDMG_",
-      "value": 7.0
+      "key": "enerRech_",
+      "value": 5.8
     }
   ],
   "location": "",

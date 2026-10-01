@@ -2,27 +2,27 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "critDMG_",
+  "mainStatKey": "critRate_",
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 16.0
-    },
-    {
-      "key": "def_",
-      "value": 7.3
+      "key": "hp",
+      "value": 239.0
     },
     {
       "key": "atk_",
       "value": 4.7
     },
     {
+      "key": "def_",
+      "value": 5.1
+    },
+    {
       "key": "atk",
-      "value": 18.0
+      "value": 19.0
     }
   ],
-  "location": "Noelle",
+  "location": "ShikanoinHeizou",
   "lock": true,
   "id": 1778
 }

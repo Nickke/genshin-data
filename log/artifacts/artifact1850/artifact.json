@@ -7,22 +7,22 @@
   "substats": [
     {
       "key": "hp",
-      "value": 209.0
+      "value": 239.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.9
+    },
+    {
+      "key": "critDMG_",
+      "value": 5.4
     },
     {
       "key": "eleMas",
       "value": 19.0
-    },
-    {
-      "key": "def",
-      "value": 23.0
-    },
-    {
-      "key": "atk_",
-      "value": 5.3
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 1850
 }

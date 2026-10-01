@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
-      "key": "def_",
-      "value": 5.8
-    },
-    {
-      "key": "critRate_",
-      "value": 3.5
+      "key": "critDMG_",
+      "value": 6.2
     },
     {
       "key": "atk_",
-      "value": 5.3
+      "value": 4.1
     },
     {
       "key": "eleMas",
-      "value": 19.0
+      "value": 23.0
+    },
+    {
+      "key": "hp_",
+      "value": 5.3
     }
   ],
-  "location": "Arlecchino",
+  "location": "Diluc",
   "lock": true,
   "id": 1552
 }

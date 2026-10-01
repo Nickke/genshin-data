@@ -1,15 +1,10 @@
 {
-  "setKey": "GladiatorsFinale",
-  "slotKey": "sands",
+  "setKey": "WanderersTroupe",
+  "slotKey": "goblet",
   "rarity": 4,
   "mainStatKey": "hp_",
   "level": 0,
-  "substats": [
-    {
-      "key": "",
-      "value": 8570.0
-    }
-  ],
+  "substats": [],
   "location": "",
   "lock": false,
   "id": 1938

@@ -10,16 +10,16 @@
       "value": 4.1
     },
     {
+      "key": "atk",
+      "value": 16.0
+    },
+    {
+      "key": "def",
+      "value": 16.0
+    },
+    {
       "key": "critRate_",
-      "value": 3.1
-    },
-    {
-      "key": "def_",
-      "value": 7.3
-    },
-    {
-      "key": "enerRech_",
-      "value": 4.5
+      "value": 3.9
     }
   ],
   "location": "",

@@ -1,17 +1,13 @@
 {
-  "setKey": "Berserker",
-  "slotKey": "plume",
+  "setKey": "Instructor",
+  "slotKey": "flower",
   "rarity": 3,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 11.0
-    },
-    {
       "key": "critRate_",
-      "value": 2.1
+      "value": 2.3
     }
   ],
   "location": "",

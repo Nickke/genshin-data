@@ -23,6 +23,6 @@
     }
   ],
   "location": "Mualani",
-  "lock": true,
+  "lock": false,
   "id": 620
 }

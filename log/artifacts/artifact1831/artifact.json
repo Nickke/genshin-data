@@ -1,28 +1,28 @@
 {
-  "setKey": "MaidenBeloved",
-  "slotKey": "flower",
+  "setKey": "GladiatorsFinale",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 19.0
+      "key": "hp",
+      "value": 209.0
     },
     {
-      "key": "atk_",
-      "value": 4.1
-    },
-    {
-      "key": "critDMG_",
-      "value": 7.0
+      "key": "def_",
+      "value": 6.6
     },
     {
       "key": "critRate_",
-      "value": 3.9
+      "value": 3.5
+    },
+    {
+      "key": "eleMas",
+      "value": 19.0
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 1831
 }

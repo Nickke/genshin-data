@@ -6,6 +6,10 @@
   "level": 0,
   "substats": [
     {
+      "key": "eleMas",
+      "value": 19.0
+    },
+    {
       "key": "hp_",
       "value": 5.8
     },
@@ -14,12 +18,8 @@
       "value": 23.0
     },
     {
-      "key": "eleMas",
-      "value": 19.0
-    },
-    {
-      "key": "atk_",
-      "value": 4.7
+      "key": "hp",
+      "value": 239.0
     }
   ],
   "location": "",

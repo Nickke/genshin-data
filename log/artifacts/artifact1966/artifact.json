@@ -1,11 +1,20 @@
 {
-  "setKey": "Adventurer",
-  "slotKey": "sands",
-  "rarity": 2,
-  "mainStatKey": "def_",
+  "setKey": "Berserker",
+  "slotKey": "plume",
+  "rarity": 3,
+  "mainStatKey": "atk",
   "level": 0,
-  "substats": [],
-  "location": "",
+  "substats": [
+    {
+      "key": "eleMas",
+      "value": 11.0
+    },
+    {
+      "key": "critRate_",
+      "value": 2.1
+    }
+  ],
+  "location": "Gorou",
   "lock": false,
   "id": 1966
 }

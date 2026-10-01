@@ -1,13 +1,13 @@
 {
   "setKey": "Berserker",
-  "slotKey": "goblet",
+  "slotKey": "flower",
   "rarity": 3,
-  "mainStatKey": "dendro_dmg_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "def_",
-      "value": 4.4
+      "key": "hp_",
+      "value": 3.2
     }
   ],
   "location": "",

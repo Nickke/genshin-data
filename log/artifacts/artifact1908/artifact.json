@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 19.0
+      "key": "eleMas",
+      "value": 23.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 5.4
+    },
+    {
+      "key": "enerRech_",
+      "value": 6.5
     },
     {
       "key": "hp_",
-      "value": 4.1
-    },
-    {
-      "key": "atk_",
-      "value": 4.1
-    },
-    {
-      "key": "eleMas",
-      "value": 21.0
+      "value": 5.8
     }
   ],
-  "location": "Diona",
+  "location": "Layla",
   "lock": false,
   "id": 1908
 }

@@ -1,13 +1,13 @@
 {
-  "setKey": "GladiatorsFinale",
-  "slotKey": "flower",
+  "setKey": "WanderersTroupe",
+  "slotKey": "sands",
   "rarity": 4,
-  "mainStatKey": "hp",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 0.7
+      "key": "",
+      "value": 11.0
     }
   ],
   "location": "",

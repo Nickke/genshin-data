@@ -1,11 +1,16 @@
 {
-  "setKey": "LuckyDog",
-  "slotKey": "goblet",
-  "rarity": 2,
-  "mainStatKey": "dendro_dmg_",
+  "setKey": "Berserker",
+  "slotKey": "flower",
+  "rarity": 3,
+  "mainStatKey": "hp",
   "level": 0,
-  "substats": [],
-  "location": "",
+  "substats": [
+    {
+      "key": "critDMG_",
+      "value": 3.3
+    }
+  ],
+  "location": "YunJin",
   "lock": false,
   "id": 1964
 }

@@ -1,25 +1,25 @@
 {
-  "setKey": "Lavawalker",
-  "slotKey": "flower",
+  "setKey": "MaidenBeloved",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
-    {
-      "key": "critRate_",
-      "value": 3.5
-    },
-    {
-      "key": "enerRech_",
-      "value": 5.8
-    },
     {
       "key": "eleMas",
       "value": 21.0
     },
     {
-      "key": "def_",
-      "value": 7.3
+      "key": "def",
+      "value": 23.0
+    },
+    {
+      "key": "hp",
+      "value": 299.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 5.4
     }
   ],
   "location": "",

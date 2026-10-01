@@ -2,27 +2,27 @@
   "setKey": "WanderersTroupe",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "critRate_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
+      "key": "enerRech_",
+      "value": 4.5
+    },
+    {
+      "key": "hp",
+      "value": 299.0
+    },
+    {
+      "key": "def_",
+      "value": 7.3
+    },
+    {
       "key": "atk_",
       "value": 4.1
-    },
-    {
-      "key": "atk",
-      "value": 14.0
-    },
-    {
-      "key": "enerRech_",
-      "value": 5.2
-    },
-    {
-      "key": "def",
-      "value": 23.0
     }
   ],
-  "location": "Lynette",
+  "location": "",
   "lock": true,
   "id": 1338
 }

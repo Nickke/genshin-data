@@ -1,10 +1,19 @@
 {
-  "setKey": "Adventurer",
-  "slotKey": "flower",
-  "rarity": 2,
-  "mainStatKey": "hp",
+  "setKey": "Berserker",
+  "slotKey": "plume",
+  "rarity": 3,
+  "mainStatKey": "atk",
   "level": 0,
-  "substats": [],
+  "substats": [
+    {
+      "key": "def",
+      "value": 11.0
+    },
+    {
+      "key": "critRate_",
+      "value": 2.1
+    }
+  ],
   "location": "",
   "lock": false,
   "id": 1965

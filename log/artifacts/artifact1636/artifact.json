@@ -2,27 +2,27 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
       "key": "def",
-      "value": 21.0
+      "value": 19.0
     },
     {
-      "key": "atk",
-      "value": 16.0
+      "key": "critRate_",
+      "value": 3.9
     },
     {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "enerRech_",
+      "value": 4.5
     },
     {
-      "key": "atk_",
-      "value": 5.8
+      "key": "hp_",
+      "value": 4.1
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "Freminet",
+  "lock": true,
   "id": 1636
 }

@@ -6,16 +6,16 @@
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 23.0
-    },
-    {
-      "key": "atk_",
-      "value": 4.7
+      "key": "critDMG_",
+      "value": 5.4
     },
     {
       "key": "hp_",
-      "value": 5.3
+      "value": 4.1
+    },
+    {
+      "key": "def",
+      "value": 21.0
     },
     {
       "key": "atk",

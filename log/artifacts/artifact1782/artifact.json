@@ -2,23 +2,23 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "heal_",
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 21.0
+      "key": "hp",
+      "value": 209.0
     },
     {
-      "key": "critRate_",
-      "value": 3.9
-    },
-    {
-      "key": "def",
-      "value": 23.0
+      "key": "hp_",
+      "value": 4.1
     },
     {
       "key": "atk",
+      "value": 16.0
+    },
+    {
+      "key": "def",
       "value": 19.0
     }
   ],

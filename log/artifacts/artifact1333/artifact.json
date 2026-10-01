@@ -2,27 +2,27 @@
   "setKey": "WanderersTroupe",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "critRate_",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 269.0
-    },
-    {
       "key": "def",
-      "value": 23.0
+      "value": 21.0
     },
     {
-      "key": "atk_",
-      "value": 5.8
+      "key": "hp",
+      "value": 209.0
     },
     {
-      "key": "critDMG_",
-      "value": 6.2
+      "key": "def_",
+      "value": 7.3
+    },
+    {
+      "key": "enerRech_",
+      "value": 4.5
     }
   ],
-  "location": "",
+  "location": "Beidou",
   "lock": true,
   "id": 1333
 }

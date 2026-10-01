@@ -1,13 +1,13 @@
 {
-  "setKey": "WanderersTroupe",
-  "slotKey": "sands",
+  "setKey": "PrayersToSpringtime",
+  "slotKey": "circlet",
   "rarity": 4,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
       "key": "",
-      "value": 11.0
+      "value": 117.0
     }
   ],
   "location": "",

@@ -2,15 +2,11 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "eleMas",
   "level": 0,
   "substats": [
     {
-      "key": "def_",
-      "value": 7.3
-    },
-    {
-      "key": "def",
+      "key": "atk",
       "value": 16.0
     },
     {
@@ -18,8 +14,12 @@
       "value": 299.0
     },
     {
-      "key": "atk",
-      "value": 19.0
+      "key": "def_",
+      "value": 6.6
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.2
     }
   ],
   "location": "",

@@ -2,27 +2,27 @@
   "setKey": "BlizzardStrayer",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "cryo_dmg_",
+  "mainStatKey": "dendro_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 6.5
+      "key": "def",
+      "value": 19.0
     },
     {
       "key": "hp",
-      "value": 269.0
+      "value": 239.0
     },
     {
-      "key": "atk",
-      "value": 18.0
+      "key": "eleMas",
+      "value": 19.0
     },
     {
-      "key": "hp_",
-      "value": 5.3
+      "key": "enerRech_",
+      "value": 4.5
     }
   ],
-  "location": "Chongyun",
+  "location": "Kaveh",
   "lock": true,
   "id": 1923
 }

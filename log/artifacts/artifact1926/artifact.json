@@ -2,27 +2,27 @@
   "setKey": "BlizzardStrayer",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "cryo_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
-      "value": 4.1
+      "key": "enerRech_",
+      "value": 4.5
     },
     {
-      "key": "hp",
-      "value": 269.0
+      "key": "hp_",
+      "value": 5.8
     },
     {
       "key": "critDMG_",
-      "value": 5.4
+      "value": 7.0
     },
     {
       "key": "def",
-      "value": 21.0
+      "value": 19.0
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "Kaeya",
+  "lock": true,
   "id": 1926
 }

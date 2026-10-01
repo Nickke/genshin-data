@@ -2,27 +2,27 @@
   "setKey": "DeepwoodMemories",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "critDMG_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "def",
+      "key": "atk",
       "value": 16.0
     },
     {
-      "key": "eleMas",
-      "value": 21.0
-    },
-    {
-      "key": "hp_",
-      "value": 5.3
-    },
-    {
       "key": "hp",
-      "value": 239.0
+      "value": 209.0
+    },
+    {
+      "key": "def_",
+      "value": 5.1
+    },
+    {
+      "key": "enerRech_",
+      "value": 6.5
     }
   ],
-  "location": "Kaveh",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 667
 }

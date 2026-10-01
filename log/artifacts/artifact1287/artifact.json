@@ -2,24 +2,24 @@
   "setKey": "WanderersTroupe",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "cryo_dmg_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 16.0
-    },
-    {
-      "key": "def_",
-      "value": 5.1
-    },
-    {
-      "key": "atk_",
+      "key": "enerRech_",
       "value": 5.8
     },
     {
-      "key": "enerRech_",
-      "value": 4.5
+      "key": "atk",
+      "value": 19.0
+    },
+    {
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.1
     }
   ],
   "location": "",

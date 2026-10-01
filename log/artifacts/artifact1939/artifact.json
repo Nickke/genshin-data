@@ -1,13 +1,13 @@
 {
   "setKey": "GladiatorsFinale",
-  "slotKey": "goblet",
+  "slotKey": "flower",
   "rarity": 4,
-  "mainStatKey": "geo_dmg_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "",
-      "value": 470.0
+      "key": "enerRech_",
+      "value": 0.7
     }
   ],
   "location": "",

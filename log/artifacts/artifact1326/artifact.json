@@ -6,20 +6,20 @@
   "level": 0,
   "substats": [
     {
+      "key": "critRate_",
+      "value": 3.1
+    },
+    {
       "key": "hp",
       "value": 239.0
     },
     {
-      "key": "atk_",
-      "value": 5.3
-    },
-    {
-      "key": "def",
-      "value": 21.0
+      "key": "hp_",
+      "value": 4.7
     },
     {
       "key": "atk",
-      "value": 16.0
+      "value": 18.0
     }
   ],
   "location": "",

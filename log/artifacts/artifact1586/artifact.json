@@ -10,16 +10,16 @@
       "value": 23.0
     },
     {
-      "key": "def_",
-      "value": 6.6
+      "key": "enerRech_",
+      "value": 5.2
     },
     {
-      "key": "hp",
-      "value": 209.0
+      "key": "critDMG_",
+      "value": 6.2
     },
     {
-      "key": "hp_",
-      "value": 5.8
+      "key": "def",
+      "value": 21.0
     }
   ],
   "location": "",

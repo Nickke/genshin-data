@@ -1,14 +1,10 @@
 {
-  "setKey": "Berserker",
-  "slotKey": "sands",
+  "setKey": "Instructor",
+  "slotKey": "circlet",
   "rarity": 3,
-  "mainStatKey": "enerRech_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
-    {
-      "key": "atk_",
-      "value": 2.8
-    },
     {
       "key": "def",
       "value": 8.0

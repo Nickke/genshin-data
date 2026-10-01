@@ -2,27 +2,27 @@
   "setKey": "WanderersTroupe",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
       "key": "atk",
-      "value": 18.0
+      "value": 14.0
     },
     {
-      "key": "hp",
-      "value": 269.0
+      "key": "def_",
+      "value": 5.8
     },
     {
-      "key": "enerRech_",
-      "value": 5.2
-    },
-    {
-      "key": "eleMas",
+      "key": "def",
       "value": 21.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 5.4
     }
   ],
-  "location": "",
+  "location": "Amber",
   "lock": false,
   "id": 1229
 }

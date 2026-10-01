@@ -2,27 +2,27 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hydro_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 3.5
+      "key": "def",
+      "value": 16.0
+    },
+    {
+      "key": "eleMas",
+      "value": 19.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 4.5
     },
     {
       "key": "atk",
-      "value": 18.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 7.8
-    },
-    {
-      "key": "hp",
-      "value": 299.0
+      "value": 14.0
     }
   ],
-  "location": "Jean",
+  "location": "",
   "lock": true,
   "id": 1706
 }

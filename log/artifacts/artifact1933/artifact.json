@@ -2,12 +2,12 @@
   "setKey": "PrayersToSpringtime",
   "slotKey": "circlet",
   "rarity": 4,
-  "mainStatKey": "hp_",
+  "mainStatKey": "heal_",
   "level": 0,
   "substats": [
     {
       "key": "",
-      "value": 117.0
+      "value": 8570.0
     }
   ],
   "location": "",

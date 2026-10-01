@@ -2,27 +2,27 @@
   "setKey": "MaidenBeloved",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "enerRech_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "atk_",
-      "value": 4.7
+      "key": "atk",
+      "value": 16.0
     },
     {
       "key": "def",
-      "value": 19.0
+      "value": 16.0
+    },
+    {
+      "key": "hp",
+      "value": 299.0
     },
     {
       "key": "hp_",
-      "value": 4.1
-    },
-    {
-      "key": "def_",
-      "value": 6.6
+      "value": 4.7
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 1858
 }

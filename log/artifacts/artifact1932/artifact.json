@@ -1,16 +1,16 @@
 {
-  "setKey": "PrayersToSpringtime",
+  "setKey": "ScrollOfTheHeroOfCinderCity",
   "slotKey": "circlet",
   "rarity": 4,
-  "mainStatKey": "atk_",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
       "key": "",
-      "value": 970.0
+      "value": 137.0
     }
   ],
-  "location": "",
+  "location": "Kachina",
   "lock": false,
   "id": 1932
 }

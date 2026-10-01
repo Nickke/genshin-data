@@ -2,27 +2,27 @@
   "setKey": "BlizzardStrayer",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
+      "key": "hp_",
+      "value": 5.3
+    },
+    {
+      "key": "def",
       "value": 19.0
     },
     {
-      "key": "def_",
-      "value": 5.8
+      "key": "hp",
+      "value": 239.0
     },
     {
-      "key": "enerRech_",
-      "value": 6.5
-    },
-    {
-      "key": "atk_",
-      "value": 5.3
+      "key": "critDMG_",
+      "value": 6.2
     }
   ],
-  "location": "Diona",
+  "location": "",
   "lock": false,
   "id": 1916
 }

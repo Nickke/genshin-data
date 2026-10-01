@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 16.0
-    },
-    {
       "key": "def_",
-      "value": 5.1
+      "value": 7.3
     },
     {
-      "key": "def",
-      "value": 23.0
+      "key": "atk_",
+      "value": 5.8
     },
     {
-      "key": "critDMG_",
-      "value": 7.0
+      "key": "enerRech_",
+      "value": 6.5
+    },
+    {
+      "key": "critRate_",
+      "value": 3.5
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 1835
 }

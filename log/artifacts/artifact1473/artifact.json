@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 2.7
+      "key": "critDMG_",
+      "value": 7.0
+    },
+    {
+      "key": "atk",
+      "value": 14.0
     },
     {
       "key": "atk_",
       "value": 4.7
     },
     {
-      "key": "def_",
-      "value": 6.6
-    },
-    {
-      "key": "def",
-      "value": 23.0
+      "key": "hp_",
+      "value": 5.8
     }
   ],
-  "location": "",
+  "location": "Freminet",
   "lock": true,
   "id": 1473
 }

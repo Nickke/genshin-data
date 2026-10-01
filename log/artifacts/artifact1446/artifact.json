@@ -2,24 +2,24 @@
   "setKey": "ViridescentVenerer",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 16.0
-    },
-    {
       "key": "atk",
-      "value": 19.0
+      "value": 18.0
     },
     {
-      "key": "enerRech_",
-      "value": 5.8
+      "key": "hp_",
+      "value": 5.3
     },
     {
-      "key": "critDMG_",
-      "value": 7.0
+      "key": "def",
+      "value": 21.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.9
     }
   ],
   "location": "",

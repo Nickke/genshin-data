@@ -2,27 +2,27 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "critRate_",
+  "mainStatKey": "critDMG_",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 19.0
+      "key": "def_",
+      "value": 6.6
     },
     {
-      "key": "hp",
-      "value": 209.0
+      "key": "enerRech_",
+      "value": 5.8
     },
     {
-      "key": "atk_",
+      "key": "hp_",
       "value": 4.7
     },
     {
-      "key": "def",
-      "value": 23.0
+      "key": "atk_",
+      "value": 4.1
     }
   ],
-  "location": "",
+  "location": "Xinyan",
   "lock": true,
   "id": 1763
 }

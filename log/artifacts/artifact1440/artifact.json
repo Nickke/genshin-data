@@ -2,27 +2,23 @@
   "setKey": "ViridescentVenerer",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "heal_",
-  "level": 0,
+  "mainStatKey": "eleMas",
+  "level": 20,
   "substats": [
     {
-      "key": "def_",
-      "value": 5.8
+      "key": "hp_",
+      "value": 4.1
     },
     {
       "key": "enerRech_",
-      "value": 6.5
+      "value": 5.8
     },
     {
-      "key": "atk",
-      "value": 14.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 7.0
+      "key": "atk_",
+      "value": 5.8
     }
   ],
-  "location": "",
-  "lock": true,
+  "location": "YumemizukiMizuki",
+  "lock": false,
   "id": 1440
 }

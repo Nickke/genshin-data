@@ -1,25 +1,25 @@
 {
-  "setKey": "BlizzardStrayer",
-  "slotKey": "flower",
+  "setKey": "Lavawalker",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 4.5
+      "key": "critDMG_",
+      "value": 6.2
+    },
+    {
+      "key": "hp",
+      "value": 269.0
     },
     {
       "key": "def_",
-      "value": 7.3
+      "value": 6.6
     },
     {
-      "key": "atk_",
-      "value": 5.3
-    },
-    {
-      "key": "def",
-      "value": 19.0
+      "key": "critRate_",
+      "value": 2.7
     }
   ],
   "location": "",

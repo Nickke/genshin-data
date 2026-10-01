@@ -6,20 +6,20 @@
   "level": 0,
   "substats": [
     {
-      "key": "def",
+      "key": "atk",
       "value": 16.0
     },
     {
+      "key": "critDMG_",
+      "value": 7.8
+    },
+    {
+      "key": "def",
+      "value": 19.0
+    },
+    {
       "key": "def_",
-      "value": 5.8
-    },
-    {
-      "key": "eleMas",
-      "value": 23.0
-    },
-    {
-      "key": "hp_",
-      "value": 4.1
+      "value": 7.3
     }
   ],
   "location": "",

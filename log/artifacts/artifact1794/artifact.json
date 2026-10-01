@@ -6,8 +6,8 @@
   "level": 0,
   "substats": [
     {
-      "key": "atk_",
-      "value": 5.3
+      "key": "enerRech_",
+      "value": 6.5
     },
     {
       "key": "eleMas",
@@ -15,11 +15,11 @@
     },
     {
       "key": "hp_",
-      "value": 4.7
+      "value": 5.8
     },
     {
-      "key": "atk",
-      "value": 18.0
+      "key": "def",
+      "value": 19.0
     }
   ],
   "location": "",

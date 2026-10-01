@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
-      "key": "atk_",
-      "value": 5.3
+      "key": "eleMas",
+      "value": 23.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 7.0
     },
     {
       "key": "hp_",
       "value": 4.1
     },
     {
-      "key": "def",
-      "value": 16.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 6.2
+      "key": "atk_",
+      "value": 4.7
     }
   ],
-  "location": "",
+  "location": "ShikanoinHeizou",
   "lock": true,
   "id": 1541
 }

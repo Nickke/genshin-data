@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
+      "key": "atk_",
+      "value": 4.7
+    },
+    {
       "key": "enerRech_",
       "value": 4.5
     },
     {
-      "key": "hp_",
-      "value": 5.8
+      "key": "hp",
+      "value": 209.0
     },
     {
       "key": "critDMG_",
-      "value": 7.0
-    },
-    {
-      "key": "def",
-      "value": 19.0
+      "value": 6.2
     }
   ],
-  "location": "Kaeya",
+  "location": "KamisatoAyaka",
   "lock": true,
   "id": 1924
 }

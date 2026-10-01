@@ -6,16 +6,16 @@
   "level": 0,
   "substats": [
     {
+      "key": "enerRech_",
+      "value": 5.8
+    },
+    {
       "key": "critRate_",
       "value": 2.7
     },
     {
-      "key": "def_",
-      "value": 6.6
-    },
-    {
       "key": "atk",
-      "value": 14.0
+      "value": 18.0
     },
     {
       "key": "atk_",

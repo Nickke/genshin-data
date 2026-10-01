@@ -1,16 +1,16 @@
 {
-  "setKey": "Berserker",
+  "setKey": "Instructor",
   "slotKey": "flower",
   "rarity": 3,
   "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 3.3
+      "key": "def",
+      "value": 11.0
     }
   ],
-  "location": "YunJin",
+  "location": "",
   "lock": false,
   "id": 1955
 }

@@ -1,28 +1,28 @@
 {
   "setKey": "BlizzardStrayer",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "dendro_dmg_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 19.0
+      "key": "critDMG_",
+      "value": 6.2
     },
     {
-      "key": "hp",
-      "value": 239.0
+      "key": "def_",
+      "value": 5.1
     },
     {
-      "key": "eleMas",
-      "value": 19.0
+      "key": "hp_",
+      "value": 5.8
     },
     {
-      "key": "enerRech_",
-      "value": 4.5
+      "key": "atk",
+      "value": 14.0
     }
   ],
-  "location": "Kaveh",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 1921
 }

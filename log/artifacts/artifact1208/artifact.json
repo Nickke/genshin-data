@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "atk",
+      "value": 19.0
     },
     {
-      "key": "def",
-      "value": 21.0
+      "key": "enerRech_",
+      "value": 5.8
     },
     {
-      "key": "critDMG_",
-      "value": 7.8
+      "key": "critRate_",
+      "value": 3.9
     },
     {
-      "key": "hp",
-      "value": 209.0
+      "key": "hp_",
+      "value": 4.7
     }
   ],
-  "location": "ShikanoinHeizou",
+  "location": "Keqing",
   "lock": true,
   "id": 1208
 }

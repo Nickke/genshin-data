@@ -2,27 +2,27 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "eleMas",
   "level": 0,
   "substats": [
-    {
-      "key": "def",
-      "value": 16.0
-    },
     {
       "key": "hp",
       "value": 209.0
     },
     {
-      "key": "eleMas",
-      "value": 16.0
+      "key": "def",
+      "value": 19.0
     },
     {
       "key": "critDMG_",
-      "value": 7.8
+      "value": 6.2
+    },
+    {
+      "key": "hp_",
+      "value": 4.7
     }
   ],
-  "location": "Chongyun",
+  "location": "",
   "lock": false,
   "id": 1665
 }

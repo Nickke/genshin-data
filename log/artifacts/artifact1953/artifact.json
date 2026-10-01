@@ -1,17 +1,13 @@
 {
-  "setKey": "Berserker",
-  "slotKey": "flower",
+  "setKey": "TheExile",
+  "slotKey": "sands",
   "rarity": 3,
-  "mainStatKey": "hp",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "def_",
-      "value": 3.1
-    },
-    {
-      "key": "atk_",
-      "value": 3.2
+      "key": "enerRech_",
+      "value": 2.7
     }
   ],
   "location": "",

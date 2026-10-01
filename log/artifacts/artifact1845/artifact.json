@@ -6,20 +6,20 @@
   "level": 0,
   "substats": [
     {
+      "key": "eleMas",
+      "value": 16.0
+    },
+    {
+      "key": "critRate_",
+      "value": 2.7
+    },
+    {
       "key": "def_",
       "value": 6.6
     },
     {
-      "key": "critDMG_",
-      "value": 5.4
-    },
-    {
       "key": "hp_",
-      "value": 4.7
-    },
-    {
-      "key": "hp",
-      "value": 299.0
+      "value": 4.1
     }
   ],
   "location": "",

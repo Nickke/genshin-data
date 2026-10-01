@@ -6,16 +6,16 @@
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
+      "key": "enerRech_",
+      "value": 4.5
+    },
+    {
+      "key": "atk",
+      "value": 19.0
+    },
+    {
+      "key": "def",
       "value": 16.0
-    },
-    {
-      "key": "hp",
-      "value": 239.0
-    },
-    {
-      "key": "hp_",
-      "value": 5.3
     },
     {
       "key": "def_",

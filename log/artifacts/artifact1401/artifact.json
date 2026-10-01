@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 4.5
+      "key": "def_",
+      "value": 5.1
     },
     {
-      "key": "eleMas",
-      "value": 21.0
+      "key": "critDMG_",
+      "value": 6.2
     },
     {
-      "key": "atk",
-      "value": 16.0
+      "key": "critRate_",
+      "value": 3.9
     },
     {
-      "key": "def",
-      "value": 19.0
+      "key": "atk_",
+      "value": 4.7
     }
   ],
-  "location": "YumemizukiMizuki",
+  "location": "",
   "lock": true,
   "id": 1401
 }

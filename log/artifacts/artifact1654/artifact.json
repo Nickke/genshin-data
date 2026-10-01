@@ -2,27 +2,27 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "enerRech_",
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 16.0
+      "key": "hp_",
+      "value": 5.3
     },
     {
-      "key": "atk",
+      "key": "def",
       "value": 19.0
     },
     {
       "key": "hp",
-      "value": 209.0
+      "value": 269.0
     },
     {
-      "key": "enerRech_",
-      "value": 4.5
+      "key": "atk_",
+      "value": 4.7
     }
   ],
-  "location": "",
+  "location": "Dori",
   "lock": false,
   "id": 1654
 }

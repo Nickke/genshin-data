@@ -1,8 +1,8 @@
 {
-  "setKey": "TheExile",
-  "slotKey": "plume",
+  "setKey": "PrayersToSpringtime",
+  "slotKey": "circlet",
   "rarity": 3,
-  "mainStatKey": "atk",
+  "mainStatKey": "eleMas",
   "level": 0,
   "substats": [
     {
