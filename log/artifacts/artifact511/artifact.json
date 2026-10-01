@@ -1,28 +1,28 @@
 {
   "setKey": "ScrollOfTheHeroOfCinderCity",
-  "slotKey": "sands",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
+    {
+      "key": "def",
+      "value": 19.0
+    },
     {
       "key": "eleMas",
       "value": 19.0
     },
     {
-      "key": "hp_",
-      "value": 4.1
+      "key": "critDMG_",
+      "value": 7.0
     },
     {
-      "key": "critRate_",
-      "value": 3.9
-    },
-    {
-      "key": "atk",
-      "value": 19.0
+      "key": "atk_",
+      "value": 5.8
     }
   ],
-  "location": "",
+  "location": "Kachina",
   "lock": false,
   "id": 511
 }

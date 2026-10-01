@@ -23,6 +23,6 @@
     }
   ],
   "location": "Traveler",
-  "lock": false,
+  "lock": true,
   "id": 27
 }
