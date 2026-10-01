@@ -23,6 +23,6 @@
     }
   ],
   "location": "Skirk",
-  "lock": false,
+  "lock": true,
   "id": 19
 }

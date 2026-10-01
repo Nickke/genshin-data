@@ -23,6 +23,6 @@
     }
   ],
   "location": "KukiShinobu",
-  "lock": false,
+  "lock": true,
   "id": 65
 }

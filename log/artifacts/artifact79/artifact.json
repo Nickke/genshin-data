@@ -23,6 +23,6 @@
     }
   ],
   "location": "Xiao",
-  "lock": false,
+  "lock": true,
   "id": 79
 }
