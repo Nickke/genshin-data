@@ -1,0 +1,28 @@
+{
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "geo_dmg_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "atk_",
+      "value": 4.1
+    },
+    {
+      "key": "enerRech_",
+      "value": 6.5
+    },
+    {
+      "key": "hp",
+      "value": 269.0
+    },
+    {
+      "key": "hp_",
+      "value": 5.3
+    }
+  ],
+  "location": "",
+  "lock": true,
+  "id": 782
+}

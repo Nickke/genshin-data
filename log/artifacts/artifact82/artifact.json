@@ -1,0 +1,28 @@
+{
+  "setKey": "HuskOfOpulentDreams",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "eleMas",
+  "level": 20,
+  "substats": [
+    {
+      "key": "atk",
+      "value": 18.0
+    },
+    {
+      "key": "hp",
+      "value": 717.0
+    },
+    {
+      "key": "def",
+      "value": 16.0
+    },
+    {
+      "key": "atk_",
+      "value": 14.0
+    }
+  ],
+  "location": "KukiShinobu",
+  "lock": false,
+  "id": 82
+}

@@ -1,0 +1,28 @@
+{
+  "setKey": "ShimenawasReminiscence",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "geo_dmg_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "critDMG_",
+      "value": 5.4
+    },
+    {
+      "key": "def",
+      "value": 23.0
+    },
+    {
+      "key": "hp",
+      "value": 209.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.5
+    }
+  ],
+  "location": "Ningguang",
+  "lock": true,
+  "id": 940
+}

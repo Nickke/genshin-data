@@ -1,0 +1,28 @@
+{
+  "setKey": "ShimenawasReminiscence",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "heal_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "atk_",
+      "value": 5.8
+    },
+    {
+      "key": "enerRech_",
+      "value": 6.5
+    },
+    {
+      "key": "atk",
+      "value": 18.0
+    },
+    {
+      "key": "def_",
+      "value": 5.8
+    }
+  ],
+  "location": "Qiqi",
+  "lock": false,
+  "id": 978
+}
