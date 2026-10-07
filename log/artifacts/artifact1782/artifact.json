@@ -2,27 +2,27 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "heal_",
+  "mainStatKey": "critDMG_",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 209.0
-    },
-    {
-      "key": "hp_",
-      "value": 4.1
-    },
-    {
       "key": "atk",
-      "value": 16.0
+      "value": 19.0
     },
     {
-      "key": "def",
+      "key": "eleMas",
       "value": 19.0
+    },
+    {
+      "key": "atk_",
+      "value": 5.3
+    },
+    {
+      "key": "hp",
+      "value": 299.0
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "Diluc",
+  "lock": true,
   "id": 1782
 }

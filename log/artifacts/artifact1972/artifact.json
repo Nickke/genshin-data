@@ -1,13 +1,13 @@
 {
-  "setKey": "Berserker",
+  "setKey": "TravelingDoctor",
   "slotKey": "goblet",
   "rarity": 3,
-  "mainStatKey": "dendro_dmg_",
+  "mainStatKey": "pyro_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "def_",
-      "value": 4.4
+      "key": "hp",
+      "value": 100.0
     }
   ],
   "location": "",

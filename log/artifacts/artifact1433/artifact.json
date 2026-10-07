@@ -2,27 +2,27 @@
   "setKey": "ViridescentVenerer",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "cryo_dmg_",
   "level": 0,
   "substats": [
-    {
-      "key": "eleMas",
-      "value": 19.0
-    },
-    {
-      "key": "critRate_",
-      "value": 3.1
-    },
     {
       "key": "hp",
       "value": 299.0
     },
     {
-      "key": "enerRech_",
-      "value": 5.2
+      "key": "critDMG_",
+      "value": 7.8
+    },
+    {
+      "key": "hp_",
+      "value": 5.3
+    },
+    {
+      "key": "atk",
+      "value": 16.0
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 1433
 }

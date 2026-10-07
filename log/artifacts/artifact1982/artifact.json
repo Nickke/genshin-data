@@ -1,0 +1,20 @@
+{
+  "setKey": "TheExile",
+  "slotKey": "flower",
+  "rarity": 3,
+  "mainStatKey": "hp",
+  "level": 0,
+  "substats": [
+    {
+      "key": "critDMG_",
+      "value": 3.3
+    },
+    {
+      "key": "hp_",
+      "value": 2.5
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1982
+}

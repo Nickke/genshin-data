@@ -1,0 +1,20 @@
+{
+  "setKey": "Berserker",
+  "slotKey": "flower",
+  "rarity": 3,
+  "mainStatKey": "hp",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def_",
+      "value": 3.1
+    },
+    {
+      "key": "atk_",
+      "value": 3.2
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 2006
+}

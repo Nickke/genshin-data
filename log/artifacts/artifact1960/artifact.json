@@ -1,13 +1,13 @@
 {
-  "setKey": "Instructor",
-  "slotKey": "circlet",
-  "rarity": 3,
-  "mainStatKey": "critRate_",
+  "setKey": "TheExile",
+  "slotKey": "flower",
+  "rarity": 4,
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "def_",
-      "value": 3.9
+      "key": "",
+      "value": 11.0
     }
   ],
   "location": "",

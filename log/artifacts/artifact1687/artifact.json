@@ -2,24 +2,24 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "dendro_dmg_",
+  "mainStatKey": "cryo_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 14.0
+      "key": "enerRech_",
+      "value": 4.5
     },
     {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "hp_",
+      "value": 4.7
     },
     {
-      "key": "def",
-      "value": 21.0
+      "key": "def_",
+      "value": 7.3
     },
     {
-      "key": "critDMG_",
-      "value": 5.4
+      "key": "atk_",
+      "value": 4.7
     }
   ],
   "location": "",

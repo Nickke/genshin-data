@@ -1,17 +1,17 @@
 {
-  "setKey": "Berserker",
-  "slotKey": "flower",
-  "rarity": 3,
-  "mainStatKey": "hp",
+  "setKey": "TheExile",
+  "slotKey": "goblet",
+  "rarity": 4,
+  "mainStatKey": "hydro_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "def_",
-      "value": 3.1
+      "key": "",
+      "value": 970.0
     },
     {
-      "key": "atk_",
-      "value": 3.2
+      "key": "enerRech_",
+      "value": 4.7
     }
   ],
   "location": "",

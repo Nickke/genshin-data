@@ -1,0 +1,16 @@
+{
+  "setKey": "TheExile",
+  "slotKey": "plume",
+  "rarity": 3,
+  "mainStatKey": "atk",
+  "level": 0,
+  "substats": [
+    {
+      "key": "atk_",
+      "value": 2.8
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1986
+}

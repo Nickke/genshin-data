@@ -2,27 +2,27 @@
   "setKey": "WanderersTroupe",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "critRate_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
-      "value": 5.3
+      "key": "atk",
+      "value": 14.0
     },
     {
       "key": "hp",
-      "value": 299.0
+      "value": 239.0
+    },
+    {
+      "key": "atk_",
+      "value": 5.8
     },
     {
       "key": "eleMas",
-      "value": 23.0
-    },
-    {
-      "key": "atk",
-      "value": 19.0
+      "value": 16.0
     }
   ],
-  "location": "Collei",
+  "location": "",
   "lock": true,
   "id": 1350
 }

@@ -1,16 +1,28 @@
 {
-  "setKey": "PrayersToSpringtime",
-  "slotKey": "circlet",
-  "rarity": 4,
-  "mainStatKey": "atk_",
+  "setKey": "BlizzardStrayer",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "",
-      "value": 970.0
+      "key": "atk",
+      "value": 16.0
+    },
+    {
+      "key": "hp_",
+      "value": 5.3
+    },
+    {
+      "key": "critRate_",
+      "value": 3.1
+    },
+    {
+      "key": "hp",
+      "value": 269.0
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 1934
 }

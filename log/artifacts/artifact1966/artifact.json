@@ -1,20 +1,16 @@
 {
   "setKey": "Berserker",
-  "slotKey": "plume",
-  "rarity": 3,
-  "mainStatKey": "atk",
+  "slotKey": "goblet",
+  "rarity": 4,
+  "mainStatKey": "geo_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
+      "key": "",
       "value": 11.0
-    },
-    {
-      "key": "critRate_",
-      "value": 2.1
     }
   ],
-  "location": "Gorou",
+  "location": "",
   "lock": false,
   "id": 1966
 }

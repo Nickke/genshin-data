@@ -1,25 +1,25 @@
 {
   "setKey": "MaidenBeloved",
-  "slotKey": "circlet",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "critDMG_",
+  "mainStatKey": "anemo_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "def_",
-      "value": 7.3
-    },
-    {
-      "key": "enerRech_",
-      "value": 4.5
+      "key": "eleMas",
+      "value": 21.0
     },
     {
       "key": "hp",
-      "value": 269.0
+      "value": 299.0
     },
     {
-      "key": "atk",
-      "value": 19.0
+      "key": "critRate_",
+      "value": 3.9
+    },
+    {
+      "key": "enerRech_",
+      "value": 6.5
     }
   ],
   "location": "",

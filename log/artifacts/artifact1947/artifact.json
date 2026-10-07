@@ -1,17 +1,13 @@
 {
-  "setKey": "LuckyDog",
-  "slotKey": "flower",
-  "rarity": 3,
-  "mainStatKey": "hp",
+  "setKey": "WanderersTroupe",
+  "slotKey": "sands",
+  "rarity": 4,
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "def_",
-      "value": 3.5
-    },
-    {
-      "key": "def",
-      "value": 10.0
+      "key": "",
+      "value": 11.0
     }
   ],
   "location": "",

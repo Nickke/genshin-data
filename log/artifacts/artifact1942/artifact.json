@@ -1,13 +1,13 @@
 {
-  "setKey": "GladiatorsFinale",
-  "slotKey": "goblet",
+  "setKey": "PrayersToSpringtime",
+  "slotKey": "circlet",
   "rarity": 4,
-  "mainStatKey": "geo_dmg_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
       "key": "",
-      "value": 470.0
+      "value": 970.0
     }
   ],
   "location": "",

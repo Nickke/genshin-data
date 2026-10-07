@@ -1,16 +1,16 @@
 {
-  "setKey": "GladiatorsFinale",
-  "slotKey": "flower",
+  "setKey": "ScrollOfTheHeroOfCinderCity",
+  "slotKey": "circlet",
   "rarity": 4,
-  "mainStatKey": "hp",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 0.7
+      "key": "",
+      "value": 137.0
     }
   ],
-  "location": "",
+  "location": "Kachina",
   "lock": false,
   "id": 1939
 }

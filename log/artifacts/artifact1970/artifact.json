@@ -1,13 +1,13 @@
 {
-  "setKey": "Berserker",
-  "slotKey": "sands",
+  "setKey": "PrayersToSpringtime",
+  "slotKey": "circlet",
   "rarity": 3,
-  "mainStatKey": "def_",
+  "mainStatKey": "eleMas",
   "level": 0,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 2.3
+      "key": "atk_",
+      "value": 2.8
     }
   ],
   "location": "",

@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
+      "key": "atk",
+      "value": 14.0
+    },
+    {
       "key": "hp_",
-      "value": 5.3
+      "value": 4.1
     },
     {
-      "key": "hp",
-      "value": 239.0
-    },
-    {
-      "key": "eleMas",
-      "value": 21.0
+      "key": "critRate_",
+      "value": 2.7
     },
     {
       "key": "def",
       "value": 16.0
     }
   ],
-  "location": "Mualani",
+  "location": "",
   "lock": true,
   "id": 1348
 }

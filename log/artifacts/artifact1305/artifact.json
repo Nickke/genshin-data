@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 299.0
-    },
-    {
-      "key": "atk",
-      "value": 16.0
-    },
-    {
       "key": "def",
       "value": 23.0
     },
     {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "hp_",
+      "value": 4.7
+    },
+    {
+      "key": "atk",
+      "value": 19.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.5
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 1305
 }

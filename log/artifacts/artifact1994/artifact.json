@@ -1,0 +1,16 @@
+{
+  "setKey": "Instructor",
+  "slotKey": "flower",
+  "rarity": 3,
+  "mainStatKey": "hp",
+  "level": 0,
+  "substats": [
+    {
+      "key": "atk",
+      "value": 7.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1994
+}

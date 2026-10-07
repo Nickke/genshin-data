@@ -1,13 +1,13 @@
 {
   "setKey": "Berserker",
-  "slotKey": "plume",
-  "rarity": 3,
-  "mainStatKey": "atk",
+  "slotKey": "circlet",
+  "rarity": 4,
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 2.1
+      "key": "enerRech_",
+      "value": 4.7
     }
   ],
   "location": "",

@@ -1,16 +1,28 @@
 {
-  "setKey": "PrayersToSpringtime",
-  "slotKey": "circlet",
-  "rarity": 4,
-  "mainStatKey": "heal_",
+  "setKey": "BlizzardStrayer",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "cryo_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "",
-      "value": 8570.0
+      "key": "enerRech_",
+      "value": 4.5
+    },
+    {
+      "key": "hp_",
+      "value": 5.8
+    },
+    {
+      "key": "critDMG_",
+      "value": 7.0
+    },
+    {
+      "key": "def",
+      "value": 19.0
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "Kaeya",
+  "lock": true,
   "id": 1933
 }

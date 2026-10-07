@@ -2,7 +2,7 @@
   "setKey": "ViridescentVenerer",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
@@ -10,16 +10,16 @@
       "value": 6.5
     },
     {
-      "key": "atk",
-      "value": 18.0
-    },
-    {
       "key": "def",
-      "value": 19.0
+      "value": 16.0
     },
     {
-      "key": "eleMas",
+      "key": "atk",
       "value": 16.0
+    },
+    {
+      "key": "hp",
+      "value": 239.0
     }
   ],
   "location": "",

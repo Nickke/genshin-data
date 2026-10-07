@@ -1,28 +1,28 @@
 {
   "setKey": "MaidenBeloved",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "dendro_dmg_",
+  "mainStatKey": "eleMas",
   "level": 0,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 7.8
-    },
-    {
-      "key": "def_",
-      "value": 6.6
-    },
-    {
-      "key": "def",
-      "value": 19.0
-    },
-    {
       "key": "atk",
-      "value": 19.0
+      "value": 14.0
+    },
+    {
+      "key": "hp",
+      "value": 269.0
+    },
+    {
+      "key": "hp_",
+      "value": 4.7
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.8
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 1869
 }

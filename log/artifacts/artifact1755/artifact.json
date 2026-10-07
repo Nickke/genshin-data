@@ -7,11 +7,11 @@
   "substats": [
     {
       "key": "def",
-      "value": 16.0
+      "value": 23.0
     },
     {
-      "key": "eleMas",
-      "value": 16.0
+      "key": "def_",
+      "value": 5.1
     },
     {
       "key": "hp",

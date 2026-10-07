@@ -1,13 +1,13 @@
 {
-  "setKey": "GladiatorsFinale",
+  "setKey": "PrayersToSpringtime",
   "slotKey": "circlet",
   "rarity": 4,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "heal_",
-      "value": 17.1
+      "key": "",
+      "value": 117.0
     }
   ],
   "location": "",

@@ -1,17 +1,13 @@
 {
-  "setKey": "LuckyDog",
-  "slotKey": "plume",
-  "rarity": 3,
-  "mainStatKey": "atk",
+  "setKey": "WanderersTroupe",
+  "slotKey": "goblet",
+  "rarity": 4,
+  "mainStatKey": "pyro_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 115.0
-    },
-    {
-      "key": "critRate_",
-      "value": 1.9
+      "key": "",
+      "value": 14.0
     }
   ],
   "location": "",

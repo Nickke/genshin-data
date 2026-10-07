@@ -2,27 +2,27 @@
   "setKey": "WanderersTroupe",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "geo_dmg_",
+  "mainStatKey": "electro_dmg_",
   "level": 0,
   "substats": [
     {
       "key": "atk",
-      "value": 16.0
+      "value": 18.0
     },
     {
-      "key": "hp_",
+      "key": "critRate_",
+      "value": 3.5
+    },
+    {
+      "key": "eleMas",
+      "value": 21.0
+    },
+    {
+      "key": "enerRech_",
       "value": 5.8
-    },
-    {
-      "key": "def_",
-      "value": 6.6
-    },
-    {
-      "key": "atk_",
-      "value": 4.7
     }
   ],
-  "location": "",
+  "location": "Keqing",
   "lock": true,
   "id": 1259
 }

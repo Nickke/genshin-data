@@ -1,0 +1,16 @@
+{
+  "setKey": "TheExile",
+  "slotKey": "goblet",
+  "rarity": 3,
+  "mainStatKey": "dendro_dmg_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "hp",
+      "value": 115.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1990
+}

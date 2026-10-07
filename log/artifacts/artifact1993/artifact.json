@@ -1,0 +1,16 @@
+{
+  "setKey": "TheExile",
+  "slotKey": "circlet",
+  "rarity": 3,
+  "mainStatKey": "critRate_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def",
+      "value": 10.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1993
+}

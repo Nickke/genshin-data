@@ -1,13 +1,17 @@
 {
-  "setKey": "Instructor",
-  "slotKey": "sands",
-  "rarity": 3,
-  "mainStatKey": "hp_",
+  "setKey": "GladiatorsFinale",
+  "slotKey": "circlet",
+  "rarity": 4,
+  "mainStatKey": "eleMas",
   "level": 0,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 4.2
+      "key": "",
+      "value": 970.0
+    },
+    {
+      "key": "def",
+      "value": 17.0
     }
   ],
   "location": "",

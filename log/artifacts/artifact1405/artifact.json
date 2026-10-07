@@ -1,25 +1,25 @@
 {
   "setKey": "ViridescentVenerer",
-  "slotKey": "plume",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 2.7
+      "key": "critDMG_",
+      "value": 7.8
     },
     {
-      "key": "hp",
-      "value": 209.0
+      "key": "def_",
+      "value": 5.1
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.8
     },
     {
       "key": "eleMas",
-      "value": 16.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 5.4
+      "value": 23.0
     }
   ],
   "location": "",

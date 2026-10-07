@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 19.0
-    },
-    {
-      "key": "hp_",
-      "value": 4.1
+      "key": "critDMG_",
+      "value": 6.2
     },
     {
       "key": "atk_",
       "value": 4.1
     },
     {
-      "key": "eleMas",
-      "value": 21.0
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "def_",
+      "value": 5.1
     }
   ],
-  "location": "Diona",
-  "lock": false,
+  "location": "Kaeya",
+  "lock": true,
   "id": 1910
 }

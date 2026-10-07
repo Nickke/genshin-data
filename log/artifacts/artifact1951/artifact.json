@@ -1,17 +1,13 @@
 {
-  "setKey": "TheExile",
-  "slotKey": "plume",
-  "rarity": 3,
-  "mainStatKey": "atk",
+  "setKey": "GladiatorsFinale",
+  "slotKey": "flower",
+  "rarity": 4,
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 14.0
-    },
-    {
-      "key": "hp",
-      "value": 115.0
+      "key": "enerRech_",
+      "value": 0.7
     }
   ],
   "location": "",

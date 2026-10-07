@@ -2,27 +2,27 @@
   "setKey": "WanderersTroupe",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "critDMG_",
+  "mainStatKey": "critRate_",
   "level": 0,
   "substats": [
+    {
+      "key": "atk_",
+      "value": 4.1
+    },
     {
       "key": "hp",
       "value": 269.0
     },
     {
       "key": "def_",
-      "value": 6.6
+      "value": 7.3
     },
     {
-      "key": "eleMas",
-      "value": 16.0
-    },
-    {
-      "key": "enerRech_",
-      "value": 5.2
+      "key": "atk",
+      "value": 14.0
     }
   ],
-  "location": "Zibai",
+  "location": "Yanfei",
   "lock": true,
   "id": 1358
 }

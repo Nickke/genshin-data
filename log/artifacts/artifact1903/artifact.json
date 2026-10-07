@@ -1,28 +1,28 @@
 {
-  "setKey": "BlizzardStrayer",
-  "slotKey": "plume",
+  "setKey": "Lavawalker",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 6.2
-    },
-    {
-      "key": "atk_",
-      "value": 4.1
+      "key": "def_",
+      "value": 6.6
     },
     {
       "key": "def",
-      "value": 19.0
+      "value": 23.0
     },
     {
-      "key": "def_",
-      "value": 5.1
+      "key": "critRate_",
+      "value": 3.9
+    },
+    {
+      "key": "hp",
+      "value": 269.0
     }
   ],
-  "location": "Kaeya",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 1903
 }

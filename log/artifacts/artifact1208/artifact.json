@@ -2,27 +2,27 @@
   "setKey": "WanderersTroupe",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
       "key": "atk",
-      "value": 19.0
+      "value": 14.0
+    },
+    {
+      "key": "atk_",
+      "value": 4.7
     },
     {
       "key": "enerRech_",
-      "value": 5.8
+      "value": 6.5
     },
     {
-      "key": "critRate_",
-      "value": 3.9
-    },
-    {
-      "key": "hp_",
-      "value": 4.7
+      "key": "critDMG_",
+      "value": 7.8
     }
   ],
-  "location": "Keqing",
+  "location": "",
   "lock": true,
   "id": 1208
 }

@@ -2,27 +2,27 @@
   "setKey": "WanderersTroupe",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "geo_dmg_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
+      "key": "def",
+      "value": 23.0
+    },
+    {
+      "key": "hp",
+      "value": 239.0
+    },
+    {
       "key": "critRate_",
-      "value": 3.9
+      "value": 3.1
     },
     {
-      "key": "hp_",
-      "value": 4.1
-    },
-    {
-      "key": "atk",
-      "value": 16.0
-    },
-    {
-      "key": "atk_",
-      "value": 4.1
+      "key": "enerRech_",
+      "value": 4.5
     }
   ],
-  "location": "",
+  "location": "Mika",
   "lock": true,
   "id": 1265
 }

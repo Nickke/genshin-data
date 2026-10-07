@@ -1,10 +1,19 @@
 {
-  "setKey": "Adventurer",
-  "slotKey": "sands",
-  "rarity": 2,
-  "mainStatKey": "def_",
+  "setKey": "LuckyDog",
+  "slotKey": "goblet",
+  "rarity": 3,
+  "mainStatKey": "hp_",
   "level": 0,
-  "substats": [],
+  "substats": [
+    {
+      "key": "enerRech_",
+      "value": 3.5
+    },
+    {
+      "key": "critDMG_",
+      "value": 4.7
+    }
+  ],
   "location": "",
   "lock": false,
   "id": 1977

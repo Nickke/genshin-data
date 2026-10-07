@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
-      "key": "def_",
-      "value": 7.3
-    },
-    {
-      "key": "critDMG_",
-      "value": 7.0
-    },
-    {
-      "key": "hp_",
+      "key": "atk_",
       "value": 4.1
     },
     {
-      "key": "def",
-      "value": 23.0
+      "key": "critRate_",
+      "value": 3.9
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
+    },
+    {
+      "key": "enerRech_",
+      "value": 4.5
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 1480
 }

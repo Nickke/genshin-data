@@ -1,17 +1,17 @@
 {
-  "setKey": "TheExile",
-  "slotKey": "goblet",
-  "rarity": 3,
-  "mainStatKey": "hp_",
+  "setKey": "GladiatorsFinale",
+  "slotKey": "sands",
+  "rarity": 4,
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 129.0
+      "key": "",
+      "value": 8570.0
     },
     {
-      "key": "def",
-      "value": 9.0
+      "key": "hp",
+      "value": 215.0
     }
   ],
   "location": "",

@@ -1,24 +1,28 @@
 {
   "setKey": "ViridescentVenerer",
-  "slotKey": "sands",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "eleMas",
-  "level": 20,
+  "mainStatKey": "hp",
+  "level": 0,
   "substats": [
     {
-      "key": "hp_",
-      "value": 4.1
-    },
-    {
-      "key": "enerRech_",
-      "value": 5.2
-    },
-    {
       "key": "atk",
-      "value": 16.0
+      "value": 18.0
+    },
+    {
+      "key": "def_",
+      "value": 7.3
+    },
+    {
+      "key": "def",
+      "value": 21.0
+    },
+    {
+      "key": "hp_",
+      "value": 5.3
     }
   ],
-  "location": "YumemizukiMizuki",
+  "location": "",
   "lock": false,
   "id": 1408
 }

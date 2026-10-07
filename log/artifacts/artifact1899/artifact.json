@@ -1,21 +1,21 @@
 {
-  "setKey": "BlizzardStrayer",
+  "setKey": "Lavawalker",
   "slotKey": "flower",
   "rarity": 5,
   "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 14.0
+      "key": "critRate_",
+      "value": 3.5
     },
     {
-      "key": "def",
-      "value": 21.0
+      "key": "enerRech_",
+      "value": 5.8
     },
     {
       "key": "eleMas",
-      "value": 19.0
+      "value": 21.0
     },
     {
       "key": "def_",

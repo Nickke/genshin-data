@@ -2,24 +2,24 @@
   "setKey": "WanderersTroupe",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "enerRech_",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 5.2
+      "key": "def_",
+      "value": 7.3
     },
     {
-      "key": "eleMas",
-      "value": 21.0
+      "key": "hp",
+      "value": 209.0
+    },
+    {
+      "key": "atk",
+      "value": 16.0
     },
     {
       "key": "def",
-      "value": 23.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 5.4
+      "value": 16.0
     }
   ],
   "location": "",

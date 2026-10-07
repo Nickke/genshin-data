@@ -1,16 +1,20 @@
 {
   "setKey": "Berserker",
-  "slotKey": "flower",
-  "rarity": 3,
-  "mainStatKey": "hp",
+  "slotKey": "sands",
+  "rarity": 4,
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 3.3
+      "key": "",
+      "value": 970.0
+    },
+    {
+      "key": "critRate_",
+      "value": 2.2
     }
   ],
-  "location": "YunJin",
+  "location": "",
   "lock": false,
   "id": 1964
 }

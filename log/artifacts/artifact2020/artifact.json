@@ -1,0 +1,20 @@
+{
+  "setKey": "Berserker",
+  "slotKey": "goblet",
+  "rarity": 3,
+  "mainStatKey": "hp_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "eleMas",
+      "value": 11.0
+    },
+    {
+      "key": "atk_",
+      "value": 2.8
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 2020
+}

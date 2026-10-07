@@ -1,13 +1,13 @@
 {
-  "setKey": "GladiatorsFinale",
-  "slotKey": "goblet",
+  "setKey": "PrayersToSpringtime",
+  "slotKey": "circlet",
   "rarity": 4,
-  "mainStatKey": "anemo_dmg_",
+  "mainStatKey": "heal_",
   "level": 0,
   "substats": [
     {
       "key": "",
-      "value": 470.0
+      "value": 8570.0
     }
   ],
   "location": "",

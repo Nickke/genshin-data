@@ -1,15 +1,10 @@
 {
-  "setKey": "TheExile",
-  "slotKey": "sands",
-  "rarity": 3,
-  "mainStatKey": "atk_",
+  "setKey": "GladiatorsFinale",
+  "slotKey": "plume",
+  "rarity": 4,
+  "mainStatKey": "atk",
   "level": 0,
-  "substats": [
-    {
-      "key": "enerRech_",
-      "value": 2.7
-    }
-  ],
+  "substats": [],
   "location": "",
   "lock": false,
   "id": 1953

@@ -1,13 +1,13 @@
 {
   "setKey": "Berserker",
   "slotKey": "flower",
-  "rarity": 3,
+  "rarity": 4,
   "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
-      "value": 3.2
+      "key": "",
+      "value": 8570.0
     }
   ],
   "location": "",

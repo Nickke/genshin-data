@@ -11,15 +11,15 @@
     },
     {
       "key": "atk_",
-      "value": 4.7
+      "value": 5.3
     },
     {
-      "key": "def_",
-      "value": 6.6
+      "key": "atk",
+      "value": 18.0
     },
     {
-      "key": "def",
-      "value": 23.0
+      "key": "enerRech_",
+      "value": 5.8
     }
   ],
   "location": "",

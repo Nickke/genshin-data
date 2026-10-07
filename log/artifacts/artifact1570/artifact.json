@@ -6,16 +6,16 @@
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 23.0
+      "key": "hp",
+      "value": 269.0
     },
     {
       "key": "def_",
-      "value": 5.8
+      "value": 5.1
     },
     {
-      "key": "hp",
-      "value": 299.0
+      "key": "def",
+      "value": 19.0
     },
     {
       "key": "hp_",

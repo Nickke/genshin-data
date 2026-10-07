@@ -1,13 +1,17 @@
 {
-  "setKey": "TheExile",
+  "setKey": "GladiatorsFinale",
   "slotKey": "plume",
-  "rarity": 3,
+  "rarity": 4,
   "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "atk_",
-      "value": 2.8
+      "key": "heal_",
+      "value": 17.1
+    },
+    {
+      "key": "critRate_",
+      "value": 2.5
     }
   ],
   "location": "",

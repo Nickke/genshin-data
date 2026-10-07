@@ -23,6 +23,6 @@
     }
   ],
   "location": "Nefer",
-  "lock": true,
+  "lock": false,
   "id": 156
 }

@@ -1,13 +1,17 @@
 {
-  "setKey": "Berserker",
-  "slotKey": "circlet",
+  "setKey": "LuckyDog",
+  "slotKey": "flower",
   "rarity": 3,
-  "mainStatKey": "hp_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 8.0
+      "key": "hp_",
+      "value": 2.8
+    },
+    {
+      "key": "enerRech_",
+      "value": 2.7
     }
   ],
   "location": "",

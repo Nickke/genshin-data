@@ -1,25 +1,25 @@
 {
   "setKey": "MaidenBeloved",
-  "slotKey": "sands",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 19.0
+      "key": "enerRech_",
+      "value": 6.5
     },
     {
-      "key": "atk",
-      "value": 19.0
+      "key": "eleMas",
+      "value": 21.0
     },
     {
       "key": "hp",
       "value": 209.0
     },
     {
-      "key": "hp_",
-      "value": 5.8
+      "key": "def_",
+      "value": 5.1
     }
   ],
   "location": "",

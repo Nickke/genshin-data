@@ -1,28 +1,28 @@
 {
   "setKey": "BlizzardStrayer",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "cryo_dmg_",
+  "mainStatKey": "enerRech_",
   "level": 0,
   "substats": [
     {
-      "key": "atk_",
-      "value": 4.7
+      "key": "atk",
+      "value": 14.0
     },
     {
-      "key": "enerRech_",
-      "value": 4.5
+      "key": "critRate_",
+      "value": 3.9
     },
     {
-      "key": "hp",
-      "value": 209.0
+      "key": "eleMas",
+      "value": 23.0
     },
     {
-      "key": "critDMG_",
-      "value": 6.2
+      "key": "hp_",
+      "value": 5.8
     }
   ],
-  "location": "KamisatoAyaka",
-  "lock": true,
+  "location": "Mika",
+  "lock": false,
   "id": 1924
 }

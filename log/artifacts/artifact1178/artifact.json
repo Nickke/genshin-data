@@ -7,19 +7,19 @@
   "substats": [
     {
       "key": "def",
-      "value": 19.0
+      "value": 23.0
     },
     {
-      "key": "hp",
-      "value": 239.0
-    },
-    {
-      "key": "enerRech_",
+      "key": "def_",
       "value": 5.8
     },
     {
       "key": "hp_",
       "value": 5.8
+    },
+    {
+      "key": "eleMas",
+      "value": 21.0
     }
   ],
   "location": "",

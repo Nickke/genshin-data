@@ -1,0 +1,16 @@
+{
+  "setKey": "Adventurer",
+  "slotKey": "circlet",
+  "rarity": 3,
+  "mainStatKey": "def_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "critDMG_",
+      "value": 3.7
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1981
+}

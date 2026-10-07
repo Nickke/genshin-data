@@ -1,28 +1,28 @@
 {
   "setKey": "BlizzardStrayer",
-  "slotKey": "sands",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 7.0
-    },
-    {
-      "key": "atk",
-      "value": 14.0
-    },
-    {
       "key": "hp",
-      "value": 269.0
+      "value": 299.0
     },
     {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "def_",
+      "value": 5.8
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.2
+    },
+    {
+      "key": "critRate_",
+      "value": 3.5
     }
   ],
-  "location": "Layla",
+  "location": "",
   "lock": false,
   "id": 1914
 }

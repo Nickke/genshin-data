@@ -1,28 +1,28 @@
 {
   "setKey": "GladiatorsFinale",
-  "slotKey": "circlet",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
+      "key": "def",
       "value": 16.0
     },
     {
       "key": "eleMas",
-      "value": 23.0
+      "value": 16.0
     },
     {
-      "key": "critDMG_",
-      "value": 6.2
+      "key": "hp",
+      "value": 299.0
     },
     {
-      "key": "enerRech_",
-      "value": 5.8
+      "key": "atk_",
+      "value": 4.1
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 1762
 }

@@ -1,28 +1,28 @@
 {
   "setKey": "BlizzardStrayer",
-  "slotKey": "plume",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 5.4
+      "key": "enerRech_",
+      "value": 4.5
     },
     {
-      "key": "critRate_",
-      "value": 3.9
+      "key": "def_",
+      "value": 7.3
     },
     {
-      "key": "eleMas",
-      "value": 21.0
+      "key": "atk_",
+      "value": 5.3
     },
     {
-      "key": "hp_",
-      "value": 4.7
+      "key": "def",
+      "value": 19.0
     }
   ],
-  "location": "KamisatoAyaka",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 1904
 }

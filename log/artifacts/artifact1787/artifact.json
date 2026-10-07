@@ -2,27 +2,27 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "critDMG_",
   "level": 0,
   "substats": [
+    {
+      "key": "eleMas",
+      "value": 16.0
+    },
     {
       "key": "def_",
       "value": 7.3
     },
     {
-      "key": "def",
-      "value": 16.0
-    },
-    {
-      "key": "hp",
-      "value": 299.0
+      "key": "atk_",
+      "value": 4.7
     },
     {
       "key": "atk",
-      "value": 19.0
+      "value": 18.0
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "Noelle",
+  "lock": true,
   "id": 1787
 }

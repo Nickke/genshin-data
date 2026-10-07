@@ -23,6 +23,6 @@
     }
   ],
   "location": "Furina",
-  "lock": true,
+  "lock": false,
   "id": 42
 }

@@ -1,8 +1,8 @@
 {
-  "setKey": "BlizzardStrayer",
-  "slotKey": "flower",
+  "setKey": "MaidenBeloved",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
@@ -10,12 +10,12 @@
       "value": 21.0
     },
     {
-      "key": "eleMas",
-      "value": 16.0
+      "key": "critRate_",
+      "value": 3.9
     },
     {
-      "key": "enerRech_",
-      "value": 6.5
+      "key": "atk",
+      "value": 14.0
     },
     {
       "key": "hp_",

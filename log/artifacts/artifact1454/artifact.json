@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
+      "key": "eleMas",
+      "value": 19.0
+    },
+    {
       "key": "atk_",
-      "value": 4.1
+      "value": 4.7
     },
     {
-      "key": "def",
-      "value": 23.0
+      "key": "enerRech_",
+      "value": 4.5
     },
     {
-      "key": "atk",
-      "value": 18.0
-    },
-    {
-      "key": "critRate_",
-      "value": 2.7
+      "key": "def_",
+      "value": 7.3
     }
   ],
-  "location": "Keqing",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 1454
 }

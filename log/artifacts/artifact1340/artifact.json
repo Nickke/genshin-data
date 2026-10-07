@@ -2,27 +2,27 @@
   "setKey": "WanderersTroupe",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "critDMG_",
+  "mainStatKey": "critRate_",
   "level": 0,
   "substats": [
     {
-      "key": "def",
+      "key": "atk",
       "value": 19.0
     },
     {
-      "key": "hp_",
-      "value": 5.3
+      "key": "hp",
+      "value": 299.0
+    },
+    {
+      "key": "def",
+      "value": 23.0
     },
     {
       "key": "def_",
-      "value": 6.6
-    },
-    {
-      "key": "atk_",
-      "value": 5.8
+      "value": 7.3
     }
   ],
-  "location": "Amber",
+  "location": "Keqing",
   "lock": true,
   "id": 1340
 }

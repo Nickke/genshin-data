@@ -6,20 +6,20 @@
   "level": 0,
   "substats": [
     {
+      "key": "hp",
+      "value": 269.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.9
+    },
+    {
       "key": "enerRech_",
-      "value": 5.8
+      "value": 6.5
     },
     {
       "key": "atk_",
-      "value": 5.8
-    },
-    {
-      "key": "hp",
-      "value": 209.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 7.0
+      "value": 4.7
     }
   ],
   "location": "",

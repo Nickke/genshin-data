@@ -1,10 +1,19 @@
 {
   "setKey": "LuckyDog",
-  "slotKey": "goblet",
-  "rarity": 2,
-  "mainStatKey": "dendro_dmg_",
+  "slotKey": "plume",
+  "rarity": 3,
+  "mainStatKey": "atk",
   "level": 0,
-  "substats": [],
+  "substats": [
+    {
+      "key": "hp",
+      "value": 115.0
+    },
+    {
+      "key": "critRate_",
+      "value": 1.9
+    }
+  ],
   "location": "",
   "lock": false,
   "id": 1975

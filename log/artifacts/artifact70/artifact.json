@@ -23,6 +23,6 @@
     }
   ],
   "location": "Barbara",
-  "lock": true,
+  "lock": false,
   "id": 70
 }

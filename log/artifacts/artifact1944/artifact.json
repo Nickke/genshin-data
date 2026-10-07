@@ -1,17 +1,13 @@
 {
-  "setKey": "Berserker",
-  "slotKey": "plume",
+  "setKey": "WanderersTroupe",
+  "slotKey": "flower",
   "rarity": 4,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
       "key": "",
-      "value": 117.0
-    },
-    {
-      "key": "hp_",
-      "value": 3.3
+      "value": 11.0
     }
   ],
   "location": "",

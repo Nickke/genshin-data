@@ -1,13 +1,13 @@
 {
   "setKey": "MaidenBeloved",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "physical_dmg_",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "def_",
-      "value": 7.3
+      "key": "critDMG_",
+      "value": 5.4
     },
     {
       "key": "hp",
@@ -15,14 +15,14 @@
     },
     {
       "key": "def",
-      "value": 16.0
+      "value": 23.0
     },
     {
-      "key": "critDMG_",
-      "value": 7.8
+      "key": "eleMas",
+      "value": 23.0
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 1874
 }

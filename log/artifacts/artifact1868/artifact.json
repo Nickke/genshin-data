@@ -1,25 +1,25 @@
 {
   "setKey": "MaidenBeloved",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "cryo_dmg_",
+  "mainStatKey": "eleMas",
   "level": 0,
   "substats": [
-    {
-      "key": "critDMG_",
-      "value": 7.8
-    },
     {
       "key": "def",
       "value": 19.0
     },
     {
-      "key": "hp_",
-      "value": 4.7
+      "key": "atk",
+      "value": 19.0
     },
     {
-      "key": "atk_",
-      "value": 4.1
+      "key": "hp",
+      "value": 209.0
+    },
+    {
+      "key": "hp_",
+      "value": 5.8
     }
   ],
   "location": "",

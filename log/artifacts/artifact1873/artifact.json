@@ -1,28 +1,28 @@
 {
   "setKey": "MaidenBeloved",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
       "key": "enerRech_",
-      "value": 5.8
+      "value": 4.5
     },
     {
-      "key": "hp",
-      "value": 269.0
-    },
-    {
-      "key": "def",
-      "value": 19.0
+      "key": "critRate_",
+      "value": 3.1
     },
     {
       "key": "atk_",
       "value": 4.7
+    },
+    {
+      "key": "def",
+      "value": 21.0
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 1873
 }

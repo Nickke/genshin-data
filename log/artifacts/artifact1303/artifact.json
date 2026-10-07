@@ -2,7 +2,7 @@
   "setKey": "WanderersTroupe",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
@@ -10,19 +10,19 @@
       "value": 19.0
     },
     {
-      "key": "eleMas",
-      "value": 23.0
-    },
-    {
-      "key": "atk_",
-      "value": 5.3
-    },
-    {
-      "key": "def_",
+      "key": "hp_",
       "value": 5.8
+    },
+    {
+      "key": "eleMas",
+      "value": 16.0
+    },
+    {
+      "key": "hp",
+      "value": 239.0
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 1303
 }

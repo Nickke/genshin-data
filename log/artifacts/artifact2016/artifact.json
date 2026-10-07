@@ -1,0 +1,20 @@
+{
+  "setKey": "Berserker",
+  "slotKey": "sands",
+  "rarity": 3,
+  "mainStatKey": "enerRech_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def",
+      "value": 8.0
+    },
+    {
+      "key": "eleMas",
+      "value": 13.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 2016
+}

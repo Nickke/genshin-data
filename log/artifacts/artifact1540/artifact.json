@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 3.5
+      "key": "def",
+      "value": 21.0
     },
     {
       "key": "atk_",
-      "value": 4.7
+      "value": 5.8
     },
     {
-      "key": "enerRech_",
-      "value": 5.2
+      "key": "critDMG_",
+      "value": 7.0
     },
     {
-      "key": "eleMas",
-      "value": 21.0
+      "key": "def_",
+      "value": 7.3
     }
   ],
-  "location": "Lynette",
+  "location": "",
   "lock": true,
   "id": 1540
 }

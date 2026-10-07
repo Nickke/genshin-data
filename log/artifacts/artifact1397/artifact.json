@@ -1,25 +1,25 @@
 {
-  "setKey": "ViridescentVenerer",
-  "slotKey": "flower",
+  "setKey": "WanderersTroupe",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 6.2
+      "key": "hp",
+      "value": 209.0
     },
     {
-      "key": "critRate_",
-      "value": 3.9
+      "key": "atk",
+      "value": 14.0
     },
     {
-      "key": "atk_",
-      "value": 5.3
+      "key": "hp_",
+      "value": 4.1
     },
     {
-      "key": "eleMas",
-      "value": 16.0
+      "key": "def_",
+      "value": 7.3
     }
   ],
   "location": "",

@@ -2,27 +2,27 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 19.0
-    },
-    {
       "key": "critDMG_",
-      "value": 6.2
+      "value": 7.0
     },
     {
-      "key": "hp",
-      "value": 239.0
+      "key": "enerRech_",
+      "value": 5.2
     },
     {
-      "key": "atk_",
-      "value": 4.7
+      "key": "critRate_",
+      "value": 3.1
+    },
+    {
+      "key": "hp_",
+      "value": 4.1
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "Arlecchino",
+  "lock": true,
   "id": 1641
 }

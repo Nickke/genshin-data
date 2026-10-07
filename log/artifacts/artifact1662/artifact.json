@@ -2,24 +2,24 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
-      "value": 5.8
+      "key": "enerRech_",
+      "value": 5.2
     },
     {
-      "key": "def",
-      "value": 23.0
+      "key": "hp",
+      "value": 269.0
     },
     {
-      "key": "eleMas",
+      "key": "atk",
       "value": 19.0
     },
     {
-      "key": "atk_",
-      "value": 4.7
+      "key": "critDMG_",
+      "value": 7.0
     }
   ],
   "location": "",

@@ -7,22 +7,22 @@
   "substats": [
     {
       "key": "critDMG_",
-      "value": 6.2
+      "value": 7.0
     },
     {
-      "key": "atk_",
-      "value": 4.1
+      "key": "critRate_",
+      "value": 3.5
     },
     {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "def_",
+      "value": 6.6
     },
     {
-      "key": "hp_",
-      "value": 5.3
+      "key": "def",
+      "value": 16.0
     }
   ],
-  "location": "Diluc",
+  "location": "",
   "lock": true,
   "id": 1552
 }

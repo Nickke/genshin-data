@@ -1,17 +1,13 @@
 {
-  "setKey": "Berserker",
+  "setKey": "WanderersTroupe",
   "slotKey": "sands",
   "rarity": 4,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
       "key": "",
-      "value": 970.0
-    },
-    {
-      "key": "critRate_",
-      "value": 2.2
+      "value": 8570.0
     }
   ],
   "location": "",

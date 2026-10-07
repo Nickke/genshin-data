@@ -6,20 +6,20 @@
   "level": 0,
   "substats": [
     {
-      "key": "def_",
-      "value": 5.1
-    },
-    {
-      "key": "eleMas",
-      "value": 19.0
-    },
-    {
       "key": "enerRech_",
       "value": 5.2
     },
     {
-      "key": "atk",
+      "key": "eleMas",
       "value": 16.0
+    },
+    {
+      "key": "def",
+      "value": 16.0
+    },
+    {
+      "key": "def_",
+      "value": 5.1
     }
   ],
   "location": "",

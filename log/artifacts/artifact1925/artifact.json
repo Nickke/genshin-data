@@ -1,28 +1,28 @@
 {
   "setKey": "BlizzardStrayer",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "cryo_dmg_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
+    {
+      "key": "atk",
+      "value": 19.0
+    },
+    {
+      "key": "def_",
+      "value": 5.8
+    },
     {
       "key": "enerRech_",
       "value": 6.5
     },
     {
-      "key": "hp",
-      "value": 269.0
-    },
-    {
-      "key": "atk",
-      "value": 18.0
-    },
-    {
-      "key": "hp_",
+      "key": "atk_",
       "value": 5.3
     }
   ],
-  "location": "Chongyun",
-  "lock": true,
+  "location": "Diona",
+  "lock": false,
   "id": 1925
 }

@@ -1,28 +1,28 @@
 {
   "setKey": "ViridescentVenerer",
-  "slotKey": "plume",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
+      "key": "def_",
+      "value": 5.8
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.2
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
+    },
+    {
       "key": "eleMas",
-      "value": 23.0
-    },
-    {
-      "key": "hp",
-      "value": 299.0
-    },
-    {
-      "key": "def",
       "value": 21.0
-    },
-    {
-      "key": "critRate_",
-      "value": 3.9
     }
   ],
-  "location": "YumemizukiMizuki",
-  "lock": false,
+  "location": "",
+  "lock": true,
   "id": 1404
 }

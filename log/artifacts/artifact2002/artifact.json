@@ -1,0 +1,20 @@
+{
+  "setKey": "Instructor",
+  "slotKey": "circlet",
+  "rarity": 3,
+  "mainStatKey": "atk_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "eleMas",
+      "value": 11.0
+    },
+    {
+      "key": "def",
+      "value": 10.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 2002
+}

@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
-      "key": "def_",
-      "value": 7.3
+      "key": "hp_",
+      "value": 5.3
+    },
+    {
+      "key": "hp",
+      "value": 269.0
     },
     {
       "key": "def",
-      "value": 16.0
+      "value": 21.0
     },
     {
-      "key": "hp_",
-      "value": 4.7
-    },
-    {
-      "key": "critDMG_",
-      "value": 6.2
+      "key": "critRate_",
+      "value": 3.9
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 1566
 }

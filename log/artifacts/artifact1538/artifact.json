@@ -6,12 +6,8 @@
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 4.5
-    },
-    {
-      "key": "critRate_",
-      "value": 2.7
+      "key": "critDMG_",
+      "value": 5.4
     },
     {
       "key": "def",
@@ -20,9 +16,13 @@
     {
       "key": "atk_",
       "value": 4.7
+    },
+    {
+      "key": "hp_",
+      "value": 4.7
     }
   ],
-  "location": "Keqing",
+  "location": "",
   "lock": true,
   "id": 1538
 }

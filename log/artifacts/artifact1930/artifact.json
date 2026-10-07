@@ -1,28 +1,28 @@
 {
   "setKey": "BlizzardStrayer",
-  "slotKey": "circlet",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "dendro_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 6.2
-    },
-    {
-      "key": "critRate_",
-      "value": 3.9
-    },
-    {
-      "key": "atk",
-      "value": 18.0
+      "key": "def",
+      "value": 19.0
     },
     {
       "key": "hp",
-      "value": 209.0
+      "value": 239.0
+    },
+    {
+      "key": "eleMas",
+      "value": 19.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 4.5
     }
   ],
-  "location": "",
+  "location": "Kaveh",
   "lock": true,
   "id": 1930
 }

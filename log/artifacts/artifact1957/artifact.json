@@ -1,13 +1,13 @@
 {
-  "setKey": "Instructor",
-  "slotKey": "plume",
-  "rarity": 3,
-  "mainStatKey": "atk",
+  "setKey": "GladiatorsFinale",
+  "slotKey": "goblet",
+  "rarity": 4,
+  "mainStatKey": "geo_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 129.0
+      "key": "",
+      "value": 470.0
     }
   ],
   "location": "",

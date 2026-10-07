@@ -2,24 +2,24 @@
   "setKey": "ViridescentVenerer",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "enerRech_",
   "level": 0,
   "substats": [
     {
-      "key": "def_",
-      "value": 7.3
+      "key": "eleMas",
+      "value": 21.0
     },
     {
-      "key": "critRate_",
-      "value": 3.1
+      "key": "def",
+      "value": 16.0
     },
     {
-      "key": "enerRech_",
-      "value": 6.5
+      "key": "atk",
+      "value": 14.0
     },
     {
-      "key": "hp",
-      "value": 299.0
+      "key": "critDMG_",
+      "value": 6.2
     }
   ],
   "location": "",

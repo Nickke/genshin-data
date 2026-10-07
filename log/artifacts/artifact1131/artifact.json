@@ -6,19 +6,19 @@
   "level": 0,
   "substats": [
     {
+      "key": "hp_",
+      "value": 4.7
+    },
+    {
       "key": "hp",
       "value": 269.0
     },
     {
       "key": "atk_",
-      "value": 4.1
+      "value": 5.8
     },
     {
       "key": "eleMas",
-      "value": 16.0
-    },
-    {
-      "key": "def",
       "value": 19.0
     }
   ],

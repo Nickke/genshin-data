@@ -6,12 +6,8 @@
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 21.0
-    },
-    {
-      "key": "enerRech_",
-      "value": 5.2
+      "key": "hp",
+      "value": 239.0
     },
     {
       "key": "critRate_",
@@ -19,10 +15,14 @@
     },
     {
       "key": "atk_",
-      "value": 5.8
+      "value": 5.3
+    },
+    {
+      "key": "critDMG_",
+      "value": 5.4
     }
   ],
-  "location": "",
+  "location": "Jean",
   "lock": true,
   "id": 1143
 }

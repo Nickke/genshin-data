@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 23.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 7.8
+      "key": "def",
+      "value": 21.0
     },
     {
       "key": "critRate_",
-      "value": 3.1
+      "value": 2.7
     },
     {
-      "key": "def_",
-      "value": 6.6
+      "key": "enerRech_",
+      "value": 5.2
+    },
+    {
+      "key": "hp",
+      "value": 209.0
     }
   ],
-  "location": "Qiqi",
+  "location": "",
   "lock": true,
   "id": 1701
 }

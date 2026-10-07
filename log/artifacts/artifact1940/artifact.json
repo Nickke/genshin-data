@@ -1,13 +1,13 @@
 {
-  "setKey": "GladiatorsFinale",
-  "slotKey": "sands",
+  "setKey": "PrayersToSpringtime",
+  "slotKey": "circlet",
   "rarity": 4,
   "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "",
-      "value": 8570.0
+      "key": "enerRech_",
+      "value": 41.7
     }
   ],
   "location": "",

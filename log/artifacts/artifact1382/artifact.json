@@ -2,20 +2,20 @@
   "setKey": "WanderersTroupe",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "heal_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "atk_",
-      "value": 4.1
+      "key": "hp",
+      "value": 239.0
     },
     {
-      "key": "hp_",
-      "value": 5.8
+      "key": "enerRech_",
+      "value": 4.5
     },
     {
-      "key": "critRate_",
-      "value": 3.5
+      "key": "def",
+      "value": 19.0
     },
     {
       "key": "atk",

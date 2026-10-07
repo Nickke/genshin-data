@@ -1,28 +1,28 @@
 {
   "setKey": "GladiatorsFinale",
-  "slotKey": "plume",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 16.0
-    },
-    {
-      "key": "hp",
-      "value": 209.0
-    },
-    {
-      "key": "critRate_",
-      "value": 3.1
+      "key": "eleMas",
+      "value": 23.0
     },
     {
       "key": "atk_",
-      "value": 4.1
+      "value": 5.3
+    },
+    {
+      "key": "atk",
+      "value": 18.0
+    },
+    {
+      "key": "def",
+      "value": 16.0
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 1536
 }

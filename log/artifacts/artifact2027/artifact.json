@@ -1,0 +1,11 @@
+{
+  "setKey": "TravelingDoctor",
+  "slotKey": "goblet",
+  "rarity": 2,
+  "mainStatKey": "hp_",
+  "level": 0,
+  "substats": [],
+  "location": "",
+  "lock": false,
+  "id": 2027
+}

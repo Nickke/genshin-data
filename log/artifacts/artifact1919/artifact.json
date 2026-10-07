@@ -1,28 +1,28 @@
 {
   "setKey": "BlizzardStrayer",
-  "slotKey": "sands",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 299.0
-    },
-    {
-      "key": "hp_",
-      "value": 5.3
-    },
-    {
-      "key": "atk",
-      "value": 18.0
-    },
-    {
       "key": "def_",
       "value": 5.8
+    },
+    {
+      "key": "atk_",
+      "value": 4.7
+    },
+    {
+      "key": "def",
+      "value": 23.0
+    },
+    {
+      "key": "hp",
+      "value": 239.0
     }
   ],
-  "location": "Kaeya",
+  "location": "",
   "lock": false,
   "id": 1919
 }
