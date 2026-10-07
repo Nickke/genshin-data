@@ -23,6 +23,6 @@
     }
   ],
   "location": "Sandrone",
-  "lock": false,
+  "lock": true,
   "id": 5
 }

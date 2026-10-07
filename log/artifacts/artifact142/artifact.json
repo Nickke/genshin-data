@@ -23,6 +23,6 @@
     }
   ],
   "location": "Lauma",
-  "lock": true,
+  "lock": false,
   "id": 142
 }

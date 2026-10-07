@@ -23,6 +23,6 @@
     }
   ],
   "location": "Yelan",
-  "lock": true,
+  "lock": false,
   "id": 84
 }

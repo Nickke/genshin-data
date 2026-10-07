@@ -1,28 +1,28 @@
 {
-  "setKey": "NightOfTheSkysUnveiling",
-  "slotKey": "flower",
+  "setKey": "SilkenMoonsSerenade",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "eleMas",
   "level": 20,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 3.5
+      "key": "def",
+      "value": 37.0
     },
     {
-      "key": "atk",
-      "value": 33.0
+      "key": "hp",
+      "value": 866.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.2
     },
     {
       "key": "hp_",
-      "value": 8.7
-    },
-    {
-      "key": "critDMG_",
-      "value": 20.2
+      "value": 9.9
     }
   ],
-  "location": "Nefer",
+  "location": "Lauma",
   "lock": false,
   "id": 15
 }
