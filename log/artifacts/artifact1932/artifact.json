@@ -1,28 +1,28 @@
 {
-  "setKey": "BlizzardStrayer",
-  "slotKey": "goblet",
+  "setKey": "Lavawalker",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "cryo_dmg_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 6.5
+      "key": "critDMG_",
+      "value": 6.2
     },
     {
       "key": "hp",
       "value": 269.0
     },
     {
-      "key": "atk",
-      "value": 18.0
+      "key": "def_",
+      "value": 6.6
     },
     {
-      "key": "hp_",
-      "value": 5.3
+      "key": "critRate_",
+      "value": 2.7
     }
   ],
-  "location": "Chongyun",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 1932
 }

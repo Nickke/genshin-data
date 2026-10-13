@@ -1,28 +1,28 @@
 {
   "setKey": "EmblemOfSeveredFate",
-  "slotKey": "plume",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
+      "key": "atk",
+      "value": 16.0
+    },
+    {
       "key": "def_",
-      "value": 5.8
+      "value": 5.1
     },
     {
-      "key": "critRate_",
-      "value": 3.1
+      "key": "hp_",
+      "value": 5.3
     },
     {
-      "key": "hp",
-      "value": 299.0
-    },
-    {
-      "key": "atk_",
-      "value": 5.8
+      "key": "eleMas",
+      "value": 23.0
     }
   ],
-  "location": "",
-  "lock": true,
+  "location": "Mika",
+  "lock": false,
   "id": 722
 }

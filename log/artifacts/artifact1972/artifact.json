@@ -1,16 +1,16 @@
 {
-  "setKey": "TravelingDoctor",
-  "slotKey": "goblet",
+  "setKey": "Berserker",
+  "slotKey": "sands",
   "rarity": 3,
-  "mainStatKey": "pyro_dmg_",
+  "mainStatKey": "enerRech_",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 100.0
+      "key": "hp_",
+      "value": 3.2
     }
   ],
-  "location": "",
+  "location": "Gorou",
   "lock": false,
   "id": 1972
 }

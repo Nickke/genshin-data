@@ -1,28 +1,28 @@
 {
   "setKey": "MarechausseeHunter",
-  "slotKey": "circlet",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "critDMG_",
+  "mainStatKey": "atk",
   "level": 20,
   "substats": [
     {
-      "key": "atk",
-      "value": 29.0
+      "key": "enerRech_",
+      "value": 11.7
     },
     {
       "key": "def",
-      "value": 19.0
-    },
-    {
-      "key": "critRate_",
-      "value": 13.6
+      "value": 39.0
     },
     {
       "key": "hp",
-      "value": 239.0
+      "value": 538.0
+    },
+    {
+      "key": "hp_",
+      "value": 9.9
     }
   ],
-  "location": "Skirk",
-  "lock": false,
+  "location": "Neuvillette",
+  "lock": true,
   "id": 50
 }

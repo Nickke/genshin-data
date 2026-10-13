@@ -2,27 +2,27 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "pyro_dmg_",
   "level": 0,
   "substats": [
     {
+      "key": "atk_",
+      "value": 4.1
+    },
+    {
       "key": "atk",
-      "value": 19.0
+      "value": 18.0
     },
     {
       "key": "critRate_",
-      "value": 3.9
+      "value": 2.7
     },
     {
       "key": "def_",
       "value": 7.3
-    },
-    {
-      "key": "eleMas",
-      "value": 19.0
     }
   ],
-  "location": "Noelle",
-  "lock": false,
+  "location": "",
+  "lock": true,
   "id": 1731
 }

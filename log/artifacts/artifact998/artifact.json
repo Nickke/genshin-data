@@ -1,25 +1,25 @@
 {
-  "setKey": "HeartOfDepth",
-  "slotKey": "sands",
+  "setKey": "ShimenawasReminiscence",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "enerRech_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 19.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 7.0
-    },
-    {
       "key": "def",
+      "value": 23.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 6.5
+    },
+    {
+      "key": "eleMas",
       "value": 21.0
     },
     {
-      "key": "atk_",
-      "value": 4.1
+      "key": "hp",
+      "value": 209.0
     }
   ],
   "location": "",

@@ -1,28 +1,28 @@
 {
-  "setKey": "NightOfTheSkysUnveiling",
-  "slotKey": "plume",
+  "setKey": "SilkenMoonsSerenade",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "atk_",
-      "value": 5.3
+      "key": "def",
+      "value": 16.0
     },
     {
       "key": "def_",
-      "value": 6.6
+      "value": 5.1
     },
     {
-      "key": "critRate_",
-      "value": 3.9
+      "key": "enerRech_",
+      "value": 4.5
     },
     {
       "key": "eleMas",
       "value": 23.0
     }
   ],
-  "location": "Zibai",
+  "location": "",
   "lock": false,
   "id": 381
 }

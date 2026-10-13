@@ -1,28 +1,28 @@
 {
-  "setKey": "ShimenawasReminiscence",
-  "slotKey": "flower",
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "heal_",
   "level": 0,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 6.2
+      "key": "atk",
+      "value": 14.0
     },
     {
-      "key": "def_",
-      "value": 6.6
+      "key": "eleMas",
+      "value": 21.0
+    },
+    {
+      "key": "hp",
+      "value": 209.0
     },
     {
       "key": "hp_",
-      "value": 4.1
-    },
-    {
-      "key": "def",
-      "value": 16.0
+      "value": 5.3
     }
   ],
-  "location": "",
+  "location": "Mika",
   "lock": false,
   "id": 855
 }

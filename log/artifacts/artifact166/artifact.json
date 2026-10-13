@@ -1,21 +1,21 @@
 {
-  "setKey": "ObsidianCodex",
-  "slotKey": "circlet",
+  "setKey": "SilkenMoonsSerenade",
+  "slotKey": "flower",
   "rarity": 4,
-  "mainStatKey": "critDMG_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
       "key": "",
-      "value": 14.0
+      "value": 11447.0
     },
     {
-      "key": "hp",
-      "value": 191.0
+      "key": "atk",
+      "value": 11.0
     },
     {
       "key": "hp_",
-      "value": 7.5
+      "value": 7.9
     }
   ],
   "location": "",

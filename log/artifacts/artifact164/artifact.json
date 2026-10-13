@@ -1,21 +1,21 @@
 {
-  "setKey": "SilkenMoonsSerenade",
+  "setKey": "HeartOfTheFurnace",
   "slotKey": "circlet",
   "rarity": 4,
-  "mainStatKey": "hp_",
+  "mainStatKey": "critDMG_",
   "level": 0,
   "substats": [
     {
-      "key": "",
-      "value": 19.0
+      "key": "heal_",
+      "value": 137.1
     },
     {
-      "key": "atk",
-      "value": 37.0
+      "key": "enerRech_",
+      "value": 4.1
     },
     {
-      "key": "eleMas",
-      "value": 26.0
+      "key": "hp_",
+      "value": 7.9
     }
   ],
   "location": "",

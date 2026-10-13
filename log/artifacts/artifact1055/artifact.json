@@ -1,28 +1,28 @@
 {
-  "setKey": "WanderersTroupe",
-  "slotKey": "flower",
+  "setKey": "NoblesseOblige",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "eleMas",
   "level": 0,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 7.8
-    },
-    {
       "key": "def",
-      "value": 21.0
+      "value": 19.0
     },
     {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "hp",
+      "value": 239.0
     },
     {
-      "key": "hp_",
-      "value": 4.7
+      "key": "enerRech_",
+      "value": 5.2
+    },
+    {
+      "key": "atk",
+      "value": 14.0
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 1055
 }

@@ -1,28 +1,28 @@
 {
   "setKey": "ShimenawasReminiscence",
-  "slotKey": "plume",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp",
   "level": 20,
   "substats": [
     {
-      "key": "hp",
-      "value": 478.0
-    },
-    {
-      "key": "def_",
-      "value": 19.0
-    },
-    {
-      "key": "def",
-      "value": 19.0
+      "key": "critDMG_",
+      "value": 23.3
     },
     {
       "key": "enerRech_",
-      "value": 16.2
+      "value": 11.0
+    },
+    {
+      "key": "hp_",
+      "value": 11.7
+    },
+    {
+      "key": "eleMas",
+      "value": 19.0
     }
   ],
-  "location": "Xiangling",
+  "location": "Dehya",
   "lock": false,
   "id": 118
 }

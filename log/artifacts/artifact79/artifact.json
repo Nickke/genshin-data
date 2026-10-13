@@ -1,28 +1,28 @@
 {
   "setKey": "VermillionHereafter",
-  "slotKey": "sands",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hp",
   "level": 20,
   "substats": [
     {
-      "key": "hp_",
-      "value": 9.3
+      "key": "critDMG_",
+      "value": 7.8
     },
     {
-      "key": "atk",
-      "value": 31.0
+      "key": "def_",
+      "value": 16.0
     },
     {
-      "key": "hp",
-      "value": 508.0
+      "key": "eleMas",
+      "value": 42.0
     },
     {
-      "key": "def",
-      "value": 37.0
+      "key": "critRate_",
+      "value": 7.0
     }
   ],
   "location": "Xiao",
-  "lock": false,
+  "lock": true,
   "id": 79
 }

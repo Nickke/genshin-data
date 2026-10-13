@@ -2,27 +2,27 @@
   "setKey": "EmblemOfSeveredFate",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "critRate_",
   "level": 20,
   "substats": [
     {
       "key": "hp",
-      "value": 508.0
+      "value": 687.0
     },
     {
-      "key": "critRate_",
-      "value": 7.0
-    },
-    {
-      "key": "enerRech_",
-      "value": 16.8
+      "key": "def",
+      "value": 37.0
     },
     {
       "key": "eleMas",
-      "value": 19.0
+      "value": 21.0
+    },
+    {
+      "key": "atk_",
+      "value": 14.6
     }
   ],
-  "location": "Dehya",
-  "lock": true,
+  "location": "Xingqiu",
+  "lock": false,
   "id": 111
 }

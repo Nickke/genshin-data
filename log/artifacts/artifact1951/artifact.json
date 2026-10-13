@@ -1,16 +1,28 @@
 {
-  "setKey": "GladiatorsFinale",
-  "slotKey": "flower",
-  "rarity": 4,
-  "mainStatKey": "hp",
+  "setKey": "BlizzardStrayer",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 0.7
+      "key": "critDMG_",
+      "value": 7.0
+    },
+    {
+      "key": "atk",
+      "value": 14.0
+    },
+    {
+      "key": "hp",
+      "value": 269.0
+    },
+    {
+      "key": "eleMas",
+      "value": 23.0
     }
   ],
-  "location": "",
+  "location": "Layla",
   "lock": false,
   "id": 1951
 }

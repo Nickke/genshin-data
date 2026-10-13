@@ -1,9 +1,9 @@
 {
-  "key": "SacrificialSword",
+  "key": "LionsRoar",
   "level": 90,
   "ascension": 6,
-  "refinement": 5,
-  "location": "Skirk",
+  "refinement": 4,
+  "location": "",
   "lock": false,
   "id": 25
 }

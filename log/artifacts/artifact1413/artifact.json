@@ -1,24 +1,28 @@
 {
-  "setKey": "ViridescentVenerer",
-  "slotKey": "sands",
+  "setKey": "WanderersTroupe",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "eleMas",
-  "level": 20,
+  "mainStatKey": "atk_",
+  "level": 0,
   "substats": [
     {
+      "key": "hp",
+      "value": 299.0
+    },
+    {
+      "key": "critRate_",
+      "value": 2.7
+    },
+    {
+      "key": "def_",
+      "value": 5.1
+    },
+    {
       "key": "hp_",
-      "value": 4.1
-    },
-    {
-      "key": "enerRech_",
-      "value": 5.2
-    },
-    {
-      "key": "atk",
-      "value": 16.0
+      "value": 4.7
     }
   ],
-  "location": "YumemizukiMizuki",
+  "location": "",
   "lock": false,
   "id": 1413
 }

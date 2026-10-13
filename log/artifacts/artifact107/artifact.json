@@ -2,27 +2,27 @@
   "setKey": "EmblemOfSeveredFate",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "pyro_dmg_",
+  "mainStatKey": "electro_dmg_",
   "level": 20,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 7.8
-    },
-    {
-      "key": "def",
-      "value": 32.0
+      "key": "atk",
+      "value": 35.0
     },
     {
       "key": "eleMas",
-      "value": 47.0
+      "value": 40.0
+    },
+    {
+      "key": "hp",
+      "value": 209.0
     },
     {
       "key": "critDMG_",
-      "value": 14.8
+      "value": 21.0
     }
   ],
-  "location": "Dehya",
+  "location": "RaidenShogun",
   "lock": true,
   "id": 107
 }

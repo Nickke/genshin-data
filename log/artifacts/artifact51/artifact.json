@@ -1,28 +1,28 @@
 {
-  "setKey": "DesertPavilionChronicle",
-  "slotKey": "flower",
+  "setKey": "MarechausseeHunter",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "hp_",
   "level": 20,
   "substats": [
     {
-      "key": "def",
-      "value": 16.0
+      "key": "hp",
+      "value": 986.0
+    },
+    {
+      "key": "def_",
+      "value": 10.9
     },
     {
       "key": "atk",
-      "value": 29.0
+      "value": 16.0
     },
     {
-      "key": "eleMas",
-      "value": 63.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 14.0
+      "key": "enerRech_",
+      "value": 4.5
     }
   ],
-  "location": "Furina",
+  "location": "Neuvillette",
   "lock": false,
   "id": 51
 }

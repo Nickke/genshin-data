@@ -1,25 +1,25 @@
 {
   "setKey": "CelestialGift",
-  "slotKey": "circlet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "critDMG_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 3.1
+      "key": "eleMas",
+      "value": 23.0
     },
     {
-      "key": "enerRech_",
-      "value": 5.8
+      "key": "critRate_",
+      "value": 3.5
     },
     {
       "key": "hp_",
-      "value": 4.7
+      "value": 5.8
     },
     {
-      "key": "def_",
-      "value": 6.6
+      "key": "atk",
+      "value": 14.0
     }
   ],
   "location": "",

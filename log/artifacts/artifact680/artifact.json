@@ -1,28 +1,28 @@
 {
-  "setKey": "EchoesOfAnOffering",
+  "setKey": "DeepwoodMemories",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "anemo_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "atk_",
+      "value": 5.8
     },
     {
-      "key": "critDMG_",
-      "value": 7.8
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "hp_",
+      "value": 5.3
     },
     {
       "key": "def_",
-      "value": 5.1
-    },
-    {
-      "key": "atk",
-      "value": 14.0
+      "value": 7.3
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "ShikanoinHeizou",
+  "lock": true,
   "id": 680
 }

@@ -1,28 +1,28 @@
 {
   "setKey": "ScrollOfTheHeroOfCinderCity",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "anemo_dmg_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
-    {
-      "key": "enerRech_",
-      "value": 4.5
-    },
-    {
-      "key": "hp_",
-      "value": 5.3
-    },
     {
       "key": "critRate_",
       "value": 3.9
     },
     {
-      "key": "hp",
-      "value": 209.0
+      "key": "enerRech_",
+      "value": 5.2
+    },
+    {
+      "key": "atk",
+      "value": 16.0
+    },
+    {
+      "key": "def",
+      "value": 21.0
     }
   ],
-  "location": "",
+  "location": "Kachina",
   "lock": true,
   "id": 529
 }

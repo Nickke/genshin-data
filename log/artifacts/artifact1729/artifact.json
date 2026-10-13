@@ -2,27 +2,27 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "anemo_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 3.1
+      "key": "critDMG_",
+      "value": 7.0
     },
     {
-      "key": "atk",
-      "value": 16.0
-    },
-    {
-      "key": "hp",
-      "value": 239.0
+      "key": "def_",
+      "value": 7.3
     },
     {
       "key": "def",
-      "value": 19.0
+      "value": 16.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.2
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 1729
 }

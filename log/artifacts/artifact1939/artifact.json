@@ -1,16 +1,28 @@
 {
-  "setKey": "ScrollOfTheHeroOfCinderCity",
-  "slotKey": "circlet",
-  "rarity": 4,
-  "mainStatKey": "def_",
+  "setKey": "BlizzardStrayer",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "",
-      "value": 137.0
+      "key": "def",
+      "value": 16.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
+    },
+    {
+      "key": "hp",
+      "value": 239.0
+    },
+    {
+      "key": "atk_",
+      "value": 5.8
     }
   ],
-  "location": "Kachina",
-  "lock": false,
+  "location": "",
+  "lock": true,
   "id": 1939
 }

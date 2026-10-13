@@ -1,28 +1,28 @@
 {
-  "setKey": "GildedDreams",
-  "slotKey": "plume",
+  "setKey": "MarechausseeHunter",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 209.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 6.2
-    },
-    {
-      "key": "hp_",
-      "value": 5.8
+      "key": "critRate_",
+      "value": 3.9
     },
     {
       "key": "enerRech_",
-      "value": 6.5
+      "value": 5.8
+    },
+    {
+      "key": "hp_",
+      "value": 4.7
+    },
+    {
+      "key": "def",
+      "value": 16.0
     }
   ],
-  "location": "Mualani",
+  "location": "",
   "lock": false,
   "id": 620
 }

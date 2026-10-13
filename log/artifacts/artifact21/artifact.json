@@ -1,28 +1,28 @@
 {
   "setKey": "FinaleOfTheDeepGalleries",
-  "slotKey": "plume",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp",
   "level": 20,
   "substats": [
     {
-      "key": "hp",
-      "value": 299.0
-    },
-    {
       "key": "critRate_",
-      "value": 7.0
+      "value": 5.8
     },
     {
       "key": "atk_",
-      "value": 21.0
+      "value": 12.8
     },
     {
-      "key": "def",
-      "value": 23.0
+      "key": "atk",
+      "value": 33.0
+    },
+    {
+      "key": "def_",
+      "value": 6.6
     }
   ],
-  "location": "Zhongli",
+  "location": "Skirk",
   "lock": false,
   "id": 21
 }

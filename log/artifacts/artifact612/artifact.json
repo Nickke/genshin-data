@@ -1,28 +1,28 @@
 {
-  "setKey": "DesertPavilionChronicle",
-  "slotKey": "sands",
+  "setKey": "MarechausseeHunter",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "pyro_dmg_",
   "level": 0,
   "substats": [
     {
+      "key": "hp",
+      "value": 269.0
+    },
+    {
       "key": "critDMG_",
-      "value": 6.2
-    },
-    {
-      "key": "critRate_",
-      "value": 3.9
-    },
-    {
-      "key": "eleMas",
-      "value": 23.0
+      "value": 7.0
     },
     {
       "key": "def_",
+      "value": 6.6
+    },
+    {
+      "key": "enerRech_",
       "value": 5.8
     }
   ],
-  "location": "Yanfei",
+  "location": "",
   "lock": true,
   "id": 612
 }

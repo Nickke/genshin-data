@@ -2,27 +2,27 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "anemo_dmg_",
   "level": 20,
   "substats": [
     {
-      "key": "hp",
-      "value": 239.0
+      "key": "enerRech_",
+      "value": 5.8
     },
     {
       "key": "def",
       "value": 16.0
     },
     {
-      "key": "hp_",
-      "value": 11.7
+      "key": "critRate_",
+      "value": 10.5
     },
     {
       "key": "atk",
-      "value": 86.0
+      "value": 47.0
     }
   ],
-  "location": "Nefer",
-  "lock": false,
+  "location": "",
+  "lock": true,
   "id": 156
 }

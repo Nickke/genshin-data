@@ -1,8 +1,8 @@
 {
   "setKey": "DeepwoodMemories",
-  "slotKey": "circlet",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "heal_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
@@ -10,16 +10,16 @@
       "value": 19.0
     },
     {
+      "key": "enerRech_",
+      "value": 4.5
+    },
+    {
       "key": "atk_",
-      "value": 4.7
+      "value": 4.1
     },
     {
       "key": "atk",
-      "value": 18.0
-    },
-    {
-      "key": "hp",
-      "value": 209.0
+      "value": 16.0
     }
   ],
   "location": "",

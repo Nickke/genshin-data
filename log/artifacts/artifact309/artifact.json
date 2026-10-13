@@ -1,28 +1,28 @@
 {
-  "setKey": "AubadeOfMorningstarAndMoon",
-  "slotKey": "flower",
+  "setKey": "ADayCarvedFromRisingWinds",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "hydro_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "hp",
+      "value": 269.0
     },
     {
       "key": "def",
-      "value": 16.0
-    },
-    {
-      "key": "hp_",
-      "value": 5.8
+      "value": 21.0
     },
     {
       "key": "def_",
-      "value": 6.6
+      "value": 5.8
+    },
+    {
+      "key": "atk",
+      "value": 14.0
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 309
 }

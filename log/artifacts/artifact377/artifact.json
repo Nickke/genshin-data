@@ -1,25 +1,25 @@
 {
-  "setKey": "NightOfTheSkysUnveiling",
-  "slotKey": "plume",
+  "setKey": "SilkenMoonsSerenade",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "heal_",
   "level": 0,
   "substats": [
+    {
+      "key": "hp_",
+      "value": 5.3
+    },
+    {
+      "key": "atk",
+      "value": 16.0
+    },
     {
       "key": "def_",
       "value": 6.6
     },
     {
-      "key": "hp",
-      "value": 209.0
-    },
-    {
       "key": "enerRech_",
       "value": 4.5
-    },
-    {
-      "key": "def",
-      "value": 16.0
     }
   ],
   "location": "",

@@ -1,25 +1,25 @@
 {
-  "setKey": "ObsidianCodex",
-  "slotKey": "flower",
+  "setKey": "LongNightsOath",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
+      "key": "critRate_",
+      "value": 3.9
+    },
+    {
+      "key": "enerRech_",
+      "value": 4.5
+    },
+    {
+      "key": "atk_",
       "value": 4.1
     },
     {
-      "key": "def_",
-      "value": 5.1
-    },
-    {
-      "key": "def",
-      "value": 21.0
-    },
-    {
-      "key": "critRate_",
-      "value": 3.5
+      "key": "atk",
+      "value": 19.0
     }
   ],
   "location": "",

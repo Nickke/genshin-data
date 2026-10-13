@@ -1,25 +1,25 @@
 {
-  "setKey": "EmblemOfSeveredFate",
+  "setKey": "OceanHuedClam",
   "slotKey": "flower",
   "rarity": 5,
   "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
-      "value": 4.1
-    },
-    {
       "key": "enerRech_",
-      "value": 4.5
+      "value": 6.5
     },
     {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "atk",
+      "value": 19.0
     },
     {
-      "key": "def",
-      "value": 21.0
+      "key": "hp_",
+      "value": 5.3
+    },
+    {
+      "key": "atk_",
+      "value": 4.1
     }
   ],
   "location": "",

@@ -2,27 +2,27 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "hydro_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 19.0
+      "key": "atk",
+      "value": 16.0
+    },
+    {
+      "key": "eleMas",
+      "value": 21.0
     },
     {
       "key": "hp",
       "value": 299.0
     },
     {
-      "key": "critRate_",
-      "value": 3.9
-    },
-    {
-      "key": "enerRech_",
-      "value": 5.8
+      "key": "hp_",
+      "value": 4.1
     }
   ],
-  "location": "Layla",
-  "lock": false,
+  "location": "",
+  "lock": true,
   "id": 1736
 }

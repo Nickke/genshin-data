@@ -2,27 +2,27 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
+      "key": "critDMG_",
+      "value": 5.4
+    },
+    {
+      "key": "eleMas",
       "value": 16.0
     },
     {
-      "key": "atk_",
-      "value": 4.1
-    },
-    {
-      "key": "def",
-      "value": 21.0
+      "key": "critRate_",
+      "value": 3.9
     },
     {
       "key": "enerRech_",
-      "value": 6.5
+      "value": 5.8
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "Gorou",
+  "lock": true,
   "id": 1798
 }

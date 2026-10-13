@@ -1,8 +1,8 @@
 {
   "setKey": "ObsidianCodex",
-  "slotKey": "plume",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
@@ -10,16 +10,16 @@
       "value": 4.7
     },
     {
-      "key": "def_",
-      "value": 5.8
-    },
-    {
       "key": "eleMas",
-      "value": 23.0
+      "value": 19.0
     },
     {
-      "key": "def",
-      "value": 16.0
+      "key": "enerRech_",
+      "value": 5.2
+    },
+    {
+      "key": "critRate_",
+      "value": 3.5
     }
   ],
   "location": "",

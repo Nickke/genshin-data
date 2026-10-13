@@ -2,27 +2,27 @@
   "setKey": "EmblemOfSeveredFate",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "hydro_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 23.0
+      "key": "atk_",
+      "value": 4.7
     },
     {
-      "key": "eleMas",
+      "key": "critRate_",
+      "value": 3.1
+    },
+    {
+      "key": "def",
       "value": 16.0
     },
     {
-      "key": "hp",
-      "value": 299.0
-    },
-    {
-      "key": "enerRech_",
-      "value": 6.5
+      "key": "hp_",
+      "value": 4.7
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 809
 }

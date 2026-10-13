@@ -1,28 +1,28 @@
 {
   "setKey": "WanderersTroupe",
-  "slotKey": "circlet",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "critRate_",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "atk_",
-      "value": 4.1
+      "key": "def",
+      "value": 19.0
     },
     {
-      "key": "atk",
-      "value": 14.0
+      "key": "eleMas",
+      "value": 19.0
+    },
+    {
+      "key": "hp",
+      "value": 209.0
     },
     {
       "key": "enerRech_",
-      "value": 5.2
-    },
-    {
-      "key": "def",
-      "value": 23.0
+      "value": 4.5
     }
   ],
-  "location": "Lynette",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 1343
 }

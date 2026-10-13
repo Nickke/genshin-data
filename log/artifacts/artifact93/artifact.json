@@ -6,23 +6,23 @@
   "level": 20,
   "substats": [
     {
-      "key": "def",
-      "value": 53.0
+      "key": "critRate_",
+      "value": 6.6
     },
     {
-      "key": "critRate_",
-      "value": 5.8
+      "key": "enerRech_",
+      "value": 10.4
     },
     {
       "key": "eleMas",
-      "value": 37.0
+      "value": 56.0
     },
     {
-      "key": "critDMG_",
-      "value": 7.8
+      "key": "def",
+      "value": 39.0
     }
   ],
-  "location": "Yelan",
+  "location": "Traveler",
   "lock": true,
   "id": 93
 }

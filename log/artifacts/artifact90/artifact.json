@@ -6,23 +6,19 @@
   "level": 20,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 14.2
-    },
-    {
-      "key": "def",
-      "value": 32.0
-    },
-    {
-      "key": "hp",
-      "value": 538.0
+      "key": "critRate_",
+      "value": 18.3
     },
     {
       "key": "critDMG_",
-      "value": 14.0
+      "value": 5.4
+    },
+    {
+      "key": "def",
+      "value": 42.0
     }
   ],
-  "location": "RaidenShogun",
-  "lock": true,
+  "location": "Xingqiu",
+  "lock": false,
   "id": 90
 }

@@ -1,28 +1,28 @@
 {
   "setKey": "WanderersTroupe",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "pyro_dmg_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
       "key": "critDMG_",
-      "value": 6.2
+      "value": 7.0
+    },
+    {
+      "key": "atk",
+      "value": 14.0
     },
     {
       "key": "def",
-      "value": 23.0
+      "value": 16.0
     },
     {
       "key": "hp",
-      "value": 269.0
-    },
-    {
-      "key": "eleMas",
-      "value": 19.0
+      "value": 209.0
     }
   ],
-  "location": "Yanfei",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 1266
 }

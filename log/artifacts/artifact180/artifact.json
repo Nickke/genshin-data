@@ -1,25 +1,25 @@
 {
-  "setKey": "EmblemOfSeveredFate",
-  "slotKey": "circlet",
-  "rarity": 5,
-  "mainStatKey": "hp_",
-  "level": 8,
+  "setKey": "TravelingDoctor",
+  "slotKey": "goblet",
+  "rarity": 3,
+  "mainStatKey": "electro_dmg_",
+  "level": 12,
   "substats": [
     {
       "key": "eleMas",
-      "value": 19.0
+      "value": 14.0
     },
     {
-      "key": "atk",
-      "value": 16.0
+      "key": "hp",
+      "value": 129.0
     },
     {
-      "key": "enerRech_",
-      "value": 5.2
+      "key": "atk_",
+      "value": 3.5
     },
     {
-      "key": "def",
-      "value": 42.0
+      "key": "hp_",
+      "value": 2.5
     }
   ],
   "location": "",

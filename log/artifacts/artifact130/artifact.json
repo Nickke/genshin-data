@@ -1,28 +1,28 @@
 {
   "setKey": "ShimenawasReminiscence",
-  "slotKey": "circlet",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "pyro_dmg_",
   "level": 20,
   "substats": [
     {
-      "key": "hp_",
-      "value": 10.5
-    },
-    {
-      "key": "eleMas",
-      "value": 40.0
+      "key": "def_",
+      "value": 14.6
     },
     {
       "key": "def",
-      "value": 44.0
+      "value": 42.0
     },
     {
-      "key": "enerRech_",
-      "value": 14.9
+      "key": "hp",
+      "value": 777.0
+    },
+    {
+      "key": "eleMas",
+      "value": 19.0
     }
   ],
-  "location": "Jean",
+  "location": "Mavuika",
   "lock": true,
   "id": 130
 }

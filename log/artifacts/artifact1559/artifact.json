@@ -1,28 +1,28 @@
 {
   "setKey": "GladiatorsFinale",
-  "slotKey": "plume",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
       "key": "def_",
-      "value": 5.8
-    },
-    {
-      "key": "critRate_",
-      "value": 3.5
-    },
-    {
-      "key": "atk_",
-      "value": 5.3
+      "value": 5.1
     },
     {
       "key": "eleMas",
       "value": 19.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.2
+    },
+    {
+      "key": "atk",
+      "value": 16.0
     }
   ],
-  "location": "Arlecchino",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 1559
 }

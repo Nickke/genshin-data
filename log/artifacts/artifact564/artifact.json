@@ -1,25 +1,25 @@
 {
-  "setKey": "GoldenTroupe",
-  "slotKey": "sands",
+  "setKey": "ScrollOfTheHeroOfCinderCity",
+  "slotKey": "circlet",
   "rarity": 5,
   "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
+      "key": "eleMas",
+      "value": 19.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 6.5
+    },
+    {
+      "key": "atk_",
+      "value": 4.7
+    },
+    {
       "key": "def",
       "value": 23.0
-    },
-    {
-      "key": "eleMas",
-      "value": 23.0
-    },
-    {
-      "key": "def_",
-      "value": 7.3
-    },
-    {
-      "key": "hp",
-      "value": 239.0
     }
   ],
   "location": "",

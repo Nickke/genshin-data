@@ -1,9 +1,9 @@
 {
-  "key": "FavoniusSword",
-  "level": 39,
-  "ascension": 1,
+  "key": "FavoniusWarbow",
+  "level": 50,
+  "ascension": 2,
   "refinement": 3,
-  "location": "Jean",
+  "location": "Amber",
   "lock": false,
   "id": 40
 }

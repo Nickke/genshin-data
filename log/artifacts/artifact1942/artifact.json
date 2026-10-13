@@ -1,16 +1,28 @@
 {
-  "setKey": "PrayersToSpringtime",
-  "slotKey": "circlet",
-  "rarity": 4,
-  "mainStatKey": "atk_",
+  "setKey": "BlizzardStrayer",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "",
-      "value": 970.0
+      "key": "eleMas",
+      "value": 23.0
+    },
+    {
+      "key": "atk_",
+      "value": 4.1
+    },
+    {
+      "key": "critRate_",
+      "value": 2.7
+    },
+    {
+      "key": "critDMG_",
+      "value": 5.4
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "Freminet",
+  "lock": true,
   "id": 1942
 }

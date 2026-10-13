@@ -1,25 +1,25 @@
 {
-  "setKey": "LongNightsOath",
+  "setKey": "NightOfTheSkysUnveiling",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "pyro_dmg_",
+  "mainStatKey": "physical_dmg_",
   "level": 0,
   "substats": [
     {
+      "key": "atk",
+      "value": 16.0
+    },
+    {
+      "key": "hp",
+      "value": 209.0
+    },
+    {
       "key": "def",
-      "value": 19.0
+      "value": 16.0
     },
     {
-      "key": "eleMas",
-      "value": 19.0
-    },
-    {
-      "key": "enerRech_",
-      "value": 6.5
-    },
-    {
-      "key": "critRate_",
-      "value": 3.5
+      "key": "hp_",
+      "value": 5.3
     }
   ],
   "location": "",

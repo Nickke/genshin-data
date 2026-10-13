@@ -1,28 +1,28 @@
 {
   "setKey": "GildedDreams",
-  "slotKey": "sands",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "atk",
   "level": 20,
   "substats": [
     {
-      "key": "atk",
-      "value": 27.0
+      "key": "def",
+      "value": 60.0
+    },
+    {
+      "key": "hp",
+      "value": 448.0
     },
     {
       "key": "critDMG_",
-      "value": 21.0
+      "value": 12.4
     },
     {
-      "key": "def",
-      "value": 21.0
-    },
-    {
-      "key": "hp_",
+      "key": "atk_",
       "value": 11.1
     }
   ],
-  "location": "Alhaitham",
+  "location": "Cyno",
   "lock": true,
   "id": 59
 }

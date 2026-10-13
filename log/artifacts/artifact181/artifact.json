@@ -1,25 +1,25 @@
 {
-  "setKey": "GladiatorsFinale",
-  "slotKey": "plume",
-  "rarity": 5,
-  "mainStatKey": "atk",
-  "level": 8,
+  "setKey": "TheExile",
+  "slotKey": "goblet",
+  "rarity": 3,
+  "mainStatKey": "hydro_dmg_",
+  "level": 12,
   "substats": [
     {
       "key": "critRate_",
-      "value": 6.2
-    },
-    {
-      "key": "atk_",
-      "value": 5.8
-    },
-    {
-      "key": "def_",
-      "value": 5.8
+      "value": 2.1
     },
     {
       "key": "critDMG_",
-      "value": 13.2
+      "value": 4.2
+    },
+    {
+      "key": "def",
+      "value": 11.0
+    },
+    {
+      "key": "def_",
+      "value": 3.5
     }
   ],
   "location": "",

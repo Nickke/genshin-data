@@ -1,28 +1,28 @@
 {
   "setKey": "ScrollOfTheHeroOfCinderCity",
-  "slotKey": "circlet",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "anemo_dmg_",
   "level": 0,
   "substats": [
     {
+      "key": "enerRech_",
+      "value": 4.5
+    },
+    {
       "key": "hp_",
-      "value": 4.1
-    },
-    {
-      "key": "atk",
-      "value": 19.0
-    },
-    {
-      "key": "hp",
-      "value": 239.0
+      "value": 5.3
     },
     {
       "key": "critRate_",
-      "value": 2.7
+      "value": 3.9
+    },
+    {
+      "key": "hp",
+      "value": 209.0
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 546
 }

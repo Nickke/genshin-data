@@ -1,28 +1,28 @@
 {
   "setKey": "ObsidianCodex",
-  "slotKey": "circlet",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "physical_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 239.0
-    },
-    {
-      "key": "def",
+      "key": "atk",
       "value": 19.0
     },
     {
-      "key": "def_",
+      "key": "eleMas",
+      "value": 16.0
+    },
+    {
+      "key": "atk_",
       "value": 5.8
     },
     {
-      "key": "eleMas",
-      "value": 21.0
+      "key": "def_",
+      "value": 6.6
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 486
 }

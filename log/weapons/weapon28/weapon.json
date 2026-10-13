@@ -1,9 +1,9 @@
 {
-  "key": "FavoniusSword",
+  "key": "SacrificialSword",
   "level": 90,
   "ascension": 6,
-  "refinement": 3,
-  "location": "Bennett",
+  "refinement": 1,
+  "location": "Xingqiu",
   "lock": false,
   "id": 28
 }

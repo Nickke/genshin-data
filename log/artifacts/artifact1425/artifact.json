@@ -1,28 +1,28 @@
 {
   "setKey": "ViridescentVenerer",
-  "slotKey": "goblet",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "geo_dmg_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 209.0
+      "key": "critDMG_",
+      "value": 6.2
     },
     {
       "key": "critRate_",
-      "value": 3.1
+      "value": 3.9
     },
     {
-      "key": "def",
-      "value": 23.0
+      "key": "atk_",
+      "value": 5.3
     },
     {
-      "key": "enerRech_",
-      "value": 5.2
+      "key": "eleMas",
+      "value": 16.0
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 1425
 }

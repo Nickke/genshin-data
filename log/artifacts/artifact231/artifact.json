@@ -1,12 +1,12 @@
 {
   "setKey": "ScarletProof",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
   "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
+      "key": "def_",
       "value": 5.8
     },
     {
@@ -14,15 +14,15 @@
       "value": 23.0
     },
     {
-      "key": "def_",
-      "value": 7.3
+      "key": "critRate_",
+      "value": 3.5
     },
     {
-      "key": "atk",
-      "value": 16.0
+      "key": "hp_",
+      "value": 4.1
     }
   ],
-  "location": "",
+  "location": "Vesna",
   "lock": false,
   "id": 231
 }

@@ -1,21 +1,17 @@
 {
-  "setKey": "Scholar",
-  "slotKey": "circlet",
+  "setKey": "HeartOfDepth",
+  "slotKey": "plume",
   "rarity": 4,
-  "mainStatKey": "critDMG_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 857.0
-    },
-    {
       "key": "def",
-      "value": 19.0
+      "value": 30.0
     },
     {
-      "key": "hp",
-      "value": 382.0
+      "key": "atk_",
+      "value": 4.7
     }
   ],
   "location": "",

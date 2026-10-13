@@ -2,27 +2,27 @@
   "setKey": "EmblemOfSeveredFate",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "enerRech_",
   "level": 20,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 8.6
+      "key": "def",
+      "value": 42.0
     },
     {
-      "key": "enerRech_",
-      "value": 13.0
-    },
-    {
-      "key": "def_",
-      "value": 12.4
+      "key": "hp",
+      "value": 508.0
     },
     {
       "key": "atk_",
-      "value": 4.7
+      "value": 9.3
+    },
+    {
+      "key": "eleMas",
+      "value": 42.0
     }
   ],
-  "location": "Nahida",
+  "location": "RaidenShogun",
   "lock": false,
   "id": 101
 }

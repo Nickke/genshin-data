@@ -1,28 +1,28 @@
 {
   "setKey": "GoldenTroupe",
-  "slotKey": "sands",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "atk",
   "level": 20,
   "substats": [
     {
       "key": "critDMG_",
-      "value": 17.1
+      "value": 12.4
+    },
+    {
+      "key": "critRate_",
+      "value": 12.4
     },
     {
       "key": "def_",
-      "value": 19.0
+      "value": 11.7
     },
     {
       "key": "hp",
-      "value": 209.0
-    },
-    {
-      "key": "hp_",
-      "value": 8.7
+      "value": 269.0
     }
   ],
   "location": "Fischl",
-  "lock": false,
+  "lock": true,
   "id": 38
 }

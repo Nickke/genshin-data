@@ -1,8 +1,8 @@
 {
-  "setKey": "DeepwoodMemories",
-  "slotKey": "flower",
+  "setKey": "GildedDreams",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
@@ -14,15 +14,15 @@
       "value": 3.1
     },
     {
-      "key": "enerRech_",
-      "value": 5.2
+      "key": "hp",
+      "value": 299.0
     },
     {
-      "key": "critDMG_",
-      "value": 5.4
+      "key": "enerRech_",
+      "value": 5.8
     }
   ],
-  "location": "Kaveh",
+  "location": "",
   "lock": false,
   "id": 642
 }

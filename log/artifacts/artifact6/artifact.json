@@ -1,28 +1,28 @@
 {
-  "setKey": "DisenchantmentInDeepShadow",
-  "slotKey": "plume",
+  "setKey": "ScarletProof",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "critDMG_",
   "level": 20,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 18.7
-    },
-    {
-      "key": "hp",
-      "value": 448.0
+      "key": "eleMas",
+      "value": 19.0
     },
     {
       "key": "critRate_",
-      "value": 3.9
+      "value": 10.9
     },
     {
-      "key": "atk_",
-      "value": 9.3
+      "key": "hp_",
+      "value": 5.3
+    },
+    {
+      "key": "hp",
+      "value": 777.0
     }
   ],
   "location": "Sandrone",
-  "lock": false,
+  "lock": true,
   "id": 6
 }

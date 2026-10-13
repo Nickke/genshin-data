@@ -1,25 +1,25 @@
 {
   "setKey": "SilkenMoonsSerenade",
-  "slotKey": "goblet",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 18.0
+      "key": "enerRech_",
+      "value": 4.5
     },
     {
-      "key": "def",
-      "value": 16.0
+      "key": "atk_",
+      "value": 5.3
     },
     {
-      "key": "hp",
-      "value": 299.0
+      "key": "hp_",
+      "value": 4.7
     },
     {
       "key": "critDMG_",
-      "value": 7.0
+      "value": 5.4
     }
   ],
   "location": "",

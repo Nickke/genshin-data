@@ -1,25 +1,25 @@
 {
-  "setKey": "FinaleOfTheDeepGalleries",
-  "slotKey": "flower",
+  "setKey": "NightOfTheSkysUnveiling",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "enerRech_",
   "level": 0,
   "substats": [
     {
-      "key": "def_",
-      "value": 5.8
-    },
-    {
-      "key": "eleMas",
+      "key": "atk",
       "value": 19.0
     },
     {
-      "key": "def",
-      "value": 21.0
+      "key": "hp_",
+      "value": 4.1
     },
     {
-      "key": "atk",
-      "value": 14.0
+      "key": "hp",
+      "value": 209.0
+    },
+    {
+      "key": "def_",
+      "value": 6.6
     }
   ],
   "location": "",

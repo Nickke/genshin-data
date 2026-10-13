@@ -1,28 +1,28 @@
 {
   "setKey": "DisenchantmentInDeepShadow",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "atk_",
   "level": 20,
   "substats": [
     {
-      "key": "hp",
-      "value": 777.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 14.0
-    },
-    {
-      "key": "atk_",
-      "value": 4.1
-    },
-    {
       "key": "def_",
-      "value": 13.1
+      "value": 10.9
+    },
+    {
+      "key": "eleMas",
+      "value": 23.0
+    },
+    {
+      "key": "hp_",
+      "value": 21.0
+    },
+    {
+      "key": "def",
+      "value": 39.0
     }
   ],
-  "location": "Zhongli",
+  "location": "Sandrone",
   "lock": false,
   "id": 9
 }

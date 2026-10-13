@@ -1,28 +1,28 @@
 {
   "setKey": "GladiatorsFinale",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "physical_dmg_",
+  "mainStatKey": "enerRech_",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 209.0
+      "key": "hp_",
+      "value": 5.3
     },
     {
-      "key": "atk",
-      "value": 14.0
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "hp",
+      "value": 269.0
     },
     {
       "key": "atk_",
       "value": 4.7
-    },
-    {
-      "key": "critRate_",
-      "value": 3.1
     }
   ],
-  "location": "Razor",
-  "lock": true,
+  "location": "Dori",
+  "lock": false,
   "id": 1686
 }

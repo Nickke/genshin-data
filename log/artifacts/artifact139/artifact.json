@@ -1,28 +1,24 @@
 {
-  "setKey": "WanderersTroupe",
-  "slotKey": "sands",
+  "setKey": "NoblesseOblige",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "hp_",
   "level": 20,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 18.3
+      "key": "hp",
+      "value": 747.0
     },
     {
-      "key": "hp_",
-      "value": 11.7
+      "key": "enerRech_",
+      "value": 6.5
     },
     {
-      "key": "atk",
-      "value": 14.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 7.0
+      "key": "def",
+      "value": 16.0
     }
   ],
-  "location": "Nefer",
-  "lock": true,
+  "location": "Bennett",
+  "lock": false,
   "id": 139
 }

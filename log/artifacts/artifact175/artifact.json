@@ -1,21 +1,21 @@
 {
-  "setKey": "NoblesseOblige",
+  "setKey": "TheExile",
   "slotKey": "circlet",
   "rarity": 4,
-  "mainStatKey": "hp_",
+  "mainStatKey": "critDMG_",
   "level": 0,
   "substats": [
     {
       "key": "",
-      "value": 4170.0
+      "value": 117.0
     },
     {
       "key": "enerRech_",
-      "value": 5.2
+      "value": 4.7
     },
     {
       "key": "def",
-      "value": 13.0
+      "value": 17.0
     }
   ],
   "location": "",

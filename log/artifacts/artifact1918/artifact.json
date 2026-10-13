@@ -1,28 +1,28 @@
 {
-  "setKey": "BlizzardStrayer",
-  "slotKey": "plume",
+  "setKey": "MaidenBeloved",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "critRate_",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 209.0
-    },
-    {
-      "key": "atk_",
-      "value": 5.3
+      "key": "hp_",
+      "value": 4.7
     },
     {
       "key": "eleMas",
-      "value": 21.0
+      "value": 19.0
     },
     {
-      "key": "def_",
-      "value": 6.6
+      "key": "enerRech_",
+      "value": 6.5
+    },
+    {
+      "key": "hp",
+      "value": 299.0
     }
   ],
-  "location": "Chongyun",
-  "lock": false,
+  "location": "",
+  "lock": true,
   "id": 1918
 }

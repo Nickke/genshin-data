@@ -1,13 +1,17 @@
 {
-  "setKey": "BlizzardStrayer",
-  "slotKey": "sands",
+  "setKey": "MaidenBeloved",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "critRate_",
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
-      "value": 5.3
+      "key": "enerRech_",
+      "value": 5.2
+    },
+    {
+      "key": "atk",
+      "value": 19.0
     },
     {
       "key": "def",
@@ -15,14 +19,10 @@
     },
     {
       "key": "hp",
-      "value": 239.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 6.2
+      "value": 209.0
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 1923
 }

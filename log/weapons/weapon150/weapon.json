@@ -1,9 +1,9 @@
 {
-  "key": "SeasonedHuntersBow",
+  "key": "HuntersBow",
   "level": 1,
   "ascension": 0,
   "refinement": 1,
-  "location": "",
+  "location": "Gorou",
   "lock": false,
   "id": 150
 }

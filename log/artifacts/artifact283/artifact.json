@@ -1,17 +1,17 @@
 {
-  "setKey": "ADayCarvedFromRisingWinds",
-  "slotKey": "flower",
+  "setKey": "CelestialGift",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
       "key": "def_",
-      "value": 6.6
+      "value": 7.3
     },
     {
-      "key": "atk_",
-      "value": 5.8
+      "key": "hp",
+      "value": 209.0
     },
     {
       "key": "critRate_",
@@ -19,7 +19,7 @@
     },
     {
       "key": "eleMas",
-      "value": 23.0
+      "value": 19.0
     }
   ],
   "location": "",

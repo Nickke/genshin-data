@@ -1,17 +1,25 @@
 {
-  "setKey": "GladiatorsFinale",
-  "slotKey": "flower",
-  "rarity": 4,
-  "mainStatKey": "hp",
+  "setKey": "BlizzardStrayer",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "eleMas",
   "level": 0,
   "substats": [
     {
       "key": "enerRech_",
-      "value": 4.7
+      "value": 5.8
     },
     {
-      "key": "def",
-      "value": 13.0
+      "key": "atk",
+      "value": 14.0
+    },
+    {
+      "key": "hp",
+      "value": 209.0
+    },
+    {
+      "key": "atk_",
+      "value": 5.3
     }
   ],
   "location": "",

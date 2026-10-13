@@ -2,27 +2,27 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "critRate_",
   "level": 0,
   "substats": [
     {
       "key": "hp",
-      "value": 299.0
+      "value": 239.0
     },
     {
-      "key": "enerRech_",
-      "value": 4.5
+      "key": "atk_",
+      "value": 4.7
     },
     {
       "key": "def_",
       "value": 5.1
     },
     {
-      "key": "hp_",
-      "value": 4.7
+      "key": "atk",
+      "value": 19.0
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "ShikanoinHeizou",
+  "lock": true,
   "id": 1813
 }

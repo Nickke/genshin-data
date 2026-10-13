@@ -1,28 +1,28 @@
 {
   "setKey": "ViridescentVenerer",
-  "slotKey": "goblet",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "anemo_dmg_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
-    {
-      "key": "critDMG_",
-      "value": 7.8
-    },
     {
       "key": "enerRech_",
       "value": 4.5
     },
     {
-      "key": "def",
+      "key": "eleMas",
       "value": 21.0
     },
     {
-      "key": "atk_",
-      "value": 4.7
+      "key": "atk",
+      "value": 16.0
+    },
+    {
+      "key": "def",
+      "value": 19.0
     }
   ],
-  "location": "",
+  "location": "YumemizukiMizuki",
   "lock": true,
   "id": 1430
 }

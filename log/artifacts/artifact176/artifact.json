@@ -1,24 +1,24 @@
 {
-  "setKey": "BlizzardStrayer",
-  "slotKey": "flower",
+  "setKey": "MartialArtist",
+  "slotKey": "goblet",
   "rarity": 4,
-  "mainStatKey": "hp",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
       "key": "",
-      "value": 3.0
+      "value": 117.0
     },
     {
-      "key": "atk",
-      "value": 31.0
+      "key": "atk_",
+      "value": 4.2
     },
     {
       "key": "def_",
-      "value": 5.8
+      "value": 11.1
     }
   ],
-  "location": "Kaeya",
+  "location": "",
   "lock": false,
   "id": 176
 }

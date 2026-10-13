@@ -1,25 +1,25 @@
 {
-  "setKey": "FragmentOfHarmonicWhimsy",
-  "slotKey": "plume",
+  "setKey": "ScrollOfTheHeroOfCinderCity",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
+      "key": "atk",
+      "value": 16.0
+    },
+    {
       "key": "hp",
-      "value": 239.0
+      "value": 209.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 6.5
     },
     {
       "key": "atk_",
       "value": 5.8
-    },
-    {
-      "key": "eleMas",
-      "value": 19.0
-    },
-    {
-      "key": "enerRech_",
-      "value": 4.5
     }
   ],
   "location": "",

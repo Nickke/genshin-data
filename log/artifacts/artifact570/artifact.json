@@ -1,13 +1,17 @@
 {
-  "setKey": "GoldenTroupe",
-  "slotKey": "goblet",
+  "setKey": "UnfinishedReverie",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hydro_dmg_",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
+      "key": "atk",
+      "value": 19.0
+    },
+    {
       "key": "eleMas",
-      "value": 21.0
+      "value": 16.0
     },
     {
       "key": "critDMG_",
@@ -15,14 +19,10 @@
     },
     {
       "key": "def",
-      "value": 21.0
-    },
-    {
-      "key": "atk_",
-      "value": 4.1
+      "value": 16.0
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 570
 }

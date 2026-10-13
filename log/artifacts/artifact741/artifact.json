@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
-      "key": "def_",
-      "value": 5.1
-    },
-    {
       "key": "atk_",
-      "value": 5.3
+      "value": 4.1
     },
     {
-      "key": "hp",
-      "value": 269.0
+      "key": "hp_",
+      "value": 4.7
     },
     {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "enerRech_",
+      "value": 4.5
+    },
+    {
+      "key": "def_",
+      "value": 7.3
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 741
 }

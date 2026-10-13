@@ -1,28 +1,28 @@
 {
-  "setKey": "GildedDreams",
-  "slotKey": "sands",
+  "setKey": "FlowerOfParadiseLost",
+  "slotKey": "circlet",
   "rarity": 5,
   "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
+      "key": "critRate_",
+      "value": 3.9
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.8
+    },
+    {
+      "key": "critDMG_",
+      "value": 5.4
+    },
+    {
       "key": "hp",
-      "value": 299.0
-    },
-    {
-      "key": "hp_",
-      "value": 4.1
-    },
-    {
-      "key": "eleMas",
-      "value": 23.0
-    },
-    {
-      "key": "atk",
-      "value": 18.0
+      "value": 269.0
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "YunJin",
+  "lock": true,
   "id": 627
 }

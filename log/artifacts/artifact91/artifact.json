@@ -6,23 +6,23 @@
   "level": 20,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 6.6
-    },
-    {
-      "key": "enerRech_",
-      "value": 10.4
-    },
-    {
-      "key": "eleMas",
-      "value": 56.0
+      "key": "atk_",
+      "value": 10.5
     },
     {
       "key": "def",
-      "value": 39.0
+      "value": 46.0
+    },
+    {
+      "key": "hp",
+      "value": 239.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 22.0
     }
   ],
-  "location": "Traveler",
+  "location": "Durin",
   "lock": true,
   "id": 91
 }

@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
+      "key": "critDMG_",
+      "value": 7.8
+    },
+    {
+      "key": "hp_",
+      "value": 4.1
+    },
+    {
       "key": "eleMas",
       "value": 19.0
     },
     {
-      "key": "def",
-      "value": 21.0
-    },
-    {
-      "key": "critRate_",
-      "value": 3.5
-    },
-    {
-      "key": "hp",
-      "value": 269.0
+      "key": "def_",
+      "value": 5.8
     }
   ],
-  "location": "Tighnari",
+  "location": "",
   "lock": true,
   "id": 1171
 }

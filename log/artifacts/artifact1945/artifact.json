@@ -1,16 +1,28 @@
 {
-  "setKey": "WanderersTroupe",
-  "slotKey": "sands",
-  "rarity": 4,
-  "mainStatKey": "hp_",
+  "setKey": "BlizzardStrayer",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "",
-      "value": 8570.0
+      "key": "eleMas",
+      "value": 23.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 5.4
+    },
+    {
+      "key": "enerRech_",
+      "value": 6.5
+    },
+    {
+      "key": "hp_",
+      "value": 5.8
     }
   ],
-  "location": "",
+  "location": "Layla",
   "lock": false,
   "id": 1945
 }

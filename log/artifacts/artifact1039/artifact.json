@@ -1,28 +1,28 @@
 {
-  "setKey": "NoblesseOblige",
-  "slotKey": "goblet",
+  "setKey": "HeartOfDepth",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "electro_dmg_",
+  "mainStatKey": "critDMG_",
   "level": 0,
   "substats": [
     {
+      "key": "atk_",
+      "value": 4.7
+    },
+    {
       "key": "hp_",
-      "value": 4.1
+      "value": 4.7
     },
     {
-      "key": "critRate_",
-      "value": 3.1
-    },
-    {
-      "key": "def",
+      "key": "atk",
       "value": 16.0
     },
     {
-      "key": "eleMas",
-      "value": 16.0
+      "key": "def_",
+      "value": 7.3
     }
   ],
-  "location": "Dori",
+  "location": "Freminet",
   "lock": false,
   "id": 1039
 }

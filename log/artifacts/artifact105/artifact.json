@@ -2,27 +2,27 @@
   "setKey": "EmblemOfSeveredFate",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "electro_dmg_",
+  "mainStatKey": "hydro_dmg_",
   "level": 20,
   "substats": [
     {
       "key": "atk",
-      "value": 35.0
-    },
-    {
-      "key": "eleMas",
-      "value": 40.0
+      "value": 37.0
     },
     {
       "key": "hp",
-      "value": 209.0
+      "value": 717.0
+    },
+    {
+      "key": "hp_",
+      "value": 8.7
     },
     {
       "key": "critDMG_",
-      "value": 21.0
+      "value": 12.4
     }
   ],
-  "location": "RaidenShogun",
+  "location": "Xingqiu",
   "lock": true,
   "id": 105
 }

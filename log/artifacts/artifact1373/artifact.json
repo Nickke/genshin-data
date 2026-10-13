@@ -2,27 +2,27 @@
   "setKey": "WanderersTroupe",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "critDMG_",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 16.0
-    },
-    {
-      "key": "def",
-      "value": 21.0
+      "key": "hp_",
+      "value": 5.3
     },
     {
       "key": "hp",
       "value": 239.0
     },
     {
-      "key": "def_",
-      "value": 5.8
+      "key": "eleMas",
+      "value": 21.0
+    },
+    {
+      "key": "def",
+      "value": 16.0
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "Mualani",
+  "lock": true,
   "id": 1373
 }

@@ -1,13 +1,17 @@
 {
   "setKey": "ViridescentVenerer",
-  "slotKey": "circlet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "heal_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
+      "key": "eleMas",
+      "value": 19.0
+    },
+    {
       "key": "def_",
-      "value": 5.8
+      "value": 7.3
     },
     {
       "key": "enerRech_",
@@ -15,14 +19,10 @@
     },
     {
       "key": "atk",
-      "value": 14.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 7.0
+      "value": 16.0
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 1446
 }

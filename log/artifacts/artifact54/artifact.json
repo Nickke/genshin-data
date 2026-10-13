@@ -1,28 +1,28 @@
 {
-  "setKey": "GildedDreams",
-  "slotKey": "flower",
+  "setKey": "DesertPavilionChronicle",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "atk",
   "level": 20,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 13.2
-    },
-    {
-      "key": "def_",
-      "value": 11.7
-    },
-    {
       "key": "def",
-      "value": 23.0
+      "value": 60.0
     },
     {
-      "key": "hp_",
-      "value": 14.6
+      "key": "critDMG_",
+      "value": 23.3
+    },
+    {
+      "key": "hp",
+      "value": 209.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.8
     }
   ],
-  "location": "Cyno",
+  "location": "Noelle",
   "lock": false,
   "id": 54
 }

@@ -1,28 +1,28 @@
 {
-  "setKey": "FinaleOfTheDeepGalleries",
-  "slotKey": "plume",
+  "setKey": "NightOfTheSkysUnveiling",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "critDMG_",
   "level": 20,
   "substats": [
     {
       "key": "eleMas",
-      "value": 23.0
+      "value": 37.0
     },
     {
-      "key": "hp_",
-      "value": 19.8
+      "key": "atk",
+      "value": 54.0
     },
     {
-      "key": "hp",
-      "value": 598.0
+      "key": "def",
+      "value": 44.0
     },
     {
       "key": "atk_",
-      "value": 5.8
+      "value": 11.7
     }
   ],
-  "location": "Skirk",
+  "location": "Durin",
   "lock": false,
   "id": 20
 }

@@ -1,28 +1,28 @@
 {
-  "setKey": "WanderersTroupe",
-  "slotKey": "flower",
+  "setKey": "CrimsonWitchOfFlames",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
-      "value": 4.1
-    },
-    {
-      "key": "enerRech_",
-      "value": 6.5
-    },
-    {
-      "key": "def_",
-      "value": 7.3
+      "key": "atk",
+      "value": 18.0
     },
     {
       "key": "eleMas",
+      "value": 21.0
+    },
+    {
+      "key": "def",
       "value": 16.0
+    },
+    {
+      "key": "hp",
+      "value": 269.0
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 1064
 }

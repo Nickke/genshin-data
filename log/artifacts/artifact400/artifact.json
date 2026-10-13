@@ -1,28 +1,28 @@
 {
   "setKey": "NightOfTheSkysUnveiling",
-  "slotKey": "goblet",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 239.0
+      "key": "def_",
+      "value": 6.6
     },
     {
-      "key": "eleMas",
-      "value": 16.0
-    },
-    {
-      "key": "critRate_",
-      "value": 3.1
-    },
-    {
-      "key": "hp_",
+      "key": "atk_",
       "value": 4.7
+    },
+    {
+      "key": "hp",
+      "value": 209.0
+    },
+    {
+      "key": "def",
+      "value": 16.0
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 400
 }

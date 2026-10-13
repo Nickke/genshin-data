@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
+      "key": "def_",
+      "value": 5.8
+    },
+    {
+      "key": "critRate_",
+      "value": 3.5
+    },
+    {
+      "key": "atk_",
+      "value": 5.3
+    },
+    {
       "key": "eleMas",
       "value": 19.0
-    },
-    {
-      "key": "enerRech_",
-      "value": 6.5
-    },
-    {
-      "key": "def",
-      "value": 16.0
-    },
-    {
-      "key": "def_",
-      "value": 6.6
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "Arlecchino",
+  "lock": true,
   "id": 1584
 }

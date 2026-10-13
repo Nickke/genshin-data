@@ -1,28 +1,28 @@
 {
-  "setKey": "GladiatorsFinale",
-  "slotKey": "sands",
+  "setKey": "ViridescentVenerer",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "critRate_",
   "level": 20,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 10.9
+      "key": "atk",
+      "value": 18.0
     },
     {
       "key": "critDMG_",
-      "value": 12.4
+      "value": 13.2
     },
     {
-      "key": "hp",
-      "value": 508.0
+      "key": "def_",
+      "value": 5.1
     },
     {
-      "key": "enerRech_",
-      "value": 5.8
+      "key": "hp_",
+      "value": 22.2
     }
   ],
-  "location": "Skirk",
-  "lock": true,
+  "location": "Sucrose",
+  "lock": false,
   "id": 149
 }

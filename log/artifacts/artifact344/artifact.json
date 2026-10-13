@@ -1,28 +1,28 @@
 {
-  "setKey": "SilkenMoonsSerenade",
-  "slotKey": "sands",
+  "setKey": "AubadeOfMorningstarAndMoon",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "enerRech_",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 18.0
+      "key": "def",
+      "value": 16.0
     },
     {
       "key": "atk_",
-      "value": 5.8
+      "value": 4.7
     },
     {
-      "key": "def_",
-      "value": 7.3
+      "key": "hp",
+      "value": 299.0
     },
     {
-      "key": "eleMas",
-      "value": 16.0
+      "key": "hp_",
+      "value": 4.7
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 344
 }

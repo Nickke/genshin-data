@@ -1,25 +1,25 @@
 {
-  "setKey": "HeartOfDepth",
-  "slotKey": "plume",
+  "setKey": "ShimenawasReminiscence",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 269.0
-    },
-    {
-      "key": "def",
+      "key": "atk",
       "value": 16.0
     },
     {
-      "key": "hp_",
-      "value": 4.7
+      "key": "eleMas",
+      "value": 19.0
     },
     {
-      "key": "critRate_",
-      "value": 3.9
+      "key": "hp_",
+      "value": 5.8
+    },
+    {
+      "key": "hp",
+      "value": 269.0
     }
   ],
   "location": "",

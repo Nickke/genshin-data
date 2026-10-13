@@ -1,25 +1,21 @@
 {
-  "setKey": "HeartOfTheFurnace",
-  "slotKey": "flower",
-  "rarity": 5,
-  "mainStatKey": "hp",
-  "level": 0,
+  "setKey": "TravelingDoctor",
+  "slotKey": "plume",
+  "rarity": 3,
+  "mainStatKey": "atk",
+  "level": 8,
   "substats": [
     {
-      "key": "atk_",
-      "value": 5.3
-    },
-    {
       "key": "eleMas",
-      "value": 16.0
+      "value": 14.0
     },
     {
-      "key": "atk",
-      "value": 18.0
+      "key": "enerRech_",
+      "value": 3.1
     },
     {
-      "key": "hp_",
-      "value": 4.7
+      "key": "def",
+      "value": 9.0
     }
   ],
   "location": "",

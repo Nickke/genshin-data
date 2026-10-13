@@ -1,28 +1,28 @@
 {
-  "setKey": "DesertPavilionChronicle",
-  "slotKey": "plume",
+  "setKey": "MarechausseeHunter",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "critDMG_",
   "level": 20,
   "substats": [
     {
-      "key": "def",
-      "value": 60.0
+      "key": "atk",
+      "value": 29.0
     },
     {
-      "key": "critDMG_",
-      "value": 23.3
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "critRate_",
+      "value": 13.6
     },
     {
       "key": "hp",
-      "value": 209.0
-    },
-    {
-      "key": "enerRech_",
-      "value": 5.8
+      "value": 239.0
     }
   ],
-  "location": "Noelle",
+  "location": "Skirk",
   "lock": false,
   "id": 52
 }

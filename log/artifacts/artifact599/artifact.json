@@ -1,25 +1,25 @@
 {
-  "setKey": "MarechausseeHunter",
-  "slotKey": "goblet",
+  "setKey": "GoldenTroupe",
+  "slotKey": "circlet",
   "rarity": 5,
   "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 7.0
+      "key": "eleMas",
+      "value": 16.0
     },
     {
       "key": "atk",
-      "value": 19.0
+      "value": 18.0
     },
     {
-      "key": "eleMas",
+      "key": "def",
       "value": 21.0
     },
     {
-      "key": "hp",
-      "value": 209.0
+      "key": "atk_",
+      "value": 5.8
     }
   ],
   "location": "",

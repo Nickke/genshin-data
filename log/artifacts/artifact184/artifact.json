@@ -1,21 +1,25 @@
 {
-  "setKey": "TravelingDoctor",
-  "slotKey": "flower",
-  "rarity": 3,
-  "mainStatKey": "hp",
+  "setKey": "GladiatorsFinale",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
   "level": 8,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 14.0
+      "key": "critRate_",
+      "value": 6.2
     },
     {
-      "key": "hp_",
-      "value": 3.2
+      "key": "atk_",
+      "value": 5.8
     },
     {
       "key": "def_",
-      "value": 3.5
+      "value": 5.8
+    },
+    {
+      "key": "critDMG_",
+      "value": 13.2
     }
   ],
   "location": "",

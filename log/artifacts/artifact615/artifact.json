@@ -1,25 +1,25 @@
 {
-  "setKey": "GildedDreams",
-  "slotKey": "flower",
+  "setKey": "MarechausseeHunter",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "def_",
-      "value": 7.3
-    },
-    {
-      "key": "atk",
-      "value": 19.0
+      "key": "def",
+      "value": 16.0
     },
     {
       "key": "hp_",
-      "value": 5.8
+      "value": 4.1
     },
     {
-      "key": "enerRech_",
-      "value": 6.5
+      "key": "atk",
+      "value": 14.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 7.0
     }
   ],
   "location": "",

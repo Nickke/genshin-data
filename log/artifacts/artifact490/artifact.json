@@ -1,28 +1,28 @@
 {
-  "setKey": "ScrollOfTheHeroOfCinderCity",
-  "slotKey": "flower",
+  "setKey": "ObsidianCodex",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "pyro_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 19.0
+      "key": "hp",
+      "value": 299.0
     },
     {
       "key": "atk_",
       "value": 5.8
     },
     {
-      "key": "eleMas",
-      "value": 19.0
+      "key": "def_",
+      "value": 5.8
     },
     {
-      "key": "def_",
-      "value": 5.1
+      "key": "def",
+      "value": 21.0
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 490
 }

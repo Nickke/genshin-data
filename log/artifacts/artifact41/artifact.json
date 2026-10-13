@@ -1,28 +1,28 @@
 {
   "setKey": "GoldenTroupe",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "electro_dmg_",
+  "mainStatKey": "enerRech_",
   "level": 20,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 10.1
-    },
-    {
       "key": "def",
-      "value": 42.0
+      "value": 21.0
     },
     {
-      "key": "enerRech_",
-      "value": 11.0
+      "key": "atk_",
+      "value": 16.3
+    },
+    {
+      "key": "atk",
+      "value": 33.0
     },
     {
       "key": "hp_",
-      "value": 4.7
+      "value": 10.5
     }
   ],
-  "location": "Fischl",
-  "lock": false,
+  "location": "",
+  "lock": true,
   "id": 41
 }

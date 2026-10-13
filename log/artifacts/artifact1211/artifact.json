@@ -1,28 +1,28 @@
 {
   "setKey": "WanderersTroupe",
-  "slotKey": "sands",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "enerRech_",
+      "value": 6.5
+    },
+    {
+      "key": "hp",
+      "value": 239.0
     },
     {
       "key": "def",
       "value": 21.0
     },
     {
-      "key": "critDMG_",
-      "value": 7.8
-    },
-    {
-      "key": "hp",
-      "value": 209.0
+      "key": "eleMas",
+      "value": 19.0
     }
   ],
-  "location": "ShikanoinHeizou",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 1211
 }

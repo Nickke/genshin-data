@@ -1,28 +1,28 @@
 {
   "setKey": "HeartOfDepth",
-  "slotKey": "circlet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "critRate_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 4.5
+      "key": "def_",
+      "value": 7.3
     },
     {
-      "key": "hp_",
-      "value": 4.7
+      "key": "hp",
+      "value": 209.0
     },
     {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "critDMG_",
+      "value": 5.4
     },
     {
       "key": "atk",
       "value": 14.0
     }
   ],
-  "location": "Lisa",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 1024
 }

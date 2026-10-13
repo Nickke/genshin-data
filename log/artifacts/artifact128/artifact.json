@@ -1,28 +1,28 @@
 {
   "setKey": "ShimenawasReminiscence",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "pyro_dmg_",
+  "mainStatKey": "eleMas",
   "level": 20,
   "substats": [
     {
+      "key": "enerRech_",
+      "value": 10.4
+    },
+    {
       "key": "def_",
-      "value": 14.6
+      "value": 19.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
     },
     {
       "key": "def",
-      "value": 42.0
-    },
-    {
-      "key": "hp",
-      "value": 777.0
-    },
-    {
-      "key": "eleMas",
-      "value": 19.0
+      "value": 44.0
     }
   ],
-  "location": "Mavuika",
-  "lock": true,
+  "location": "Lynette",
+  "lock": false,
   "id": 128
 }

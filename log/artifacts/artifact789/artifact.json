@@ -1,28 +1,28 @@
 {
   "setKey": "EmblemOfSeveredFate",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "physical_dmg_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
+    {
+      "key": "critRate_",
+      "value": 2.7
+    },
+    {
+      "key": "atk",
+      "value": 19.0
+    },
     {
       "key": "def",
       "value": 23.0
     },
     {
-      "key": "hp",
-      "value": 269.0
-    },
-    {
-      "key": "atk",
-      "value": 18.0
-    },
-    {
-      "key": "atk_",
-      "value": 4.7
+      "key": "def_",
+      "value": 5.1
     }
   ],
-  "location": "",
-  "lock": true,
+  "location": "KujouSara",
+  "lock": false,
   "id": 789
 }

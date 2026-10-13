@@ -1,28 +1,28 @@
 {
-  "setKey": "DeepwoodMemories",
-  "slotKey": "flower",
+  "setKey": "GildedDreams",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
-      "value": 5.8
-    },
-    {
-      "key": "def_",
-      "value": 5.1
+      "key": "atk_",
+      "value": 4.1
     },
     {
       "key": "def",
-      "value": 16.0
+      "value": 23.0
     },
     {
       "key": "atk",
-      "value": 14.0
+      "value": 19.0
+    },
+    {
+      "key": "critRate_",
+      "value": 2.7
     }
   ],
-  "location": "Yaoyao",
+  "location": "",
   "lock": false,
   "id": 645
 }

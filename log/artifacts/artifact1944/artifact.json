@@ -1,13 +1,25 @@
 {
-  "setKey": "WanderersTroupe",
-  "slotKey": "flower",
-  "rarity": 4,
-  "mainStatKey": "hp",
+  "setKey": "BlizzardStrayer",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "",
-      "value": 11.0
+      "key": "hp",
+      "value": 299.0
+    },
+    {
+      "key": "def_",
+      "value": 5.8
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.2
+    },
+    {
+      "key": "critRate_",
+      "value": 3.5
     }
   ],
   "location": "",

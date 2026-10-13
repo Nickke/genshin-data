@@ -1,25 +1,25 @@
 {
   "setKey": "ScrollOfTheHeroOfCinderCity",
-  "slotKey": "circlet",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "critRate_",
+  "mainStatKey": "pyro_dmg_",
   "level": 20,
   "substats": [
     {
-      "key": "def",
-      "value": 46.0
+      "key": "atk",
+      "value": 14.0
     },
     {
       "key": "atk_",
       "value": 5.3
     },
     {
-      "key": "critDMG_",
-      "value": 28.8
+      "key": "hp",
+      "value": 687.0
     },
     {
-      "key": "hp",
-      "value": 299.0
+      "key": "critRate_",
+      "value": 8.6
     }
   ],
   "location": "Traveler",

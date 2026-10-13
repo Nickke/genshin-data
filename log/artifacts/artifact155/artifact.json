@@ -2,27 +2,27 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hydro_dmg_",
+  "mainStatKey": "pyro_dmg_",
   "level": 20,
   "substats": [
     {
-      "key": "def_",
-      "value": 12.4
+      "key": "eleMas",
+      "value": 44.0
     },
     {
       "key": "critRate_",
-      "value": 9.3
+      "value": 3.9
     },
     {
       "key": "critDMG_",
-      "value": 7.8
+      "value": 13.2
     },
     {
-      "key": "atk_",
-      "value": 10.5
+      "key": "hp",
+      "value": 747.0
     }
   ],
-  "location": "Yelan",
+  "location": "Arlecchino",
   "lock": true,
   "id": 155
 }

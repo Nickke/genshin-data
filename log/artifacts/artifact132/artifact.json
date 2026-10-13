@@ -2,27 +2,27 @@
   "setKey": "ShimenawasReminiscence",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "critRate_",
+  "mainStatKey": "atk_",
   "level": 20,
   "substats": [
     {
-      "key": "hp",
-      "value": 478.0
-    },
-    {
       "key": "hp_",
-      "value": 9.3
-    },
-    {
-      "key": "enerRech_",
-      "value": 5.2
+      "value": 10.5
     },
     {
       "key": "eleMas",
-      "value": 63.0
+      "value": 40.0
+    },
+    {
+      "key": "def",
+      "value": 44.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 14.9
     }
   ],
-  "location": "Yoimiya",
+  "location": "Jean",
   "lock": true,
   "id": 132
 }

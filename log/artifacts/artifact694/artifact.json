@@ -1,6 +1,6 @@
 {
-  "setKey": "HuskOfOpulentDreams",
-  "slotKey": "goblet",
+  "setKey": "EchoesOfAnOffering",
+  "slotKey": "sands",
   "rarity": 5,
   "mainStatKey": "hp_",
   "level": 0,
@@ -10,19 +10,19 @@
       "value": 21.0
     },
     {
-      "key": "enerRech_",
-      "value": 6.5
+      "key": "atk",
+      "value": 14.0
     },
     {
       "key": "critRate_",
-      "value": 3.9
+      "value": 3.1
     },
     {
       "key": "def_",
-      "value": 5.8
+      "value": 7.3
     }
   ],
-  "location": "Yaoyao",
+  "location": "",
   "lock": false,
   "id": 694
 }

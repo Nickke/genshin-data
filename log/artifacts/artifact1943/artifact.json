@@ -1,13 +1,25 @@
 {
-  "setKey": "PrayersToSpringtime",
-  "slotKey": "circlet",
-  "rarity": 4,
-  "mainStatKey": "hp_",
+  "setKey": "BlizzardStrayer",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "",
-      "value": 117.0
+      "key": "enerRech_",
+      "value": 5.2
+    },
+    {
+      "key": "eleMas",
+      "value": 23.0
+    },
+    {
+      "key": "atk_",
+      "value": 5.3
+    },
+    {
+      "key": "hp",
+      "value": 269.0
     }
   ],
   "location": "",

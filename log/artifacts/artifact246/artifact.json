@@ -1,25 +1,25 @@
 {
   "setKey": "DisenchantmentInDeepShadow",
-  "slotKey": "plume",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 21.0
+      "key": "atk_",
+      "value": 5.3
     },
     {
-      "key": "critDMG_",
-      "value": 7.0
+      "key": "def",
+      "value": 23.0
     },
     {
       "key": "hp_",
       "value": 5.8
     },
     {
-      "key": "enerRech_",
-      "value": 5.8
+      "key": "def_",
+      "value": 6.6
     }
   ],
   "location": "",

@@ -1,25 +1,25 @@
 {
   "setKey": "NightOfTheSkysUnveiling",
-  "slotKey": "plume",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
+    {
+      "key": "hp_",
+      "value": 5.3
+    },
     {
       "key": "def",
       "value": 23.0
     },
     {
-      "key": "atk_",
-      "value": 5.8
+      "key": "eleMas",
+      "value": 16.0
     },
     {
-      "key": "critRate_",
-      "value": 3.1
-    },
-    {
-      "key": "hp_",
-      "value": 5.8
+      "key": "enerRech_",
+      "value": 6.5
     }
   ],
   "location": "",

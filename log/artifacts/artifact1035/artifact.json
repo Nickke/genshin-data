@@ -1,13 +1,17 @@
 {
-  "setKey": "NoblesseOblige",
-  "slotKey": "flower",
+  "setKey": "HeartOfDepth",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
-      "value": 5.8
+      "key": "atk",
+      "value": 16.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 5.4
     },
     {
       "key": "eleMas",
@@ -15,14 +19,10 @@
     },
     {
       "key": "def_",
-      "value": 5.1
-    },
-    {
-      "key": "def",
-      "value": 21.0
+      "value": 6.6
     }
   ],
-  "location": "Chevreuse",
+  "location": "",
   "lock": false,
   "id": 1035
 }

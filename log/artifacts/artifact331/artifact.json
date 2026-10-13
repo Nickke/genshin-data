@@ -1,25 +1,25 @@
 {
   "setKey": "AubadeOfMorningstarAndMoon",
-  "slotKey": "circlet",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 16.0
-    },
-    {
       "key": "hp",
-      "value": 209.0
+      "value": 269.0
     },
     {
-      "key": "eleMas",
-      "value": 21.0
+      "key": "def_",
+      "value": 6.6
     },
     {
-      "key": "atk_",
+      "key": "hp_",
       "value": 5.8
+    },
+    {
+      "key": "def",
+      "value": 19.0
     }
   ],
   "location": "",

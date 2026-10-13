@@ -1,28 +1,28 @@
 {
   "setKey": "WanderersTroupe",
-  "slotKey": "circlet",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "critDMG_",
+  "mainStatKey": "hydro_dmg_",
   "level": 20,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 10.4
+      "key": "def",
+      "value": 39.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 17.1
+    },
+    {
+      "key": "hp_",
+      "value": 13.4
     },
     {
       "key": "hp",
-      "value": 807.0
-    },
-    {
-      "key": "critRate_",
-      "value": 3.9
-    },
-    {
-      "key": "def",
-      "value": 60.0
+      "value": 209.0
     }
   ],
-  "location": "Wriothesley",
-  "lock": false,
+  "location": "Neuvillette",
+  "lock": true,
   "id": 143
 }

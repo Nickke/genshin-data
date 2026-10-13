@@ -1,28 +1,24 @@
 {
-  "setKey": "Instructor",
-  "slotKey": "goblet",
-  "rarity": 3,
-  "mainStatKey": "pyro_dmg_",
-  "level": 12,
+  "setKey": "BlizzardStrayer",
+  "slotKey": "flower",
+  "rarity": 4,
+  "mainStatKey": "hp",
+  "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 14.0
+      "key": "",
+      "value": 3.0
     },
     {
       "key": "atk",
-      "value": 7.0
+      "value": 31.0
     },
     {
       "key": "def_",
-      "value": 8.3
-    },
-    {
-      "key": "hp",
-      "value": 115.0
+      "value": 5.8
     }
   ],
-  "location": "",
+  "location": "Kaeya",
   "lock": false,
   "id": 179
 }

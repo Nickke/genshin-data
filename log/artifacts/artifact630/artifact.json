@@ -1,28 +1,28 @@
 {
   "setKey": "GildedDreams",
-  "slotKey": "sands",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 299.0
+      "key": "enerRech_",
+      "value": 5.2
     },
     {
-      "key": "def",
-      "value": 23.0
+      "key": "critRate_",
+      "value": 3.5
+    },
+    {
+      "key": "eleMas",
+      "value": 16.0
     },
     {
       "key": "atk",
-      "value": 18.0
-    },
-    {
-      "key": "atk_",
-      "value": 4.7
+      "value": 19.0
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 630
 }

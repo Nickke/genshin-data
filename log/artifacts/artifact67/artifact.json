@@ -1,28 +1,28 @@
 {
   "setKey": "GildedDreams",
-  "slotKey": "circlet",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "critRate_",
+  "mainStatKey": "eleMas",
   "level": 20,
   "substats": [
     {
+      "key": "critDMG_",
+      "value": 7.0
+    },
+    {
       "key": "atk",
-      "value": 33.0
+      "value": 54.0
     },
     {
       "key": "enerRech_",
-      "value": 16.2
+      "value": 12.3
     },
     {
-      "key": "eleMas",
-      "value": 40.0
-    },
-    {
-      "key": "hp",
-      "value": 568.0
+      "key": "def_",
+      "value": 12.4
     }
   ],
-  "location": "Alhaitham",
+  "location": "KukiShinobu",
   "lock": false,
   "id": 67
 }

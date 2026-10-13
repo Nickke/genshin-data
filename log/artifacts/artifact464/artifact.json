@@ -1,25 +1,25 @@
 {
   "setKey": "ObsidianCodex",
-  "slotKey": "sands",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
-    {
-      "key": "enerRech_",
-      "value": 5.2
-    },
-    {
-      "key": "def",
-      "value": 19.0
-    },
     {
       "key": "critDMG_",
       "value": 7.0
     },
     {
       "key": "atk_",
-      "value": 4.7
+      "value": 4.1
+    },
+    {
+      "key": "def",
+      "value": 21.0
+    },
+    {
+      "key": "hp",
+      "value": 269.0
     }
   ],
   "location": "",

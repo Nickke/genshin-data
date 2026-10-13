@@ -1,28 +1,28 @@
 {
   "setKey": "ScrollOfTheHeroOfCinderCity",
-  "slotKey": "circlet",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "heal_",
+  "mainStatKey": "atk_",
   "level": 20,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 2.7
+      "key": "eleMas",
+      "value": 21.0
+    },
+    {
+      "key": "atk",
+      "value": 58.0
     },
     {
       "key": "enerRech_",
-      "value": 6.5
+      "value": 11.7
     },
     {
-      "key": "critDMG_",
-      "value": 20.2
-    },
-    {
-      "key": "atk_",
-      "value": 16.9
+      "key": "def_",
+      "value": 5.8
     }
   ],
-  "location": "Bennett",
+  "location": "",
   "lock": true,
   "id": 33
 }

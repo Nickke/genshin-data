@@ -1,28 +1,28 @@
 {
-  "setKey": "GildedDreams",
+  "setKey": "DesertPavilionChronicle",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
-      "value": 4.7
+      "key": "critDMG_",
+      "value": 6.2
     },
     {
-      "key": "atk_",
-      "value": 5.8
-    },
-    {
-      "key": "enerRech_",
-      "value": 5.2
+      "key": "critRate_",
+      "value": 3.9
     },
     {
       "key": "eleMas",
-      "value": 19.0
+      "value": 23.0
+    },
+    {
+      "key": "def_",
+      "value": 5.8
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "Yanfei",
+  "lock": true,
   "id": 629
 }

@@ -1,25 +1,25 @@
 {
   "setKey": "ScrollOfTheHeroOfCinderCity",
-  "slotKey": "plume",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 209.0
+      "key": "atk",
+      "value": 18.0
+    },
+    {
+      "key": "atk_",
+      "value": 5.3
+    },
+    {
+      "key": "def_",
+      "value": 6.6
     },
     {
       "key": "critRate_",
       "value": 3.5
-    },
-    {
-      "key": "hp_",
-      "value": 4.1
-    },
-    {
-      "key": "def",
-      "value": 16.0
     }
   ],
   "location": "",

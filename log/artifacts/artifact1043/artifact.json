@@ -1,28 +1,28 @@
 {
-  "setKey": "CrimsonWitchOfFlames",
-  "slotKey": "flower",
+  "setKey": "HeartOfDepth",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "atk_",
-      "value": 5.3
-    },
-    {
-      "key": "def",
-      "value": 23.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 6.2
+      "key": "eleMas",
+      "value": 16.0
     },
     {
       "key": "atk",
-      "value": 19.0
+      "value": 14.0
+    },
+    {
+      "key": "hp",
+      "value": 299.0
+    },
+    {
+      "key": "atk_",
+      "value": 5.8
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 1043
 }

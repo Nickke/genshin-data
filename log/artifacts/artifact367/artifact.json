@@ -1,28 +1,28 @@
 {
-  "setKey": "NightOfTheSkysUnveiling",
-  "slotKey": "flower",
+  "setKey": "SilkenMoonsSerenade",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "enerRech_",
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 19.0
+      "key": "hp",
+      "value": 239.0
     },
     {
-      "key": "atk",
-      "value": 16.0
+      "key": "def",
+      "value": 21.0
     },
     {
       "key": "critDMG_",
       "value": 7.0
     },
     {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "def_",
+      "value": 5.1
     }
   ],
-  "location": "Zibai",
+  "location": "",
   "lock": false,
   "id": 367
 }

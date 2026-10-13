@@ -2,27 +2,27 @@
   "setKey": "ShimenawasReminiscence",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "atk_",
   "level": 20,
   "substats": [
     {
       "key": "critRate_",
-      "value": 14.4
+      "value": 6.2
     },
     {
-      "key": "eleMas",
-      "value": 16.0
+      "key": "enerRech_",
+      "value": 11.0
     },
     {
-      "key": "hp",
-      "value": 538.0
+      "key": "critDMG_",
+      "value": 11.7
     },
     {
       "key": "def",
-      "value": 42.0
+      "value": 56.0
     }
   ],
-  "location": "Chevreuse",
-  "lock": false,
+  "location": "",
+  "lock": true,
   "id": 133
 }

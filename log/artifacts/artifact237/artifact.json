@@ -1,28 +1,28 @@
 {
-  "setKey": "DisenchantmentInDeepShadow",
-  "slotKey": "flower",
+  "setKey": "ScarletProof",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "eleMas",
   "level": 0,
   "substats": [
-    {
-      "key": "eleMas",
-      "value": 19.0
-    },
     {
       "key": "atk",
       "value": 16.0
     },
     {
-      "key": "critDMG_",
-      "value": 6.2
+      "key": "def",
+      "value": 16.0
     },
     {
-      "key": "def_",
-      "value": 5.1
+      "key": "hp_",
+      "value": 5.3
+    },
+    {
+      "key": "hp",
+      "value": 209.0
     }
   ],
-  "location": "",
+  "location": "YumemizukiMizuki",
   "lock": false,
   "id": 237
 }

@@ -1,25 +1,25 @@
 {
   "setKey": "ViridescentVenerer",
-  "slotKey": "goblet",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "hp",
   "level": 20,
   "substats": [
+    {
+      "key": "def_",
+      "value": 14.6
+    },
     {
       "key": "atk_",
       "value": 8.7
     },
     {
       "key": "atk",
-      "value": 31.0
+      "value": 33.0
     },
     {
-      "key": "hp_",
-      "value": 16.9
-    },
-    {
-      "key": "hp",
-      "value": 418.0
+      "key": "def",
+      "value": 37.0
     }
   ],
   "location": "Sucrose",

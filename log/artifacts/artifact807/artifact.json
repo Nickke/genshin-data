@@ -2,27 +2,27 @@
   "setKey": "EmblemOfSeveredFate",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "anemo_dmg_",
   "level": 0,
   "substats": [
+    {
+      "key": "def",
+      "value": 16.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.8
+    },
     {
       "key": "atk_",
       "value": 4.1
     },
     {
-      "key": "def",
-      "value": 23.0
-    },
-    {
-      "key": "eleMas",
-      "value": 19.0
-    },
-    {
       "key": "atk",
-      "value": 16.0
+      "value": 19.0
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 807
 }

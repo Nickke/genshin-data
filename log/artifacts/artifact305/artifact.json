@@ -1,25 +1,25 @@
 {
   "setKey": "ADayCarvedFromRisingWinds",
-  "slotKey": "circlet",
+  "slotKey": "sands",
   "rarity": 5,
   "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 7.8
-    },
-    {
-      "key": "atk",
+      "key": "def",
       "value": 19.0
     },
     {
       "key": "atk_",
-      "value": 4.1
+      "value": 4.7
     },
     {
-      "key": "hp_",
-      "value": 5.3
+      "key": "eleMas",
+      "value": 21.0
+    },
+    {
+      "key": "hp",
+      "value": 209.0
     }
   ],
   "location": "",

@@ -1,28 +1,28 @@
 {
-  "setKey": "VermillionHereafter",
-  "slotKey": "plume",
+  "setKey": "DeepwoodMemories",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "critDMG_",
   "level": 20,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 84.0
+      "key": "def",
+      "value": 81.0
     },
     {
-      "key": "critDMG_",
-      "value": 14.0
+      "key": "eleMas",
+      "value": 19.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.5
     },
     {
       "key": "atk_",
-      "value": 4.1
-    },
-    {
-      "key": "def",
-      "value": 19.0
+      "value": 10.5
     }
   ],
-  "location": "Xiao",
-  "lock": true,
+  "location": "Nahida",
+  "lock": false,
   "id": 78
 }

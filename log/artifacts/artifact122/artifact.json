@@ -1,28 +1,28 @@
 {
   "setKey": "ShimenawasReminiscence",
-  "slotKey": "sands",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "atk",
   "level": 20,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 3.5
+      "key": "def",
+      "value": 35.0
+    },
+    {
+      "key": "eleMas",
+      "value": 44.0
     },
     {
       "key": "critDMG_",
-      "value": 21.8
+      "value": 17.9
     },
     {
-      "key": "atk",
-      "value": 33.0
-    },
-    {
-      "key": "enerRech_",
-      "value": 16.8
+      "key": "hp",
+      "value": 209.0
     }
   ],
-  "location": "Wriothesley",
+  "location": "Wanderer",
   "lock": false,
   "id": 122
 }

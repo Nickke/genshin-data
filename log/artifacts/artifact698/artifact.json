@@ -1,28 +1,28 @@
 {
-  "setKey": "EmblemOfSeveredFate",
-  "slotKey": "flower",
+  "setKey": "EchoesOfAnOffering",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
+      "key": "hp",
+      "value": 239.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.9
+    },
+    {
       "key": "critDMG_",
-      "value": 5.4
-    },
-    {
-      "key": "def",
-      "value": 23.0
-    },
-    {
-      "key": "atk_",
-      "value": 4.1
+      "value": 7.8
     },
     {
       "key": "atk",
-      "value": 16.0
+      "value": 18.0
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 698
 }

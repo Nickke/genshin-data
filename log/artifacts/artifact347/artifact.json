@@ -1,13 +1,13 @@
 {
-  "setKey": "SilkenMoonsSerenade",
-  "slotKey": "sands",
+  "setKey": "AubadeOfMorningstarAndMoon",
+  "slotKey": "circlet",
   "rarity": 5,
   "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 209.0
+      "key": "atk",
+      "value": 14.0
     },
     {
       "key": "enerRech_",
@@ -15,11 +15,11 @@
     },
     {
       "key": "def_",
-      "value": 7.3
+      "value": 5.8
     },
     {
-      "key": "hp_",
-      "value": 4.7
+      "key": "eleMas",
+      "value": 21.0
     }
   ],
   "location": "",

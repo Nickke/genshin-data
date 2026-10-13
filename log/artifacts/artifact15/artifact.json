@@ -1,25 +1,25 @@
 {
   "setKey": "SilkenMoonsSerenade",
-  "slotKey": "circlet",
+  "slotKey": "sands",
   "rarity": 5,
   "mainStatKey": "eleMas",
   "level": 20,
   "substats": [
     {
-      "key": "def",
-      "value": 37.0
+      "key": "hp_",
+      "value": 4.1
     },
     {
-      "key": "hp",
-      "value": 866.0
+      "key": "def",
+      "value": 39.0
     },
     {
       "key": "enerRech_",
-      "value": 5.2
+      "value": 16.8
     },
     {
-      "key": "hp_",
-      "value": 9.9
+      "key": "hp",
+      "value": 508.0
     }
   ],
   "location": "Lauma",

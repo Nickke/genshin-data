@@ -2,27 +2,27 @@
   "setKey": "GildedDreams",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "cryo_dmg_",
   "level": 20,
   "substats": [
     {
       "key": "critDMG_",
-      "value": 7.0
+      "value": 14.0
     },
     {
-      "key": "atk",
-      "value": 54.0
+      "key": "eleMas",
+      "value": 16.0
     },
     {
-      "key": "enerRech_",
-      "value": 12.3
+      "key": "def",
+      "value": 23.0
     },
     {
       "key": "def_",
-      "value": 12.4
+      "value": 24.1
     }
   ],
-  "location": "KukiShinobu",
-  "lock": false,
+  "location": "Wriothesley",
+  "lock": true,
   "id": 65
 }

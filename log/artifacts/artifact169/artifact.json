@@ -1,24 +1,24 @@
 {
-  "setKey": "CrimsonWitchOfFlames",
-  "slotKey": "plume",
+  "setKey": "ObsidianCodex",
+  "slotKey": "circlet",
   "rarity": 4,
-  "mainStatKey": "atk",
+  "mainStatKey": "critDMG_",
   "level": 0,
   "substats": [
     {
       "key": "",
-      "value": 117970.0
+      "value": 14.0
     },
     {
-      "key": "atk_",
-      "value": 3.7
+      "key": "hp",
+      "value": 191.0
     },
     {
-      "key": "enerRech_",
-      "value": 4.7
+      "key": "hp_",
+      "value": 7.5
     }
   ],
-  "location": "Gaming",
+  "location": "",
   "lock": false,
   "id": 169
 }

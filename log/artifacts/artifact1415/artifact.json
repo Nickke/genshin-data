@@ -1,25 +1,25 @@
 {
-  "setKey": "ViridescentVenerer",
-  "slotKey": "sands",
+  "setKey": "WanderersTroupe",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
       "key": "enerRech_",
-      "value": 6.5
-    },
-    {
-      "key": "def",
-      "value": 16.0
-    },
-    {
-      "key": "atk",
-      "value": 16.0
+      "value": 4.5
     },
     {
       "key": "hp",
       "value": 239.0
+    },
+    {
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "eleMas",
+      "value": 23.0
     }
   ],
   "location": "",

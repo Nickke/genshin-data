@@ -6,23 +6,23 @@
   "level": 20,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 40.0
+      "key": "def_",
+      "value": 18.2
     },
     {
       "key": "hp",
-      "value": 299.0
-    },
-    {
-      "key": "def_",
-      "value": 12.4
+      "value": 747.0
     },
     {
       "key": "critDMG_",
-      "value": 18.7
+      "value": 7.8
+    },
+    {
+      "key": "critRate_",
+      "value": 6.2
     }
   ],
-  "location": "Alhaitham",
-  "lock": true,
+  "location": "KukiShinobu",
+  "lock": false,
   "id": 58
 }

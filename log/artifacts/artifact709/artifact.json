@@ -1,28 +1,28 @@
 {
-  "setKey": "EmblemOfSeveredFate",
-  "slotKey": "flower",
+  "setKey": "OceanHuedClam",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
+      "key": "critDMG_",
+      "value": 7.0
+    },
+    {
       "key": "def",
-      "value": 23.0
-    },
-    {
-      "key": "atk_",
-      "value": 4.7
-    },
-    {
-      "key": "eleMas",
       "value": 21.0
     },
     {
       "key": "atk",
-      "value": 18.0
+      "value": 19.0
+    },
+    {
+      "key": "hp_",
+      "value": 4.1
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 709
 }

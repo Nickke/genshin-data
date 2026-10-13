@@ -1,25 +1,25 @@
 {
   "setKey": "ObsidianCodex",
-  "slotKey": "circlet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "heal_",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
       "key": "def",
-      "value": 21.0
+      "value": 16.0
+    },
+    {
+      "key": "atk_",
+      "value": 4.1
     },
     {
       "key": "atk",
-      "value": 19.0
+      "value": 18.0
     },
     {
-      "key": "critDMG_",
-      "value": 7.8
-    },
-    {
-      "key": "hp",
-      "value": 269.0
+      "key": "critRate_",
+      "value": 2.7
     }
   ],
   "location": "",

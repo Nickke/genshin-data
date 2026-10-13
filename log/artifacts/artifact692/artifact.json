@@ -1,21 +1,21 @@
 {
-  "setKey": "OceanHuedClam",
-  "slotKey": "circlet",
+  "setKey": "EchoesOfAnOffering",
+  "slotKey": "sands",
   "rarity": 5,
   "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 7.0
+      "key": "enerRech_",
+      "value": 4.5
     },
     {
       "key": "def",
       "value": 21.0
     },
     {
-      "key": "atk",
-      "value": 19.0
+      "key": "eleMas",
+      "value": 16.0
     },
     {
       "key": "hp_",

@@ -1,25 +1,25 @@
 {
   "setKey": "ObsidianCodex",
-  "slotKey": "circlet",
+  "slotKey": "sands",
   "rarity": 5,
   "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
+      "key": "enerRech_",
+      "value": 5.2
+    },
+    {
       "key": "def",
-      "value": 21.0
+      "value": 19.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 7.0
     },
     {
       "key": "atk_",
-      "value": 5.3
-    },
-    {
-      "key": "enerRech_",
-      "value": 5.8
-    },
-    {
-      "key": "atk",
-      "value": 14.0
+      "value": 4.7
     }
   ],
   "location": "",

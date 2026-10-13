@@ -1,28 +1,28 @@
 {
-  "setKey": "BlizzardStrayer",
-  "slotKey": "plume",
+  "setKey": "MaidenBeloved",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "physical_dmg_",
   "level": 0,
   "substats": [
     {
+      "key": "def_",
+      "value": 7.3
+    },
+    {
+      "key": "hp",
+      "value": 269.0
+    },
+    {
+      "key": "def",
+      "value": 16.0
+    },
+    {
       "key": "critDMG_",
-      "value": 5.4
-    },
-    {
-      "key": "critRate_",
-      "value": 3.9
-    },
-    {
-      "key": "eleMas",
-      "value": 21.0
-    },
-    {
-      "key": "hp_",
-      "value": 4.7
+      "value": 7.8
     }
   ],
-  "location": "KamisatoAyaka",
+  "location": "",
   "lock": true,
   "id": 1911
 }

@@ -10,19 +10,19 @@
       "value": 19.0
     },
     {
-      "key": "atk_",
-      "value": 5.8
-    },
-    {
-      "key": "hp",
-      "value": 209.0
+      "key": "enerRech_",
+      "value": 4.5
     },
     {
       "key": "atk",
-      "value": 16.0
+      "value": 18.0
+    },
+    {
+      "key": "atk_",
+      "value": 5.3
     }
   ],
-  "location": "Candace",
-  "lock": false,
+  "location": "",
+  "lock": true,
   "id": 833
 }

@@ -7,15 +7,15 @@
   "substats": [
     {
       "key": "def_",
-      "value": 5.1
+      "value": 6.6
     },
     {
-      "key": "eleMas",
-      "value": 19.0
+      "key": "critRate_",
+      "value": 3.9
     },
     {
       "key": "enerRech_",
-      "value": 5.2
+      "value": 6.5
     },
     {
       "key": "atk",

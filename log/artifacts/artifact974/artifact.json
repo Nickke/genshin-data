@@ -2,27 +2,27 @@
   "setKey": "ShimenawasReminiscence",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "critRate_",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 16.0
+      "key": "hp",
+      "value": 239.0
+    },
+    {
+      "key": "def_",
+      "value": 7.3
     },
     {
       "key": "eleMas",
       "value": 16.0
     },
     {
-      "key": "enerRech_",
-      "value": 4.5
-    },
-    {
       "key": "def",
       "value": 21.0
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "Wanderer",
+  "lock": true,
   "id": 974
 }

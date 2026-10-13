@@ -1,28 +1,28 @@
 {
-  "setKey": "AubadeOfMorningstarAndMoon",
-  "slotKey": "flower",
+  "setKey": "DisenchantmentInDeepShadow",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "atk_",
   "level": 20,
   "substats": [
     {
-      "key": "hp_",
-      "value": 11.7
-    },
-    {
-      "key": "eleMas",
-      "value": 35.0
-    },
-    {
-      "key": "def_",
-      "value": 13.1
+      "key": "atk",
+      "value": 64.0
     },
     {
       "key": "def",
-      "value": 37.0
+      "value": 21.0
+    },
+    {
+      "key": "eleMas",
+      "value": 44.0
+    },
+    {
+      "key": "hp",
+      "value": 598.0
     }
   ],
-  "location": "Zhongli",
+  "location": "Sandrone",
   "lock": false,
   "id": 10
 }

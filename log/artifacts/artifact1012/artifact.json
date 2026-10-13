@@ -1,28 +1,28 @@
 {
   "setKey": "HeartOfDepth",
-  "slotKey": "goblet",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "cryo_dmg_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "hp_",
+      "value": 4.7
     },
     {
-      "key": "atk",
-      "value": 19.0
-    },
-    {
-      "key": "hp",
-      "value": 299.0
+      "key": "critDMG_",
+      "value": 6.2
     },
     {
       "key": "def",
-      "value": 23.0
+      "value": 21.0
+    },
+    {
+      "key": "hp",
+      "value": 269.0
     }
   ],
-  "location": "",
-  "lock": true,
+  "location": "Barbara",
+  "lock": false,
   "id": 1012
 }

@@ -1,28 +1,28 @@
 {
   "setKey": "WanderersTroupe",
-  "slotKey": "circlet",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "critDMG_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
+      "key": "atk",
+      "value": 18.0
+    },
+    {
+      "key": "eleMas",
+      "value": 21.0
+    },
+    {
       "key": "def",
-      "value": 19.0
+      "value": 21.0
     },
     {
-      "key": "hp_",
-      "value": 5.3
-    },
-    {
-      "key": "def_",
-      "value": 6.6
-    },
-    {
-      "key": "atk_",
-      "value": 5.8
+      "key": "hp",
+      "value": 239.0
     }
   ],
-  "location": "Amber",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 1344
 }

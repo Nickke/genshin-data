@@ -1,25 +1,25 @@
 {
-  "setKey": "NightOfTheSkysUnveiling",
-  "slotKey": "flower",
+  "setKey": "SilkenMoonsSerenade",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "dendro_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
-      "value": 5.3
+      "key": "hp",
+      "value": 269.0
     },
     {
       "key": "def",
       "value": 23.0
     },
     {
-      "key": "eleMas",
-      "value": 16.0
+      "key": "atk_",
+      "value": 4.1
     },
     {
-      "key": "enerRech_",
-      "value": 6.5
+      "key": "hp_",
+      "value": 4.1
     }
   ],
   "location": "",

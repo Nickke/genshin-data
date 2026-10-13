@@ -1,28 +1,28 @@
 {
   "setKey": "EmblemOfSeveredFate",
-  "slotKey": "sands",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "enerRech_",
+  "mainStatKey": "atk",
   "level": 20,
   "substats": [
     {
       "key": "hp_",
-      "value": 4.1
+      "value": 8.2
     },
     {
       "key": "critRate_",
-      "value": 7.4
+      "value": 3.5
+    },
+    {
+      "key": "enerRech_",
+      "value": 9.1
     },
     {
       "key": "critDMG_",
-      "value": 21.8
-    },
-    {
-      "key": "atk_",
-      "value": 13.4
+      "value": 22.5
     }
   ],
-  "location": "Durin",
+  "location": "Dehya",
   "lock": true,
   "id": 94
 }

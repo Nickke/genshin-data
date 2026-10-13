@@ -2,27 +2,27 @@
   "setKey": "WanderersTroupe",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "heal_",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 14.0
-    },
-    {
-      "key": "critRate_",
-      "value": 3.5
+      "key": "def",
+      "value": 16.0
     },
     {
       "key": "hp",
       "value": 209.0
     },
     {
-      "key": "def",
-      "value": 16.0
+      "key": "critRate_",
+      "value": 3.1
+    },
+    {
+      "key": "critDMG_",
+      "value": 7.0
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 1380
 }

@@ -1,25 +1,25 @@
 {
-  "setKey": "NightOfTheSkysUnveiling",
-  "slotKey": "flower",
+  "setKey": "SilkenMoonsSerenade",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 4.5
-    },
-    {
-      "key": "def_",
-      "value": 5.8
-    },
-    {
       "key": "atk",
-      "value": 19.0
+      "value": 18.0
     },
     {
-      "key": "hp_",
-      "value": 4.7
+      "key": "def",
+      "value": 16.0
+    },
+    {
+      "key": "hp",
+      "value": 299.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 7.0
     }
   ],
   "location": "",

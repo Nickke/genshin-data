@@ -1,25 +1,21 @@
 {
-  "setKey": "TravelingDoctor",
+  "setKey": "Berserker",
   "slotKey": "goblet",
-  "rarity": 3,
-  "mainStatKey": "electro_dmg_",
-  "level": 12,
+  "rarity": 4,
+  "mainStatKey": "atk_",
+  "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 14.0
+      "key": "enerRech_",
+      "value": 41.7
     },
     {
-      "key": "hp",
-      "value": 129.0
+      "key": "critRate_",
+      "value": 4.7
     },
     {
-      "key": "atk_",
-      "value": 3.5
-    },
-    {
-      "key": "hp_",
-      "value": 2.5
+      "key": "critDMG_",
+      "value": 6.2
     }
   ],
   "location": "",

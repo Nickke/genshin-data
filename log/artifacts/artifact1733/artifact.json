@@ -6,16 +6,16 @@
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 16.0
+      "key": "enerRech_",
+      "value": 4.5
     },
     {
-      "key": "hp",
-      "value": 239.0
+      "key": "critDMG_",
+      "value": 5.4
     },
     {
       "key": "hp_",
-      "value": 5.3
+      "value": 4.7
     },
     {
       "key": "def",
@@ -23,6 +23,6 @@
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 1733
 }

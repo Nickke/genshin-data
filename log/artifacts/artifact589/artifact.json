@@ -1,25 +1,25 @@
 {
-  "setKey": "MarechausseeHunter",
-  "slotKey": "plume",
+  "setKey": "GoldenTroupe",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 269.0
+      "key": "enerRech_",
+      "value": 5.2
     },
     {
       "key": "def",
-      "value": 21.0
+      "value": 19.0
     },
     {
-      "key": "hp_",
-      "value": 4.1
+      "key": "atk",
+      "value": 16.0
     },
     {
-      "key": "enerRech_",
-      "value": 4.5
+      "key": "atk_",
+      "value": 5.8
     }
   ],
   "location": "",

@@ -1,28 +1,28 @@
 {
   "setKey": "EmblemOfSeveredFate",
-  "slotKey": "circlet",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "heal_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
+    {
+      "key": "atk_",
+      "value": 4.1
+    },
     {
       "key": "def",
       "value": 23.0
     },
     {
-      "key": "hp",
-      "value": 209.0
+      "key": "eleMas",
+      "value": 19.0
     },
     {
       "key": "atk",
-      "value": 18.0
-    },
-    {
-      "key": "eleMas",
-      "value": 23.0
+      "value": 16.0
     }
   ],
-  "location": "Yaoyao",
+  "location": "",
   "lock": false,
   "id": 824
 }

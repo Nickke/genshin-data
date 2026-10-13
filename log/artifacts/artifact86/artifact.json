@@ -6,23 +6,23 @@
   "level": 20,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 21.0
+      "key": "atk",
+      "value": 51.0
     },
     {
       "key": "hp_",
-      "value": 13.4
+      "value": 4.7
     },
     {
       "key": "critDMG_",
-      "value": 13.2
+      "value": 16.3
     },
     {
-      "key": "atk",
-      "value": 37.0
+      "key": "def",
+      "value": 44.0
     }
   ],
-  "location": "",
+  "location": "Yelan",
   "lock": false,
   "id": 86
 }

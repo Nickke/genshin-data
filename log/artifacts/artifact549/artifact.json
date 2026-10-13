@@ -1,28 +1,28 @@
 {
-  "setKey": "UnfinishedReverie",
-  "slotKey": "plume",
+  "setKey": "ScrollOfTheHeroOfCinderCity",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 16.0
+      "key": "atk",
+      "value": 19.0
+    },
+    {
+      "key": "hp",
+      "value": 209.0
+    },
+    {
+      "key": "hp_",
+      "value": 4.1
     },
     {
       "key": "enerRech_",
-      "value": 5.2
-    },
-    {
-      "key": "atk_",
-      "value": 5.8
-    },
-    {
-      "key": "critDMG_",
-      "value": 6.2
+      "value": 4.5
     }
   ],
-  "location": "Qiqi",
+  "location": "",
   "lock": false,
   "id": 549
 }

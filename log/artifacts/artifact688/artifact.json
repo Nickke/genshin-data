@@ -1,25 +1,25 @@
 {
-  "setKey": "VermillionHereafter",
-  "slotKey": "goblet",
+  "setKey": "EchoesOfAnOffering",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "eleMas",
   "level": 0,
   "substats": [
     {
+      "key": "hp",
+      "value": 269.0
+    },
+    {
       "key": "enerRech_",
-      "value": 5.8
+      "value": 4.5
     },
     {
       "key": "def",
-      "value": 21.0
+      "value": 16.0
     },
     {
-      "key": "critRate_",
-      "value": 3.9
-    },
-    {
-      "key": "atk",
-      "value": 18.0
+      "key": "hp_",
+      "value": 4.1
     }
   ],
   "location": "",

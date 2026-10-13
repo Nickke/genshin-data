@@ -1,28 +1,28 @@
 {
   "setKey": "GildedDreams",
-  "slotKey": "plume",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp",
   "level": 20,
   "substats": [
     {
-      "key": "def_",
-      "value": 18.2
-    },
-    {
-      "key": "hp",
-      "value": 747.0
-    },
-    {
       "key": "critDMG_",
-      "value": 7.8
+      "value": 13.2
     },
     {
-      "key": "critRate_",
-      "value": 6.2
+      "key": "def_",
+      "value": 11.7
+    },
+    {
+      "key": "def",
+      "value": 23.0
+    },
+    {
+      "key": "hp_",
+      "value": 14.6
     }
   ],
-  "location": "KukiShinobu",
+  "location": "Cyno",
   "lock": false,
   "id": 56
 }

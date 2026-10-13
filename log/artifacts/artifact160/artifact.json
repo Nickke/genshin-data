@@ -1,24 +1,28 @@
 {
-  "setKey": "EmblemOfSeveredFate",
-  "slotKey": "flower",
+  "setKey": "GladiatorsFinale",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "critRate_",
   "level": 20,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 6.2
+      "key": "enerRech_",
+      "value": 6.5
+    },
+    {
+      "key": "atk_",
+      "value": 14.6
+    },
+    {
+      "key": "def",
+      "value": 63.0
     },
     {
       "key": "critDMG_",
       "value": 7.8
-    },
-    {
-      "key": "enerRech_",
-      "value": 10.4
     }
   ],
-  "location": "Xingqiu",
-  "lock": false,
+  "location": "",
+  "lock": true,
   "id": 160
 }

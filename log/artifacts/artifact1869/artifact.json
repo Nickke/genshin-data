@@ -1,24 +1,24 @@
 {
   "setKey": "MaidenBeloved",
-  "slotKey": "sands",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
       "key": "atk",
-      "value": 14.0
+      "value": 16.0
     },
     {
-      "key": "hp",
-      "value": 269.0
+      "key": "eleMas",
+      "value": 16.0
     },
     {
       "key": "hp_",
       "value": 4.7
     },
     {
-      "key": "enerRech_",
+      "key": "def_",
       "value": 5.8
     }
   ],

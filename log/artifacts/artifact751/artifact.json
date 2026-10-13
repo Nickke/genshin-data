@@ -1,28 +1,28 @@
 {
   "setKey": "EmblemOfSeveredFate",
-  "slotKey": "sands",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 16.0
+      "key": "hp",
+      "value": 239.0
     },
     {
-      "key": "eleMas",
-      "value": 21.0
+      "key": "def_",
+      "value": 6.6
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.8
     },
     {
       "key": "critDMG_",
       "value": 7.8
-    },
-    {
-      "key": "critRate_",
-      "value": 3.1
     }
   ],
-  "location": "",
+  "location": "KujouSara",
   "lock": true,
   "id": 751
 }

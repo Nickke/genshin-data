@@ -1,28 +1,28 @@
 {
-  "setKey": "ShimenawasReminiscence",
-  "slotKey": "flower",
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 14.0
+      "key": "hp_",
+      "value": 4.1
     },
     {
-      "key": "critDMG_",
-      "value": 7.0
+      "key": "enerRech_",
+      "value": 4.5
     },
     {
       "key": "def",
       "value": 19.0
     },
     {
-      "key": "atk_",
-      "value": 4.1
+      "key": "eleMas",
+      "value": 19.0
     }
   ],
-  "location": "Wanderer",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 843
 }

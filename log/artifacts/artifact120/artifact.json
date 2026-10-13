@@ -6,23 +6,23 @@
   "level": 20,
   "substats": [
     {
-      "key": "def",
-      "value": 35.0
-    },
-    {
-      "key": "eleMas",
-      "value": 44.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 17.9
-    },
-    {
       "key": "hp",
-      "value": 209.0
+      "value": 478.0
+    },
+    {
+      "key": "def_",
+      "value": 19.0
+    },
+    {
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 16.2
     }
   ],
-  "location": "Wanderer",
+  "location": "Xiangling",
   "lock": false,
   "id": 120
 }

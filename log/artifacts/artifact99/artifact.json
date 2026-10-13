@@ -2,27 +2,27 @@
   "setKey": "EmblemOfSeveredFate",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "enerRech_",
+  "mainStatKey": "atk_",
   "level": 20,
   "substats": [
     {
-      "key": "def",
-      "value": 42.0
-    },
-    {
-      "key": "hp",
-      "value": 508.0
-    },
-    {
-      "key": "atk_",
-      "value": 9.3
+      "key": "critRate_",
+      "value": 9.7
     },
     {
       "key": "eleMas",
-      "value": 42.0
+      "value": 40.0
+    },
+    {
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 14.8
     }
   ],
-  "location": "RaidenShogun",
-  "lock": false,
+  "location": "Xingqiu",
+  "lock": true,
   "id": 99
 }

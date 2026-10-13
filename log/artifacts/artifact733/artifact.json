@@ -1,28 +1,28 @@
 {
   "setKey": "EmblemOfSeveredFate",
-  "slotKey": "plume",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "atk_",
+      "key": "def_",
       "value": 5.8
     },
     {
-      "key": "def",
-      "value": 23.0
-    },
-    {
       "key": "eleMas",
-      "value": 23.0
+      "value": 19.0
     },
     {
-      "key": "enerRech_",
-      "value": 6.5
+      "key": "atk",
+      "value": 14.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 5.4
     }
   ],
-  "location": "",
-  "lock": true,
+  "location": "Diona",
+  "lock": false,
   "id": 733
 }

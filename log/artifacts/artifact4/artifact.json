@@ -1,28 +1,28 @@
 {
   "setKey": "ScarletProof",
-  "slotKey": "circlet",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "critDMG_",
+  "mainStatKey": "hp",
   "level": 20,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 19.0
-    },
-    {
       "key": "critRate_",
-      "value": 10.9
+      "value": 5.4
     },
     {
-      "key": "hp_",
-      "value": 5.3
+      "key": "def_",
+      "value": 5.8
     },
     {
-      "key": "hp",
-      "value": 777.0
+      "key": "atk_",
+      "value": 9.9
+    },
+    {
+      "key": "critDMG_",
+      "value": 20.2
     }
   ],
-  "location": "Sandrone",
+  "location": "Vesna",
   "lock": true,
   "id": 4
 }

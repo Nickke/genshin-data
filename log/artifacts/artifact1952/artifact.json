@@ -1,17 +1,25 @@
 {
-  "setKey": "GladiatorsFinale",
-  "slotKey": "plume",
-  "rarity": 4,
-  "mainStatKey": "atk",
+  "setKey": "BlizzardStrayer",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "heal_",
-      "value": 17.1
+      "key": "atk",
+      "value": 14.0
     },
     {
-      "key": "critRate_",
-      "value": 2.5
+      "key": "atk_",
+      "value": 5.8
+    },
+    {
+      "key": "eleMas",
+      "value": 16.0
+    },
+    {
+      "key": "hp_",
+      "value": 5.3
     }
   ],
   "location": "",

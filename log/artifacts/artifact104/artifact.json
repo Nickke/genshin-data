@@ -2,27 +2,27 @@
   "setKey": "EmblemOfSeveredFate",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "pyro_dmg_",
+  "mainStatKey": "hp_",
   "level": 20,
   "substats": [
     {
+      "key": "hp",
+      "value": 986.0
+    },
+    {
       "key": "critRate_",
-      "value": 3.9
+      "value": 6.6
     },
     {
       "key": "atk_",
-      "value": 5.8
+      "value": 9.9
     },
     {
-      "key": "atk",
-      "value": 33.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 31.9
+      "key": "enerRech_",
+      "value": 6.5
     }
   ],
-  "location": "Yoimiya",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 104
 }

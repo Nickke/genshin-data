@@ -1,24 +1,24 @@
 {
-  "setKey": "LongNightsOath",
-  "slotKey": "flower",
+  "setKey": "NightOfTheSkysUnveiling",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 3.5
+      "key": "enerRech_",
+      "value": 4.5
     },
     {
-      "key": "hp_",
-      "value": 4.1
+      "key": "critDMG_",
+      "value": 7.8
     },
     {
-      "key": "atk_",
-      "value": 4.1
+      "key": "def_",
+      "value": 7.3
     },
     {
-      "key": "eleMas",
+      "key": "def",
       "value": 23.0
     }
   ],

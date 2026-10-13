@@ -1,28 +1,28 @@
 {
   "setKey": "GoldenTroupe",
-  "slotKey": "sands",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "enerRech_",
+  "mainStatKey": "atk",
   "level": 20,
   "substats": [
     {
-      "key": "def",
-      "value": 21.0
+      "key": "enerRech_",
+      "value": 4.5
+    },
+    {
+      "key": "def_",
+      "value": 28.4
+    },
+    {
+      "key": "hp",
+      "value": 239.0
     },
     {
       "key": "atk_",
-      "value": 16.3
-    },
-    {
-      "key": "atk",
-      "value": 33.0
-    },
-    {
-      "key": "hp_",
-      "value": 10.5
+      "value": 4.7
     }
   ],
-  "location": "",
-  "lock": true,
+  "location": "Furina",
+  "lock": false,
   "id": 39
 }

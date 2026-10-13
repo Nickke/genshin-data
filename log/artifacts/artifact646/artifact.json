@@ -1,13 +1,17 @@
 {
-  "setKey": "DeepwoodMemories",
-  "slotKey": "flower",
+  "setKey": "GildedDreams",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 19.0
+      "key": "hp_",
+      "value": 4.7
+    },
+    {
+      "key": "atk_",
+      "value": 5.8
     },
     {
       "key": "enerRech_",
@@ -15,11 +19,7 @@
     },
     {
       "key": "eleMas",
-      "value": 16.0
-    },
-    {
-      "key": "hp_",
-      "value": 5.8
+      "value": 19.0
     }
   ],
   "location": "",

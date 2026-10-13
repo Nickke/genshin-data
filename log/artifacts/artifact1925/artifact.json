@@ -1,28 +1,28 @@
 {
-  "setKey": "BlizzardStrayer",
-  "slotKey": "sands",
+  "setKey": "MaidenBeloved",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 19.0
-    },
-    {
-      "key": "def_",
+      "key": "enerRech_",
       "value": 5.8
     },
     {
-      "key": "enerRech_",
-      "value": 6.5
+      "key": "atk",
+      "value": 16.0
+    },
+    {
+      "key": "hp_",
+      "value": 4.7
     },
     {
       "key": "atk_",
-      "value": 5.3
+      "value": 4.7
     }
   ],
-  "location": "Diona",
+  "location": "",
   "lock": false,
   "id": 1925
 }

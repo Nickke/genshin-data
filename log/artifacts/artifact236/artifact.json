@@ -1,25 +1,25 @@
 {
   "setKey": "ScarletProof",
-  "slotKey": "circlet",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 16.0
+      "key": "enerRech_",
+      "value": 5.8
+    },
+    {
+      "key": "def",
+      "value": 23.0
     },
     {
       "key": "def_",
       "value": 7.3
     },
     {
-      "key": "eleMas",
-      "value": 23.0
-    },
-    {
-      "key": "def",
-      "value": 21.0
+      "key": "atk",
+      "value": 16.0
     }
   ],
   "location": "",

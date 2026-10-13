@@ -2,27 +2,27 @@
   "setKey": "EmblemOfSeveredFate",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
+    {
+      "key": "enerRech_",
+      "value": 5.2
+    },
+    {
+      "key": "critDMG_",
+      "value": 7.0
+    },
     {
       "key": "def",
       "value": 16.0
     },
     {
-      "key": "hp",
-      "value": 209.0
-    },
-    {
-      "key": "atk",
-      "value": 18.0
-    },
-    {
-      "key": "hp_",
-      "value": 4.1
+      "key": "critRate_",
+      "value": 2.7
     }
   ],
-  "location": "Thoma",
-  "lock": false,
+  "location": "",
+  "lock": true,
   "id": 805
 }

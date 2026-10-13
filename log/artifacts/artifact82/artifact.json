@@ -1,28 +1,24 @@
 {
-  "setKey": "HuskOfOpulentDreams",
-  "slotKey": "circlet",
+  "setKey": "VermillionHereafter",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "anemo_dmg_",
   "level": 20,
   "substats": [
     {
+      "key": "critRate_",
+      "value": 9.3
+    },
+    {
+      "key": "critDMG_",
+      "value": 29.5
+    },
+    {
       "key": "atk",
-      "value": 18.0
-    },
-    {
-      "key": "hp",
-      "value": 717.0
-    },
-    {
-      "key": "def",
-      "value": 16.0
-    },
-    {
-      "key": "atk_",
-      "value": 14.0
+      "value": 19.0
     }
   ],
-  "location": "KukiShinobu",
+  "location": "Xiao",
   "lock": false,
   "id": 82
 }

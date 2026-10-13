@@ -1,24 +1,28 @@
 {
-  "setKey": "TravelingDoctor",
-  "slotKey": "plume",
-  "rarity": 3,
-  "mainStatKey": "atk",
+  "setKey": "GladiatorsFinale",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "critDMG_",
   "level": 8,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 14.0
+      "key": "atk",
+      "value": 19.0
     },
     {
-      "key": "enerRech_",
-      "value": 3.1
+      "key": "hp_",
+      "value": 4.7
     },
     {
-      "key": "def",
-      "value": 9.0
+      "key": "atk_",
+      "value": 8.7
+    },
+    {
+      "key": "def_",
+      "value": 5.8
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "Arlecchino",
+  "lock": true,
   "id": 185
 }

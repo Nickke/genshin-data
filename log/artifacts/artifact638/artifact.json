@@ -1,28 +1,28 @@
 {
   "setKey": "GildedDreams",
-  "slotKey": "goblet",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 18.0
-    },
-    {
-      "key": "atk_",
-      "value": 5.3
+      "key": "eleMas",
+      "value": 23.0
     },
     {
       "key": "hp_",
-      "value": 4.7
+      "value": 5.3
     },
     {
       "key": "def",
-      "value": 16.0
+      "value": 21.0
+    },
+    {
+      "key": "hp",
+      "value": 299.0
     }
   ],
-  "location": "",
+  "location": "Collei",
   "lock": false,
   "id": 638
 }

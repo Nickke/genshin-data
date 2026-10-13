@@ -1,28 +1,28 @@
 {
   "setKey": "ViridescentVenerer",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
   "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
       "key": "critRate_",
-      "value": 3.1
+      "value": 3.9
     },
     {
       "key": "atk",
-      "value": 16.0
+      "value": 14.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 7.0
     },
     {
       "key": "def",
-      "value": 23.0
-    },
-    {
-      "key": "enerRech_",
-      "value": 5.2
+      "value": 16.0
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 1437
 }

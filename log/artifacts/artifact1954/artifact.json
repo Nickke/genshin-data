@@ -1,20 +1,28 @@
 {
-  "setKey": "GladiatorsFinale",
+  "setKey": "BlizzardStrayer",
   "slotKey": "sands",
-  "rarity": 4,
-  "mainStatKey": "atk_",
+  "rarity": 5,
+  "mainStatKey": "enerRech_",
   "level": 0,
   "substats": [
     {
-      "key": "",
-      "value": 8570.0
+      "key": "atk",
+      "value": 14.0
     },
     {
-      "key": "hp",
-      "value": 215.0
+      "key": "critRate_",
+      "value": 3.9
+    },
+    {
+      "key": "eleMas",
+      "value": 23.0
+    },
+    {
+      "key": "hp_",
+      "value": 5.8
     }
   ],
-  "location": "",
+  "location": "Mika",
   "lock": false,
   "id": 1954
 }

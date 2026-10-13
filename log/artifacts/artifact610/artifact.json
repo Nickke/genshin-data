@@ -1,28 +1,28 @@
 {
-  "setKey": "FlowerOfParadiseLost",
-  "slotKey": "circlet",
+  "setKey": "MarechausseeHunter",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "hydro_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 3.9
+      "key": "hp",
+      "value": 239.0
     },
     {
       "key": "enerRech_",
-      "value": 5.8
+      "value": 5.2
     },
     {
-      "key": "critDMG_",
-      "value": 5.4
+      "key": "eleMas",
+      "value": 21.0
     },
     {
-      "key": "hp",
-      "value": 269.0
+      "key": "def",
+      "value": 21.0
     }
   ],
-  "location": "YunJin",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 610
 }

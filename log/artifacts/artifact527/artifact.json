@@ -1,28 +1,28 @@
 {
   "setKey": "ScrollOfTheHeroOfCinderCity",
-  "slotKey": "goblet",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "pyro_dmg_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 3.9
+      "key": "def",
+      "value": 19.0
     },
     {
       "key": "eleMas",
-      "value": 21.0
-    },
-    {
-      "key": "def",
-      "value": 16.0
+      "value": 19.0
     },
     {
       "key": "critDMG_",
-      "value": 6.2
+      "value": 7.0
+    },
+    {
+      "key": "atk_",
+      "value": 5.8
     }
   ],
-  "location": "",
-  "lock": true,
+  "location": "Kachina",
+  "lock": false,
   "id": 527
 }

@@ -6,12 +6,8 @@
   "level": 0,
   "substats": [
     {
-      "key": "atk_",
-      "value": 5.3
-    },
-    {
-      "key": "def_",
-      "value": 5.8
+      "key": "critDMG_",
+      "value": 6.2
     },
     {
       "key": "def",
@@ -19,10 +15,14 @@
     },
     {
       "key": "hp_",
-      "value": 5.8
+      "value": 4.7
+    },
+    {
+      "key": "critRate_",
+      "value": 3.1
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 1175
 }

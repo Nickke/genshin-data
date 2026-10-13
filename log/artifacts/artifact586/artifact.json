@@ -1,13 +1,17 @@
 {
-  "setKey": "MarechausseeHunter",
-  "slotKey": "flower",
+  "setKey": "GoldenTroupe",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "cryo_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "def_",
-      "value": 7.3
+      "key": "enerRech_",
+      "value": 5.8
+    },
+    {
+      "key": "hp",
+      "value": 299.0
     },
     {
       "key": "def",
@@ -15,11 +19,7 @@
     },
     {
       "key": "atk",
-      "value": 18.0
-    },
-    {
-      "key": "enerRech_",
-      "value": 6.5
+      "value": 14.0
     }
   ],
   "location": "",

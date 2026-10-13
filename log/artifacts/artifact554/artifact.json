@@ -1,25 +1,25 @@
 {
-  "setKey": "FragmentOfHarmonicWhimsy",
-  "slotKey": "flower",
+  "setKey": "ScrollOfTheHeroOfCinderCity",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
+    {
+      "key": "eleMas",
+      "value": 16.0
+    },
+    {
+      "key": "def",
+      "value": 16.0
+    },
     {
       "key": "atk",
       "value": 19.0
     },
     {
-      "key": "def",
-      "value": 19.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 6.2
-    },
-    {
-      "key": "enerRech_",
-      "value": 6.5
+      "key": "critRate_",
+      "value": 3.1
     }
   ],
   "location": "",

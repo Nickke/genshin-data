@@ -1,28 +1,28 @@
 {
-  "setKey": "SilkenMoonsSerenade",
-  "slotKey": "plume",
+  "setKey": "AubadeOfMorningstarAndMoon",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "anemo_dmg_",
   "level": 0,
   "substats": [
     {
+      "key": "eleMas",
+      "value": 23.0
+    },
+    {
       "key": "def_",
-      "value": 5.8
+      "value": 7.3
+    },
+    {
+      "key": "atk_",
+      "value": 4.7
     },
     {
       "key": "hp",
-      "value": 269.0
-    },
-    {
-      "key": "def",
-      "value": 16.0
-    },
-    {
-      "key": "hp_",
-      "value": 4.7
+      "value": 209.0
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 341
 }

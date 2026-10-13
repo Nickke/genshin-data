@@ -1,25 +1,25 @@
 {
   "setKey": "GildedDreams",
-  "slotKey": "goblet",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 19.0
+      "key": "atk_",
+      "value": 5.8
+    },
+    {
+      "key": "enerRech_",
+      "value": 4.5
+    },
+    {
+      "key": "hp",
+      "value": 209.0
     },
     {
       "key": "eleMas",
       "value": 19.0
-    },
-    {
-      "key": "hp",
-      "value": 239.0
-    },
-    {
-      "key": "atk_",
-      "value": 4.7
     }
   ],
   "location": "",

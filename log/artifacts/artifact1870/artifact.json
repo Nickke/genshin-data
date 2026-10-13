@@ -1,28 +1,28 @@
 {
   "setKey": "MaidenBeloved",
-  "slotKey": "sands",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 23.0
+      "key": "atk",
+      "value": 19.0
     },
     {
-      "key": "critDMG_",
-      "value": 5.4
-    },
-    {
-      "key": "hp_",
+      "key": "atk_",
       "value": 4.1
     },
     {
-      "key": "atk",
-      "value": 16.0
+      "key": "critDMG_",
+      "value": 7.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.9
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 1870
 }

@@ -1,28 +1,28 @@
 {
-  "setKey": "NightOfTheSkysUnveiling",
-  "slotKey": "plume",
+  "setKey": "SilkenMoonsSerenade",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "eleMas",
   "level": 20,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 10.4
-    },
-    {
-      "key": "critDMG_",
-      "value": 10.9
+      "key": "def",
+      "value": 37.0
     },
     {
       "key": "hp",
-      "value": 926.0
+      "value": 866.0
     },
     {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "enerRech_",
+      "value": 5.2
+    },
+    {
+      "key": "hp_",
+      "value": 9.9
     }
   ],
-  "location": "Nefer",
-  "lock": true,
+  "location": "Lauma",
+  "lock": false,
   "id": 16
 }

@@ -1,28 +1,28 @@
 {
   "setKey": "EmblemOfSeveredFate",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "cryo_dmg_",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "atk_",
-      "value": 5.3
+      "key": "hp_",
+      "value": 4.7
     },
     {
       "key": "def",
-      "value": 21.0
+      "value": 19.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
     },
     {
       "key": "atk",
       "value": 14.0
-    },
-    {
-      "key": "hp",
-      "value": 299.0
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 785
 }

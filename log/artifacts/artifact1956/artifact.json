@@ -1,16 +1,28 @@
 {
-  "setKey": "GladiatorsFinale",
-  "slotKey": "goblet",
-  "rarity": 4,
-  "mainStatKey": "anemo_dmg_",
+  "setKey": "BlizzardStrayer",
+  "slotKey": "sands",
+  "rarity": 5,
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "",
-      "value": 470.0
+      "key": "hp",
+      "value": 299.0
+    },
+    {
+      "key": "hp_",
+      "value": 5.3
+    },
+    {
+      "key": "atk",
+      "value": 18.0
+    },
+    {
+      "key": "def_",
+      "value": 5.8
     }
   ],
-  "location": "",
+  "location": "Kaeya",
   "lock": false,
   "id": 1956
 }

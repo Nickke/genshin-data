@@ -1,25 +1,25 @@
 {
-  "setKey": "ObsidianCodex",
-  "slotKey": "flower",
+  "setKey": "LongNightsOath",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 5.8
-    },
-    {
-      "key": "eleMas",
-      "value": 16.0
+      "key": "critDMG_",
+      "value": 6.2
     },
     {
       "key": "critRate_",
-      "value": 3.9
+      "value": 3.1
     },
     {
-      "key": "def",
-      "value": 19.0
+      "key": "atk",
+      "value": 14.0
+    },
+    {
+      "key": "hp",
+      "value": 239.0
     }
   ],
   "location": "",

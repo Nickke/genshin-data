@@ -1,28 +1,28 @@
 {
-  "setKey": "ScrollOfTheHeroOfCinderCity",
-  "slotKey": "plume",
+  "setKey": "ObsidianCodex",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 3.9
+      "key": "atk_",
+      "value": 5.3
+    },
+    {
+      "key": "def",
+      "value": 23.0
+    },
+    {
+      "key": "atk",
+      "value": 18.0
     },
     {
       "key": "hp",
-      "value": 299.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 6.2
-    },
-    {
-      "key": "atk_",
-      "value": 4.7
+      "value": 269.0
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 501
 }

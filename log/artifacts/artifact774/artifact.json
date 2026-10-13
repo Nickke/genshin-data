@@ -2,7 +2,7 @@
   "setKey": "EmblemOfSeveredFate",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
@@ -10,19 +10,19 @@
       "value": 209.0
     },
     {
-      "key": "critRate_",
-      "value": 2.7
+      "key": "def",
+      "value": 19.0
     },
     {
-      "key": "def_",
-      "value": 7.3
+      "key": "hp_",
+      "value": 5.3
     },
     {
-      "key": "enerRech_",
-      "value": 6.5
+      "key": "atk",
+      "value": 14.0
     }
   ],
-  "location": "",
+  "location": "Thoma",
   "lock": false,
   "id": 774
 }

@@ -2,27 +2,27 @@
   "setKey": "EmblemOfSeveredFate",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "heal_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
+    {
+      "key": "hp",
+      "value": 269.0
+    },
     {
       "key": "atk",
       "value": 14.0
     },
     {
-      "key": "eleMas",
-      "value": 21.0
+      "key": "enerRech_",
+      "value": 5.8
     },
     {
-      "key": "hp",
-      "value": 209.0
-    },
-    {
-      "key": "hp_",
-      "value": 5.3
+      "key": "def_",
+      "value": 5.1
     }
   ],
-  "location": "Mika",
+  "location": "",
   "lock": false,
   "id": 838
 }

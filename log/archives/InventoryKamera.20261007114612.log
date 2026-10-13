@@ -1,0 +1,7 @@
+2026-10-07 11:46:07.772|INFO|InventoryKamera|Kamera initialized
+2026-10-07 11:46:11.473|INFO|GenshinProcesor|Scraper initialized
+2026-10-07 11:46:11.524|INFO|MainForm|Inventory Kamera version 1.3.17
+2026-10-07 11:46:12.042|INFO|DatabaseManager|Checking for newer game data...
+2026-10-07 11:46:12.480|INFO|DatabaseManager|Checking for newer game data...
+2026-10-07 11:46:12.833|INFO|MainForm|Current game data is up to date with data for 7.1
+2026-10-07 11:46:12.833|INFO|MainForm|Game data is up to date (7.1)

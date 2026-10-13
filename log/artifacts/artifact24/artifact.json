@@ -1,25 +1,25 @@
 {
   "setKey": "ObsidianCodex",
-  "slotKey": "plume",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp",
   "level": 20,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 19.0
+      "key": "enerRech_",
+      "value": 13.0
     },
     {
-      "key": "critRate_",
-      "value": 6.6
+      "key": "atk",
+      "value": 35.0
     },
     {
-      "key": "atk_",
-      "value": 5.3
+      "key": "critDMG_",
+      "value": 14.0
     },
     {
-      "key": "def_",
-      "value": 27.0
+      "key": "hp_",
+      "value": 9.9
     }
   ],
   "location": "Mavuika",

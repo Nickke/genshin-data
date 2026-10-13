@@ -1,8 +1,8 @@
 {
-  "setKey": "LongNightsOath",
-  "slotKey": "plume",
+  "setKey": "NightOfTheSkysUnveiling",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
@@ -10,19 +10,19 @@
       "value": 239.0
     },
     {
-      "key": "critDMG_",
-      "value": 7.8
+      "key": "eleMas",
+      "value": 16.0
     },
     {
-      "key": "atk_",
-      "value": 4.1
+      "key": "critRate_",
+      "value": 3.1
     },
     {
       "key": "hp_",
-      "value": 5.8
+      "value": 4.7
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 417
 }

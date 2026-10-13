@@ -2,27 +2,27 @@
   "setKey": "EmblemOfSeveredFate",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 16.0
+      "key": "hp_",
+      "value": 4.1
     },
     {
-      "key": "hp",
-      "value": 209.0
+      "key": "def_",
+      "value": 5.1
     },
     {
-      "key": "eleMas",
-      "value": 19.0
+      "key": "critDMG_",
+      "value": 5.4
     },
     {
-      "key": "atk_",
-      "value": 4.7
+      "key": "def",
+      "value": 23.0
     }
   ],
-  "location": "",
+  "location": "Rosaria",
   "lock": false,
   "id": 767
 }

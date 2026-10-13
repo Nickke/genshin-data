@@ -1,28 +1,28 @@
 {
   "setKey": "AubadeOfMorningstarAndMoon",
-  "slotKey": "sands",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "enerRech_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
-      "value": 5.8
+      "key": "atk",
+      "value": 19.0
     },
     {
-      "key": "hp",
-      "value": 239.0
+      "key": "critDMG_",
+      "value": 5.4
+    },
+    {
+      "key": "critRate_",
+      "value": 3.1
     },
     {
       "key": "eleMas",
-      "value": 16.0
-    },
-    {
-      "key": "atk",
-      "value": 16.0
+      "value": 21.0
     }
   ],
-  "location": "",
+  "location": "Columbina",
   "lock": false,
   "id": 321
 }

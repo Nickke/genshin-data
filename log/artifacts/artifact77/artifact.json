@@ -1,28 +1,28 @@
 {
-  "setKey": "VermillionHereafter",
-  "slotKey": "flower",
+  "setKey": "DeepwoodMemories",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "atk_",
   "level": 20,
   "substats": [
+    {
+      "key": "atk",
+      "value": 72.0
+    },
     {
       "key": "critDMG_",
       "value": 7.8
     },
     {
       "key": "def_",
-      "value": 16.0
+      "value": 18.2
     },
     {
-      "key": "eleMas",
-      "value": 42.0
-    },
-    {
-      "key": "critRate_",
-      "value": 7.0
+      "key": "enerRech_",
+      "value": 5.8
     }
   ],
-  "location": "Xiao",
-  "lock": true,
+  "location": "Nahida",
+  "lock": false,
   "id": 77
 }

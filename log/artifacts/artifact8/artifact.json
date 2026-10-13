@@ -1,25 +1,25 @@
 {
   "setKey": "DisenchantmentInDeepShadow",
-  "slotKey": "goblet",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "atk",
   "level": 20,
   "substats": [
     {
-      "key": "atk",
-      "value": 64.0
-    },
-    {
-      "key": "def",
-      "value": 21.0
-    },
-    {
-      "key": "eleMas",
-      "value": 44.0
+      "key": "critDMG_",
+      "value": 18.7
     },
     {
       "key": "hp",
-      "value": 598.0
+      "value": 448.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.9
+    },
+    {
+      "key": "atk_",
+      "value": 9.3
     }
   ],
   "location": "Sandrone",

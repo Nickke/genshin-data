@@ -1,24 +1,28 @@
 {
-  "setKey": "DisenchantmentInDeepShadow",
+  "setKey": "NightOfTheSkysUnveiling",
   "slotKey": "goblet",
-  "rarity": 4,
-  "mainStatKey": "atk_",
-  "level": 0,
+  "rarity": 5,
+  "mainStatKey": "def_",
+  "level": 18,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 66.7
-    },
-    {
-      "key": "hp",
-      "value": 382.0
-    },
-    {
       "key": "def",
-      "value": 17.0
+      "value": 21.0
+    },
+    {
+      "key": "hp_",
+      "value": 9.9
+    },
+    {
+      "key": "atk",
+      "value": 31.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 9.7
     }
   ],
-  "location": "",
+  "location": "Zibai",
   "lock": false,
   "id": 162
 }

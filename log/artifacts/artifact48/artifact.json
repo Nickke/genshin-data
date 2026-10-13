@@ -1,28 +1,28 @@
 {
   "setKey": "MarechausseeHunter",
-  "slotKey": "plume",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp",
   "level": 20,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 11.7
+      "key": "hp_",
+      "value": 9.3
+    },
+    {
+      "key": "eleMas",
+      "value": 42.0
+    },
+    {
+      "key": "def_",
+      "value": 17.5
     },
     {
       "key": "def",
-      "value": 39.0
-    },
-    {
-      "key": "hp",
-      "value": 538.0
-    },
-    {
-      "key": "hp_",
-      "value": 9.9
+      "value": 16.0
     }
   ],
-  "location": "Neuvillette",
-  "lock": true,
+  "location": "Wriothesley",
+  "lock": false,
   "id": 48
 }

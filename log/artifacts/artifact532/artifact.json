@@ -1,21 +1,21 @@
 {
   "setKey": "ScrollOfTheHeroOfCinderCity",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
   "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 19.0
-    },
-    {
-      "key": "hp",
-      "value": 209.0
-    },
-    {
       "key": "hp_",
       "value": 4.1
+    },
+    {
+      "key": "def",
+      "value": 21.0
+    },
+    {
+      "key": "eleMas",
+      "value": 16.0
     },
     {
       "key": "enerRech_",
@@ -23,6 +23,6 @@
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 532
 }

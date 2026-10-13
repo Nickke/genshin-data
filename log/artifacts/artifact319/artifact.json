@@ -1,25 +1,25 @@
 {
-  "setKey": "AubadeOfMorningstarAndMoon",
-  "slotKey": "sands",
+  "setKey": "ADayCarvedFromRisingWinds",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "enerRech_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 19.0
+      "key": "def_",
+      "value": 5.8
     },
     {
-      "key": "hp",
-      "value": 269.0
-    },
-    {
-      "key": "def",
-      "value": 23.0
+      "key": "hp_",
+      "value": 4.7
     },
     {
       "key": "atk",
-      "value": 19.0
+      "value": 18.0
+    },
+    {
+      "key": "hp",
+      "value": 239.0
     }
   ],
   "location": "",

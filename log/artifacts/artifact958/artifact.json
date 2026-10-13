@@ -1,8 +1,8 @@
 {
   "setKey": "ShimenawasReminiscence",
-  "slotKey": "circlet",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hydro_dmg_",
   "level": 0,
   "substats": [
     {
@@ -10,16 +10,16 @@
       "value": 209.0
     },
     {
-      "key": "atk",
-      "value": 19.0
+      "key": "enerRech_",
+      "value": 4.5
     },
     {
-      "key": "critRate_",
-      "value": 3.5
+      "key": "eleMas",
+      "value": 16.0
     },
     {
-      "key": "hp_",
-      "value": 4.7
+      "key": "def",
+      "value": 16.0
     }
   ],
   "location": "",

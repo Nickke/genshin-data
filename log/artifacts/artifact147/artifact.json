@@ -1,25 +1,25 @@
 {
   "setKey": "ViridescentVenerer",
-  "slotKey": "circlet",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "critRate_",
+  "mainStatKey": "atk",
   "level": 20,
   "substats": [
     {
-      "key": "atk",
-      "value": 18.0
+      "key": "def",
+      "value": 60.0
     },
     {
-      "key": "critDMG_",
-      "value": 13.2
+      "key": "eleMas",
+      "value": 44.0
     },
     {
-      "key": "def_",
-      "value": 5.1
+      "key": "critRate_",
+      "value": 6.2
     },
     {
-      "key": "hp_",
-      "value": 22.2
+      "key": "atk_",
+      "value": 4.7
     }
   ],
   "location": "Sucrose",

@@ -1,28 +1,28 @@
 {
-  "setKey": "GoldenTroupe",
-  "slotKey": "flower",
+  "setKey": "ScrollOfTheHeroOfCinderCity",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "heal_",
   "level": 20,
   "substats": [
     {
+      "key": "critRate_",
+      "value": 2.7
+    },
+    {
+      "key": "enerRech_",
+      "value": 6.5
+    },
+    {
+      "key": "critDMG_",
+      "value": 20.2
+    },
+    {
       "key": "atk_",
-      "value": 4.1
-    },
-    {
-      "key": "hp_",
-      "value": 10.5
-    },
-    {
-      "key": "atk",
-      "value": 54.0
-    },
-    {
-      "key": "eleMas",
-      "value": 42.0
+      "value": 16.9
     }
   ],
-  "location": "Fischl",
+  "location": "Bennett",
   "lock": true,
   "id": 35
 }

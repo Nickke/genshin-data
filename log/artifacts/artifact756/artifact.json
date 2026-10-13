@@ -1,28 +1,28 @@
 {
   "setKey": "EmblemOfSeveredFate",
-  "slotKey": "sands",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
-    {
-      "key": "enerRech_",
-      "value": 6.5
-    },
-    {
-      "key": "atk",
-      "value": 14.0
-    },
     {
       "key": "def",
       "value": 23.0
     },
     {
       "key": "eleMas",
-      "value": 21.0
+      "value": 19.0
+    },
+    {
+      "key": "hp_",
+      "value": 5.3
+    },
+    {
+      "key": "atk_",
+      "value": 4.7
     }
   ],
-  "location": "Chevreuse",
+  "location": "",
   "lock": false,
   "id": 756
 }

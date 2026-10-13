@@ -1,20 +1,28 @@
 {
-  "setKey": "TheExile",
+  "setKey": "BlizzardStrayer",
   "slotKey": "goblet",
-  "rarity": 4,
-  "mainStatKey": "hydro_dmg_",
+  "rarity": 5,
+  "mainStatKey": "cryo_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "",
-      "value": 970.0
+      "key": "atk_",
+      "value": 4.7
     },
     {
       "key": "enerRech_",
-      "value": 4.7
+      "value": 4.5
+    },
+    {
+      "key": "hp",
+      "value": 209.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "KamisatoAyaka",
+  "lock": true,
   "id": 1961
 }

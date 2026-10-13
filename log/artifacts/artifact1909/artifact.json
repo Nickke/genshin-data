@@ -1,25 +1,25 @@
 {
-  "setKey": "BlizzardStrayer",
-  "slotKey": "plume",
+  "setKey": "MaidenBeloved",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "anemo_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 16.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 6.2
+      "key": "eleMas",
+      "value": 21.0
     },
     {
       "key": "hp",
-      "value": 239.0
+      "value": 299.0
     },
     {
-      "key": "atk_",
-      "value": 5.8
+      "key": "critRate_",
+      "value": 3.9
+    },
+    {
+      "key": "enerRech_",
+      "value": 6.5
     }
   ],
   "location": "",

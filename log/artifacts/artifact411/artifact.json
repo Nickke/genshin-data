@@ -1,28 +1,28 @@
 {
   "setKey": "NightOfTheSkysUnveiling",
-  "slotKey": "circlet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 16.0
+      "key": "critRate_",
+      "value": 3.5
     },
     {
-      "key": "hp_",
-      "value": 5.3
-    },
-    {
-      "key": "atk_",
-      "value": 4.7
+      "key": "def_",
+      "value": 5.1
     },
     {
       "key": "critDMG_",
-      "value": 7.0
+      "value": 5.4
+    },
+    {
+      "key": "enerRech_",
+      "value": 4.5
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 411
 }

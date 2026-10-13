@@ -1,28 +1,28 @@
 {
-  "setKey": "BlizzardStrayer",
-  "slotKey": "plume",
+  "setKey": "MaidenBeloved",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "geo_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 5.2
-    },
-    {
-      "key": "eleMas",
-      "value": 23.0
-    },
-    {
-      "key": "atk_",
-      "value": 5.3
+      "key": "atk",
+      "value": 19.0
     },
     {
       "key": "hp",
-      "value": 269.0
+      "value": 209.0
+    },
+    {
+      "key": "atk_",
+      "value": 4.7
+    },
+    {
+      "key": "def",
+      "value": 23.0
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 1913
 }

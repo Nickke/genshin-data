@@ -1,9 +1,9 @@
 {
-  "key": "SkyriderSword",
-  "level": 20,
+  "key": "FavoniusSword",
+  "level": 1,
   "ascension": 0,
-  "refinement": 5,
-  "location": "",
+  "refinement": 1,
+  "location": "Kaeya",
   "lock": false,
   "id": 133
 }

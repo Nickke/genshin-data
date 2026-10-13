@@ -1,28 +1,28 @@
 {
-  "setKey": "CrimsonWitchOfFlames",
-  "slotKey": "flower",
+  "setKey": "HeartOfDepth",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "critRate_",
   "level": 0,
   "substats": [
     {
       "key": "atk",
-      "value": 18.0
+      "value": 14.0
     },
     {
-      "key": "atk_",
-      "value": 4.7
+      "key": "enerRech_",
+      "value": 6.5
+    },
+    {
+      "key": "def",
+      "value": 23.0
     },
     {
       "key": "hp_",
       "value": 4.1
-    },
-    {
-      "key": "critDMG_",
-      "value": 5.4
     }
   ],
-  "location": "Gaming",
+  "location": "Rosaria",
   "lock": true,
   "id": 1042
 }

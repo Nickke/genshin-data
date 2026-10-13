@@ -1,8 +1,8 @@
 {
   "setKey": "GladiatorsFinale",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
@@ -10,19 +10,19 @@
       "value": 5.2
     },
     {
-      "key": "def_",
-      "value": 7.3
+      "key": "hp",
+      "value": 269.0
+    },
+    {
+      "key": "atk",
+      "value": 19.0
     },
     {
       "key": "critDMG_",
-      "value": 5.4
-    },
-    {
-      "key": "eleMas",
-      "value": 21.0
+      "value": 7.0
     }
   ],
-  "location": "Sayu",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 1688
 }

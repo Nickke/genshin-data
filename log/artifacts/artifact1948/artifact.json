@@ -1,16 +1,28 @@
 {
-  "setKey": "WanderersTroupe",
-  "slotKey": "goblet",
-  "rarity": 4,
-  "mainStatKey": "pyro_dmg_",
+  "setKey": "BlizzardStrayer",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "",
-      "value": 14.0
+      "key": "hp",
+      "value": 209.0
+    },
+    {
+      "key": "atk_",
+      "value": 5.3
+    },
+    {
+      "key": "eleMas",
+      "value": 21.0
+    },
+    {
+      "key": "def_",
+      "value": 6.6
     }
   ],
-  "location": "",
+  "location": "Chongyun",
   "lock": false,
   "id": 1948
 }

@@ -1,25 +1,25 @@
 {
-  "setKey": "AubadeOfMorningstarAndMoon",
-  "slotKey": "plume",
+  "setKey": "ADayCarvedFromRisingWinds",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "electro_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 6.2
+      "key": "def_",
+      "value": 5.8
+    },
+    {
+      "key": "def",
+      "value": 21.0
+    },
+    {
+      "key": "atk_",
+      "value": 4.1
     },
     {
       "key": "eleMas",
       "value": 21.0
-    },
-    {
-      "key": "def",
-      "value": 23.0
-    },
-    {
-      "key": "critRate_",
-      "value": 2.7
     }
   ],
   "location": "",

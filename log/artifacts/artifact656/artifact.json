@@ -1,28 +1,28 @@
 {
-  "setKey": "DeepwoodMemories",
-  "slotKey": "plume",
+  "setKey": "GildedDreams",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "def_",
-      "value": 5.1
+      "key": "def",
+      "value": 16.0
+    },
+    {
+      "key": "atk",
+      "value": 16.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.9
     },
     {
       "key": "enerRech_",
-      "value": 4.5
-    },
-    {
-      "key": "def",
-      "value": 19.0
-    },
-    {
-      "key": "hp_",
-      "value": 5.3
+      "value": 6.5
     }
   ],
-  "location": "Kaveh",
+  "location": "",
   "lock": false,
   "id": 656
 }

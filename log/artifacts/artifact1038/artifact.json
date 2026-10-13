@@ -1,25 +1,25 @@
 {
-  "setKey": "NoblesseOblige",
-  "slotKey": "sands",
+  "setKey": "HeartOfDepth",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 19.0
-    },
-    {
       "key": "hp",
-      "value": 239.0
-    },
-    {
-      "key": "enerRech_",
-      "value": 5.2
+      "value": 299.0
     },
     {
       "key": "atk",
-      "value": 14.0
+      "value": 19.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
+    },
+    {
+      "key": "def_",
+      "value": 7.3
     }
   ],
   "location": "",

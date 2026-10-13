@@ -1,25 +1,25 @@
 {
-  "setKey": "AubadeOfMorningstarAndMoon",
-  "slotKey": "flower",
+  "setKey": "ADayCarvedFromRisingWinds",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "eleMas",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 19.0
+      "key": "enerRech_",
+      "value": 5.8
     },
     {
-      "key": "critDMG_",
-      "value": 5.4
+      "key": "hp",
+      "value": 209.0
     },
     {
-      "key": "critRate_",
-      "value": 3.1
+      "key": "atk_",
+      "value": 4.7
     },
     {
-      "key": "eleMas",
-      "value": 21.0
+      "key": "def_",
+      "value": 6.6
     }
   ],
   "location": "",

@@ -1,28 +1,28 @@
 {
-  "setKey": "NightOfTheSkysUnveiling",
-  "slotKey": "flower",
+  "setKey": "SilkenMoonsSerenade",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "critRate_",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 5.8
+      "key": "hp_",
+      "value": 5.3
     },
     {
-      "key": "def",
-      "value": 19.0
-    },
-    {
-      "key": "def_",
-      "value": 6.6
+      "key": "atk_",
+      "value": 4.7
     },
     {
       "key": "atk",
       "value": 18.0
+    },
+    {
+      "key": "hp",
+      "value": 239.0
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 375
 }

@@ -1,25 +1,25 @@
 {
   "setKey": "MaidenBeloved",
-  "slotKey": "goblet",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "geo_dmg_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 19.0
+      "key": "eleMas",
+      "value": 16.0
+    },
+    {
+      "key": "critRate_",
+      "value": 2.7
     },
     {
       "key": "def_",
-      "value": 5.8
-    },
-    {
-      "key": "critDMG_",
-      "value": 5.4
+      "value": 6.6
     },
     {
       "key": "hp_",
-      "value": 5.8
+      "value": 4.1
     }
   ],
   "location": "",

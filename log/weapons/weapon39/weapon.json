@@ -1,9 +1,9 @@
 {
-  "key": "PrototypeAmber",
-  "level": 40,
+  "key": "Rust",
+  "level": 50,
   "ascension": 2,
-  "refinement": 1,
-  "location": "Columbina",
+  "refinement": 4,
+  "location": "Yoimiya",
   "lock": false,
   "id": 39
 }

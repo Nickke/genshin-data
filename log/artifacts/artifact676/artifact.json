@@ -1,25 +1,25 @@
 {
-  "setKey": "EchoesOfAnOffering",
+  "setKey": "DeepwoodMemories",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 14.0
-    },
-    {
-      "key": "def_",
+      "key": "enerRech_",
       "value": 5.8
     },
     {
-      "key": "enerRech_",
-      "value": 5.2
+      "key": "critRate_",
+      "value": 3.5
     },
     {
       "key": "def",
-      "value": 19.0
+      "value": 23.0
+    },
+    {
+      "key": "atk_",
+      "value": 5.8
     }
   ],
   "location": "",

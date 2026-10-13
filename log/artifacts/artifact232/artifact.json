@@ -1,28 +1,28 @@
 {
   "setKey": "ScarletProof",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 16.0
-    },
-    {
-      "key": "def",
-      "value": 16.0
-    },
-    {
-      "key": "hp_",
+      "key": "atk_",
       "value": 5.3
     },
     {
-      "key": "hp",
-      "value": 209.0
+      "key": "def",
+      "value": 21.0
+    },
+    {
+      "key": "eleMas",
+      "value": 19.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 7.8
     }
   ],
-  "location": "YumemizukiMizuki",
+  "location": "",
   "lock": false,
   "id": 232
 }

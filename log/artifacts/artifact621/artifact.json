@@ -1,13 +1,17 @@
 {
-  "setKey": "GildedDreams",
-  "slotKey": "plume",
+  "setKey": "MarechausseeHunter",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "atk",
+      "value": 14.0
+    },
+    {
+      "key": "hp",
+      "value": 269.0
     },
     {
       "key": "hp_",
@@ -15,14 +19,10 @@
     },
     {
       "key": "def",
-      "value": 21.0
-    },
-    {
-      "key": "hp",
-      "value": 299.0
+      "value": 19.0
     }
   ],
-  "location": "Collei",
+  "location": "",
   "lock": false,
   "id": 621
 }

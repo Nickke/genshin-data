@@ -1,20 +1,16 @@
 {
-  "setKey": "PrayersToSpringtime",
+  "setKey": "ScrollOfTheHeroOfCinderCity",
   "slotKey": "circlet",
-  "rarity": 3,
-  "mainStatKey": "critDMG_",
+  "rarity": 4,
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 13.0
-    },
-    {
-      "key": "hp_",
-      "value": 2.5
+      "key": "",
+      "value": 137.0
     }
   ],
-  "location": "",
+  "location": "Kachina",
   "lock": false,
   "id": 1969
 }

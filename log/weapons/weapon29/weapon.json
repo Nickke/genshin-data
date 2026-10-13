@@ -1,9 +1,9 @@
 {
-  "key": "PrototypeArchaic",
-  "level": 80,
-  "ascension": 5,
-  "refinement": 5,
-  "location": "",
+  "key": "FavoniusSword",
+  "level": 90,
+  "ascension": 6,
+  "refinement": 3,
+  "location": "Bennett",
   "lock": false,
   "id": 29
 }

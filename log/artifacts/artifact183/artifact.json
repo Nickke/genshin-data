@@ -1,24 +1,28 @@
 {
-  "setKey": "Berserker",
-  "slotKey": "plume",
-  "rarity": 4,
-  "mainStatKey": "atk",
-  "level": 0,
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "hp_",
+  "level": 8,
   "substats": [
     {
-      "key": "",
-      "value": 870.0
+      "key": "eleMas",
+      "value": 19.0
     },
     {
-      "key": "critDMG_",
-      "value": 5.6
+      "key": "atk",
+      "value": 16.0
     },
     {
-      "key": "hp",
-      "value": 239.0
+      "key": "enerRech_",
+      "value": 5.2
+    },
+    {
+      "key": "def",
+      "value": 42.0
     }
   ],
-  "location": "YunJin",
+  "location": "",
   "lock": false,
   "id": 183
 }

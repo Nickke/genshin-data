@@ -1,25 +1,25 @@
 {
-  "setKey": "DeepwoodMemories",
-  "slotKey": "sands",
+  "setKey": "GildedDreams",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "critDMG_",
   "level": 0,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 2.7
+      "key": "enerRech_",
+      "value": 4.5
+    },
+    {
+      "key": "hp_",
+      "value": 4.1
     },
     {
       "key": "def",
-      "value": 16.0
+      "value": 19.0
     },
     {
-      "key": "enerRech_",
-      "value": 6.5
-    },
-    {
-      "key": "def_",
-      "value": 5.8
+      "key": "eleMas",
+      "value": 21.0
     }
   ],
   "location": "",

@@ -1,28 +1,28 @@
 {
   "setKey": "GildedDreams",
-  "slotKey": "sands",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "enerRech_",
+  "mainStatKey": "atk",
   "level": 20,
   "substats": [
     {
-      "key": "atk",
-      "value": 33.0
-    },
-    {
-      "key": "def",
-      "value": 21.0
-    },
-    {
-      "key": "critRate_",
-      "value": 14.0
-    },
-    {
       "key": "eleMas",
-      "value": 42.0
+      "value": 40.0
+    },
+    {
+      "key": "hp",
+      "value": 299.0
+    },
+    {
+      "key": "def_",
+      "value": 12.4
+    },
+    {
+      "key": "critDMG_",
+      "value": 18.7
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "Alhaitham",
+  "lock": true,
   "id": 60
 }

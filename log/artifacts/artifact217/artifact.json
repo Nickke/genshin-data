@@ -1,25 +1,25 @@
 {
-  "setKey": "ScarletProof",
-  "slotKey": "plume",
+  "setKey": "HeartOfTheFurnace",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
+      "key": "atk_",
+      "value": 4.7
+    },
+    {
+      "key": "enerRech_",
       "value": 5.8
     },
     {
-      "key": "critRate_",
-      "value": 3.1
+      "key": "atk",
+      "value": 14.0
     },
     {
-      "key": "critDMG_",
-      "value": 7.8
-    },
-    {
-      "key": "def_",
-      "value": 6.6
+      "key": "hp",
+      "value": 239.0
     }
   ],
   "location": "",

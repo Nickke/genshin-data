@@ -1,25 +1,25 @@
 {
-  "setKey": "ObsidianCodex",
-  "slotKey": "flower",
+  "setKey": "NightOfTheSkysUnveiling",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
+      "key": "enerRech_",
+      "value": 4.5
+    },
+    {
       "key": "def_",
-      "value": 6.6
-    },
-    {
-      "key": "atk_",
-      "value": 4.7
-    },
-    {
-      "key": "hp_",
-      "value": 5.3
+      "value": 7.3
     },
     {
       "key": "def",
-      "value": 23.0
+      "value": 16.0
+    },
+    {
+      "key": "atk",
+      "value": 14.0
     }
   ],
   "location": "",

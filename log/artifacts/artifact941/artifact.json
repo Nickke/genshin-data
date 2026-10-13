@@ -1,28 +1,28 @@
 {
   "setKey": "ShimenawasReminiscence",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hydro_dmg_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
+    {
+      "key": "def",
+      "value": 16.0
+    },
     {
       "key": "hp",
       "value": 209.0
     },
     {
-      "key": "enerRech_",
-      "value": 4.5
+      "key": "hp_",
+      "value": 4.7
     },
     {
-      "key": "eleMas",
-      "value": 16.0
-    },
-    {
-      "key": "def",
-      "value": 16.0
+      "key": "atk",
+      "value": 19.0
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 941
 }

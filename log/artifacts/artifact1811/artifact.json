@@ -2,27 +2,27 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "critDMG_",
   "level": 0,
   "substats": [
     {
       "key": "def",
-      "value": 21.0
+      "value": 16.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 6.5
     },
     {
       "key": "atk_",
       "value": 5.8
     },
     {
-      "key": "def_",
-      "value": 5.1
-    },
-    {
-      "key": "hp",
-      "value": 269.0
+      "key": "hp_",
+      "value": 5.8
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "Ningguang",
+  "lock": true,
   "id": 1811
 }

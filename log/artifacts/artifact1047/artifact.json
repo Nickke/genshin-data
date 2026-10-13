@@ -1,25 +1,25 @@
 {
-  "setKey": "CrimsonWitchOfFlames",
+  "setKey": "HeartOfDepth",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 18.0
+      "key": "hp",
+      "value": 269.0
     },
     {
-      "key": "eleMas",
-      "value": 21.0
+      "key": "hp_",
+      "value": 5.8
     },
     {
       "key": "def",
       "value": 16.0
     },
     {
-      "key": "hp",
-      "value": 269.0
+      "key": "atk",
+      "value": 14.0
     }
   ],
   "location": "",

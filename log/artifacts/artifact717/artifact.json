@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 19.0
+      "key": "def",
+      "value": 16.0
     },
     {
-      "key": "hp_",
-      "value": 4.1
-    },
-    {
-      "key": "atk_",
-      "value": 4.1
+      "key": "enerRech_",
+      "value": 5.2
     },
     {
       "key": "eleMas",
-      "value": 23.0
+      "value": 19.0
+    },
+    {
+      "key": "atk_",
+      "value": 4.7
     }
   ],
-  "location": "Beidou",
-  "lock": false,
+  "location": "Lisa",
+  "lock": true,
   "id": 717
 }

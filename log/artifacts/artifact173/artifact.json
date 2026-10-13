@@ -1,21 +1,21 @@
 {
-  "setKey": "MartialArtist",
-  "slotKey": "goblet",
+  "setKey": "Scholar",
+  "slotKey": "circlet",
   "rarity": 4,
-  "mainStatKey": "hp_",
+  "mainStatKey": "critDMG_",
   "level": 0,
   "substats": [
     {
-      "key": "",
-      "value": 117.0
+      "key": "enerRech_",
+      "value": 857.0
     },
     {
-      "key": "atk_",
-      "value": 4.2
+      "key": "def",
+      "value": 19.0
     },
     {
-      "key": "def_",
-      "value": 11.1
+      "key": "hp",
+      "value": 382.0
     }
   ],
   "location": "",

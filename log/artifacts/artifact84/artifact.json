@@ -1,28 +1,28 @@
 {
-  "setKey": "EmblemOfSeveredFate",
-  "slotKey": "flower",
+  "setKey": "HuskOfOpulentDreams",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "eleMas",
   "level": 20,
   "substats": [
     {
       "key": "atk",
-      "value": 51.0
+      "value": 18.0
     },
     {
-      "key": "hp_",
-      "value": 4.7
-    },
-    {
-      "key": "critDMG_",
-      "value": 16.3
+      "key": "hp",
+      "value": 717.0
     },
     {
       "key": "def",
-      "value": 44.0
+      "value": 16.0
+    },
+    {
+      "key": "atk_",
+      "value": 14.0
     }
   ],
-  "location": "Yelan",
+  "location": "KukiShinobu",
   "lock": false,
   "id": 84
 }

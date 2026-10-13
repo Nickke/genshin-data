@@ -2,27 +2,27 @@
   "setKey": "ShimenawasReminiscence",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "anemo_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 209.0
+      "key": "def",
+      "value": 19.0
     },
     {
-      "key": "critDMG_",
-      "value": 7.0
+      "key": "hp",
+      "value": 239.0
     },
     {
       "key": "hp_",
       "value": 5.8
     },
     {
-      "key": "atk",
-      "value": 16.0
+      "key": "eleMas",
+      "value": 23.0
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 945
 }

@@ -1,28 +1,28 @@
 {
   "setKey": "ShimenawasReminiscence",
-  "slotKey": "circlet",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "critDMG_",
+  "mainStatKey": "dendro_dmg_",
   "level": 20,
   "substats": [
     {
-      "key": "def",
-      "value": 35.0
-    },
-    {
-      "key": "enerRech_",
-      "value": 12.3
-    },
-    {
       "key": "hp",
-      "value": 956.0
+      "value": 239.0
     },
     {
-      "key": "atk_",
-      "value": 5.3
+      "key": "def",
+      "value": 21.0
+    },
+    {
+      "key": "eleMas",
+      "value": 70.0
+    },
+    {
+      "key": "atk",
+      "value": 33.0
     }
   ],
-  "location": "Nefer",
-  "lock": true,
+  "location": "Tighnari",
+  "lock": false,
   "id": 129
 }

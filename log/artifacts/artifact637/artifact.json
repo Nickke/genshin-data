@@ -1,28 +1,28 @@
 {
   "setKey": "GildedDreams",
-  "slotKey": "goblet",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 19.0
+      "key": "hp",
+      "value": 209.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
+    },
+    {
+      "key": "hp_",
+      "value": 5.8
     },
     {
       "key": "enerRech_",
       "value": 6.5
-    },
-    {
-      "key": "atk",
-      "value": 14.0
-    },
-    {
-      "key": "def",
-      "value": 19.0
     }
   ],
-  "location": "",
+  "location": "Mualani",
   "lock": false,
   "id": 637
 }

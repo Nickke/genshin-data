@@ -1,28 +1,28 @@
 {
   "setKey": "WanderersTroupe",
-  "slotKey": "sands",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "atk",
   "level": 20,
   "substats": [
     {
-      "key": "hp_",
-      "value": 8.2
+      "key": "def",
+      "value": 69.0
     },
     {
-      "key": "hp",
-      "value": 239.0
+      "key": "enerRech_",
+      "value": 12.3
     },
     {
-      "key": "atk",
-      "value": 70.0
+      "key": "eleMas",
+      "value": 58.0
     },
     {
       "key": "critRate_",
       "value": 3.1
     }
   ],
-  "location": "KamisatoAyaka",
+  "location": "",
   "lock": true,
   "id": 140
 }

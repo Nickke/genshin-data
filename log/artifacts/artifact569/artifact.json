@@ -1,25 +1,25 @@
 {
-  "setKey": "GoldenTroupe",
-  "slotKey": "goblet",
+  "setKey": "UnfinishedReverie",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "cryo_dmg_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
+      "key": "def_",
       "value": 5.8
     },
     {
-      "key": "hp",
-      "value": 299.0
-    },
-    {
-      "key": "def",
-      "value": 23.0
+      "key": "hp_",
+      "value": 5.3
     },
     {
       "key": "atk",
-      "value": 14.0
+      "value": 18.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.5
     }
   ],
   "location": "",

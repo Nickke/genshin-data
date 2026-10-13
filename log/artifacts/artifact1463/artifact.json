@@ -1,21 +1,21 @@
 {
-  "setKey": "GladiatorsFinale",
-  "slotKey": "flower",
+  "setKey": "ViridescentVenerer",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 23.0
-    },
-    {
-      "key": "eleMas",
-      "value": 16.0
+      "key": "atk",
+      "value": 19.0
     },
     {
       "key": "atk_",
-      "value": 5.8
+      "value": 5.3
+    },
+    {
+      "key": "enerRech_",
+      "value": 4.5
     },
     {
       "key": "critRate_",
@@ -23,6 +23,6 @@
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 1463
 }

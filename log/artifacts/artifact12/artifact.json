@@ -1,28 +1,28 @@
 {
-  "setKey": "SilkenMoonsSerenade",
-  "slotKey": "plume",
+  "setKey": "AubadeOfMorningstarAndMoon",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp",
   "level": 20,
   "substats": [
     {
-      "key": "atk_",
-      "value": 5.3
+      "key": "hp_",
+      "value": 11.7
+    },
+    {
+      "key": "eleMas",
+      "value": 35.0
+    },
+    {
+      "key": "def_",
+      "value": 13.1
     },
     {
       "key": "def",
-      "value": 60.0
-    },
-    {
-      "key": "hp_",
-      "value": 14.0
-    },
-    {
-      "key": "enerRech_",
-      "value": 5.2
+      "value": 37.0
     }
   ],
-  "location": "Lauma",
+  "location": "Zhongli",
   "lock": false,
   "id": 12
 }

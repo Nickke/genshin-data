@@ -1,28 +1,28 @@
 {
   "setKey": "ScarletProof",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
+    {
+      "key": "hp",
+      "value": 209.0
+    },
     {
       "key": "critRate_",
       "value": 3.9
     },
     {
-      "key": "critDMG_",
-      "value": 5.4
+      "key": "atk_",
+      "value": 4.7
     },
     {
-      "key": "def_",
-      "value": 5.1
-    },
-    {
-      "key": "hp",
-      "value": 209.0
+      "key": "enerRech_",
+      "value": 6.5
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 230
 }

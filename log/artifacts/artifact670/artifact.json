@@ -1,28 +1,28 @@
 {
-  "setKey": "EchoesOfAnOffering",
+  "setKey": "DeepwoodMemories",
   "slotKey": "plume",
   "rarity": 5,
   "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "def_",
-      "value": 6.6
-    },
-    {
-      "key": "def",
-      "value": 16.0
-    },
-    {
-      "key": "eleMas",
-      "value": 16.0
+      "key": "enerRech_",
+      "value": 5.8
     },
     {
       "key": "critRate_",
       "value": 2.7
+    },
+    {
+      "key": "hp_",
+      "value": 5.3
+    },
+    {
+      "key": "critDMG_",
+      "value": 7.8
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "Yaoyao",
+  "lock": true,
   "id": 670
 }

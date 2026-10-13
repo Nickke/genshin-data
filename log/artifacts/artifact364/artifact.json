@@ -1,25 +1,25 @@
 {
   "setKey": "SilkenMoonsSerenade",
-  "slotKey": "circlet",
+  "slotKey": "sands",
   "rarity": 5,
   "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 16.0
-    },
-    {
-      "key": "def_",
-      "value": 5.1
+      "key": "hp",
+      "value": 209.0
     },
     {
       "key": "enerRech_",
-      "value": 4.5
+      "value": 5.2
     },
     {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "def_",
+      "value": 7.3
+    },
+    {
+      "key": "hp_",
+      "value": 4.7
     }
   ],
   "location": "",

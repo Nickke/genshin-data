@@ -1,21 +1,21 @@
 {
   "setKey": "DisenchantmentInDeepShadow",
-  "slotKey": "sands",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 19.0
+      "key": "enerRech_",
+      "value": 5.8
     },
     {
-      "key": "def",
+      "key": "eleMas",
       "value": 16.0
     },
     {
-      "key": "hp",
-      "value": 269.0
+      "key": "hp_",
+      "value": 4.7
     },
     {
       "key": "critRate_",

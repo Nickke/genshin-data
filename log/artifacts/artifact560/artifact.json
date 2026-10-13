@@ -1,8 +1,8 @@
 {
-  "setKey": "GoldenTroupe",
-  "slotKey": "plume",
+  "setKey": "ScrollOfTheHeroOfCinderCity",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "critRate_",
   "level": 0,
   "substats": [
     {
@@ -10,19 +10,19 @@
       "value": 5.3
     },
     {
+      "key": "def_",
+      "value": 7.3
+    },
+    {
       "key": "def",
-      "value": 23.0
+      "value": 21.0
     },
     {
-      "key": "hp",
-      "value": 209.0
-    },
-    {
-      "key": "enerRech_",
-      "value": 5.2
+      "key": "critDMG_",
+      "value": 6.2
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 560
 }

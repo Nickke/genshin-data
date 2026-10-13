@@ -1,28 +1,28 @@
 {
   "setKey": "CelestialGift",
-  "slotKey": "circlet",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "electro_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 7.8
+      "key": "hp_",
+      "value": 4.1
     },
     {
-      "key": "atk",
-      "value": 18.0
+      "key": "def",
+      "value": 19.0
     },
     {
-      "key": "hp",
-      "value": 209.0
+      "key": "def_",
+      "value": 6.6
     },
     {
       "key": "eleMas",
-      "value": 16.0
+      "value": 19.0
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 280
 }

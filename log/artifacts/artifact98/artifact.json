@@ -2,27 +2,27 @@
   "setKey": "EmblemOfSeveredFate",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hp_",
   "level": 20,
   "substats": [
     {
       "key": "eleMas",
-      "value": 37.0
+      "value": 19.0
     },
     {
-      "key": "def",
-      "value": 37.0
+      "key": "critRate_",
+      "value": 10.5
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.2
     },
     {
       "key": "atk",
-      "value": 31.0
-    },
-    {
-      "key": "hp",
-      "value": 747.0
+      "value": 53.0
     }
   ],
-  "location": "Dehya",
-  "lock": false,
+  "location": "Yelan",
+  "lock": true,
   "id": 98
 }

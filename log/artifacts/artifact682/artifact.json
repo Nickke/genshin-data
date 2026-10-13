@@ -1,25 +1,25 @@
 {
-  "setKey": "VermillionHereafter",
-  "slotKey": "flower",
+  "setKey": "DeepwoodMemories",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "def_",
-      "value": 5.1
-    },
-    {
-      "key": "eleMas",
-      "value": 16.0
-    },
-    {
-      "key": "atk_",
-      "value": 5.8
+      "key": "enerRech_",
+      "value": 6.5
     },
     {
       "key": "atk",
-      "value": 18.0
+      "value": 16.0
+    },
+    {
+      "key": "hp",
+      "value": 269.0
+    },
+    {
+      "key": "hp_",
+      "value": 5.8
     }
   ],
   "location": "",

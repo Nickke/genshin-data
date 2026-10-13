@@ -1,25 +1,25 @@
 {
-  "setKey": "ADayCarvedFromRisingWinds",
-  "slotKey": "plume",
+  "setKey": "CelestialGift",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 5.4
+      "key": "hp",
+      "value": 239.0
     },
     {
       "key": "enerRech_",
-      "value": 4.5
+      "value": 5.8
     },
     {
-      "key": "critRate_",
-      "value": 3.1
+      "key": "hp_",
+      "value": 5.3
     },
     {
-      "key": "def_",
-      "value": 5.1
+      "key": "atk_",
+      "value": 5.3
     }
   ],
   "location": "",

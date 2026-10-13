@@ -2,7 +2,7 @@
   "setKey": "WanderersTroupe",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "physical_dmg_",
+  "mainStatKey": "dendro_dmg_",
   "level": 0,
   "substats": [
     {
@@ -10,16 +10,16 @@
       "value": 16.0
     },
     {
-      "key": "def_",
-      "value": 5.8
+      "key": "enerRech_",
+      "value": 5.2
     },
     {
-      "key": "critDMG_",
-      "value": 6.2
+      "key": "hp",
+      "value": 269.0
     },
     {
-      "key": "atk",
-      "value": 16.0
+      "key": "hp_",
+      "value": 4.7
     }
   ],
   "location": "",

@@ -1,28 +1,28 @@
 {
   "setKey": "WanderersTroupe",
-  "slotKey": "sands",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 19.0
+      "key": "hp",
+      "value": 269.0
+    },
+    {
+      "key": "eleMas",
+      "value": 21.0
+    },
+    {
+      "key": "hp_",
+      "value": 4.1
     },
     {
       "key": "def",
-      "value": 23.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 7.0
-    },
-    {
-      "key": "enerRech_",
-      "value": 5.2
+      "value": 19.0
     }
   ],
-  "location": "Tighnari",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 1202
 }

@@ -1,25 +1,25 @@
 {
-  "setKey": "VermillionHereafter",
-  "slotKey": "goblet",
+  "setKey": "EchoesOfAnOffering",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 3.1
+      "key": "hp_",
+      "value": 4.7
+    },
+    {
+      "key": "def",
+      "value": 23.0
     },
     {
       "key": "critDMG_",
       "value": 7.0
     },
     {
-      "key": "hp",
-      "value": 209.0
-    },
-    {
-      "key": "def",
-      "value": 21.0
+      "key": "def_",
+      "value": 5.8
     }
   ],
   "location": "",

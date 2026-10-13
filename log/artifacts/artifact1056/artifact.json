@@ -1,28 +1,28 @@
 {
-  "setKey": "WanderersTroupe",
-  "slotKey": "flower",
+  "setKey": "NoblesseOblige",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "electro_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 7.0
+      "key": "hp_",
+      "value": 4.1
     },
     {
-      "key": "enerRech_",
-      "value": 6.5
+      "key": "critRate_",
+      "value": 3.1
     },
     {
-      "key": "def_",
-      "value": 6.6
+      "key": "def",
+      "value": 16.0
     },
     {
-      "key": "atk_",
-      "value": 4.7
+      "key": "eleMas",
+      "value": 16.0
     }
   ],
-  "location": "ShikanoinHeizou",
-  "lock": true,
+  "location": "Dori",
+  "lock": false,
   "id": 1056
 }

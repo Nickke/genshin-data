@@ -1,28 +1,28 @@
 {
-  "setKey": "ViridescentVenerer",
-  "slotKey": "flower",
+  "setKey": "WanderersTroupe",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 4.5
-    },
-    {
       "key": "eleMas",
-      "value": 21.0
+      "value": 19.0
     },
     {
-      "key": "atk",
-      "value": 16.0
+      "key": "hp_",
+      "value": 4.7
     },
     {
       "key": "def",
-      "value": 19.0
+      "value": 23.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.8
     }
   ],
-  "location": "YumemizukiMizuki",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 1407
 }

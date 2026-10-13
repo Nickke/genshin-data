@@ -1,25 +1,25 @@
 {
   "setKey": "ObsidianCodex",
-  "slotKey": "goblet",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "geo_dmg_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
+      "key": "def",
       "value": 16.0
     },
     {
-      "key": "def",
-      "value": 23.0
+      "key": "critRate_",
+      "value": 3.9
     },
     {
-      "key": "atk_",
+      "key": "enerRech_",
       "value": 5.8
     },
     {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "def_",
+      "value": 7.3
     }
   ],
   "location": "",

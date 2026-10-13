@@ -2,27 +2,27 @@
   "setKey": "EmblemOfSeveredFate",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
-      "value": 5.3
+      "key": "atk",
+      "value": 14.0
     },
     {
       "key": "def",
       "value": 16.0
     },
     {
-      "key": "critRate_",
-      "value": 3.9
+      "key": "critDMG_",
+      "value": 7.0
     },
     {
-      "key": "eleMas",
-      "value": 21.0
+      "key": "def_",
+      "value": 5.1
     }
   ],
-  "location": "YunJin",
+  "location": "",
   "lock": false,
   "id": 777
 }

@@ -1,28 +1,28 @@
 {
   "setKey": "ShimenawasReminiscence",
-  "slotKey": "sands",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "atk",
   "level": 20,
   "substats": [
     {
-      "key": "def",
-      "value": 63.0
+      "key": "hp",
+      "value": 986.0
     },
     {
-      "key": "enerRech_",
-      "value": 11.0
+      "key": "hp_",
+      "value": 4.1
     },
     {
       "key": "critDMG_",
-      "value": 15.5
+      "value": 5.4
     },
     {
-      "key": "atk",
-      "value": 14.0
+      "key": "def",
+      "value": 37.0
     }
   ],
   "location": "Yoimiya",
-  "lock": true,
+  "lock": false,
   "id": 123
 }

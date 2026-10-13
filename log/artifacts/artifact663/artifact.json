@@ -1,28 +1,28 @@
 {
   "setKey": "DeepwoodMemories",
-  "slotKey": "goblet",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "anemo_dmg_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "atk_",
-      "value": 5.8
-    },
-    {
-      "key": "def",
+      "key": "atk",
       "value": 19.0
     },
     {
-      "key": "hp_",
-      "value": 5.3
+      "key": "enerRech_",
+      "value": 5.2
     },
     {
-      "key": "def_",
-      "value": 7.3
+      "key": "eleMas",
+      "value": 16.0
+    },
+    {
+      "key": "hp_",
+      "value": 5.8
     }
   ],
-  "location": "ShikanoinHeizou",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 663
 }

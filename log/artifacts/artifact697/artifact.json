@@ -1,25 +1,25 @@
 {
-  "setKey": "EmblemOfSeveredFate",
-  "slotKey": "flower",
+  "setKey": "EchoesOfAnOffering",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "atk_",
-      "value": 5.8
+      "key": "eleMas",
+      "value": 23.0
     },
     {
       "key": "critDMG_",
       "value": 7.8
     },
     {
-      "key": "enerRech_",
-      "value": 5.8
+      "key": "def_",
+      "value": 5.1
     },
     {
       "key": "atk",
-      "value": 16.0
+      "value": 14.0
     }
   ],
   "location": "",

@@ -1,28 +1,28 @@
 {
-  "setKey": "DisenchantmentInDeepShadow",
-  "slotKey": "flower",
+  "setKey": "ScarletProof",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "atk",
   "level": 20,
   "substats": [
     {
-      "key": "atk_",
-      "value": 13.4
+      "key": "hp_",
+      "value": 21.6
     },
     {
-      "key": "def",
-      "value": 49.0
+      "key": "critRate_",
+      "value": 3.1
     },
     {
       "key": "critDMG_",
-      "value": 7.0
+      "value": 13.2
     },
     {
-      "key": "enerRech_",
-      "value": 5.8
+      "key": "def_",
+      "value": 13.9
     }
   ],
-  "location": "Sandrone",
+  "location": "Vesna",
   "lock": true,
   "id": 5
 }

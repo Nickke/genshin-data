@@ -1,28 +1,28 @@
 {
   "setKey": "ShimenawasReminiscence",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "dendro_dmg_",
+  "mainStatKey": "eleMas",
   "level": 20,
   "substats": [
     {
+      "key": "enerRech_",
+      "value": 4.5
+    },
+    {
       "key": "hp",
-      "value": 239.0
+      "value": 657.0
     },
     {
-      "key": "def",
-      "value": 21.0
-    },
-    {
-      "key": "eleMas",
-      "value": 70.0
+      "key": "critRate_",
+      "value": 6.6
     },
     {
       "key": "atk",
-      "value": 33.0
+      "value": 35.0
     }
   ],
-  "location": "Tighnari",
+  "location": "Sucrose",
   "lock": false,
   "id": 127
 }

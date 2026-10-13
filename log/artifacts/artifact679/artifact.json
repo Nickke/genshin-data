@@ -1,28 +1,28 @@
 {
-  "setKey": "EchoesOfAnOffering",
+  "setKey": "DeepwoodMemories",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hydro_dmg_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 7.0
-    },
-    {
-      "key": "eleMas",
-      "value": 23.0
-    },
-    {
       "key": "hp",
-      "value": 239.0
+      "value": 269.0
     },
     {
       "key": "def_",
-      "value": 6.6
+      "value": 7.3
+    },
+    {
+      "key": "atk_",
+      "value": 5.8
+    },
+    {
+      "key": "enerRech_",
+      "value": 4.5
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 679
 }

@@ -1,5 +1,5 @@
 {
-  "setKey": "CrimsonWitchOfFlames",
+  "setKey": "NightOfTheSkysUnveiling",
   "slotKey": "flower",
   "rarity": 4,
   "mainStatKey": "hp",
@@ -7,15 +7,15 @@
   "substats": [
     {
       "key": "",
-      "value": 17.0
+      "value": 7.0
     },
     {
-      "key": "enerRech_",
-      "value": 7.8
+      "key": "critRate_",
+      "value": 5.9
     },
     {
-      "key": "hp_",
-      "value": 9.3
+      "key": "eleMas",
+      "value": 15.0
     }
   ],
   "location": "",

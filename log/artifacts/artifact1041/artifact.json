@@ -1,28 +1,28 @@
 {
-  "setKey": "NoblesseOblige",
+  "setKey": "HeartOfDepth",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "critRate_",
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 16.0
+      "key": "enerRech_",
+      "value": 4.5
     },
     {
       "key": "hp_",
-      "value": 5.3
+      "value": 4.7
     },
     {
-      "key": "critDMG_",
-      "value": 5.4
+      "key": "eleMas",
+      "value": 23.0
     },
     {
       "key": "atk",
-      "value": 19.0
+      "value": 14.0
     }
   ],
-  "location": "Chongyun",
-  "lock": false,
+  "location": "Lisa",
+  "lock": true,
   "id": 1041
 }

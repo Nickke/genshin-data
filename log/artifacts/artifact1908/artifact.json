@@ -1,21 +1,21 @@
 {
-  "setKey": "BlizzardStrayer",
-  "slotKey": "plume",
+  "setKey": "MaidenBeloved",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "dendro_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 7.0
-    },
-    {
       "key": "eleMas",
-      "value": 19.0
+      "value": 16.0
     },
     {
-      "key": "atk_",
-      "value": 4.1
+      "key": "atk",
+      "value": 18.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.1
     },
     {
       "key": "def",
@@ -23,6 +23,6 @@
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 1908
 }

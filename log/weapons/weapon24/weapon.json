@@ -1,9 +1,9 @@
 {
-  "key": "LionsRoar",
+  "key": "PrototypeRancour",
   "level": 90,
   "ascension": 6,
-  "refinement": 4,
-  "location": "",
+  "refinement": 1,
+  "location": "Kirara",
   "lock": false,
   "id": 24
 }

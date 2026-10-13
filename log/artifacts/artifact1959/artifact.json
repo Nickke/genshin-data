@@ -1,16 +1,28 @@
 {
-  "setKey": "GladiatorsFinale",
-  "slotKey": "circlet",
-  "rarity": 4,
-  "mainStatKey": "atk_",
+  "setKey": "BlizzardStrayer",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "physical_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "heal_",
-      "value": 17.1
+      "key": "atk",
+      "value": 14.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.9
+    },
+    {
+      "key": "eleMas",
+      "value": 19.0
+    },
+    {
+      "key": "def",
+      "value": 19.0
     }
   ],
-  "location": "",
+  "location": "Freminet",
   "lock": false,
   "id": 1959
 }

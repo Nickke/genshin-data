@@ -1,28 +1,28 @@
 {
-  "setKey": "DeepwoodMemories",
-  "slotKey": "flower",
+  "setKey": "GildedDreams",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "hp_",
   "level": 20,
   "substats": [
     {
       "key": "atk",
-      "value": 33.0
-    },
-    {
-      "key": "atk_",
-      "value": 12.8
-    },
-    {
-      "key": "eleMas",
-      "value": 47.0
+      "value": 53.0
     },
     {
       "key": "critDMG_",
-      "value": 15.5
+      "value": 6.2
+    },
+    {
+      "key": "hp",
+      "value": 508.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 11.7
     }
   ],
-  "location": "",
-  "lock": true,
+  "location": "Barbara",
+  "lock": false,
   "id": 72
 }

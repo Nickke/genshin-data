@@ -1,28 +1,28 @@
 {
   "setKey": "GildedDreams",
-  "slotKey": "plume",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp",
   "level": 20,
   "substats": [
     {
+      "key": "eleMas",
+      "value": 37.0
+    },
+    {
       "key": "def",
-      "value": 60.0
+      "value": 42.0
     },
     {
-      "key": "hp",
-      "value": 448.0
+      "key": "def_",
+      "value": 17.5
     },
     {
-      "key": "critDMG_",
-      "value": 12.4
-    },
-    {
-      "key": "atk_",
-      "value": 11.1
+      "key": "enerRech_",
+      "value": 5.2
     }
   ],
-  "location": "Cyno",
-  "lock": true,
+  "location": "Alhaitham",
+  "lock": false,
   "id": 57
 }

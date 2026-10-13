@@ -1,28 +1,28 @@
 {
   "setKey": "AubadeOfMorningstarAndMoon",
-  "slotKey": "goblet",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "hydro_dmg_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 239.0
+      "key": "enerRech_",
+      "value": 5.2
     },
     {
-      "key": "eleMas",
+      "key": "def",
       "value": 21.0
     },
     {
       "key": "critDMG_",
-      "value": 5.4
+      "value": 7.0
     },
     {
-      "key": "hp_",
-      "value": 4.7
+      "key": "def_",
+      "value": 6.6
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 325
 }

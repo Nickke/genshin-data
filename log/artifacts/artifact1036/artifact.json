@@ -1,28 +1,28 @@
 {
-  "setKey": "NoblesseOblige",
-  "slotKey": "flower",
+  "setKey": "HeartOfDepth",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "def_",
-      "value": 6.6
-    },
-    {
-      "key": "atk",
-      "value": 14.0
+      "key": "hp",
+      "value": 209.0
     },
     {
       "key": "hp_",
-      "value": 4.1
+      "value": 4.7
     },
     {
-      "key": "def",
-      "value": 21.0
+      "key": "eleMas",
+      "value": 16.0
+    },
+    {
+      "key": "atk",
+      "value": 19.0
     }
   ],
-  "location": "Dori",
+  "location": "",
   "lock": false,
   "id": 1036
 }

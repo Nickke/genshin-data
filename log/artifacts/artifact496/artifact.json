@@ -1,25 +1,25 @@
 {
-  "setKey": "ScrollOfTheHeroOfCinderCity",
-  "slotKey": "flower",
+  "setKey": "ObsidianCodex",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 5.2
+      "key": "def_",
+      "value": 5.8
     },
     {
-      "key": "def",
-      "value": 23.0
+      "key": "eleMas",
+      "value": 16.0
     },
     {
       "key": "atk",
       "value": 14.0
     },
     {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "def",
+      "value": 16.0
     }
   ],
   "location": "",

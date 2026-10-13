@@ -1,28 +1,28 @@
 {
-  "setKey": "MarechausseeHunter",
-  "slotKey": "plume",
+  "setKey": "GoldenTroupe",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "heal_",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 4.5
+      "key": "critRate_",
+      "value": 3.5
     },
     {
-      "key": "def_",
-      "value": 6.6
-    },
-    {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "atk_",
+      "value": 5.3
     },
     {
       "key": "critDMG_",
-      "value": 6.2
+      "value": 7.8
+    },
+    {
+      "key": "enerRech_",
+      "value": 6.5
     }
   ],
-  "location": "",
+  "location": "Sayu",
   "lock": false,
   "id": 590
 }

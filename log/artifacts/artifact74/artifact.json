@@ -1,28 +1,28 @@
 {
   "setKey": "DeepwoodMemories",
-  "slotKey": "plume",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp",
   "level": 20,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 44.0
+      "key": "atk",
+      "value": 33.0
     },
     {
-      "key": "def",
-      "value": 19.0
+      "key": "atk_",
+      "value": 12.8
+    },
+    {
+      "key": "eleMas",
+      "value": 47.0
     },
     {
       "key": "critDMG_",
-      "value": 13.2
-    },
-    {
-      "key": "hp",
-      "value": 717.0
+      "value": 15.5
     }
   ],
-  "location": "Nahida",
+  "location": "",
   "lock": true,
   "id": 74
 }

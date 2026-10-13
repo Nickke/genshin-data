@@ -1,28 +1,28 @@
 {
   "setKey": "GildedDreams",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "dendro_dmg_",
+  "mainStatKey": "enerRech_",
   "level": 20,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 70.0
+      "key": "atk",
+      "value": 33.0
+    },
+    {
+      "key": "def",
+      "value": 21.0
     },
     {
       "key": "critRate_",
-      "value": 7.8
+      "value": 14.0
     },
     {
-      "key": "def_",
-      "value": 6.6
-    },
-    {
-      "key": "atk_",
-      "value": 11.1
+      "key": "eleMas",
+      "value": 42.0
     }
   ],
-  "location": "Alhaitham",
+  "location": "",
   "lock": false,
   "id": 62
 }

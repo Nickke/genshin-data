@@ -1,28 +1,28 @@
 {
   "setKey": "ScrollOfTheHeroOfCinderCity",
-  "slotKey": "sands",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 19.0
-    },
-    {
-      "key": "atk",
-      "value": 18.0
-    },
-    {
       "key": "hp",
-      "value": 239.0
+      "value": 269.0
     },
     {
       "key": "atk_",
-      "value": 5.8
+      "value": 4.7
+    },
+    {
+      "key": "critRate_",
+      "value": 3.9
+    },
+    {
+      "key": "enerRech_",
+      "value": 6.5
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 517
 }

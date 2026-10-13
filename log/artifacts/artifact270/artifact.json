@@ -1,25 +1,25 @@
 {
   "setKey": "CelestialGift",
-  "slotKey": "sands",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 23.0
-    },
-    {
-      "key": "critRate_",
-      "value": 3.5
-    },
-    {
-      "key": "hp_",
+      "key": "enerRech_",
       "value": 5.8
     },
     {
       "key": "atk",
-      "value": 14.0
+      "value": 18.0
+    },
+    {
+      "key": "eleMas",
+      "value": 19.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.5
     }
   ],
   "location": "",

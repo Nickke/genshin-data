@@ -10,19 +10,19 @@
       "value": 299.0
     },
     {
-      "key": "hp_",
-      "value": 5.3
+      "key": "def_",
+      "value": 6.6
     },
     {
-      "key": "def",
-      "value": 23.0
+      "key": "critRate_",
+      "value": 3.1
     },
     {
-      "key": "enerRech_",
-      "value": 5.8
+      "key": "atk_",
+      "value": 4.1
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 1181
 }

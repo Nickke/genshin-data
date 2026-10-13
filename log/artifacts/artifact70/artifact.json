@@ -6,23 +6,23 @@
   "level": 20,
   "substats": [
     {
-      "key": "atk",
+      "key": "def",
       "value": 53.0
     },
     {
-      "key": "critDMG_",
-      "value": 6.2
+      "key": "atk_",
+      "value": 8.7
     },
     {
       "key": "hp",
-      "value": 508.0
+      "value": 717.0
     },
     {
-      "key": "enerRech_",
-      "value": 11.7
+      "key": "critDMG_",
+      "value": 7.0
     }
   ],
-  "location": "Barbara",
-  "lock": false,
+  "location": "Layla",
+  "lock": true,
   "id": 70
 }

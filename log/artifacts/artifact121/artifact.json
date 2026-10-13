@@ -6,23 +6,23 @@
   "level": 20,
   "substats": [
     {
-      "key": "hp",
-      "value": 986.0
-    },
-    {
       "key": "hp_",
-      "value": 4.1
+      "value": 9.9
     },
     {
-      "key": "critDMG_",
-      "value": 5.4
+      "key": "critRate_",
+      "value": 10.5
+    },
+    {
+      "key": "enerRech_",
+      "value": 14.9
     },
     {
       "key": "def",
-      "value": 37.0
+      "value": 21.0
     }
   ],
-  "location": "Yoimiya",
+  "location": "",
   "lock": false,
   "id": 121
 }

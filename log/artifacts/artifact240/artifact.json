@@ -1,25 +1,25 @@
 {
-  "setKey": "DisenchantmentInDeepShadow",
-  "slotKey": "flower",
+  "setKey": "ScarletProof",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "eleMas",
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 19.0
+      "key": "hp",
+      "value": 239.0
     },
     {
       "key": "hp_",
-      "value": 5.3
+      "value": 4.1
     },
     {
-      "key": "eleMas",
-      "value": 19.0
+      "key": "enerRech_",
+      "value": 6.5
     },
     {
       "key": "atk",
-      "value": 18.0
+      "value": 14.0
     }
   ],
   "location": "",

@@ -1,25 +1,25 @@
 {
-  "setKey": "ObsidianCodex",
-  "slotKey": "flower",
+  "setKey": "FinaleOfTheDeepGalleries",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "eleMas",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 5.2
+      "key": "hp",
+      "value": 269.0
+    },
+    {
+      "key": "def_",
+      "value": 7.3
     },
     {
       "key": "atk_",
       "value": 4.7
     },
     {
-      "key": "atk",
-      "value": 14.0
-    },
-    {
-      "key": "eleMas",
-      "value": 16.0
+      "key": "enerRech_",
+      "value": 5.2
     }
   ],
   "location": "",

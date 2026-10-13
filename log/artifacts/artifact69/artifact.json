@@ -2,27 +2,27 @@
   "setKey": "GildedDreams",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "critRate_",
   "level": 20,
   "substats": [
     {
+      "key": "atk",
+      "value": 33.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 16.2
+    },
+    {
       "key": "eleMas",
-      "value": 42.0
+      "value": 40.0
     },
     {
-      "key": "def",
-      "value": 37.0
-    },
-    {
-      "key": "def_",
-      "value": 7.3
-    },
-    {
-      "key": "atk_",
-      "value": 13.4
+      "key": "hp",
+      "value": 568.0
     }
   ],
-  "location": "Zhongli",
-  "lock": true,
+  "location": "Alhaitham",
+  "lock": false,
   "id": 69
 }

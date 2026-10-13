@@ -1,21 +1,21 @@
 {
-  "setKey": "Berserker",
-  "slotKey": "goblet",
+  "setKey": "TheExile",
+  "slotKey": "flower",
   "rarity": 4,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 41.7
+      "key": "eleMas",
+      "value": 17.0
     },
     {
-      "key": "critRate_",
+      "key": "hp_",
       "value": 4.7
     },
     {
-      "key": "critDMG_",
-      "value": 6.2
+      "key": "atk_",
+      "value": 4.2
     }
   ],
   "location": "",

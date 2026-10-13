@@ -2,27 +2,27 @@
   "setKey": "ShimenawasReminiscence",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hydro_dmg_",
+  "mainStatKey": "physical_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "atk_",
-      "value": 5.3
-    },
-    {
-      "key": "enerRech_",
-      "value": 5.8
+      "key": "def",
+      "value": 21.0
     },
     {
       "key": "def_",
-      "value": 6.6
+      "value": 5.1
     },
     {
-      "key": "critRate_",
-      "value": 2.7
+      "key": "atk_",
+      "value": 5.8
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.2
     }
   ],
-  "location": "Mona",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 944
 }

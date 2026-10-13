@@ -1,24 +1,24 @@
 {
-  "setKey": "TheExile",
-  "slotKey": "circlet",
+  "setKey": "CrimsonWitchOfFlames",
+  "slotKey": "plume",
   "rarity": 4,
-  "mainStatKey": "critDMG_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
       "key": "",
-      "value": 117.0
+      "value": 117970.0
+    },
+    {
+      "key": "atk_",
+      "value": 3.7
     },
     {
       "key": "enerRech_",
       "value": 4.7
-    },
-    {
-      "key": "def",
-      "value": 17.0
     }
   ],
-  "location": "Columbina",
+  "location": "Gaming",
   "lock": false,
   "id": 172
 }

@@ -1,25 +1,25 @@
 {
   "setKey": "HeartOfDepth",
-  "slotKey": "sands",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
-    {
-      "key": "hp",
-      "value": 269.0
-    },
     {
       "key": "def_",
       "value": 5.8
     },
     {
-      "key": "atk",
-      "value": 16.0
+      "key": "enerRech_",
+      "value": 5.8
     },
     {
-      "key": "atk_",
-      "value": 4.1
+      "key": "def",
+      "value": 23.0
+    },
+    {
+      "key": "eleMas",
+      "value": 21.0
     }
   ],
   "location": "",
