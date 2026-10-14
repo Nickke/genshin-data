@@ -1,20 +1,16 @@
 {
   "setKey": "Berserker",
-  "slotKey": "plume",
+  "slotKey": "flower",
   "rarity": 3,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 11.0
-    },
-    {
-      "key": "critRate_",
-      "value": 2.1
+      "key": "critDMG_",
+      "value": 3.3
     }
   ],
-  "location": "Gorou",
+  "location": "YunJin",
   "lock": false,
   "id": 1971
 }

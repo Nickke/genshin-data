@@ -23,6 +23,6 @@
     }
   ],
   "location": "Odette",
-  "lock": true,
+  "lock": false,
   "id": 2
 }

@@ -1,13 +1,17 @@
 {
   "setKey": "Berserker",
-  "slotKey": "sands",
+  "slotKey": "plume",
   "rarity": 3,
-  "mainStatKey": "enerRech_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
-      "value": 3.2
+      "key": "eleMas",
+      "value": 11.0
+    },
+    {
+      "key": "critRate_",
+      "value": 2.1
     }
   ],
   "location": "Gorou",
