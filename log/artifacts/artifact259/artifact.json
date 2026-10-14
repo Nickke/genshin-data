@@ -2,24 +2,24 @@
   "setKey": "DisenchantmentInDeepShadow",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "electro_dmg_",
+  "mainStatKey": "dendro_dmg_",
   "level": 0,
   "substats": [
     {
+      "key": "enerRech_",
+      "value": 6.5
+    },
+    {
+      "key": "critRate_",
+      "value": 3.1
+    },
+    {
       "key": "eleMas",
-      "value": 23.0
+      "value": 21.0
     },
     {
       "key": "atk",
-      "value": 19.0
-    },
-    {
-      "key": "hp_",
-      "value": 5.3
-    },
-    {
-      "key": "enerRech_",
-      "value": 6.5
+      "value": 16.0
     }
   ],
   "location": "",

@@ -23,6 +23,6 @@
     }
   ],
   "location": "Candace",
-  "lock": false,
+  "lock": true,
   "id": 753
 }

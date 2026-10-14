@@ -23,6 +23,6 @@
     }
   ],
   "location": "Sucrose",
-  "lock": true,
+  "lock": false,
   "id": 148
 }
