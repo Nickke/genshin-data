@@ -23,6 +23,6 @@
     }
   ],
   "location": "Neuvillette",
-  "lock": false,
+  "lock": true,
   "id": 51
 }

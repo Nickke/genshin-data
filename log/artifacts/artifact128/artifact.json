@@ -7,22 +7,22 @@
   "substats": [
     {
       "key": "enerRech_",
-      "value": 4.5
+      "value": 10.4
     },
     {
-      "key": "hp",
-      "value": 657.0
+      "key": "def_",
+      "value": 19.0
     },
     {
-      "key": "critRate_",
-      "value": 6.6
+      "key": "critDMG_",
+      "value": 6.2
     },
     {
-      "key": "atk",
-      "value": 35.0
+      "key": "def",
+      "value": 44.0
     }
   ],
-  "location": "Sucrose",
+  "location": "Lynette",
   "lock": false,
   "id": 128
 }

@@ -23,6 +23,6 @@
     }
   ],
   "location": "Gaming",
-  "lock": false,
+  "lock": true,
   "id": 1062
 }

@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
-      "key": "atk_",
-      "value": 4.7
-    },
-    {
       "key": "enerRech_",
-      "value": 4.5
+      "value": 6.5
     },
     {
       "key": "hp",
-      "value": 209.0
+      "value": 269.0
     },
     {
-      "key": "critDMG_",
-      "value": 6.2
+      "key": "atk",
+      "value": 18.0
+    },
+    {
+      "key": "hp_",
+      "value": 5.3
     }
   ],
-  "location": "KamisatoAyaka",
+  "location": "Chongyun",
   "lock": true,
   "id": 1962
 }
