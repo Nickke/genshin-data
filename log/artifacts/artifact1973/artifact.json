@@ -1,16 +1,16 @@
 {
   "setKey": "Berserker",
-  "slotKey": "sands",
+  "slotKey": "flower",
   "rarity": 3,
-  "mainStatKey": "enerRech_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
-      "value": 3.2
+      "key": "critDMG_",
+      "value": 3.3
     }
   ],
-  "location": "Gorou",
+  "location": "YunJin",
   "lock": false,
   "id": 1973
 }
