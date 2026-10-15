@@ -1,28 +1,28 @@
 {
   "setKey": "ScrollOfTheHeroOfCinderCity",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "pyro_dmg_",
+  "mainStatKey": "atk_",
   "level": 20,
   "substats": [
     {
-      "key": "atk",
-      "value": 14.0
+      "key": "critDMG_",
+      "value": 27.2
     },
     {
-      "key": "atk_",
-      "value": 5.3
-    },
-    {
-      "key": "hp",
-      "value": 687.0
+      "key": "eleMas",
+      "value": 23.0
     },
     {
       "key": "critRate_",
-      "value": 8.6
+      "value": 7.4
+    },
+    {
+      "key": "def_",
+      "value": 5.8
     }
   ],
-  "location": "Traveler",
+  "location": "Odette",
   "lock": true,
   "id": 32
 }

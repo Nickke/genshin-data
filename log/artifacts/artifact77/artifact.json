@@ -23,6 +23,6 @@
     }
   ],
   "location": "Nahida",
-  "lock": true,
+  "lock": false,
   "id": 77
 }
