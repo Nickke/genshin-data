@@ -1,0 +1,581 @@
+2026-10-15 14:57:12.032|INFO|InventoryKamera|Kamera initialized
+2026-10-15 14:57:13.053|INFO|GenshinProcesor|Scraper initialized
+2026-10-15 14:57:13.069|INFO|MainForm|Inventory Kamera version 1.3.17
+2026-10-15 14:57:13.313|INFO|DatabaseManager|Checking for newer game data...
+2026-10-15 14:57:14.018|INFO|MainForm|Game data is up to date (7.1)
+2026-10-15 14:57:21.746|INFO|MainForm|Starting scan
+2026-10-15 14:57:21.746|INFO|MainForm|Hotkey registered
+2026-10-15 14:57:21.746|INFO|MainForm|Scan settings: 
+	Game Version Data:			 7.1
+	Weapons:				 True
+	Artifacts:				 True
+	Characters:				 True
+	Dev Items:				 True
+	Materials:				 True
+	Min Weapon Rarity:		 1
+	Min Weapon Level:		 1
+	Equip Weapons:			 True
+	Min Artifact Rarity:	 1
+	Min Artifact Level:		 0
+	Equip Artifacts:		 True
+	Delay:					 0
+2026-10-15 14:57:21.861|INFO|InventoryKamera|Kamera initialized
+2026-10-15 14:57:21.861|INFO|MainForm|Resolution: 1600x900
+2026-10-15 14:57:30.629|INFO|InventoryKamera|Logging directory reset
+2026-10-15 14:57:31.094|INFO|GenshinProcesor|Internally set traveler custom name to nickke
+2026-10-15 14:57:31.101|INFO|GenshinProcesor|Internally set wanderer custom name to zefiro
+2026-10-15 14:57:31.101|INFO|InventoryKamera|Scanning weapons...
+2026-10-15 14:57:36.286|INFO|UserInterface|Parsed 188 weapons to scan
+2026-10-15 14:57:36.286|INFO|WeaponScraper|Found 188 for weapon count.
+2026-10-15 14:57:39.339|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:57:41.172|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:57:53.444|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:08.276|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:09.314|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:09.895|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:11.418|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:11.577|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:11.703|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:11.853|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:12.117|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:12.245|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:12.404|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:12.667|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:12.763|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:15.067|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:15.219|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:15.366|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:15.596|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:15.841|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:16.002|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:16.230|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:16.364|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:16.596|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:16.753|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:16.921|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:17.098|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:17.253|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:17.487|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:17.679|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:17.858|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:18.093|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:18.252|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:18.437|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:18.589|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:18.804|WARN|WeaponScraper|ScanRefinement OCR failed, defaulting refinement to 1
+2026-10-15 14:58:19.891|INFO|WeaponScraper|Stopping weapon scan based on scans queued (188 of 188)
+2026-10-15 14:58:21.912|INFO|InventoryKamera|Done scanning weapons
+2026-10-15 14:58:21.912|INFO|InventoryKamera|Scanning artifacts...
+2026-10-15 14:58:27.605|INFO|UserInterface|Parsed 1977 artifacts to scan
+2026-10-15 14:58:27.605|INFO|ArtifactScraper|Found 1977 for artifact count.
+2026-10-15 15:06:32.926|INFO|ArtifactScraper|Stopping artifact scan based on scans queued (1977 of 1977)
+2026-10-15 15:06:34.953|INFO|InventoryKamera|Done scanning artifacts
+2026-10-15 15:06:34.953|INFO|InventoryKamera|Scanning characters...
+2026-10-15 15:06:39.240|INFO|CharacterScraper|Mavuika Level: 90
+2026-10-15 15:06:39.240|INFO|CharacterScraper|Mavuika Ascended: False
+2026-10-15 15:06:40.863|INFO|CharacterScraper|Mavuika Constellation: 0
+2026-10-15 15:06:43.262|INFO|CharacterScraper|Mavuika Talents: {auto=10, skill=10, burst=10}
+2026-10-15 15:06:43.524|INFO|CharacterScraper|Scanned Mavuika successfully
+2026-10-15 15:06:45.117|INFO|CharacterScraper|Lauma Level: 90
+2026-10-15 15:06:45.117|INFO|CharacterScraper|Lauma Ascended: False
+2026-10-15 15:06:46.716|INFO|CharacterScraper|Lauma Constellation: 0
+2026-10-15 15:06:49.262|INFO|CharacterScraper|Lauma Talents: {auto=10, skill=10, burst=10}
+2026-10-15 15:06:49.515|INFO|CharacterScraper|Scanned Lauma successfully
+2026-10-15 15:06:51.130|INFO|CharacterScraper|KukiShinobu Level: 90
+2026-10-15 15:06:51.130|INFO|CharacterScraper|KukiShinobu Ascended: False
+2026-10-15 15:06:55.209|INFO|CharacterScraper|KukiShinobu Constellation: 6
+2026-10-15 15:06:57.668|INFO|CharacterScraper|KukiShinobu Talents: {auto=10, skill=13, burst=13}
+2026-10-15 15:06:57.926|INFO|CharacterScraper|KukiShinobu constellation 5+, adjusting scanned skill and burst levels
+2026-10-15 15:06:57.926|INFO|CharacterScraper|Scanned KukiShinobu successfully
+2026-10-15 15:06:59.489|INFO|CharacterScraper|Furina Level: 90
+2026-10-15 15:06:59.489|INFO|CharacterScraper|Furina Ascended: False
+2026-10-15 15:07:01.057|INFO|CharacterScraper|Furina Constellation: 0
+2026-10-15 15:07:03.422|INFO|CharacterScraper|Furina Talents: {auto=10, skill=10, burst=10}
+2026-10-15 15:07:03.686|INFO|CharacterScraper|Scanned Furina successfully
+2026-10-15 15:07:05.259|INFO|CharacterScraper|Alhaitham Level: 90
+2026-10-15 15:07:05.259|INFO|CharacterScraper|Alhaitham Ascended: False
+2026-10-15 15:07:07.241|INFO|CharacterScraper|Alhaitham Constellation: 1
+2026-10-15 15:07:09.743|INFO|CharacterScraper|Alhaitham Talents: {auto=10, skill=10, burst=10}
+2026-10-15 15:07:09.999|INFO|CharacterScraper|Scanned Alhaitham successfully
+2026-10-15 15:07:11.556|INFO|CharacterScraper|Xingqiu Level: 90
+2026-10-15 15:07:11.556|INFO|CharacterScraper|Xingqiu Ascended: False
+2026-10-15 15:07:15.587|INFO|CharacterScraper|Xingqiu Constellation: 6
+2026-10-15 15:07:18.029|INFO|CharacterScraper|Xingqiu Talents: {auto=10, skill=13, burst=13}
+2026-10-15 15:07:18.287|INFO|CharacterScraper|Xingqiu constellation 5+, adjusting scanned skill and burst levels
+2026-10-15 15:07:18.287|INFO|CharacterScraper|Scanned Xingqiu successfully
+2026-10-15 15:07:19.882|INFO|CharacterScraper|YumemizukiMizuki Level: 90
+2026-10-15 15:07:19.882|INFO|CharacterScraper|YumemizukiMizuki Ascended: False
+2026-10-15 15:07:22.468|INFO|CharacterScraper|YumemizukiMizuki Constellation: 2
+2026-10-15 15:07:24.935|INFO|CharacterScraper|YumemizukiMizuki Talents: {auto=6, skill=8, burst=8}
+2026-10-15 15:07:25.194|INFO|CharacterScraper|Scanned YumemizukiMizuki successfully
+2026-10-15 15:07:26.776|INFO|CharacterScraper|Sucrose Level: 90
+2026-10-15 15:07:26.776|INFO|CharacterScraper|Sucrose Ascended: False
+2026-10-15 15:07:30.810|INFO|CharacterScraper|Sucrose Constellation: 6
+2026-10-15 15:07:33.307|INFO|CharacterScraper|Sucrose Talents: {auto=8, skill=10, burst=12}
+2026-10-15 15:07:33.562|INFO|CharacterScraper|Sucrose constellation 5+, adjusting scanned skill and burst levels
+2026-10-15 15:07:33.562|INFO|CharacterScraper|Scanned Sucrose successfully
+2026-10-15 15:07:35.116|INFO|CharacterScraper|Columbina Level: 88
+2026-10-15 15:07:35.116|INFO|CharacterScraper|Columbina Ascended: True
+2026-10-15 15:07:36.660|INFO|CharacterScraper|Columbina Constellation: 0
+2026-10-15 15:07:39.040|INFO|CharacterScraper|Columbina Talents: {auto=6, skill=7, burst=8}
+2026-10-15 15:07:39.304|INFO|CharacterScraper|Scanned Columbina successfully
+2026-10-15 15:07:40.865|INFO|CharacterScraper|Vesna Level: 80
+2026-10-15 15:07:40.865|INFO|CharacterScraper|Vesna Ascended: False
+2026-10-15 15:07:42.429|INFO|CharacterScraper|Vesna Constellation: 0
+2026-10-15 15:07:44.828|INFO|CharacterScraper|Vesna Talents: {auto=3, skill=7, burst=7}
+2026-10-15 15:07:45.094|INFO|CharacterScraper|Scanned Vesna successfully
+2026-10-15 15:07:46.662|INFO|CharacterScraper|Zhongli Level: 90
+2026-10-15 15:07:46.662|INFO|CharacterScraper|Zhongli Ascended: False
+2026-10-15 15:07:48.248|INFO|CharacterScraper|Zhongli Constellation: 0
+2026-10-15 15:07:50.613|INFO|CharacterScraper|Zhongli Talents: {auto=8, skill=10, burst=10}
+2026-10-15 15:07:50.873|INFO|CharacterScraper|Scanned Zhongli successfully
+2026-10-15 15:07:52.461|INFO|CharacterScraper|Xiao Level: 90
+2026-10-15 15:07:52.461|INFO|CharacterScraper|Xiao Ascended: False
+2026-10-15 15:07:54.530|INFO|CharacterScraper|Xiao Constellation: 1
+2026-10-15 15:07:56.950|INFO|CharacterScraper|Xiao Talents: {auto=10, skill=9, burst=10}
+2026-10-15 15:07:57.202|INFO|CharacterScraper|Scanned Xiao successfully
+2026-10-15 15:07:58.774|INFO|CharacterScraper|Odette Level: 90
+2026-10-15 15:07:58.774|INFO|CharacterScraper|Odette Ascended: False
+2026-10-15 15:08:00.330|INFO|CharacterScraper|Odette Constellation: 0
+2026-10-15 15:08:02.712|INFO|CharacterScraper|Odette Talents: {auto=6, skill=9, burst=8}
+2026-10-15 15:08:02.975|INFO|CharacterScraper|Scanned Odette successfully
+2026-10-15 15:08:04.537|INFO|CharacterScraper|Sandrone Level: 90
+2026-10-15 15:08:04.537|INFO|CharacterScraper|Sandrone Ascended: False
+2026-10-15 15:08:06.097|INFO|CharacterScraper|Sandrone Constellation: 0
+2026-10-15 15:08:08.562|INFO|CharacterScraper|Sandrone Talents: {auto=10, skill=7, burst=8}
+2026-10-15 15:08:08.821|INFO|CharacterScraper|Scanned Sandrone successfully
+2026-10-15 15:08:10.367|INFO|CharacterScraper|Skirk Level: 90
+2026-10-15 15:08:10.367|INFO|CharacterScraper|Skirk Ascended: False
+2026-10-15 15:08:11.915|INFO|CharacterScraper|Skirk Constellation: 0
+2026-10-15 15:08:14.303|INFO|CharacterScraper|Skirk Talents: {auto=10, skill=10, burst=10}
+2026-10-15 15:08:14.555|INFO|CharacterScraper|Scanned Skirk successfully
+2026-10-15 15:08:16.147|INFO|CharacterScraper|Wriothesley Level: 90
+2026-10-15 15:08:16.147|INFO|CharacterScraper|Wriothesley Ascended: False
+2026-10-15 15:08:18.251|INFO|CharacterScraper|Wriothesley Constellation: 1
+2026-10-15 15:08:20.670|INFO|CharacterScraper|Wriothesley Talents: {auto=10, skill=10, burst=10}
+2026-10-15 15:08:20.930|INFO|CharacterScraper|Scanned Wriothesley successfully
+2026-10-15 15:08:22.476|INFO|CharacterScraper|TravelerCryo Level: 90
+2026-10-15 15:08:22.476|INFO|CharacterScraper|TravelerCryo Ascended: False
+2026-10-15 15:08:26.013|INFO|CharacterScraper|TravelerCryo Constellation: 4
+2026-10-15 15:08:28.408|INFO|CharacterScraper|TravelerCryo Talents: {auto=8, skill=6, burst=11}
+2026-10-15 15:08:28.673|INFO|CharacterScraper|TravelerCryo constellation 3+, adjusting scanned skill level
+2026-10-15 15:08:28.673|INFO|CharacterScraper|Scanned TravelerCryo successfully
+2026-10-15 15:08:30.212|INFO|CharacterScraper|KamisatoAyaka Level: 90
+2026-10-15 15:08:30.212|INFO|CharacterScraper|KamisatoAyaka Ascended: False
+2026-10-15 15:08:32.226|INFO|CharacterScraper|KamisatoAyaka Constellation: 1
+2026-10-15 15:08:34.618|INFO|CharacterScraper|KamisatoAyaka Talents: {auto=4, skill=5, burst=4}
+2026-10-15 15:08:34.880|INFO|CharacterScraper|Scanned KamisatoAyaka successfully
+2026-10-15 15:08:36.447|INFO|CharacterScraper|RaidenShogun Level: 90
+2026-10-15 15:08:36.447|INFO|CharacterScraper|RaidenShogun Ascended: False
+2026-10-15 15:08:37.993|INFO|CharacterScraper|RaidenShogun Constellation: 0
+2026-10-15 15:08:40.371|INFO|CharacterScraper|RaidenShogun Talents: {auto=10, skill=10, burst=10}
+2026-10-15 15:08:40.624|INFO|CharacterScraper|Scanned RaidenShogun successfully
+2026-10-15 15:08:42.208|INFO|CharacterScraper|Nefer Level: 90
+2026-10-15 15:08:42.208|INFO|CharacterScraper|Nefer Ascended: False
+2026-10-15 15:08:43.778|INFO|CharacterScraper|Nefer Constellation: 0
+2026-10-15 15:08:46.270|INFO|CharacterScraper|Nefer Talents: {auto=6, skill=10, burst=9}
+2026-10-15 15:08:46.526|INFO|CharacterScraper|Scanned Nefer successfully
+2026-10-15 15:08:48.324|INFO|CharacterScraper|Nahida Level: 90
+2026-10-15 15:08:48.324|INFO|CharacterScraper|Nahida Ascended: False
+2026-10-15 15:08:49.913|INFO|CharacterScraper|Nahida Constellation: 0
+2026-10-15 15:08:52.328|INFO|CharacterScraper|Nahida Talents: {auto=10, skill=10, burst=10}
+2026-10-15 15:08:52.583|INFO|CharacterScraper|Scanned Nahida successfully
+2026-10-15 15:08:54.150|INFO|CharacterScraper|Neuvillette Level: 90
+2026-10-15 15:08:54.150|INFO|CharacterScraper|Neuvillette Ascended: False
+2026-10-15 15:08:55.729|INFO|CharacterScraper|Neuvillette Constellation: 0
+2026-10-15 15:08:58.198|INFO|CharacterScraper|Neuvillette Talents: {auto=10, skill=10, burst=10}
+2026-10-15 15:08:58.456|INFO|CharacterScraper|Scanned Neuvillette successfully
+2026-10-15 15:09:00.021|INFO|CharacterScraper|Yelan Level: 90
+2026-10-15 15:09:00.021|INFO|CharacterScraper|Yelan Ascended: False
+2026-10-15 15:09:01.563|INFO|CharacterScraper|Yelan Constellation: 0
+2026-10-15 15:09:03.956|INFO|CharacterScraper|Yelan Talents: {auto=6, skill=9, burst=10}
+2026-10-15 15:09:04.216|INFO|CharacterScraper|Scanned Yelan successfully
+2026-10-15 15:09:05.757|INFO|CharacterScraper|Durin Level: 90
+2026-10-15 15:09:05.757|INFO|CharacterScraper|Durin Ascended: False
+2026-10-15 15:09:07.297|INFO|CharacterScraper|Durin Constellation: 0
+2026-10-15 15:09:09.728|INFO|CharacterScraper|Durin Talents: {auto=6, skill=8, burst=10}
+2026-10-15 15:09:09.990|INFO|CharacterScraper|Scanned Durin successfully
+2026-10-15 15:09:11.538|INFO|CharacterScraper|Dehya Level: 90
+2026-10-15 15:09:11.538|INFO|CharacterScraper|Dehya Ascended: False
+2026-10-15 15:09:14.011|INFO|CharacterScraper|Dehya Constellation: 2
+2026-10-15 15:09:16.394|INFO|CharacterScraper|Dehya Talents: {auto=6, skill=8, burst=8}
+2026-10-15 15:09:16.656|INFO|CharacterScraper|Scanned Dehya successfully
+2026-10-15 15:09:18.226|INFO|CharacterScraper|Yoimiya Level: 90
+2026-10-15 15:09:18.226|INFO|CharacterScraper|Yoimiya Ascended: False
+2026-10-15 15:09:20.315|INFO|CharacterScraper|Yoimiya Constellation: 1
+2026-10-15 15:09:22.720|INFO|CharacterScraper|Yoimiya Talents: {auto=6, skill=9, burst=8}
+2026-10-15 15:09:22.971|INFO|CharacterScraper|Scanned Yoimiya successfully
+2026-10-15 15:09:24.552|INFO|CharacterScraper|Noelle Level: 90
+2026-10-15 15:09:24.552|INFO|CharacterScraper|Noelle Ascended: False
+2026-10-15 15:09:28.591|INFO|CharacterScraper|Noelle Constellation: 5
+2026-10-15 15:09:30.961|INFO|CharacterScraper|Noelle Talents: {auto=6, skill=10, burst=11}
+2026-10-15 15:09:31.216|INFO|CharacterScraper|Noelle constellation 5+, adjusting scanned skill and burst levels
+2026-10-15 15:09:31.216|INFO|CharacterScraper|Scanned Noelle successfully
+2026-10-15 15:09:32.757|INFO|CharacterScraper|Kaeya Level: 90
+2026-10-15 15:09:32.757|INFO|CharacterScraper|Kaeya Ascended: False
+2026-10-15 15:09:36.135|INFO|CharacterScraper|Kaeya Constellation: 4
+2026-10-15 15:09:38.523|INFO|CharacterScraper|Kaeya Talents: {auto=5, skill=9, burst=9}
+2026-10-15 15:09:38.786|INFO|CharacterScraper|Kaeya constellation 3+, adjusting scanned skill level
+2026-10-15 15:09:38.786|INFO|CharacterScraper|Scanned Kaeya successfully
+2026-10-15 15:09:40.339|INFO|CharacterScraper|Fischl Level: 90
+2026-10-15 15:09:40.339|INFO|CharacterScraper|Fischl Ascended: False
+2026-10-15 15:09:43.265|INFO|CharacterScraper|Fischl Constellation: 3
+2026-10-15 15:09:45.689|INFO|CharacterScraper|Fischl Talents: {auto=8, skill=12, burst=8}
+2026-10-15 15:09:45.944|INFO|CharacterScraper|Fischl constellation 3+, adjusting scanned skill level
+2026-10-15 15:09:45.944|INFO|CharacterScraper|Scanned Fischl successfully
+2026-10-15 15:09:47.493|INFO|CharacterScraper|Bennett Level: 90
+2026-10-15 15:09:47.493|INFO|CharacterScraper|Bennett Ascended: False
+2026-10-15 15:09:51.710|INFO|CharacterScraper|Bennett Constellation: 6
+2026-10-15 15:09:54.128|INFO|CharacterScraper|Bennett Talents: {auto=8, skill=12, burst=13}
+2026-10-15 15:09:54.388|INFO|CharacterScraper|Bennett constellation 5+, adjusting scanned skill and burst levels
+2026-10-15 15:09:54.388|INFO|CharacterScraper|Scanned Bennett successfully
+2026-10-15 15:09:55.917|INFO|CharacterScraper|Zibai Level: 80
+2026-10-15 15:09:55.917|INFO|CharacterScraper|Zibai Ascended: False
+2026-10-15 15:09:57.495|INFO|CharacterScraper|Zibai Constellation: 0
+2026-10-15 15:09:59.958|INFO|CharacterScraper|Zibai Talents: {auto=6, skill=8, burst=6}
+2026-10-15 15:10:00.216|INFO|CharacterScraper|Scanned Zibai successfully
+2026-10-15 15:10:01.760|INFO|CharacterScraper|Jean Level: 80
+2026-10-15 15:10:01.760|INFO|CharacterScraper|Jean Ascended: False
+2026-10-15 15:10:03.777|INFO|CharacterScraper|Jean Constellation: 1
+2026-10-15 15:10:06.155|INFO|CharacterScraper|Jean Talents: {auto=7, skill=8, burst=8}
+2026-10-15 15:10:06.420|INFO|CharacterScraper|Scanned Jean successfully
+2026-10-15 15:10:07.990|INFO|CharacterScraper|Cyno Level: 80
+2026-10-15 15:10:07.990|INFO|CharacterScraper|Cyno Ascended: False
+2026-10-15 15:10:09.543|INFO|CharacterScraper|Cyno Constellation: 0
+2026-10-15 15:10:11.966|INFO|CharacterScraper|Cyno Talents: {auto=6, skill=6, burst=6}
+2026-10-15 15:10:12.226|INFO|CharacterScraper|Scanned Cyno successfully
+2026-10-15 15:10:13.762|INFO|CharacterScraper|Mualani Level: 80
+2026-10-15 15:10:13.762|INFO|CharacterScraper|Mualani Ascended: False
+2026-10-15 15:10:15.380|INFO|CharacterScraper|Mualani Constellation: 0
+2026-10-15 15:10:17.804|INFO|CharacterScraper|Mualani Talents: {auto=1, skill=1, burst=1}
+2026-10-15 15:10:18.068|INFO|CharacterScraper|Scanned Mualani successfully
+2026-10-15 15:10:19.654|INFO|CharacterScraper|Arlecchino Level: 80
+2026-10-15 15:10:19.654|INFO|CharacterScraper|Arlecchino Ascended: False
+2026-10-15 15:10:21.264|INFO|CharacterScraper|Arlecchino Constellation: 0
+2026-10-15 15:10:23.678|INFO|CharacterScraper|Arlecchino Talents: {auto=6, skill=6, burst=6}
+2026-10-15 15:10:23.935|INFO|CharacterScraper|Scanned Arlecchino successfully
+2026-10-15 15:10:25.508|INFO|CharacterScraper|Kachina Level: 80
+2026-10-15 15:10:25.508|INFO|CharacterScraper|Kachina Ascended: False
+2026-10-15 15:10:29.574|INFO|CharacterScraper|Kachina Constellation: 6
+2026-10-15 15:10:31.969|INFO|CharacterScraper|Kachina Talents: {auto=4, skill=9, burst=8}
+2026-10-15 15:10:32.227|INFO|CharacterScraper|Kachina constellation 5+, adjusting scanned skill and burst levels
+2026-10-15 15:10:32.227|INFO|CharacterScraper|Scanned Kachina successfully
+2026-10-15 15:10:33.773|INFO|CharacterScraper|Ningguang Level: 80
+2026-10-15 15:10:33.773|INFO|CharacterScraper|Ningguang Ascended: False
+2026-10-15 15:10:37.667|INFO|CharacterScraper|Ningguang Constellation: 5
+2026-10-15 15:10:40.007|INFO|CharacterScraper|Ningguang Talents: {auto=2, skill=5, burst=5}
+2026-10-15 15:10:40.264|INFO|CharacterScraper|Ningguang constellation 5+, adjusting scanned skill and burst levels
+2026-10-15 15:10:40.264|INFO|CharacterScraper|Scanned Ningguang successfully
+2026-10-15 15:10:42.255|INFO|CharacterScraper|Ifa Level: 80
+2026-10-15 15:10:42.255|INFO|CharacterScraper|Ifa Ascended: False
+2026-10-15 15:10:45.896|INFO|CharacterScraper|Ifa Constellation: 4
+2026-10-15 15:10:48.412|INFO|CharacterScraper|Ifa Talents: {auto=1, skill=4, burst=1}
+2026-10-15 15:10:48.669|INFO|CharacterScraper|Ifa constellation 3+, adjusting scanned skill level
+2026-10-15 15:10:48.669|INFO|CharacterScraper|Scanned Ifa successfully
+2026-10-15 15:10:50.239|INFO|CharacterScraper|Wanderer Level: 70
+2026-10-15 15:10:50.239|INFO|CharacterScraper|Wanderer Ascended: False
+2026-10-15 15:10:51.866|INFO|CharacterScraper|Wanderer Constellation: 0
+2026-10-15 15:10:54.333|INFO|CharacterScraper|Wanderer Talents: {auto=3, skill=5, burst=4}
+2026-10-15 15:10:54.588|INFO|CharacterScraper|Scanned Wanderer successfully
+2026-10-15 15:10:56.619|INFO|CharacterScraper|Qiqi Level: 70
+2026-10-15 15:10:56.619|INFO|CharacterScraper|Qiqi Ascended: False
+2026-10-15 15:10:58.680|INFO|CharacterScraper|Qiqi Constellation: 1
+2026-10-15 15:11:01.106|INFO|CharacterScraper|Qiqi Talents: {auto=1, skill=1, burst=1}
+2026-10-15 15:11:01.364|INFO|CharacterScraper|Scanned Qiqi successfully
+2026-10-15 15:11:02.912|INFO|CharacterScraper|Rosaria Level: 70
+2026-10-15 15:11:02.912|INFO|CharacterScraper|Rosaria Ascended: False
+2026-10-15 15:11:06.737|INFO|CharacterScraper|Rosaria Constellation: 6
+2026-10-15 15:11:09.103|INFO|CharacterScraper|Rosaria Talents: {auto=1, skill=4, burst=4}
+2026-10-15 15:11:09.368|INFO|CharacterScraper|Rosaria constellation 5+, adjusting scanned skill and burst levels
+2026-10-15 15:11:09.368|INFO|CharacterScraper|Scanned Rosaria successfully
+2026-10-15 15:11:10.913|INFO|CharacterScraper|Diona Level: 70
+2026-10-15 15:11:10.913|INFO|CharacterScraper|Diona Ascended: False
+2026-10-15 15:11:14.782|INFO|CharacterScraper|Diona Constellation: 6
+2026-10-15 15:11:17.168|INFO|CharacterScraper|Diona Talents: {auto=1, skill=4, burst=4}
+2026-10-15 15:11:17.425|INFO|CharacterScraper|Diona constellation 5+, adjusting scanned skill and burst levels
+2026-10-15 15:11:17.426|INFO|CharacterScraper|Scanned Diona successfully
+2026-10-15 15:11:18.990|INFO|CharacterScraper|Chongyun Level: 70
+2026-10-15 15:11:18.990|INFO|CharacterScraper|Chongyun Ascended: False
+2026-10-15 15:11:23.094|INFO|CharacterScraper|Chongyun Constellation: 6
+2026-10-15 15:11:25.541|INFO|CharacterScraper|Chongyun Talents: {auto=1, skill=4, burst=4}
+2026-10-15 15:11:25.798|INFO|CharacterScraper|Chongyun constellation 5+, adjusting scanned skill and burst levels
+2026-10-15 15:11:25.798|INFO|CharacterScraper|Scanned Chongyun successfully
+2026-10-15 15:11:27.369|INFO|CharacterScraper|Beidou Level: 70
+2026-10-15 15:11:27.369|INFO|CharacterScraper|Beidou Ascended: False
+2026-10-15 15:11:31.321|INFO|CharacterScraper|Beidou Constellation: 6
+2026-10-15 15:11:33.711|INFO|CharacterScraper|Beidou Talents: {auto=1, skill=4, burst=4}
+2026-10-15 15:11:33.975|INFO|CharacterScraper|Beidou constellation 5+, adjusting scanned skill and burst levels
+2026-10-15 15:11:33.975|INFO|CharacterScraper|Scanned Beidou successfully
+2026-10-15 15:11:35.523|INFO|CharacterScraper|Razor Level: 70
+2026-10-15 15:11:35.523|INFO|CharacterScraper|Razor Ascended: False
+2026-10-15 15:11:38.021|INFO|CharacterScraper|Razor Constellation: 2
+2026-10-15 15:11:40.396|INFO|CharacterScraper|Razor Talents: {auto=2, skill=2, burst=2}
+2026-10-15 15:11:40.651|INFO|CharacterScraper|Scanned Razor successfully
+2026-10-15 15:11:42.194|INFO|CharacterScraper|Lisa Level: 70
+2026-10-15 15:11:42.194|INFO|CharacterScraper|Lisa Ascended: False
+2026-10-15 15:11:43.738|INFO|CharacterScraper|Lisa Constellation: 0
+2026-10-15 15:11:46.104|INFO|CharacterScraper|Lisa Talents: {auto=2, skill=3, burst=3}
+2026-10-15 15:11:46.357|INFO|CharacterScraper|Scanned Lisa successfully
+2026-10-15 15:11:47.931|INFO|CharacterScraper|Xiangling Level: 70
+2026-10-15 15:11:47.931|INFO|CharacterScraper|Xiangling Ascended: False
+2026-10-15 15:11:50.469|INFO|CharacterScraper|Xiangling Constellation: 2
+2026-10-15 15:11:52.879|INFO|CharacterScraper|Xiangling Talents: {auto=2, skill=3, burst=4}
+2026-10-15 15:11:53.136|INFO|CharacterScraper|Scanned Xiangling successfully
+2026-10-15 15:11:54.714|INFO|CharacterScraper|Varesa Level: 60
+2026-10-15 15:11:54.714|INFO|CharacterScraper|Varesa Ascended: False
+2026-10-15 15:11:56.305|INFO|CharacterScraper|Varesa Constellation: 0
+2026-10-15 15:11:58.717|INFO|CharacterScraper|Varesa Talents: {auto=1, skill=1, burst=1}
+2026-10-15 15:11:58.977|INFO|CharacterScraper|Scanned Varesa successfully
+2026-10-15 15:12:00.541|INFO|CharacterScraper|Tighnari Level: 60
+2026-10-15 15:12:00.541|INFO|CharacterScraper|Tighnari Ascended: False
+2026-10-15 15:12:02.535|INFO|CharacterScraper|Tighnari Constellation: 1
+2026-10-15 15:12:04.958|INFO|CharacterScraper|Tighnari Talents: {auto=2, skill=1, burst=1}
+2026-10-15 15:12:05.214|INFO|CharacterScraper|Scanned Tighnari successfully
+2026-10-15 15:12:06.741|INFO|CharacterScraper|Mona Level: 60
+2026-10-15 15:12:06.741|INFO|CharacterScraper|Mona Ascended: False
+2026-10-15 15:12:09.201|INFO|CharacterScraper|Mona Constellation: 2
+2026-10-15 15:12:11.594|INFO|CharacterScraper|Mona Talents: {auto=1, skill=1, burst=1}
+2026-10-15 15:12:11.852|INFO|CharacterScraper|Scanned Mona successfully
+2026-10-15 15:12:13.387|INFO|CharacterScraper|Diluc Level: 60
+2026-10-15 15:12:13.387|INFO|CharacterScraper|Diluc Ascended: False
+2026-10-15 15:12:15.949|INFO|CharacterScraper|Diluc Constellation: 2
+2026-10-15 15:12:18.353|INFO|CharacterScraper|Diluc Talents: {auto=1, skill=1, burst=1}
+2026-10-15 15:12:18.613|INFO|CharacterScraper|Scanned Diluc successfully
+2026-10-15 15:12:20.161|INFO|CharacterScraper|Illuga Level: 60
+2026-10-15 15:12:20.161|INFO|CharacterScraper|Illuga Ascended: False
+2026-10-15 15:12:21.768|INFO|CharacterScraper|Illuga Constellation: 0
+2026-10-15 15:12:24.211|INFO|CharacterScraper|Illuga Talents: {auto=2, skill=2, burst=2}
+2026-10-15 15:12:24.473|INFO|CharacterScraper|Scanned Illuga successfully
+2026-10-15 15:12:26.059|INFO|CharacterScraper|Jahoda Level: 60
+2026-10-15 15:12:26.059|INFO|CharacterScraper|Jahoda Ascended: False
+2026-10-15 15:12:28.615|INFO|CharacterScraper|Jahoda Constellation: 2
+2026-10-15 15:12:31.028|INFO|CharacterScraper|Jahoda Talents: {auto=1, skill=1, burst=1}
+2026-10-15 15:12:31.285|INFO|CharacterScraper|Scanned Jahoda successfully
+2026-10-15 15:12:32.834|INFO|CharacterScraper|LanYan Level: 60
+2026-10-15 15:12:32.834|INFO|CharacterScraper|LanYan Ascended: False
+2026-10-15 15:12:35.312|INFO|CharacterScraper|LanYan Constellation: 2
+2026-10-15 15:12:37.688|INFO|CharacterScraper|LanYan Talents: {auto=1, skill=1, burst=1}
+2026-10-15 15:12:37.951|INFO|CharacterScraper|Scanned LanYan successfully
+2026-10-15 15:12:39.498|INFO|CharacterScraper|Lynette Level: 60
+2026-10-15 15:12:39.498|INFO|CharacterScraper|Lynette Ascended: False
+2026-10-15 15:12:43.374|INFO|CharacterScraper|Lynette Constellation: 6
+2026-10-15 15:12:45.791|INFO|CharacterScraper|Lynette Talents: {auto=2, skill=5, burst=5}
+2026-10-15 15:12:46.051|INFO|CharacterScraper|Lynette constellation 5+, adjusting scanned skill and burst levels
+2026-10-15 15:12:46.052|INFO|CharacterScraper|Scanned Lynette successfully
+2026-10-15 15:12:47.614|INFO|CharacterScraper|Faruzan Level: 60
+2026-10-15 15:12:47.614|INFO|CharacterScraper|Faruzan Ascended: False
+2026-10-15 15:12:51.638|INFO|CharacterScraper|Faruzan Constellation: 6
+2026-10-15 15:12:54.046|INFO|CharacterScraper|Faruzan Talents: {auto=1, skill=4, burst=4}
+2026-10-15 15:12:54.311|INFO|CharacterScraper|Faruzan constellation 5+, adjusting scanned skill and burst levels
+2026-10-15 15:12:54.311|INFO|CharacterScraper|Scanned Faruzan successfully
+2026-10-15 15:12:55.881|INFO|CharacterScraper|Layla Level: 60
+2026-10-15 15:12:55.881|INFO|CharacterScraper|Layla Ascended: False
+2026-10-15 15:12:59.895|INFO|CharacterScraper|Layla Constellation: 5
+2026-10-15 15:13:02.339|INFO|CharacterScraper|Layla Talents: {auto=1, skill=4, burst=5}
+2026-10-15 15:13:02.604|INFO|CharacterScraper|Layla constellation 5+, adjusting scanned skill and burst levels
+2026-10-15 15:13:02.604|INFO|CharacterScraper|Scanned Layla successfully
+2026-10-15 15:13:04.164|INFO|CharacterScraper|Kaveh Level: 60
+2026-10-15 15:13:04.164|INFO|CharacterScraper|Kaveh Ascended: False
+2026-10-15 15:13:07.076|INFO|CharacterScraper|Kaveh Constellation: 3
+2026-10-15 15:13:09.437|INFO|CharacterScraper|Kaveh Talents: {auto=1, skill=1, burst=4}
+2026-10-15 15:13:09.688|INFO|CharacterScraper|Kaveh constellation 3+, adjusting scanned burst level
+2026-10-15 15:13:09.688|INFO|CharacterScraper|Scanned Kaveh successfully
+2026-10-15 15:13:11.232|INFO|CharacterScraper|Yaoyao Level: 60
+2026-10-15 15:13:11.232|INFO|CharacterScraper|Yaoyao Ascended: False
+2026-10-15 15:13:14.139|INFO|CharacterScraper|Yaoyao Constellation: 3
+2026-10-15 15:13:16.540|INFO|CharacterScraper|Yaoyao Talents: {auto=1, skill=4, burst=1}
+2026-10-15 15:13:16.798|INFO|CharacterScraper|Yaoyao constellation 3+, adjusting scanned skill level
+2026-10-15 15:13:16.798|INFO|CharacterScraper|Scanned Yaoyao successfully
+2026-10-15 15:13:18.370|INFO|CharacterScraper|Collei Level: 60
+2026-10-15 15:13:18.370|INFO|CharacterScraper|Collei Ascended: False
+2026-10-15 15:13:22.517|INFO|CharacterScraper|Collei Constellation: 6
+2026-10-15 15:13:24.941|INFO|CharacterScraper|Collei Talents: {auto=1, skill=4, burst=4}
+2026-10-15 15:13:25.199|INFO|CharacterScraper|Collei constellation 5+, adjusting scanned skill and burst levels
+2026-10-15 15:13:25.199|INFO|CharacterScraper|Scanned Collei successfully
+2026-10-15 15:13:26.742|INFO|CharacterScraper|Aino Level: 60
+2026-10-15 15:13:26.742|INFO|CharacterScraper|Aino Ascended: False
+2026-10-15 15:13:30.661|INFO|CharacterScraper|Aino Constellation: 6
+2026-10-15 15:13:33.011|INFO|CharacterScraper|Aino Talents: {auto=1, skill=4, burst=4}
+2026-10-15 15:13:33.271|INFO|CharacterScraper|Aino constellation 5+, adjusting scanned skill and burst levels
+2026-10-15 15:13:33.271|INFO|CharacterScraper|Scanned Aino successfully
+2026-10-15 15:13:34.819|INFO|CharacterScraper|Candace Level: 60
+2026-10-15 15:13:34.819|INFO|CharacterScraper|Candace Ascended: False
+2026-10-15 15:13:38.675|INFO|CharacterScraper|Candace Constellation: 6
+2026-10-15 15:13:41.123|INFO|CharacterScraper|Candace Talents: {auto=1, skill=4, burst=4}
+2026-10-15 15:13:41.387|INFO|CharacterScraper|Candace constellation 5+, adjusting scanned skill and burst levels
+2026-10-15 15:13:41.387|INFO|CharacterScraper|Scanned Candace successfully
+2026-10-15 15:13:42.930|INFO|CharacterScraper|Barbara Level: 60
+2026-10-15 15:13:42.930|INFO|CharacterScraper|Barbara Ascended: False
+2026-10-15 15:13:47.020|INFO|CharacterScraper|Barbara Constellation: 6
+2026-10-15 15:13:49.416|INFO|CharacterScraper|Barbara Talents: {auto=2, skill=5, burst=5}
+2026-10-15 15:13:49.676|INFO|CharacterScraper|Barbara constellation 5+, adjusting scanned skill and burst levels
+2026-10-15 15:13:49.677|INFO|CharacterScraper|Scanned Barbara successfully
+2026-10-15 15:13:51.224|INFO|CharacterScraper|Gaming Level: 60
+2026-10-15 15:13:51.224|INFO|CharacterScraper|Gaming Ascended: False
+2026-10-15 15:13:54.281|INFO|CharacterScraper|Gaming Constellation: 3
+2026-10-15 15:13:56.701|INFO|CharacterScraper|Gaming Talents: {auto=1, skill=4, burst=1}
+2026-10-15 15:13:56.960|INFO|CharacterScraper|Gaming constellation 3+, adjusting scanned skill level
+2026-10-15 15:13:56.960|INFO|CharacterScraper|Scanned Gaming successfully
+2026-10-15 15:13:58.509|INFO|CharacterScraper|Chevreuse Level: 60
+2026-10-15 15:13:58.509|INFO|CharacterScraper|Chevreuse Ascended: False
+2026-10-15 15:14:00.529|INFO|CharacterScraper|Chevreuse Constellation: 1
+2026-10-15 15:14:02.913|INFO|CharacterScraper|Chevreuse Talents: {auto=1, skill=1, burst=1}
+2026-10-15 15:14:03.170|INFO|CharacterScraper|Scanned Chevreuse successfully
+2026-10-15 15:14:04.701|INFO|CharacterScraper|Thoma Level: 60
+2026-10-15 15:14:04.701|INFO|CharacterScraper|Thoma Ascended: False
+2026-10-15 15:14:06.247|INFO|CharacterScraper|Thoma Constellation: 0
+2026-10-15 15:14:08.604|INFO|CharacterScraper|Thoma Talents: {auto=1, skill=1, burst=1}
+2026-10-15 15:14:08.862|INFO|CharacterScraper|Scanned Thoma successfully
+2026-10-15 15:14:10.388|INFO|CharacterScraper|Yanfei Level: 60
+2026-10-15 15:14:10.388|INFO|CharacterScraper|Yanfei Ascended: False
+2026-10-15 15:14:13.296|INFO|CharacterScraper|Yanfei Constellation: 3
+2026-10-15 15:14:15.705|INFO|CharacterScraper|Yanfei Talents: {auto=4, skill=7, burst=4}
+2026-10-15 15:14:15.971|INFO|CharacterScraper|Yanfei constellation 3+, adjusting scanned skill level
+2026-10-15 15:14:15.971|INFO|CharacterScraper|Scanned Yanfei successfully
+2026-10-15 15:14:17.558|INFO|CharacterScraper|Xinyan Level: 60
+2026-10-15 15:14:17.558|INFO|CharacterScraper|Xinyan Ascended: False
+2026-10-15 15:14:21.641|INFO|CharacterScraper|Xinyan Constellation: 6
+2026-10-15 15:14:24.044|INFO|CharacterScraper|Xinyan Talents: {auto=1, skill=4, burst=4}
+2026-10-15 15:14:24.306|INFO|CharacterScraper|Xinyan constellation 5+, adjusting scanned skill and burst levels
+2026-10-15 15:14:24.306|INFO|CharacterScraper|Scanned Xinyan successfully
+2026-10-15 15:14:25.868|INFO|CharacterScraper|Amber Level: 60
+2026-10-15 15:14:25.868|INFO|CharacterScraper|Amber Ascended: False
+2026-10-15 15:14:28.953|INFO|CharacterScraper|Amber Constellation: 3
+2026-10-15 15:14:31.320|INFO|CharacterScraper|Amber Talents: {auto=1, skill=1, burst=4}
+2026-10-15 15:14:31.575|INFO|CharacterScraper|Amber constellation 3+, adjusting scanned burst level
+2026-10-15 15:14:31.575|INFO|CharacterScraper|Scanned Amber successfully
+2026-10-15 15:14:33.124|INFO|CharacterScraper|Alyosha Level: 58
+2026-10-15 15:14:33.124|INFO|CharacterScraper|Alyosha Ascended: True
+2026-10-15 15:14:36.999|INFO|CharacterScraper|Alyosha Constellation: 5
+2026-10-15 15:14:39.398|INFO|CharacterScraper|Alyosha Talents: {auto=1, skill=4, burst=4}
+2026-10-15 15:14:39.651|INFO|CharacterScraper|Alyosha constellation 5+, adjusting scanned skill and burst levels
+2026-10-15 15:14:39.651|INFO|CharacterScraper|Scanned Alyosha successfully
+2026-10-15 15:14:41.230|INFO|CharacterScraper|Keqing Level: 50
+2026-10-15 15:14:41.230|INFO|CharacterScraper|Keqing Ascended: False
+2026-10-15 15:14:42.816|INFO|CharacterScraper|Keqing Constellation: 0
+2026-10-15 15:14:45.232|INFO|CharacterScraper|Keqing Talents: {auto=1, skill=1, burst=1}
+2026-10-15 15:14:45.498|INFO|CharacterScraper|Scanned Keqing successfully
+2026-10-15 15:14:47.092|INFO|CharacterScraper|ShikanoinHeizou Level: 50
+2026-10-15 15:14:47.092|INFO|CharacterScraper|ShikanoinHeizou Ascended: False
+2026-10-15 15:14:51.163|INFO|CharacterScraper|ShikanoinHeizou Constellation: 6
+2026-10-15 15:14:53.584|INFO|CharacterScraper|ShikanoinHeizou Talents: {auto=1, skill=4, burst=4}
+2026-10-15 15:14:53.846|INFO|CharacterScraper|ShikanoinHeizou constellation 5+, adjusting scanned skill and burst levels
+2026-10-15 15:14:53.846|INFO|CharacterScraper|Scanned ShikanoinHeizou successfully
+2026-10-15 15:14:55.402|INFO|CharacterScraper|Sayu Level: 50
+2026-10-15 15:14:55.402|INFO|CharacterScraper|Sayu Ascended: False
+2026-10-15 15:14:58.556|INFO|CharacterScraper|Sayu Constellation: 3
+2026-10-15 15:15:00.974|INFO|CharacterScraper|Sayu Talents: {auto=1, skill=1, burst=4}
+2026-10-15 15:15:01.238|INFO|CharacterScraper|Sayu constellation 3+, adjusting scanned burst level
+2026-10-15 15:15:01.238|INFO|CharacterScraper|Scanned Sayu successfully
+2026-10-15 15:15:02.790|INFO|CharacterScraper|Charlotte Level: 50
+2026-10-15 15:15:02.790|INFO|CharacterScraper|Charlotte Ascended: False
+2026-10-15 15:15:06.617|INFO|CharacterScraper|Charlotte Constellation: 5
+2026-10-15 15:15:09.033|INFO|CharacterScraper|Charlotte Talents: {auto=1, skill=4, burst=4}
+2026-10-15 15:15:09.297|INFO|CharacterScraper|Charlotte constellation 5+, adjusting scanned skill and burst levels
+2026-10-15 15:15:09.297|INFO|CharacterScraper|Scanned Charlotte successfully
+2026-10-15 15:15:10.819|INFO|CharacterScraper|Freminet Level: 50
+2026-10-15 15:15:10.819|INFO|CharacterScraper|Freminet Ascended: False
+2026-10-15 15:15:14.646|INFO|CharacterScraper|Freminet Constellation: 5
+2026-10-15 15:15:17.059|INFO|CharacterScraper|Freminet Talents: {auto=4, skill=4, burst=1}
+2026-10-15 15:15:17.325|INFO|CharacterScraper|Freminet constellation 5+, adjusting scanned skill and burst levels
+2026-10-15 15:15:17.325|INFO|CharacterScraper|Scanned Freminet successfully
+2026-10-15 15:15:18.871|INFO|CharacterScraper|Mika Level: 50
+2026-10-15 15:15:18.871|INFO|CharacterScraper|Mika Ascended: False
+2026-10-15 15:15:23.022|INFO|CharacterScraper|Mika Constellation: 6
+2026-10-15 15:15:25.483|INFO|CharacterScraper|Mika Talents: {auto=1, skill=4, burst=4}
+2026-10-15 15:15:25.740|INFO|CharacterScraper|Mika constellation 5+, adjusting scanned skill and burst levels
+2026-10-15 15:15:25.740|INFO|CharacterScraper|Scanned Mika successfully
+2026-10-15 15:15:27.337|INFO|CharacterScraper|KujouSara Level: 50
+2026-10-15 15:15:27.337|INFO|CharacterScraper|KujouSara Ascended: False
+2026-10-15 15:15:31.215|INFO|CharacterScraper|KujouSara Constellation: 6
+2026-10-15 15:15:33.621|INFO|CharacterScraper|KujouSara Talents: {auto=1, skill=4, burst=4}
+2026-10-15 15:15:33.882|INFO|CharacterScraper|KujouSara constellation 5+, adjusting scanned skill and burst levels
+2026-10-15 15:15:33.882|INFO|CharacterScraper|Scanned KujouSara successfully
+2026-10-15 15:15:35.419|INFO|CharacterScraper|Kirara Level: 50
+2026-10-15 15:15:35.419|INFO|CharacterScraper|Kirara Ascended: False
+2026-10-15 15:15:37.415|INFO|CharacterScraper|Kirara Constellation: 1
+2026-10-15 15:15:39.819|INFO|CharacterScraper|Kirara Talents: {auto=1, skill=1, burst=1}
+2026-10-15 15:15:40.083|INFO|CharacterScraper|Scanned Kirara successfully
+2026-10-15 15:15:41.602|INFO|CharacterScraper|YunJin Level: 40
+2026-10-15 15:15:41.602|INFO|CharacterScraper|YunJin Ascended: False
+2026-10-15 15:15:44.547|INFO|CharacterScraper|YunJin Constellation: 3
+2026-10-15 15:15:46.978|INFO|CharacterScraper|YunJin Talents: {auto=1, skill=1, burst=4}
+2026-10-15 15:15:47.234|INFO|CharacterScraper|YunJin constellation 3+, adjusting scanned burst level
+2026-10-15 15:15:47.234|INFO|CharacterScraper|Scanned YunJin successfully
+2026-10-15 15:15:48.791|INFO|CharacterScraper|Gorou Level: 40
+2026-10-15 15:15:48.791|INFO|CharacterScraper|Gorou Ascended: False
+2026-10-15 15:15:52.362|INFO|CharacterScraper|Gorou Constellation: 4
+2026-10-15 15:15:54.820|INFO|CharacterScraper|Gorou Talents: {auto=1, skill=4, burst=1}
+2026-10-15 15:15:55.073|INFO|CharacterScraper|Gorou constellation 3+, adjusting scanned skill level
+2026-10-15 15:15:55.073|INFO|CharacterScraper|Scanned Gorou successfully
+2026-10-15 15:15:56.633|INFO|CharacterScraper|Iansan Level: 40
+2026-10-15 15:15:56.633|INFO|CharacterScraper|Iansan Ascended: False
+2026-10-15 15:15:59.190|INFO|CharacterScraper|Iansan Constellation: 2
+2026-10-15 15:16:01.564|INFO|CharacterScraper|Iansan Talents: {auto=1, skill=1, burst=1}
+2026-10-15 15:16:01.828|INFO|CharacterScraper|Scanned Iansan successfully
+2026-10-15 15:16:03.386|INFO|CharacterScraper|Sethos Level: 40
+2026-10-15 15:16:03.386|INFO|CharacterScraper|Sethos Ascended: False
+2026-10-15 15:16:04.940|INFO|CharacterScraper|Sethos Constellation: 0
+2026-10-15 15:16:07.353|INFO|CharacterScraper|Sethos Talents: {auto=1, skill=1, burst=1}
+2026-10-15 15:16:07.616|INFO|CharacterScraper|Scanned Sethos successfully
+2026-10-15 15:16:09.165|INFO|CharacterScraper|Dori Level: 40
+2026-10-15 15:16:09.165|INFO|CharacterScraper|Dori Ascended: False
+2026-10-15 15:16:13.019|INFO|CharacterScraper|Dori Constellation: 6
+2026-10-15 15:16:15.518|INFO|CharacterScraper|Dori Talents: {auto=1, skill=4, burst=4}
+2026-10-15 15:16:15.771|INFO|CharacterScraper|Dori constellation 5+, adjusting scanned skill and burst levels
+2026-10-15 15:16:15.771|INFO|CharacterScraper|Scanned Dori successfully
+2026-10-15 15:16:17.333|INFO|CharacterScraper|Dahlia Level: 40
+2026-10-15 15:16:17.333|INFO|CharacterScraper|Dahlia Ascended: False
+2026-10-15 15:16:19.934|INFO|CharacterScraper|Dahlia Constellation: 2
+2026-10-15 15:16:22.373|INFO|CharacterScraper|Dahlia Talents: {auto=1, skill=1, burst=1}
+2026-10-15 15:16:22.638|INFO|CharacterScraper|Scanned Dahlia successfully
+2026-10-15 15:16:37.861|ERROR|UserInterface|Could not determine character's name
+2026-10-15 15:16:37.864|ERROR|UserInterface|Could not determine character's element
+2026-10-15 15:16:37.864|ERROR|CharacterScraper|Failed to scan character
+Invalid character name
+Invalid level
+Invalid element
+Invalid talents
+Character
+Name: 
+Element: 
+Level: 0
+Ascension Level: 0
+Constellation: 0
+AUTO : 0
+SKILL : 0
+BURST : 0
+
+2026-10-15 15:16:53.140|ERROR|UserInterface|Could not determine character's name
+2026-10-15 15:16:53.140|ERROR|UserInterface|Could not determine character's element
+2026-10-15 15:16:53.140|ERROR|CharacterScraper|Failed to scan character
+Invalid character name
+Invalid level
+Invalid element
+Invalid talents
+Character
+Name: 
+Element: 
+Level: 0
+Ascension Level: 0
+Constellation: 0
+AUTO : 0
+SKILL : 0
+BURST : 0
+
+2026-10-15 15:16:54.667|INFO|CharacterScraper|Repeat character Mavuika detected. Finishing character scan...
+2026-10-15 15:16:56.692|INFO|InventoryKamera|Done scanning characters
+2026-10-15 15:16:56.693|INFO|InventoryKamera|Default weapon assigned to "TravelerCryo"
+2026-10-15 15:16:56.693|INFO|InventoryKamera|Scanning character development materials...
+2026-10-15 15:18:10.051|ERROR|UserInterface|Failed to parse quantity for ImmaculateWarrant
+2026-10-15 15:18:38.702|ERROR|UserInterface|Failed to parse quantity for ArtificedSpareClockworkComponentCoppelia
+2026-10-15 15:18:39.905|ERROR|UserInterface|Failed to parse quantity for TourbillonDevice
+2026-10-15 15:19:25.265|ERROR|UserInterface|Failed to parse quantity for PhilosophiesOfFortitude
+2026-10-15 15:20:05.808|INFO|InventoryKamera|Done scanning character development materials
+2026-10-15 15:20:05.808|INFO|InventoryKamera|Scanning materials...
+2026-10-15 15:21:34.693|ERROR|UserInterface|Failed to parse quantity for AshenAratikuWood
+2026-10-15 15:22:00.140|INFO|InventoryKamera|Done scanning materials
+2026-10-15 15:22:00.146|INFO|MainForm|Data converted to GOOD
+2026-10-15 15:22:00.177|INFO|MainForm|Exported data
+2026-10-15 15:22:00.177|INFO|MainForm|Auto-copied JSON to C:\Users\nicob\Documents\GitHub\genshin-data\GenshinData
+2026-10-15 15:22:39.553|INFO|MainForm|Auto-copied log to C:\Users\nicob\Documents\GitHub\genshin-data\log
