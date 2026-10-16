@@ -1,0 +1,16 @@
+{
+  "setKey": "TheExile",
+  "slotKey": "goblet",
+  "rarity": 3,
+  "mainStatKey": "physical_dmg_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "atk",
+      "value": 9.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1977
+}

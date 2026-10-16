@@ -1,0 +1,28 @@
+{
+  "setKey": "WanderersTroupe",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "hydro_dmg_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "eleMas",
+      "value": 16.0
+    },
+    {
+      "key": "def",
+      "value": 16.0
+    },
+    {
+      "key": "def_",
+      "value": 5.8
+    },
+    {
+      "key": "hp",
+      "value": 209.0
+    }
+  ],
+  "location": "",
+  "lock": true,
+  "id": 1271
+}
