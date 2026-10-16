@@ -23,6 +23,6 @@
     }
   ],
   "location": "Xiangling",
-  "lock": false,
+  "lock": true,
   "id": 120
 }
