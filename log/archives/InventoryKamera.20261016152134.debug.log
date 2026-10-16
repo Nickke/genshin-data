@@ -1,0 +1,43 @@
+2026-10-16 15:19:51.475|INFO|InventoryKamera|Kamera initialized
+2026-10-16 15:19:53.002|INFO|GenshinProcesor|Scraper initialized
+2026-10-16 15:19:53.027|INFO|MainForm|Inventory Kamera version 1.3.17
+2026-10-16 15:19:53.247|INFO|DatabaseManager|Checking for newer game data...
+2026-10-16 15:19:53.899|INFO|MainForm|Game data is up to date (7.1)
+2026-10-16 15:21:28.036|INFO|MainForm|Starting scan
+2026-10-16 15:21:28.041|INFO|MainForm|Hotkey registered
+2026-10-16 15:21:28.041|INFO|MainForm|Scan settings: 
+	Game Version Data:			 7.1
+	Weapons:				 True
+	Artifacts:				 True
+	Characters:				 True
+	Dev Items:				 True
+	Materials:				 True
+	Min Weapon Rarity:		 1
+	Min Weapon Level:		 1
+	Equip Weapons:			 True
+	Min Artifact Rarity:	 1
+	Min Artifact Level:		 0
+	Equip Artifacts:		 True
+	Delay:					 0
+2026-10-16 15:21:28.060|DEBUG|Navigation|Checking for GenshinImpact.exe
+2026-10-16 15:21:28.072|DEBUG|Navigation|Found GenshinImpact.exe
+2026-10-16 15:21:28.072|DEBUG|Navigation|Window location (1600x900): x=160, y=101
+2026-10-16 15:21:28.125|INFO|InventoryKamera|Kamera initialized
+2026-10-16 15:21:28.125|INFO|MainForm|Resolution: 1600x900
+2026-10-16 15:21:28.133|INFO|InventoryKamera|Logging directory reset
+2026-10-16 15:21:28.165|DEBUG|InventoryKamera|Added 3 workers
+2026-10-16 15:21:28.179|DEBUG|InventoryKamera|Thread #17 priority: Normal
+2026-10-16 15:21:28.179|DEBUG|InventoryKamera|Thread #19 priority: Normal
+2026-10-16 15:21:28.179|DEBUG|InventoryKamera|Thread #18 priority: Normal
+2026-10-16 15:21:28.776|DEBUG|GenshinProcesor|8 Engines restarted
+2026-10-16 15:21:28.776|INFO|GenshinProcesor|Internally set traveler custom name to nickke
+2026-10-16 15:21:28.791|INFO|GenshinProcesor|Internally set wanderer custom name to zefiro
+2026-10-16 15:21:28.791|INFO|GenshinProcesor|Internally set manekin custom name to bruce
+2026-10-16 15:21:28.791|INFO|GenshinProcesor|Internally set manekina custom name to saphire
+2026-10-16 15:21:28.791|INFO|InventoryKamera|Scanning weapons...
+2026-10-16 15:21:34.108|INFO|UserInterface|Parsed 188 weapons to scan
+2026-10-16 15:21:34.108|INFO|WeaponScraper|Found 188 for weapon count.
+2026-10-16 15:21:34.108|DEBUG|WeaponScraper|Sorting by quality to optimize scan time.
+2026-10-16 15:21:34.133|DEBUG|WeaponScraper|Inventory is sorted by quality
+2026-10-16 15:21:34.133|DEBUG|WeaponScraper|Scanning weapon page 0
+2026-10-16 15:21:34.133|DEBUG|WeaponScraper|Located 40 possible item locations on page.
