@@ -1,0 +1,28 @@
+{
+  "setKey": "ScarletProof",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "critDMG_",
+  "level": 18,
+  "substats": [
+    {
+      "key": "atk_",
+      "value": 11.1
+    },
+    {
+      "key": "def_",
+      "value": 6.6
+    },
+    {
+      "key": "atk",
+      "value": 31.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 11.0
+    }
+  ],
+  "location": "Vesna",
+  "lock": true,
+  "id": 161
+}

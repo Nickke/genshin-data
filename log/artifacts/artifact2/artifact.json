@@ -1,0 +1,28 @@
+{
+  "setKey": "HeartOfTheFurnace",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "atk_",
+  "level": 20,
+  "substats": [
+    {
+      "key": "enerRech_",
+      "value": 18.1
+    },
+    {
+      "key": "def",
+      "value": 16.0
+    },
+    {
+      "key": "def_",
+      "value": 14.6
+    },
+    {
+      "key": "hp",
+      "value": 657.0
+    }
+  ],
+  "location": "Odette",
+  "lock": false,
+  "id": 2
+}

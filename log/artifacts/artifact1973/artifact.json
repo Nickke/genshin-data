@@ -1,0 +1,20 @@
+{
+  "setKey": "Berserker",
+  "slotKey": "sands",
+  "rarity": 4,
+  "mainStatKey": "eleMas",
+  "level": 0,
+  "substats": [
+    {
+      "key": "",
+      "value": 8570.0
+    },
+    {
+      "key": "atk_",
+      "value": 4.7
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1973
+}
