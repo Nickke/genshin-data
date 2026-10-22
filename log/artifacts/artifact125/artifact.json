@@ -1,28 +1,28 @@
 {
   "setKey": "ShimenawasReminiscence",
-  "slotKey": "sands",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hp",
   "level": 20,
   "substats": [
     {
-      "key": "def",
-      "value": 63.0
+      "key": "critDMG_",
+      "value": 23.3
     },
     {
       "key": "enerRech_",
       "value": 11.0
     },
     {
-      "key": "critDMG_",
-      "value": 15.5
+      "key": "hp_",
+      "value": 11.7
     },
     {
-      "key": "atk",
-      "value": 14.0
+      "key": "eleMas",
+      "value": 19.0
     }
   ],
-  "location": "Yoimiya",
-  "lock": true,
+  "location": "Dehya",
+  "lock": false,
   "id": 125
 }

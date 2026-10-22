@@ -1,28 +1,28 @@
 {
-  "setKey": "AubadeOfMorningstarAndMoon",
-  "slotKey": "flower",
+  "setKey": "DisenchantmentInDeepShadow",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "atk",
   "level": 20,
   "substats": [
     {
-      "key": "hp_",
-      "value": 11.7
+      "key": "critDMG_",
+      "value": 18.7
     },
     {
-      "key": "eleMas",
-      "value": 35.0
+      "key": "hp",
+      "value": 448.0
     },
     {
-      "key": "def_",
-      "value": 13.1
+      "key": "critRate_",
+      "value": 3.9
     },
     {
-      "key": "def",
-      "value": 37.0
+      "key": "atk_",
+      "value": 9.3
     }
   ],
-  "location": "Zhongli",
+  "location": "Sandrone",
   "lock": false,
   "id": 12
 }

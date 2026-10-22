@@ -1,24 +1,28 @@
 {
-  "setKey": "SilkenMoonsSerenade",
-  "slotKey": "flower",
-  "rarity": 4,
-  "mainStatKey": "hp",
-  "level": 0,
+  "setKey": "GladiatorsFinale",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "critRate_",
+  "level": 20,
   "substats": [
     {
-      "key": "",
-      "value": 11447.0
+      "key": "def",
+      "value": 35.0
     },
     {
-      "key": "atk",
-      "value": 11.0
+      "key": "atk_",
+      "value": 4.7
     },
     {
-      "key": "hp_",
-      "value": 7.9
+      "key": "hp",
+      "value": 926.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 14.0
     }
   ],
-  "location": "",
+  "location": "RaidenShogun",
   "lock": false,
   "id": 166
 }

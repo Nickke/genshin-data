@@ -2,27 +2,27 @@
   "setKey": "WanderersTroupe",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "critDMG_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
       "key": "atk",
-      "value": 18.0
+      "value": 19.0
     },
     {
-      "key": "hp",
-      "value": 239.0
-    },
-    {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "def",
+      "value": 16.0
     },
     {
       "key": "def_",
       "value": 6.6
+    },
+    {
+      "key": "atk_",
+      "value": 5.3
     }
   ],
-  "location": "Tighnari",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 1383
 }

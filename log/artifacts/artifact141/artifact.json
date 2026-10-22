@@ -1,28 +1,28 @@
 {
-  "setKey": "WanderersTroupe",
-  "slotKey": "sands",
+  "setKey": "ShimenawasReminiscence",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "critRate_",
   "level": 20,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 18.3
+      "key": "hp",
+      "value": 478.0
     },
     {
       "key": "hp_",
-      "value": 11.7
+      "value": 9.3
     },
     {
-      "key": "atk",
-      "value": 14.0
+      "key": "enerRech_",
+      "value": 5.2
     },
     {
-      "key": "critDMG_",
-      "value": 7.0
+      "key": "eleMas",
+      "value": 63.0
     }
   ],
-  "location": "Nefer",
+  "location": "Yoimiya",
   "lock": true,
   "id": 141
 }

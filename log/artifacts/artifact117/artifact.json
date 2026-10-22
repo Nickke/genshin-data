@@ -1,28 +1,28 @@
 {
-  "setKey": "ShimenawasReminiscence",
-  "slotKey": "flower",
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "atk_",
   "level": 20,
   "substats": [
     {
       "key": "def",
-      "value": 60.0
-    },
-    {
-      "key": "atk_",
-      "value": 5.3
+      "value": 65.0
     },
     {
       "key": "def_",
-      "value": 23.3
+      "value": 19.0
     },
     {
-      "key": "eleMas",
-      "value": 21.0
+      "key": "atk",
+      "value": 18.0
+    },
+    {
+      "key": "critRate_",
+      "value": 2.7
     }
   ],
-  "location": "Ningguang",
+  "location": "Durin",
   "lock": false,
   "id": 117
 }

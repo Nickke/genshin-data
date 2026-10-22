@@ -1,28 +1,28 @@
 {
-  "setKey": "SilkenMoonsSerenade",
-  "slotKey": "circlet",
+  "setKey": "AubadeOfMorningstarAndMoon",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "hp",
   "level": 20,
   "substats": [
     {
-      "key": "def",
-      "value": 37.0
+      "key": "atk",
+      "value": 19.0
     },
     {
-      "key": "hp",
-      "value": 866.0
+      "key": "critDMG_",
+      "value": 5.4
     },
     {
-      "key": "enerRech_",
-      "value": 5.2
+      "key": "critRate_",
+      "value": 9.7
     },
     {
-      "key": "hp_",
-      "value": 9.9
+      "key": "eleMas",
+      "value": 61.0
     }
   ],
-  "location": "Lauma",
+  "location": "Columbina",
   "lock": false,
   "id": 16
 }

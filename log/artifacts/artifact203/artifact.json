@@ -1,28 +1,28 @@
 {
   "setKey": "HeartOfTheFurnace",
-  "slotKey": "sands",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
+      "key": "hp_",
+      "value": 5.8
+    },
+    {
+      "key": "atk_",
+      "value": 5.3
+    },
+    {
+      "key": "hp",
+      "value": 269.0
+    },
+    {
       "key": "enerRech_",
-      "value": 6.5
-    },
-    {
-      "key": "def",
-      "value": 23.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 6.2
-    },
-    {
-      "key": "eleMas",
-      "value": 23.0
+      "value": 5.8
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 203
 }

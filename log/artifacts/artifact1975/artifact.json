@@ -1,13 +1,13 @@
 {
-  "setKey": "PrayersToSpringtime",
-  "slotKey": "circlet",
+  "setKey": "TheExile",
+  "slotKey": "sands",
   "rarity": 3,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 3.9
+      "key": "atk_",
+      "value": 2.8
     }
   ],
   "location": "",

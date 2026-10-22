@@ -1,28 +1,28 @@
 {
-  "setKey": "ObsidianCodex",
+  "setKey": "NightOfTheSkysUnveiling",
   "slotKey": "flower",
   "rarity": 5,
   "mainStatKey": "hp",
   "level": 20,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 13.0
+      "key": "critRate_",
+      "value": 3.5
     },
     {
       "key": "atk",
-      "value": 35.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 14.0
+      "value": 33.0
     },
     {
       "key": "hp_",
-      "value": 9.9
+      "value": 8.7
+    },
+    {
+      "key": "critDMG_",
+      "value": 20.2
     }
   ],
-  "location": "Mavuika",
+  "location": "Nefer",
   "lock": false,
   "id": 24
 }

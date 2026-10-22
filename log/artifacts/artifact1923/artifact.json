@@ -2,27 +2,27 @@
   "setKey": "MaidenBeloved",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "critDMG_",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 23.0
-    },
-    {
-      "key": "hp",
-      "value": 299.0
-    },
-    {
-      "key": "hp_",
+      "key": "enerRech_",
       "value": 5.8
     },
     {
+      "key": "atk",
+      "value": 16.0
+    },
+    {
+      "key": "hp_",
+      "value": 4.7
+    },
+    {
       "key": "atk_",
-      "value": 5.3
+      "value": 4.7
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 1923
 }

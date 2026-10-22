@@ -1,28 +1,28 @@
 {
   "setKey": "UnfinishedReverie",
-  "slotKey": "plume",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 16.0
-    },
-    {
       "key": "enerRech_",
-      "value": 5.2
+      "value": 6.5
     },
     {
-      "key": "atk_",
-      "value": 5.8
+      "key": "atk",
+      "value": 18.0
     },
     {
-      "key": "critDMG_",
-      "value": 6.2
+      "key": "eleMas",
+      "value": 23.0
+    },
+    {
+      "key": "def_",
+      "value": 7.3
     }
   ],
-  "location": "Qiqi",
+  "location": "",
   "lock": false,
   "id": 566
 }

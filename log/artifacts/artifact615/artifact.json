@@ -2,20 +2,20 @@
   "setKey": "MarechausseeHunter",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 16.0
-    },
-    {
-      "key": "hp_",
-      "value": 4.1
-    },
-    {
       "key": "atk",
       "value": 14.0
+    },
+    {
+      "key": "def_",
+      "value": 6.6
+    },
+    {
+      "key": "def",
+      "value": 23.0
     },
     {
       "key": "critDMG_",

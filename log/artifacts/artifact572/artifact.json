@@ -1,25 +1,25 @@
 {
   "setKey": "FragmentOfHarmonicWhimsy",
-  "slotKey": "plume",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 239.0
-    },
-    {
-      "key": "atk_",
-      "value": 5.8
-    },
-    {
-      "key": "eleMas",
+      "key": "atk",
       "value": 19.0
     },
     {
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
+    },
+    {
       "key": "enerRech_",
-      "value": 4.5
+      "value": 6.5
     }
   ],
   "location": "",

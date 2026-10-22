@@ -1,28 +1,28 @@
 {
   "setKey": "EmblemOfSeveredFate",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "electro_dmg_",
+  "mainStatKey": "atk_",
   "level": 20,
   "substats": [
     {
-      "key": "atk",
-      "value": 35.0
+      "key": "eleMas",
+      "value": 37.0
     },
     {
-      "key": "eleMas",
-      "value": 40.0
+      "key": "def",
+      "value": 37.0
+    },
+    {
+      "key": "atk",
+      "value": 31.0
     },
     {
       "key": "hp",
-      "value": 209.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 21.0
+      "value": 747.0
     }
   ],
-  "location": "RaidenShogun",
-  "lock": true,
+  "location": "Dehya",
+  "lock": false,
   "id": 107
 }

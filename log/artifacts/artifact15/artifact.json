@@ -1,28 +1,28 @@
 {
-  "setKey": "SilkenMoonsSerenade",
-  "slotKey": "sands",
+  "setKey": "DisenchantmentInDeepShadow",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "hp_",
   "level": 20,
   "substats": [
     {
-      "key": "hp_",
+      "key": "hp",
+      "value": 777.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 14.0
+    },
+    {
+      "key": "atk_",
       "value": 4.1
     },
     {
-      "key": "def",
-      "value": 39.0
-    },
-    {
-      "key": "enerRech_",
-      "value": 16.8
-    },
-    {
-      "key": "hp",
-      "value": 508.0
+      "key": "def_",
+      "value": 13.1
     }
   ],
-  "location": "Lauma",
+  "location": "Zhongli",
   "lock": false,
   "id": 15
 }

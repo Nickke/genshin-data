@@ -1,28 +1,28 @@
 {
   "setKey": "HeartOfDepth",
-  "slotKey": "goblet",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hydro_dmg_",
+  "mainStatKey": "heal_",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 19.0
+      "key": "critDMG_",
+      "value": 7.8
     },
     {
-      "key": "def",
-      "value": 21.0
-    },
-    {
-      "key": "eleMas",
-      "value": 19.0
+      "key": "hp",
+      "value": 269.0
     },
     {
       "key": "hp_",
       "value": 4.7
+    },
+    {
+      "key": "eleMas",
+      "value": 16.0
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 1031
 }

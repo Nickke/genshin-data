@@ -7,19 +7,19 @@
   "substats": [
     {
       "key": "atk",
-      "value": 14.0
+      "value": 18.0
     },
     {
-      "key": "hp_",
-      "value": 4.1
+      "key": "def_",
+      "value": 5.8
+    },
+    {
+      "key": "def",
+      "value": 21.0
     },
     {
       "key": "critRate_",
       "value": 2.7
-    },
-    {
-      "key": "def",
-      "value": 16.0
     }
   ],
   "location": "",

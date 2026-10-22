@@ -1,25 +1,25 @@
 {
   "setKey": "GoldenTroupe",
-  "slotKey": "sands",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
+      "key": "hp",
+      "value": 239.0
+    },
+    {
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "def_",
       "value": 5.8
     },
     {
       "key": "enerRech_",
       "value": 5.8
-    },
-    {
-      "key": "eleMas",
-      "value": 19.0
-    },
-    {
-      "key": "def",
-      "value": 16.0
     }
   ],
   "location": "",

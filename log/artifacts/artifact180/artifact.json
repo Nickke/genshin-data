@@ -1,25 +1,21 @@
 {
-  "setKey": "TravelingDoctor",
-  "slotKey": "goblet",
-  "rarity": 3,
-  "mainStatKey": "electro_dmg_",
-  "level": 12,
+  "setKey": "TheExile",
+  "slotKey": "flower",
+  "rarity": 4,
+  "mainStatKey": "hp",
+  "level": 0,
   "substats": [
     {
       "key": "eleMas",
-      "value": 14.0
-    },
-    {
-      "key": "hp",
-      "value": 129.0
-    },
-    {
-      "key": "atk_",
-      "value": 3.5
+      "value": 17.0
     },
     {
       "key": "hp_",
-      "value": 2.5
+      "value": 4.7
+    },
+    {
+      "key": "atk_",
+      "value": 4.2
     }
   ],
   "location": "",

@@ -2,16 +2,12 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "critDMG_",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 5.2
-    },
-    {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "atk",
+      "value": 19.0
     },
     {
       "key": "critRate_",
@@ -19,10 +15,14 @@
     },
     {
       "key": "hp_",
-      "value": 5.3
+      "value": 4.1
+    },
+    {
+      "key": "def",
+      "value": 21.0
     }
   ],
-  "location": "",
+  "location": "Columbina",
   "lock": true,
   "id": 1805
 }

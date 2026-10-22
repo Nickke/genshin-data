@@ -2,24 +2,24 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "pyro_dmg_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "atk_",
-      "value": 4.1
+      "key": "def_",
+      "value": 7.3
     },
     {
-      "key": "atk",
-      "value": 18.0
+      "key": "enerRech_",
+      "value": 5.8
+    },
+    {
+      "key": "eleMas",
+      "value": 21.0
     },
     {
       "key": "critRate_",
-      "value": 2.7
-    },
-    {
-      "key": "def_",
-      "value": 7.3
+      "value": 3.1
     }
   ],
   "location": "",

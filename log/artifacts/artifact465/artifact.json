@@ -10,16 +10,16 @@
       "value": 7.0
     },
     {
-      "key": "def_",
-      "value": 7.3
-    },
-    {
-      "key": "hp_",
+      "key": "atk_",
       "value": 4.1
     },
     {
-      "key": "enerRech_",
-      "value": 4.5
+      "key": "def",
+      "value": 21.0
+    },
+    {
+      "key": "hp",
+      "value": 269.0
     }
   ],
   "location": "",

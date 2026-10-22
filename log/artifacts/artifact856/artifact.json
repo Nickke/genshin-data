@@ -1,28 +1,28 @@
 {
-  "setKey": "EmblemOfSeveredFate",
-  "slotKey": "circlet",
+  "setKey": "ShimenawasReminiscence",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 239.0
-    },
-    {
-      "key": "atk",
+      "key": "def",
       "value": 19.0
     },
     {
-      "key": "hp_",
-      "value": 4.1
+      "key": "eleMas",
+      "value": 16.0
     },
     {
-      "key": "critRate_",
-      "value": 3.9
+      "key": "hp_",
+      "value": 5.3
+    },
+    {
+      "key": "atk_",
+      "value": 4.7
     }
   ],
-  "location": "Mona",
+  "location": "",
   "lock": false,
   "id": 856
 }

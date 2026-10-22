@@ -1,25 +1,25 @@
 {
   "setKey": "MaidenBeloved",
-  "slotKey": "goblet",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "geo_dmg_",
+  "mainStatKey": "critRate_",
   "level": 0,
   "substats": [
     {
       "key": "atk",
-      "value": 19.0
+      "value": 16.0
     },
     {
       "key": "hp",
-      "value": 209.0
-    },
-    {
-      "key": "atk_",
-      "value": 4.7
+      "value": 269.0
     },
     {
       "key": "def",
-      "value": 23.0
+      "value": 19.0
+    },
+    {
+      "key": "def_",
+      "value": 5.8
     }
   ],
   "location": "",

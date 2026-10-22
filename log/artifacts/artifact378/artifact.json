@@ -2,24 +2,24 @@
   "setKey": "SilkenMoonsSerenade",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "heal_",
   "level": 0,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 3.5
+      "key": "hp_",
+      "value": 5.3
     },
     {
-      "key": "def",
-      "value": 23.0
-    },
-    {
-      "key": "eleMas",
+      "key": "atk",
       "value": 16.0
     },
     {
       "key": "def_",
-      "value": 5.8
+      "value": 6.6
+    },
+    {
+      "key": "enerRech_",
+      "value": 4.5
     }
   ],
   "location": "",

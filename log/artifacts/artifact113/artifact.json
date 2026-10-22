@@ -1,28 +1,28 @@
 {
   "setKey": "EmblemOfSeveredFate",
-  "slotKey": "circlet",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "pyro_dmg_",
   "level": 20,
   "substats": [
     {
-      "key": "hp",
-      "value": 508.0
-    },
-    {
       "key": "critRate_",
-      "value": 7.0
+      "value": 3.9
     },
     {
-      "key": "enerRech_",
-      "value": 16.8
+      "key": "atk_",
+      "value": 5.8
     },
     {
-      "key": "eleMas",
-      "value": 19.0
+      "key": "atk",
+      "value": 33.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 31.9
     }
   ],
-  "location": "Dehya",
+  "location": "Yoimiya",
   "lock": true,
   "id": 113
 }

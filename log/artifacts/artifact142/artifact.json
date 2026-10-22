@@ -1,28 +1,28 @@
 {
-  "setKey": "WanderersTroupe",
-  "slotKey": "sands",
+  "setKey": "ShimenawasReminiscence",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hp_",
   "level": 20,
   "substats": [
     {
-      "key": "hp_",
-      "value": 8.2
+      "key": "critRate_",
+      "value": 14.4
+    },
+    {
+      "key": "eleMas",
+      "value": 16.0
     },
     {
       "key": "hp",
-      "value": 239.0
+      "value": 538.0
     },
     {
-      "key": "atk",
-      "value": 70.0
-    },
-    {
-      "key": "critRate_",
-      "value": 3.1
+      "key": "def",
+      "value": 42.0
     }
   ],
-  "location": "KamisatoAyaka",
-  "lock": true,
+  "location": "Chevreuse",
+  "lock": false,
   "id": 142
 }

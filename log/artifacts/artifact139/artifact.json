@@ -1,24 +1,28 @@
 {
-  "setKey": "NoblesseOblige",
-  "slotKey": "goblet",
+  "setKey": "ShimenawasReminiscence",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "atk_",
   "level": 20,
   "substats": [
     {
-      "key": "hp",
-      "value": 747.0
+      "key": "hp_",
+      "value": 10.5
     },
     {
-      "key": "enerRech_",
-      "value": 6.5
+      "key": "eleMas",
+      "value": 40.0
     },
     {
       "key": "def",
-      "value": 16.0
+      "value": 44.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 14.9
     }
   ],
-  "location": "Bennett",
-  "lock": false,
+  "location": "Jean",
+  "lock": true,
   "id": 139
 }

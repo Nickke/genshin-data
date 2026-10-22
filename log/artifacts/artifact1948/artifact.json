@@ -1,28 +1,28 @@
 {
   "setKey": "BlizzardStrayer",
-  "slotKey": "plume",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "eleMas",
   "level": 0,
   "substats": [
     {
-      "key": "def_",
-      "value": 7.3
+      "key": "enerRech_",
+      "value": 5.8
+    },
+    {
+      "key": "atk",
+      "value": 14.0
     },
     {
       "key": "hp",
-      "value": 299.0
+      "value": 209.0
     },
     {
-      "key": "enerRech_",
-      "value": 4.5
-    },
-    {
-      "key": "eleMas",
-      "value": 21.0
+      "key": "atk_",
+      "value": 5.3
     }
   ],
-  "location": "Mika",
+  "location": "",
   "lock": false,
   "id": 1948
 }

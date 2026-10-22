@@ -1,13 +1,13 @@
 {
-  "setKey": "ScrollOfTheHeroOfCinderCity",
-  "slotKey": "circlet",
+  "setKey": "TheExile",
+  "slotKey": "goblet",
   "rarity": 4,
-  "mainStatKey": "def_",
+  "mainStatKey": "hydro_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "",
-      "value": 137.0
+      "key": "def_",
+      "value": 5.8
     }
   ],
   "location": "",

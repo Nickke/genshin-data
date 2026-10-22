@@ -1,28 +1,28 @@
 {
   "setKey": "EmblemOfSeveredFate",
-  "slotKey": "flower",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "def_",
-      "value": 7.3
-    },
-    {
-      "key": "eleMas",
-      "value": 21.0
-    },
-    {
-      "key": "atk",
-      "value": 19.0
+      "key": "atk_",
+      "value": 5.8
     },
     {
       "key": "critDMG_",
-      "value": 5.4
+      "value": 6.2
+    },
+    {
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 4.5
     }
   ],
-  "location": "Gorou",
-  "lock": false,
+  "location": "Rosaria",
+  "lock": true,
   "id": 737
 }

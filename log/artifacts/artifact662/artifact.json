@@ -6,7 +6,11 @@
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
+      "key": "atk",
+      "value": 19.0
+    },
+    {
+      "key": "enerRech_",
       "value": 5.8
     },
     {
@@ -14,15 +18,11 @@
       "value": 5.1
     },
     {
-      "key": "def",
-      "value": 16.0
-    },
-    {
-      "key": "atk",
-      "value": 14.0
+      "key": "hp_",
+      "value": 5.8
     }
   ],
-  "location": "Yaoyao",
+  "location": "",
   "lock": false,
   "id": 662
 }

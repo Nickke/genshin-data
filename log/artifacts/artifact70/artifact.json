@@ -1,28 +1,28 @@
 {
   "setKey": "GildedDreams",
-  "slotKey": "circlet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "atk_",
   "level": 20,
   "substats": [
     {
-      "key": "def",
-      "value": 53.0
+      "key": "eleMas",
+      "value": 42.0
     },
     {
-      "key": "atk_",
-      "value": 8.7
+      "key": "enerRech_",
+      "value": 11.7
     },
     {
       "key": "hp",
-      "value": 717.0
+      "value": 747.0
     },
     {
-      "key": "critDMG_",
-      "value": 7.0
+      "key": "def",
+      "value": 16.0
     }
   ],
-  "location": "Layla",
-  "lock": true,
+  "location": "Cyno",
+  "lock": false,
   "id": 70
 }

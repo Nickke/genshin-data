@@ -1,28 +1,28 @@
 {
   "setKey": "GoldenTroupe",
-  "slotKey": "goblet",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "hp",
   "level": 20,
   "substats": [
     {
+      "key": "atk_",
+      "value": 4.1
+    },
+    {
+      "key": "hp_",
+      "value": 10.5
+    },
+    {
       "key": "atk",
-      "value": 53.0
+      "value": 54.0
     },
     {
       "key": "eleMas",
-      "value": 40.0
-    },
-    {
-      "key": "def_",
-      "value": 11.7
-    },
-    {
-      "key": "enerRech_",
-      "value": 5.2
+      "value": 42.0
     }
   ],
-  "location": "Furina",
-  "lock": false,
+  "location": "Fischl",
+  "lock": true,
   "id": 44
 }

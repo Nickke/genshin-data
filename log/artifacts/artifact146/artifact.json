@@ -1,28 +1,24 @@
 {
-  "setKey": "ViridescentVenerer",
-  "slotKey": "flower",
+  "setKey": "NoblesseOblige",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "hp_",
   "level": 20,
   "substats": [
     {
-      "key": "def_",
-      "value": 14.6
+      "key": "hp",
+      "value": 747.0
     },
     {
-      "key": "atk_",
-      "value": 8.7
-    },
-    {
-      "key": "atk",
-      "value": 33.0
+      "key": "enerRech_",
+      "value": 6.5
     },
     {
       "key": "def",
-      "value": 37.0
+      "value": 16.0
     }
   ],
-  "location": "Sucrose",
+  "location": "Bennett",
   "lock": false,
   "id": 146
 }

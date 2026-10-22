@@ -1,21 +1,25 @@
 {
   "setKey": "TravelingDoctor",
-  "slotKey": "flower",
+  "slotKey": "goblet",
   "rarity": 3,
-  "mainStatKey": "hp",
-  "level": 8,
+  "mainStatKey": "electro_dmg_",
+  "level": 12,
   "substats": [
     {
       "key": "eleMas",
       "value": 14.0
     },
     {
-      "key": "hp_",
-      "value": 3.2
+      "key": "hp",
+      "value": 129.0
     },
     {
-      "key": "def_",
+      "key": "atk_",
       "value": 3.5
+    },
+    {
+      "key": "hp_",
+      "value": 2.5
     }
   ],
   "location": "",

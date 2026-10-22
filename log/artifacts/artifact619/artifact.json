@@ -1,25 +1,25 @@
 {
   "setKey": "MarechausseeHunter",
-  "slotKey": "circlet",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 18.0
-    },
-    {
-      "key": "def_",
-      "value": 6.6
+      "key": "hp",
+      "value": 269.0
     },
     {
       "key": "def",
       "value": 19.0
     },
     {
-      "key": "enerRech_",
-      "value": 4.5
+      "key": "critRate_",
+      "value": 3.9
+    },
+    {
+      "key": "atk",
+      "value": 19.0
     }
   ],
   "location": "",

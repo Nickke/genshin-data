@@ -1,28 +1,28 @@
 {
   "setKey": "WanderersTroupe",
-  "slotKey": "plume",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 269.0
+      "key": "hp_",
+      "value": 5.8
     },
     {
       "key": "eleMas",
-      "value": 21.0
-    },
-    {
-      "key": "hp_",
-      "value": 4.1
-    },
-    {
-      "key": "def",
       "value": 19.0
+    },
+    {
+      "key": "hp",
+      "value": 209.0
+    },
+    {
+      "key": "atk",
+      "value": 16.0
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 1202
 }

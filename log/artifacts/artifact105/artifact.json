@@ -1,28 +1,28 @@
 {
   "setKey": "EmblemOfSeveredFate",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hydro_dmg_",
+  "mainStatKey": "hp_",
   "level": 20,
   "substats": [
     {
+      "key": "eleMas",
+      "value": 19.0
+    },
+    {
+      "key": "critRate_",
+      "value": 10.5
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.2
+    },
+    {
       "key": "atk",
-      "value": 37.0
-    },
-    {
-      "key": "hp",
-      "value": 717.0
-    },
-    {
-      "key": "hp_",
-      "value": 8.7
-    },
-    {
-      "key": "critDMG_",
-      "value": 12.4
+      "value": 53.0
     }
   ],
-  "location": "Xingqiu",
+  "location": "Yelan",
   "lock": true,
   "id": 105
 }

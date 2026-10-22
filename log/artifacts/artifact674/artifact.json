@@ -1,28 +1,28 @@
 {
   "setKey": "DeepwoodMemories",
-  "slotKey": "sands",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 2.7
-    },
-    {
-      "key": "def",
-      "value": 16.0
+      "key": "def_",
+      "value": 5.1
     },
     {
       "key": "enerRech_",
-      "value": 6.5
+      "value": 4.5
     },
     {
-      "key": "def_",
-      "value": 5.8
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "hp_",
+      "value": 5.3
     }
   ],
-  "location": "",
+  "location": "Kaveh",
   "lock": false,
   "id": 674
 }

@@ -1,21 +1,17 @@
 {
-  "setKey": "MartialArtist",
-  "slotKey": "goblet",
+  "setKey": "HeartOfDepth",
+  "slotKey": "plume",
   "rarity": 4,
-  "mainStatKey": "hp_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "",
-      "value": 117.0
+      "key": "def",
+      "value": 30.0
     },
     {
       "key": "atk_",
-      "value": 4.2
-    },
-    {
-      "key": "def_",
-      "value": 11.1
+      "value": 4.7
     }
   ],
   "location": "",

@@ -1,25 +1,25 @@
 {
   "setKey": "ADayCarvedFromRisingWinds",
-  "slotKey": "plume",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
-      "value": 5.3
-    },
-    {
-      "key": "hp",
-      "value": 269.0
-    },
-    {
-      "key": "def",
-      "value": 23.0
+      "key": "atk",
+      "value": 16.0
     },
     {
       "key": "def_",
-      "value": 6.6
+      "value": 5.8
+    },
+    {
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "atk_",
+      "value": 4.1
     }
   ],
   "location": "",

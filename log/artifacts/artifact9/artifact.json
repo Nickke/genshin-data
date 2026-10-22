@@ -1,28 +1,28 @@
 {
-  "setKey": "DisenchantmentInDeepShadow",
-  "slotKey": "sands",
+  "setKey": "ScarletProof",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "critDMG_",
   "level": 20,
   "substats": [
     {
+      "key": "atk_",
+      "value": 11.1
+    },
+    {
       "key": "def_",
-      "value": 10.9
+      "value": 6.6
     },
     {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "atk",
+      "value": 51.0
     },
     {
-      "key": "hp_",
-      "value": 21.0
-    },
-    {
-      "key": "def",
-      "value": 39.0
+      "key": "enerRech_",
+      "value": 11.0
     }
   ],
-  "location": "Sandrone",
+  "location": "Vesna",
   "lock": false,
   "id": 9
 }

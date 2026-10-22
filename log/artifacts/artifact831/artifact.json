@@ -1,28 +1,28 @@
 {
   "setKey": "EmblemOfSeveredFate",
-  "slotKey": "goblet",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
       "key": "critDMG_",
-      "value": 6.2
+      "value": 5.4
+    },
+    {
+      "key": "def_",
+      "value": 5.8
     },
     {
       "key": "enerRech_",
-      "value": 4.5
+      "value": 6.5
     },
     {
-      "key": "atk",
-      "value": 19.0
-    },
-    {
-      "key": "eleMas",
-      "value": 16.0
+      "key": "def",
+      "value": 23.0
     }
   ],
-  "location": "YunJin",
+  "location": "",
   "lock": false,
   "id": 831
 }

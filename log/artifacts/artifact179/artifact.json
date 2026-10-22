@@ -1,21 +1,21 @@
 {
-  "setKey": "BlizzardStrayer",
-  "slotKey": "flower",
+  "setKey": "Scholar",
+  "slotKey": "circlet",
   "rarity": 4,
-  "mainStatKey": "hp",
+  "mainStatKey": "critDMG_",
   "level": 0,
   "substats": [
     {
-      "key": "",
-      "value": 3.0
+      "key": "enerRech_",
+      "value": 857.0
     },
     {
-      "key": "atk",
-      "value": 31.0
+      "key": "def",
+      "value": 19.0
     },
     {
-      "key": "def_",
-      "value": 5.8
+      "key": "hp",
+      "value": 382.0
     }
   ],
   "location": "",

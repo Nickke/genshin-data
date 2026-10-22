@@ -1,28 +1,28 @@
 {
-  "setKey": "ObsidianCodex",
+  "setKey": "NightOfTheSkysUnveiling",
   "slotKey": "plume",
   "rarity": 5,
   "mainStatKey": "atk",
   "level": 20,
   "substats": [
     {
+      "key": "enerRech_",
+      "value": 10.4
+    },
+    {
       "key": "critDMG_",
-      "value": 7.8
+      "value": 10.9
     },
     {
-      "key": "hp_",
-      "value": 16.9
+      "key": "hp",
+      "value": 926.0
     },
     {
-      "key": "critRate_",
-      "value": 3.1
-    },
-    {
-      "key": "atk_",
-      "value": 14.0
+      "key": "eleMas",
+      "value": 23.0
     }
   ],
-  "location": "",
+  "location": "Nefer",
   "lock": true,
   "id": 25
 }

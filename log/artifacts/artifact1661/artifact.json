@@ -6,8 +6,12 @@
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 18.0
+      "key": "critDMG_",
+      "value": 7.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.2
     },
     {
       "key": "critRate_",
@@ -15,14 +19,10 @@
     },
     {
       "key": "hp_",
-      "value": 5.8
-    },
-    {
-      "key": "enerRech_",
-      "value": 5.2
+      "value": 4.1
     }
   ],
-  "location": "",
+  "location": "Arlecchino",
   "lock": true,
   "id": 1661
 }

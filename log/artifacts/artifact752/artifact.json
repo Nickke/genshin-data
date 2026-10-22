@@ -1,28 +1,28 @@
 {
   "setKey": "EmblemOfSeveredFate",
-  "slotKey": "plume",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "atk_",
-      "value": 5.8
+      "key": "hp_",
+      "value": 4.1
+    },
+    {
+      "key": "def_",
+      "value": 5.1
     },
     {
       "key": "critDMG_",
-      "value": 6.2
+      "value": 5.4
     },
     {
       "key": "def",
-      "value": 19.0
-    },
-    {
-      "key": "enerRech_",
-      "value": 4.5
+      "value": 23.0
     }
   ],
   "location": "Rosaria",
-  "lock": true,
+  "lock": false,
   "id": 752
 }

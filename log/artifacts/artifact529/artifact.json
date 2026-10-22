@@ -2,27 +2,27 @@
   "setKey": "ScrollOfTheHeroOfCinderCity",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
+    {
+      "key": "eleMas",
+      "value": 19.0
+    },
+    {
+      "key": "hp_",
+      "value": 4.1
+    },
     {
       "key": "critRate_",
       "value": 3.9
     },
     {
-      "key": "enerRech_",
-      "value": 5.2
-    },
-    {
       "key": "atk",
-      "value": 16.0
-    },
-    {
-      "key": "def",
-      "value": 21.0
+      "value": 19.0
     }
   ],
-  "location": "Kachina",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 529
 }

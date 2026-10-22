@@ -1,28 +1,28 @@
 {
-  "setKey": "ShimenawasReminiscence",
-  "slotKey": "plume",
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp_",
   "level": 20,
   "substats": [
     {
       "key": "hp",
-      "value": 478.0
+      "value": 508.0
     },
     {
-      "key": "def_",
-      "value": 19.0
-    },
-    {
-      "key": "def",
-      "value": 19.0
+      "key": "critRate_",
+      "value": 7.0
     },
     {
       "key": "enerRech_",
-      "value": 16.2
+      "value": 16.8
+    },
+    {
+      "key": "eleMas",
+      "value": 19.0
     }
   ],
-  "location": "Xiangling",
-  "lock": false,
+  "location": "Dehya",
+  "lock": true,
   "id": 120
 }

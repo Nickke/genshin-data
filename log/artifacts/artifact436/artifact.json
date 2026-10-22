@@ -1,28 +1,28 @@
 {
   "setKey": "LongNightsOath",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "pyro_dmg_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 19.0
-    },
-    {
-      "key": "eleMas",
-      "value": 19.0
-    },
-    {
-      "key": "enerRech_",
-      "value": 6.5
+      "key": "critDMG_",
+      "value": 6.2
     },
     {
       "key": "critRate_",
-      "value": 3.5
+      "value": 3.1
+    },
+    {
+      "key": "atk",
+      "value": 14.0
+    },
+    {
+      "key": "hp",
+      "value": 239.0
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 436
 }

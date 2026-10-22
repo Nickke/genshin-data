@@ -1,28 +1,28 @@
 {
-  "setKey": "ViridescentVenerer",
-  "slotKey": "circlet",
+  "setKey": "GladiatorsFinale",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
+      "key": "atk_",
+      "value": 5.3
+    },
+    {
+      "key": "def",
       "value": 16.0
     },
     {
-      "key": "atk",
-      "value": 19.0
-    },
-    {
       "key": "enerRech_",
-      "value": 5.8
+      "value": 4.5
     },
     {
       "key": "critDMG_",
-      "value": 7.0
+      "value": 5.4
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 1477
 }

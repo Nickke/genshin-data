@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 7.0
-    },
-    {
       "key": "eleMas",
-      "value": 19.0
+      "value": 23.0
     },
     {
       "key": "atk_",
       "value": 4.1
     },
     {
-      "key": "def",
-      "value": 23.0
+      "key": "critRate_",
+      "value": 2.7
+    },
+    {
+      "key": "critDMG_",
+      "value": 5.4
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "Freminet",
+  "lock": true,
   "id": 1940
 }

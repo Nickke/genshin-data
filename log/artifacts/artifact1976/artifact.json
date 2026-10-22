@@ -1,13 +1,13 @@
 {
-  "setKey": "PrayersToSpringtime",
-  "slotKey": "circlet",
+  "setKey": "TheExile",
+  "slotKey": "goblet",
   "rarity": 3,
-  "mainStatKey": "def_",
+  "mainStatKey": "geo_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 3.7
+      "key": "atk",
+      "value": 9.0
     }
   ],
   "location": "",

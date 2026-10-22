@@ -1,25 +1,25 @@
 {
   "setKey": "GildedDreams",
-  "slotKey": "goblet",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "electro_dmg_",
+  "mainStatKey": "atk",
   "level": 20,
   "substats": [
     {
-      "key": "atk",
-      "value": 33.0
+      "key": "def",
+      "value": 60.0
     },
     {
-      "key": "hp_",
-      "value": 8.7
+      "key": "hp",
+      "value": 448.0
     },
     {
       "key": "critDMG_",
-      "value": 6.2
+      "value": 12.4
     },
     {
-      "key": "enerRech_",
-      "value": 17.5
+      "key": "atk_",
+      "value": 11.1
     }
   ],
   "location": "Cyno",

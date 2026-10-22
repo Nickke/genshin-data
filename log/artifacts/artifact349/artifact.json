@@ -2,23 +2,23 @@
   "setKey": "AubadeOfMorningstarAndMoon",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "def_",
-      "value": 7.3
+      "key": "def",
+      "value": 16.0
     },
     {
-      "key": "critRate_",
-      "value": 3.1
+      "key": "hp",
+      "value": 209.0
     },
     {
-      "key": "hp_",
-      "value": 4.1
+      "key": "eleMas",
+      "value": 21.0
     },
     {
-      "key": "enerRech_",
+      "key": "atk_",
       "value": 5.8
     }
   ],

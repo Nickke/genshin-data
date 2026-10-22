@@ -1,28 +1,28 @@
 {
-  "setKey": "EmblemOfSeveredFate",
-  "slotKey": "circlet",
+  "setKey": "ShimenawasReminiscence",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 16.0
+      "key": "def_",
+      "value": 5.8
+    },
+    {
+      "key": "critRate_",
+      "value": 3.9
     },
     {
       "key": "eleMas",
       "value": 21.0
     },
     {
-      "key": "def_",
-      "value": 6.6
-    },
-    {
-      "key": "atk",
-      "value": 18.0
+      "key": "hp_",
+      "value": 5.3
     }
   ],
-  "location": "Diona",
+  "location": "",
   "lock": false,
   "id": 851
 }

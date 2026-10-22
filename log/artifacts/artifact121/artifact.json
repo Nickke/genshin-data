@@ -1,28 +1,28 @@
 {
-  "setKey": "ShimenawasReminiscence",
-  "slotKey": "plume",
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "critDMG_",
   "level": 20,
   "substats": [
     {
-      "key": "hp_",
-      "value": 9.9
+      "key": "atk",
+      "value": 19.0
     },
     {
       "key": "critRate_",
-      "value": 10.5
+      "value": 7.8
     },
     {
-      "key": "enerRech_",
-      "value": 14.9
-    },
-    {
-      "key": "def",
+      "key": "hp_",
       "value": 21.0
+    },
+    {
+      "key": "def_",
+      "value": 5.8
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "Neuvillette",
+  "lock": true,
   "id": 121
 }

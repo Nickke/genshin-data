@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
+      "key": "atk",
+      "value": 18.0
+    },
+    {
       "key": "def",
-      "value": 21.0
+      "value": 23.0
     },
     {
       "key": "hp_",
-      "value": 5.3
+      "value": 4.1
     },
     {
       "key": "critDMG_",
       "value": 7.8
-    },
-    {
-      "key": "def_",
-      "value": 5.8
     }
   ],
-  "location": "Mualani",
+  "location": "",
   "lock": false,
   "id": 635
 }

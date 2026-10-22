@@ -1,25 +1,25 @@
 {
-  "setKey": "SilkenMoonsSerenade",
-  "slotKey": "flower",
+  "setKey": "AubadeOfMorningstarAndMoon",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
+    {
+      "key": "def_",
+      "value": 7.3
+    },
     {
       "key": "critRate_",
       "value": 3.1
     },
     {
-      "key": "def",
-      "value": 21.0
+      "key": "hp_",
+      "value": 4.1
     },
     {
-      "key": "critDMG_",
-      "value": 6.2
-    },
-    {
-      "key": "atk",
-      "value": 18.0
+      "key": "enerRech_",
+      "value": 5.8
     }
   ],
   "location": "",

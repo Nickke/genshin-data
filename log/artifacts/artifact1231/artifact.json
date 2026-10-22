@@ -2,27 +2,27 @@
   "setKey": "WanderersTroupe",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "atk",
+      "value": 14.0
     },
     {
       "key": "def",
-      "value": 21.0
+      "value": 19.0
     },
     {
-      "key": "critDMG_",
-      "value": 7.8
+      "key": "eleMas",
+      "value": 16.0
     },
     {
-      "key": "hp",
-      "value": 209.0
+      "key": "atk_",
+      "value": 5.3
     }
   ],
-  "location": "ShikanoinHeizou",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 1231
 }

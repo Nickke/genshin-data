@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
+      "key": "atk",
+      "value": 18.0
+    },
+    {
+      "key": "def_",
+      "value": 7.3
+    },
+    {
+      "key": "hp_",
+      "value": 5.3
+    },
+    {
       "key": "critRate_",
       "value": 3.1
-    },
-    {
-      "key": "atk",
-      "value": 16.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 7.0
-    },
-    {
-      "key": "def",
-      "value": 19.0
     }
   ],
-  "location": "Amber",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 1113
 }

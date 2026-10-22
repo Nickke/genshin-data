@@ -1,28 +1,28 @@
 {
-  "setKey": "GoldenTroupe",
-  "slotKey": "plume",
+  "setKey": "ScrollOfTheHeroOfCinderCity",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "atk_",
   "level": 20,
   "substats": [
     {
       "key": "critDMG_",
-      "value": 12.4
+      "value": 27.2
+    },
+    {
+      "key": "eleMas",
+      "value": 23.0
     },
     {
       "key": "critRate_",
-      "value": 12.4
+      "value": 7.4
     },
     {
       "key": "def_",
-      "value": 11.7
-    },
-    {
-      "key": "hp",
-      "value": 269.0
+      "value": 5.8
     }
   ],
-  "location": "Fischl",
+  "location": "Odette",
   "lock": true,
   "id": 38
 }

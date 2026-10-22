@@ -1,28 +1,28 @@
 {
-  "setKey": "NightOfTheSkysUnveiling",
+  "setKey": "AubadeOfMorningstarAndMoon",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "hp_",
   "level": 20,
   "substats": [
     {
+      "key": "hp",
+      "value": 508.0
+    },
+    {
+      "key": "atk",
+      "value": 45.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
+    },
+    {
       "key": "def",
-      "value": 16.0
-    },
-    {
-      "key": "atk_",
-      "value": 15.7
-    },
-    {
-      "key": "enerRech_",
-      "value": 13.0
-    },
-    {
-      "key": "hp_",
-      "value": 9.9
+      "value": 46.0
     }
   ],
-  "location": "Zibai",
+  "location": "Columbina",
   "lock": false,
   "id": 19
 }

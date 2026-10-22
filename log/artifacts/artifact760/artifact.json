@@ -1,28 +1,28 @@
 {
   "setKey": "EmblemOfSeveredFate",
-  "slotKey": "plume",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 5.2
-    },
-    {
       "key": "def_",
-      "value": 7.3
+      "value": 6.6
     },
     {
-      "key": "hp",
-      "value": 209.0
+      "key": "def",
+      "value": 21.0
     },
     {
       "key": "eleMas",
       "value": 23.0
+    },
+    {
+      "key": "atk",
+      "value": 16.0
     }
   ],
-  "location": "Mona",
+  "location": "",
   "lock": false,
   "id": 760
 }

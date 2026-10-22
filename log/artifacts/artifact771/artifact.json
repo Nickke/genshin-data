@@ -2,27 +2,27 @@
   "setKey": "EmblemOfSeveredFate",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "def",
+      "key": "atk",
+      "value": 14.0
+    },
+    {
+      "key": "eleMas",
       "value": 16.0
     },
     {
-      "key": "hp",
-      "value": 209.0
+      "key": "def",
+      "value": 23.0
     },
     {
-      "key": "hp_",
-      "value": 4.7
-    },
-    {
-      "key": "enerRech_",
-      "value": 5.8
+      "key": "atk_",
+      "value": 4.1
     }
   ],
-  "location": "Beidou",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 771
 }

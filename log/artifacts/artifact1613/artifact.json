@@ -6,8 +6,8 @@
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
-      "value": 5.3
+      "key": "eleMas",
+      "value": 23.0
     },
     {
       "key": "def_",
@@ -15,11 +15,11 @@
     },
     {
       "key": "hp",
-      "value": 239.0
+      "value": 209.0
     },
     {
-      "key": "critDMG_",
-      "value": 7.0
+      "key": "hp_",
+      "value": 5.8
     }
   ],
   "location": "",

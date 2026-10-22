@@ -1,28 +1,28 @@
 {
-  "setKey": "DisenchantmentInDeepShadow",
-  "slotKey": "plume",
+  "setKey": "ScarletProof",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "eleMas",
   "level": 20,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 18.7
+      "key": "atk",
+      "value": 31.0
+    },
+    {
+      "key": "def",
+      "value": 16.0
+    },
+    {
+      "key": "hp_",
+      "value": 13.4
     },
     {
       "key": "hp",
-      "value": 448.0
-    },
-    {
-      "key": "critRate_",
-      "value": 3.9
-    },
-    {
-      "key": "atk_",
-      "value": 9.3
+      "value": 418.0
     }
   ],
-  "location": "Sandrone",
+  "location": "YumemizukiMizuki",
   "lock": false,
   "id": 8
 }

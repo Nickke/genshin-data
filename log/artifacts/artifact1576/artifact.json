@@ -7,22 +7,22 @@
   "substats": [
     {
       "key": "def_",
-      "value": 5.1
+      "value": 5.8
     },
     {
-      "key": "enerRech_",
-      "value": 4.5
-    },
-    {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "critRate_",
+      "value": 3.5
     },
     {
       "key": "atk_",
       "value": 5.3
+    },
+    {
+      "key": "eleMas",
+      "value": 19.0
     }
   ],
-  "location": "",
+  "location": "Arlecchino",
   "lock": true,
   "id": 1576
 }

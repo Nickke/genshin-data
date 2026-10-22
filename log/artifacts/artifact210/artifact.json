@@ -1,8 +1,8 @@
 {
   "setKey": "HeartOfTheFurnace",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
@@ -10,16 +10,16 @@
       "value": 6.5
     },
     {
-      "key": "critRate_",
-      "value": 3.5
+      "key": "def",
+      "value": 23.0
     },
     {
-      "key": "def_",
-      "value": 5.8
+      "key": "critDMG_",
+      "value": 6.2
     },
     {
-      "key": "atk",
-      "value": 16.0
+      "key": "eleMas",
+      "value": 23.0
     }
   ],
   "location": "",

@@ -1,28 +1,28 @@
 {
   "setKey": "GoldenTroupe",
-  "slotKey": "circlet",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "heal_",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 3.5
+      "key": "enerRech_",
+      "value": 5.2
+    },
+    {
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "atk",
+      "value": 16.0
     },
     {
       "key": "atk_",
-      "value": 5.3
-    },
-    {
-      "key": "critDMG_",
-      "value": 7.8
-    },
-    {
-      "key": "enerRech_",
-      "value": 6.5
+      "value": 5.8
     }
   ],
-  "location": "Sayu",
+  "location": "",
   "lock": false,
   "id": 590
 }

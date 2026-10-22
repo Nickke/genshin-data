@@ -1,28 +1,28 @@
 {
-  "setKey": "DisenchantmentInDeepShadow",
-  "slotKey": "flower",
+  "setKey": "ScarletProof",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "atk_",
   "level": 20,
   "substats": [
     {
-      "key": "atk_",
-      "value": 13.4
-    },
-    {
-      "key": "def",
-      "value": 49.0
+      "key": "critRate_",
+      "value": 3.9
     },
     {
       "key": "critDMG_",
-      "value": 7.0
+      "value": 5.4
     },
     {
-      "key": "enerRech_",
-      "value": 5.8
+      "key": "def_",
+      "value": 17.5
+    },
+    {
+      "key": "hp",
+      "value": 717.0
     }
   ],
-  "location": "Sandrone",
+  "location": "Vesna",
   "lock": false,
   "id": 7
 }

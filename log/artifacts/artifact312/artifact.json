@@ -1,28 +1,28 @@
 {
   "setKey": "ADayCarvedFromRisingWinds",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "physical_dmg_",
+  "mainStatKey": "eleMas",
   "level": 0,
   "substats": [
     {
       "key": "enerRech_",
-      "value": 6.5
+      "value": 5.8
     },
     {
-      "key": "atk",
-      "value": 18.0
+      "key": "hp",
+      "value": 209.0
     },
     {
-      "key": "hp_",
-      "value": 4.1
+      "key": "atk_",
+      "value": 4.7
     },
     {
-      "key": "eleMas",
-      "value": 16.0
+      "key": "def_",
+      "value": 6.6
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 312
 }

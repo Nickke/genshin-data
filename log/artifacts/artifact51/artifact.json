@@ -1,28 +1,28 @@
 {
-  "setKey": "MarechausseeHunter",
-  "slotKey": "sands",
+  "setKey": "GoldenTroupe",
+  "slotKey": "goblet",
   "rarity": 5,
   "mainStatKey": "hp_",
   "level": 20,
   "substats": [
     {
-      "key": "hp",
-      "value": 986.0
+      "key": "atk",
+      "value": 53.0
+    },
+    {
+      "key": "eleMas",
+      "value": 40.0
     },
     {
       "key": "def_",
-      "value": 10.9
-    },
-    {
-      "key": "atk",
-      "value": 16.0
+      "value": 11.7
     },
     {
       "key": "enerRech_",
-      "value": 4.5
+      "value": 5.2
     }
   ],
-  "location": "Neuvillette",
-  "lock": true,
+  "location": "Furina",
+  "lock": false,
   "id": 51
 }

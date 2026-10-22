@@ -1,28 +1,28 @@
 {
-  "setKey": "DeepwoodMemories",
-  "slotKey": "plume",
+  "setKey": "GildedDreams",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp_",
   "level": 20,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 47.0
+      "key": "enerRech_",
+      "value": 6.5
     },
     {
-      "key": "atk_",
-      "value": 19.8
+      "key": "def",
+      "value": 86.0
     },
     {
-      "key": "def_",
-      "value": 12.4
+      "key": "hp",
+      "value": 299.0
     },
     {
-      "key": "hp_",
-      "value": 4.1
+      "key": "critRate_",
+      "value": 7.4
     }
   ],
-  "location": "Ningguang",
-  "lock": true,
+  "location": "Columbina",
+  "lock": false,
   "id": 75
 }

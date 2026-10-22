@@ -1,28 +1,28 @@
 {
   "setKey": "ScarletProof",
-  "slotKey": "goblet",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 3.9
+      "key": "hp_",
+      "value": 5.3
     },
     {
-      "key": "critDMG_",
-      "value": 5.4
+      "key": "enerRech_",
+      "value": 5.2
+    },
+    {
+      "key": "def",
+      "value": 19.0
     },
     {
       "key": "def_",
-      "value": 5.1
-    },
-    {
-      "key": "hp",
-      "value": 209.0
+      "value": 6.6
     }
   ],
-  "location": "Vesna",
+  "location": "",
   "lock": false,
   "id": 235
 }

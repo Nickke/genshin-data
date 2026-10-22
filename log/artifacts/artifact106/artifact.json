@@ -1,28 +1,28 @@
 {
   "setKey": "EmblemOfSeveredFate",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "pyro_dmg_",
+  "mainStatKey": "atk_",
   "level": 20,
   "substats": [
     {
       "key": "critRate_",
-      "value": 3.9
+      "value": 9.7
     },
     {
-      "key": "atk_",
-      "value": 5.8
+      "key": "eleMas",
+      "value": 40.0
     },
     {
-      "key": "atk",
-      "value": 33.0
+      "key": "def",
+      "value": 19.0
     },
     {
       "key": "critDMG_",
-      "value": 31.9
+      "value": 14.8
     }
   ],
-  "location": "Yoimiya",
+  "location": "Xingqiu",
   "lock": true,
   "id": 106
 }

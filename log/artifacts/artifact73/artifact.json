@@ -1,28 +1,28 @@
 {
-  "setKey": "DeepwoodMemories",
-  "slotKey": "flower",
+  "setKey": "GildedDreams",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "electro_dmg_",
   "level": 20,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 10.1
+      "key": "atk",
+      "value": 33.0
     },
     {
-      "key": "def",
-      "value": 32.0
+      "key": "hp_",
+      "value": 8.7
     },
     {
       "key": "critDMG_",
-      "value": 21.0
+      "value": 6.2
     },
     {
-      "key": "def_",
-      "value": 6.6
+      "key": "enerRech_",
+      "value": 17.5
     }
   ],
-  "location": "Nahida",
-  "lock": false,
+  "location": "Cyno",
+  "lock": true,
   "id": 73
 }

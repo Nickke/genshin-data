@@ -1,17 +1,21 @@
 {
-  "setKey": "HeartOfDepth",
-  "slotKey": "plume",
+  "setKey": "HeartOfTheFurnace",
+  "slotKey": "circlet",
   "rarity": 4,
-  "mainStatKey": "atk",
+  "mainStatKey": "critDMG_",
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 30.0
+      "key": "heal_",
+      "value": 137.1
     },
     {
-      "key": "atk_",
-      "value": 4.7
+      "key": "enerRech_",
+      "value": 4.1
+    },
+    {
+      "key": "hp_",
+      "value": 7.9
     }
   ],
   "location": "",

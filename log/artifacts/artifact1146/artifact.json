@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 16.0
-    },
-    {
-      "key": "atk_",
-      "value": 4.7
+      "key": "hp",
+      "value": 239.0
     },
     {
       "key": "critRate_",
-      "value": 3.5
+      "value": 3.9
+    },
+    {
+      "key": "atk_",
+      "value": 5.3
     },
     {
       "key": "critDMG_",
-      "value": 7.0
+      "value": 5.4
     }
   ],
-  "location": "",
+  "location": "Jean",
   "lock": true,
   "id": 1146
 }

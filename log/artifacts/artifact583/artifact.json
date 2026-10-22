@@ -2,23 +2,23 @@
   "setKey": "GoldenTroupe",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "enerRech_",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 19.0
-    },
-    {
-      "key": "hp_",
-      "value": 4.1
-    },
-    {
       "key": "atk",
-      "value": 14.0
+      "value": 18.0
     },
     {
-      "key": "eleMas",
+      "key": "atk_",
+      "value": 5.3
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.2
+    },
+    {
+      "key": "def",
       "value": 21.0
     }
   ],

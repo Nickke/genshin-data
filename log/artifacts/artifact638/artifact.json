@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "hp",
+      "value": 209.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
     },
     {
       "key": "hp_",
-      "value": 5.3
+      "value": 5.8
     },
     {
-      "key": "def",
-      "value": 21.0
-    },
-    {
-      "key": "hp",
-      "value": 299.0
+      "key": "enerRech_",
+      "value": 6.5
     }
   ],
-  "location": "Collei",
+  "location": "Mualani",
   "lock": false,
   "id": 638
 }

@@ -2,24 +2,24 @@
   "setKey": "SilkenMoonsSerenade",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
+      "key": "atk",
       "value": 16.0
     },
     {
-      "key": "atk",
-      "value": 18.0
+      "key": "critRate_",
+      "value": 2.7
     },
     {
-      "key": "def",
-      "value": 23.0
+      "key": "def_",
+      "value": 6.6
     },
     {
-      "key": "critDMG_",
-      "value": 7.0
+      "key": "hp",
+      "value": 299.0
     }
   ],
   "location": "",

@@ -7,22 +7,22 @@
   "substats": [
     {
       "key": "def_",
-      "value": 5.1
-    },
-    {
-      "key": "enerRech_",
-      "value": 4.5
+      "value": 5.8
     },
     {
       "key": "def",
-      "value": 19.0
+      "value": 21.0
     },
     {
       "key": "hp_",
-      "value": 5.3
+      "value": 5.8
+    },
+    {
+      "key": "atk_",
+      "value": 5.8
     }
   ],
-  "location": "Kaveh",
+  "location": "",
   "lock": false,
   "id": 673
 }

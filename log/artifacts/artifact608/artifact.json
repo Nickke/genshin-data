@@ -1,25 +1,25 @@
 {
   "setKey": "MarechausseeHunter",
-  "slotKey": "sands",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
+      "key": "enerRech_",
+      "value": 4.5
+    },
+    {
+      "key": "def_",
+      "value": 6.6
+    },
+    {
+      "key": "eleMas",
+      "value": 23.0
+    },
+    {
       "key": "critDMG_",
-      "value": 5.4
-    },
-    {
-      "key": "atk",
-      "value": 14.0
-    },
-    {
-      "key": "hp",
-      "value": 269.0
-    },
-    {
-      "key": "critRate_",
-      "value": 3.1
+      "value": 6.2
     }
   ],
   "location": "",

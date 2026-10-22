@@ -1,28 +1,28 @@
 {
   "setKey": "MaidenBeloved",
-  "slotKey": "flower",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
+    {
+      "key": "eleMas",
+      "value": 16.0
+    },
     {
       "key": "critRate_",
       "value": 2.7
     },
     {
-      "key": "eleMas",
-      "value": 19.0
+      "key": "def_",
+      "value": 6.6
     },
     {
-      "key": "enerRech_",
-      "value": 5.2
-    },
-    {
-      "key": "def",
-      "value": 21.0
+      "key": "hp_",
+      "value": 4.1
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 1880
 }

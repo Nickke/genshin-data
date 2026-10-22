@@ -1,21 +1,25 @@
 {
-  "setKey": "TravelingDoctor",
-  "slotKey": "plume",
+  "setKey": "TheExile",
+  "slotKey": "goblet",
   "rarity": 3,
-  "mainStatKey": "atk",
-  "level": 8,
+  "mainStatKey": "hydro_dmg_",
+  "level": 12,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 14.0
+      "key": "critRate_",
+      "value": 2.1
     },
     {
-      "key": "enerRech_",
-      "value": 3.1
+      "key": "critDMG_",
+      "value": 4.2
     },
     {
       "key": "def",
-      "value": 9.0
+      "value": 11.0
+    },
+    {
+      "key": "def_",
+      "value": 3.5
     }
   ],
   "location": "",

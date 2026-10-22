@@ -11,18 +11,18 @@
     },
     {
       "key": "eleMas",
-      "value": 21.0
-    },
-    {
-      "key": "atk",
-      "value": 16.0
+      "value": 23.0
     },
     {
       "key": "atk_",
       "value": 4.1
+    },
+    {
+      "key": "atk",
+      "value": 14.0
     }
   ],
-  "location": "Diluc",
+  "location": "",
   "lock": true,
   "id": 1483
 }

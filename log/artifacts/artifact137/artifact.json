@@ -1,28 +1,28 @@
 {
-  "setKey": "NoblesseOblige",
-  "slotKey": "plume",
+  "setKey": "ShimenawasReminiscence",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "pyro_dmg_",
   "level": 20,
   "substats": [
     {
+      "key": "def_",
+      "value": 14.6
+    },
+    {
+      "key": "def",
+      "value": 42.0
+    },
+    {
       "key": "hp",
-      "value": 299.0
-    },
-    {
-      "key": "hp_",
-      "value": 11.1
-    },
-    {
-      "key": "atk_",
-      "value": 13.4
+      "value": 777.0
     },
     {
       "key": "eleMas",
-      "value": 68.0
+      "value": 19.0
     }
   ],
-  "location": "Bennett",
+  "location": "Mavuika",
   "lock": true,
   "id": 137
 }

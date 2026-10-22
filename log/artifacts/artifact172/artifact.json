@@ -1,21 +1,21 @@
 {
-  "setKey": "CrimsonWitchOfFlames",
-  "slotKey": "plume",
+  "setKey": "SilkenMoonsSerenade",
+  "slotKey": "flower",
   "rarity": 4,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
       "key": "",
-      "value": 117970.0
+      "value": 11447.0
     },
     {
-      "key": "atk_",
-      "value": 3.7
+      "key": "atk",
+      "value": 11.0
     },
     {
-      "key": "enerRech_",
-      "value": 4.7
+      "key": "hp_",
+      "value": 7.9
     }
   ],
   "location": "",

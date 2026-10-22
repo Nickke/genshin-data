@@ -1,28 +1,28 @@
 {
-  "setKey": "DeepwoodMemories",
+  "setKey": "GildedDreams",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "critDMG_",
+  "mainStatKey": "hp_",
   "level": 20,
   "substats": [
     {
-      "key": "def",
-      "value": 81.0
-    },
-    {
       "key": "eleMas",
-      "value": 19.0
+      "value": 42.0
     },
     {
-      "key": "critRate_",
-      "value": 3.5
+      "key": "def",
+      "value": 37.0
+    },
+    {
+      "key": "def_",
+      "value": 7.3
     },
     {
       "key": "atk_",
-      "value": 10.5
+      "value": 13.4
     }
   ],
-  "location": "Nahida",
-  "lock": false,
+  "location": "Zhongli",
+  "lock": true,
   "id": 78
 }

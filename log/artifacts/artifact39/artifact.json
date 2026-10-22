@@ -1,28 +1,28 @@
 {
-  "setKey": "GoldenTroupe",
-  "slotKey": "plume",
+  "setKey": "ScrollOfTheHeroOfCinderCity",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "pyro_dmg_",
   "level": 20,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 4.5
-    },
-    {
-      "key": "def_",
-      "value": 28.4
-    },
-    {
-      "key": "hp",
-      "value": 239.0
+      "key": "atk",
+      "value": 14.0
     },
     {
       "key": "atk_",
-      "value": 4.7
+      "value": 5.3
+    },
+    {
+      "key": "hp",
+      "value": 687.0
+    },
+    {
+      "key": "critRate_",
+      "value": 8.6
     }
   ],
-  "location": "Furina",
-  "lock": false,
+  "location": "Traveler",
+  "lock": true,
   "id": 39
 }

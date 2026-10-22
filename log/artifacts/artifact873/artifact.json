@@ -1,25 +1,25 @@
 {
   "setKey": "ShimenawasReminiscence",
-  "slotKey": "flower",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 5.8
+      "key": "hp",
+      "value": 209.0
     },
     {
-      "key": "def_",
-      "value": 7.3
+      "key": "hp_",
+      "value": 4.7
+    },
+    {
+      "key": "def",
+      "value": 19.0
     },
     {
       "key": "atk_",
-      "value": 5.3
-    },
-    {
-      "key": "eleMas",
-      "value": 19.0
+      "value": 5.8
     }
   ],
   "location": "",

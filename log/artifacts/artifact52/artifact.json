@@ -1,28 +1,24 @@
 {
-  "setKey": "MarechausseeHunter",
+  "setKey": "GoldenTroupe",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "critDMG_",
+  "mainStatKey": "critRate_",
   "level": 20,
   "substats": [
     {
-      "key": "atk",
-      "value": 29.0
+      "key": "atk_",
+      "value": 13.4
+    },
+    {
+      "key": "critDMG_",
+      "value": 7.8
     },
     {
       "key": "def",
       "value": 19.0
-    },
-    {
-      "key": "critRate_",
-      "value": 13.6
-    },
-    {
-      "key": "hp",
-      "value": 239.0
     }
   ],
-  "location": "Skirk",
+  "location": "Fischl",
   "lock": false,
   "id": 52
 }

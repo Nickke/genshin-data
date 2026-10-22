@@ -1,24 +1,28 @@
 {
-  "setKey": "DisenchantmentInDeepShadow",
+  "setKey": "GladiatorsFinale",
   "slotKey": "goblet",
-  "rarity": 4,
-  "mainStatKey": "atk_",
-  "level": 0,
+  "rarity": 5,
+  "mainStatKey": "eleMas",
+  "level": 20,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 66.7
-    },
-    {
       "key": "hp",
-      "value": 382.0
+      "value": 239.0
     },
     {
       "key": "def",
-      "value": 17.0
+      "value": 16.0
+    },
+    {
+      "key": "hp_",
+      "value": 11.7
+    },
+    {
+      "key": "atk",
+      "value": 86.0
     }
   ],
-  "location": "",
+  "location": "Nefer",
   "lock": false,
   "id": 165
 }

@@ -1,24 +1,28 @@
 {
-  "setKey": "SilkenMoonsSerenade",
+  "setKey": "GladiatorsFinale",
   "slotKey": "circlet",
-  "rarity": 4,
-  "mainStatKey": "hp_",
-  "level": 0,
+  "rarity": 5,
+  "mainStatKey": "critRate_",
+  "level": 20,
   "substats": [
     {
-      "key": "",
-      "value": 19.0
+      "key": "enerRech_",
+      "value": 6.5
     },
     {
-      "key": "atk",
-      "value": 37.0
+      "key": "atk_",
+      "value": 14.6
     },
     {
-      "key": "eleMas",
-      "value": 26.0
+      "key": "def",
+      "value": 63.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 7.8
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 167
 }

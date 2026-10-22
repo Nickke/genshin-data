@@ -2,27 +2,27 @@
   "setKey": "ShimenawasReminiscence",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "eleMas",
   "level": 0,
   "substats": [
+    {
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "hp_",
+      "value": 4.7
+    },
     {
       "key": "atk_",
       "value": 5.8
     },
     {
-      "key": "hp",
-      "value": 239.0
-    },
-    {
-      "key": "def_",
-      "value": 7.3
-    },
-    {
-      "key": "critRate_",
-      "value": 2.7
+      "key": "enerRech_",
+      "value": 5.8
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 927
 }

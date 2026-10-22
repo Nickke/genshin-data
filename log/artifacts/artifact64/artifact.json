@@ -1,25 +1,25 @@
 {
   "setKey": "GildedDreams",
-  "slotKey": "goblet",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "dendro_dmg_",
+  "mainStatKey": "hp",
   "level": 20,
   "substats": [
     {
       "key": "eleMas",
-      "value": 70.0
+      "value": 37.0
     },
     {
-      "key": "critRate_",
-      "value": 7.8
+      "key": "def",
+      "value": 42.0
     },
     {
       "key": "def_",
-      "value": 6.6
+      "value": 17.5
     },
     {
-      "key": "atk_",
-      "value": 11.1
+      "key": "enerRech_",
+      "value": 5.2
     }
   ],
   "location": "Alhaitham",

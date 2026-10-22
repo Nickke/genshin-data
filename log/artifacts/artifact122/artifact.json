@@ -1,28 +1,28 @@
 {
-  "setKey": "ShimenawasReminiscence",
-  "slotKey": "plume",
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "atk_",
   "level": 20,
   "substats": [
     {
       "key": "def",
-      "value": 35.0
-    },
-    {
-      "key": "eleMas",
-      "value": 44.0
+      "value": 37.0
     },
     {
       "key": "critDMG_",
-      "value": 17.9
+      "value": 14.0
     },
     {
-      "key": "hp",
-      "value": 209.0
+      "key": "eleMas",
+      "value": 42.0
+    },
+    {
+      "key": "atk",
+      "value": 35.0
     }
   ],
-  "location": "Wanderer",
+  "location": "Kaeya",
   "lock": false,
   "id": 122
 }

@@ -1,28 +1,28 @@
 {
   "setKey": "GildedDreams",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "eleMas",
   "level": 20,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 6.5
+      "key": "atk",
+      "value": 27.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 21.0
     },
     {
       "key": "def",
-      "value": 86.0
+      "value": 21.0
     },
     {
-      "key": "hp",
-      "value": 299.0
-    },
-    {
-      "key": "critRate_",
-      "value": 7.4
+      "key": "hp_",
+      "value": 11.1
     }
   ],
-  "location": "Columbina",
-  "lock": false,
+  "location": "Alhaitham",
+  "lock": true,
   "id": 68
 }

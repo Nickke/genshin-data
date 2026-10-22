@@ -1,28 +1,28 @@
 {
   "setKey": "GildedDreams",
-  "slotKey": "circlet",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "cryo_dmg_",
   "level": 20,
   "substats": [
     {
-      "key": "atk",
-      "value": 53.0
-    },
-    {
       "key": "critDMG_",
-      "value": 6.2
+      "value": 14.0
     },
     {
-      "key": "hp",
-      "value": 508.0
+      "key": "eleMas",
+      "value": 16.0
     },
     {
-      "key": "enerRech_",
-      "value": 11.7
+      "key": "def",
+      "value": 23.0
+    },
+    {
+      "key": "def_",
+      "value": 24.1
     }
   ],
-  "location": "Barbara",
-  "lock": false,
+  "location": "Wriothesley",
+  "lock": true,
   "id": 72
 }

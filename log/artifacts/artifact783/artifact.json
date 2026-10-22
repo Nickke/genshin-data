@@ -1,28 +1,28 @@
 {
   "setKey": "EmblemOfSeveredFate",
-  "slotKey": "sands",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "cryo_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 21.0
-    },
-    {
       "key": "hp",
-      "value": 209.0
+      "value": 269.0
     },
     {
-      "key": "atk",
-      "value": 19.0
+      "key": "atk_",
+      "value": 4.7
     },
     {
-      "key": "critDMG_",
-      "value": 5.4
+      "key": "enerRech_",
+      "value": 6.5
+    },
+    {
+      "key": "def_",
+      "value": 6.6
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "Rosaria",
+  "lock": true,
   "id": 783
 }

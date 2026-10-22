@@ -1,28 +1,28 @@
 {
-  "setKey": "GladiatorsFinale",
-  "slotKey": "plume",
+  "setKey": "WanderersTroupe",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hydro_dmg_",
   "level": 20,
   "substats": [
     {
-      "key": "atk_",
-      "value": 9.9
+      "key": "def",
+      "value": 39.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 17.1
     },
     {
       "key": "hp_",
-      "value": 5.8
+      "value": 13.4
     },
     {
-      "key": "critRate_",
-      "value": 10.5
-    },
-    {
-      "key": "eleMas",
-      "value": 40.0
+      "key": "hp",
+      "value": 209.0
     }
   ],
-  "location": "",
+  "location": "Neuvillette",
   "lock": true,
   "id": 150
 }

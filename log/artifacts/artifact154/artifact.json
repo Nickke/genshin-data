@@ -1,28 +1,28 @@
 {
-  "setKey": "GladiatorsFinale",
-  "slotKey": "goblet",
+  "setKey": "ViridescentVenerer",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "atk",
   "level": 20,
   "substats": [
     {
-      "key": "def_",
-      "value": 20.4
+      "key": "def",
+      "value": 60.0
     },
     {
-      "key": "critDMG_",
-      "value": 7.0
+      "key": "eleMas",
+      "value": 44.0
     },
     {
-      "key": "enerRech_",
-      "value": 9.1
+      "key": "critRate_",
+      "value": 6.2
     },
     {
-      "key": "hp_",
-      "value": 9.3
+      "key": "atk_",
+      "value": 4.7
     }
   ],
-  "location": "",
-  "lock": true,
+  "location": "Sucrose",
+  "lock": false,
   "id": 154
 }

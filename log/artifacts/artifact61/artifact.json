@@ -1,28 +1,28 @@
 {
-  "setKey": "GildedDreams",
-  "slotKey": "sands",
+  "setKey": "DesertPavilionChronicle",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "atk",
   "level": 20,
   "substats": [
     {
-      "key": "atk",
-      "value": 27.0
+      "key": "def",
+      "value": 60.0
     },
     {
       "key": "critDMG_",
-      "value": 21.0
+      "value": 23.3
     },
     {
-      "key": "def",
-      "value": 21.0
+      "key": "hp",
+      "value": 209.0
     },
     {
-      "key": "hp_",
-      "value": 11.1
+      "key": "enerRech_",
+      "value": 5.8
     }
   ],
-  "location": "Alhaitham",
-  "lock": true,
+  "location": "Noelle",
+  "lock": false,
   "id": 61
 }

@@ -1,28 +1,28 @@
 {
-  "setKey": "NoblesseOblige",
-  "slotKey": "circlet",
+  "setKey": "WanderersTroupe",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 16.0
-    },
-    {
-      "key": "hp_",
-      "value": 5.3
-    },
-    {
       "key": "critDMG_",
-      "value": 5.4
+      "value": 7.0
     },
     {
-      "key": "atk",
-      "value": 19.0
+      "key": "enerRech_",
+      "value": 6.5
+    },
+    {
+      "key": "def_",
+      "value": 6.6
+    },
+    {
+      "key": "atk_",
+      "value": 4.7
     }
   ],
-  "location": "Chongyun",
-  "lock": false,
+  "location": "ShikanoinHeizou",
+  "lock": true,
   "id": 1058
 }

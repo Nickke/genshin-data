@@ -1,28 +1,28 @@
 {
   "setKey": "ShimenawasReminiscence",
-  "slotKey": "plume",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
-    {
-      "key": "hp",
-      "value": 299.0
-    },
     {
       "key": "enerRech_",
       "value": 5.2
     },
     {
-      "key": "def",
-      "value": 19.0
+      "key": "def_",
+      "value": 7.3
     },
     {
-      "key": "atk_",
-      "value": 5.3
+      "key": "hp",
+      "value": 299.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 7.8
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 917
 }

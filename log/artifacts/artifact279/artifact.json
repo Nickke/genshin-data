@@ -1,28 +1,28 @@
 {
   "setKey": "CelestialGift",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hydro_dmg_",
+  "mainStatKey": "eleMas",
   "level": 0,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 3.5
+      "key": "atk_",
+      "value": 5.3
     },
     {
       "key": "def",
-      "value": 21.0
+      "value": 16.0
     },
     {
-      "key": "atk_",
+      "key": "hp_",
       "value": 4.7
     },
     {
-      "key": "eleMas",
-      "value": 21.0
+      "key": "critRate_",
+      "value": 3.9
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 279
 }

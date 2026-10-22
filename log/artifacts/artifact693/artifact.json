@@ -1,25 +1,25 @@
 {
-  "setKey": "EchoesOfAnOffering",
-  "slotKey": "sands",
+  "setKey": "OceanHuedClam",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 14.0
-    },
-    {
-      "key": "def_",
-      "value": 5.8
-    },
-    {
       "key": "enerRech_",
-      "value": 5.2
+      "value": 6.5
     },
     {
-      "key": "def",
+      "key": "atk",
       "value": 19.0
+    },
+    {
+      "key": "hp_",
+      "value": 5.3
+    },
+    {
+      "key": "atk_",
+      "value": 4.1
     }
   ],
   "location": "",

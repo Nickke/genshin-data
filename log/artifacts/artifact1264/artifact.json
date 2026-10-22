@@ -1,28 +1,28 @@
 {
   "setKey": "WanderersTroupe",
-  "slotKey": "sands",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "enerRech_",
+  "mainStatKey": "dendro_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "atk_",
-      "value": 4.1
+      "key": "eleMas",
+      "value": 16.0
     },
     {
-      "key": "hp_",
-      "value": 5.8
-    },
-    {
-      "key": "critDMG_",
-      "value": 7.0
+      "key": "enerRech_",
+      "value": 5.2
     },
     {
       "key": "hp",
-      "value": 239.0
+      "value": 269.0
+    },
+    {
+      "key": "hp_",
+      "value": 4.7
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 1264
 }

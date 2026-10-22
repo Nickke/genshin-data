@@ -1,28 +1,28 @@
 {
   "setKey": "WanderersTroupe",
-  "slotKey": "flower",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 16.0
+      "key": "hp",
+      "value": 239.0
     },
     {
-      "key": "hp_",
-      "value": 4.7
+      "key": "critDMG_",
+      "value": 7.8
+    },
+    {
+      "key": "eleMas",
+      "value": 19.0
     },
     {
       "key": "enerRech_",
-      "value": 5.8
-    },
-    {
-      "key": "def",
-      "value": 21.0
+      "value": 5.2
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 1137
 }

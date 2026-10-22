@@ -2,24 +2,24 @@
   "setKey": "NightOfTheSkysUnveiling",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "physical_dmg_",
+  "mainStatKey": "pyro_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 16.0
+      "key": "critDMG_",
+      "value": 5.4
     },
     {
-      "key": "hp",
-      "value": 209.0
-    },
-    {
-      "key": "def",
-      "value": 16.0
+      "key": "atk_",
+      "value": 5.3
     },
     {
       "key": "hp_",
-      "value": 5.3
+      "value": 4.1
+    },
+    {
+      "key": "eleMas",
+      "value": 16.0
     }
   ],
   "location": "",

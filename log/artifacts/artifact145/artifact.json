@@ -1,28 +1,24 @@
 {
-  "setKey": "WanderersTroupe",
-  "slotKey": "circlet",
+  "setKey": "NoblesseOblige",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "critDMG_",
+  "mainStatKey": "enerRech_",
   "level": 20,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 10.4
+      "key": "hp",
+      "value": 747.0
     },
     {
-      "key": "hp",
-      "value": 807.0
+      "key": "hp_",
+      "value": 5.3
     },
     {
       "key": "critRate_",
-      "value": 3.9
-    },
-    {
-      "key": "def",
-      "value": 60.0
+      "value": 9.3
     }
   ],
-  "location": "Wriothesley",
+  "location": "Bennett",
   "lock": false,
   "id": 145
 }

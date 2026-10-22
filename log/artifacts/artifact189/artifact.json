@@ -1,25 +1,25 @@
 {
-  "setKey": "HeartOfTheFurnace",
-  "slotKey": "flower",
-  "rarity": 5,
-  "mainStatKey": "hp",
-  "level": 0,
+  "setKey": "Instructor",
+  "slotKey": "goblet",
+  "rarity": 3,
+  "mainStatKey": "pyro_dmg_",
+  "level": 12,
   "substats": [
     {
-      "key": "def",
-      "value": 21.0
+      "key": "eleMas",
+      "value": 14.0
     },
     {
-      "key": "hp_",
-      "value": 5.8
+      "key": "atk",
+      "value": 7.0
     },
     {
-      "key": "enerRech_",
-      "value": 4.5
+      "key": "def_",
+      "value": 8.3
     },
     {
-      "key": "atk_",
-      "value": 5.8
+      "key": "hp",
+      "value": 115.0
     }
   ],
   "location": "",

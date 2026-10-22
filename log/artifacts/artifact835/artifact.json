@@ -2,27 +2,27 @@
   "setKey": "EmblemOfSeveredFate",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
-      "value": 4.7
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "atk_",
+      "value": 5.8
+    },
+    {
+      "key": "hp",
+      "value": 209.0
     },
     {
       "key": "atk",
       "value": 16.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 5.4
-    },
-    {
-      "key": "critRate_",
-      "value": 3.9
     }
   ],
-  "location": "",
-  "lock": true,
+  "location": "Candace",
+  "lock": false,
   "id": 835
 }

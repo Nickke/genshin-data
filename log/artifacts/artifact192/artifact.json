@@ -1,28 +1,28 @@
 {
-  "setKey": "HeartOfTheFurnace",
-  "slotKey": "flower",
+  "setKey": "GladiatorsFinale",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp",
-  "level": 0,
+  "mainStatKey": "critDMG_",
+  "level": 8,
   "substats": [
     {
       "key": "atk",
-      "value": 14.0
+      "value": 19.0
+    },
+    {
+      "key": "hp_",
+      "value": 4.7
     },
     {
       "key": "atk_",
-      "value": 4.1
-    },
-    {
-      "key": "critDMG_",
-      "value": 7.8
+      "value": 8.7
     },
     {
       "key": "def_",
-      "value": 5.1
+      "value": 5.8
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "Arlecchino",
+  "lock": true,
   "id": 192
 }

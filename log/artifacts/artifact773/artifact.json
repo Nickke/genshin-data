@@ -2,27 +2,27 @@
   "setKey": "EmblemOfSeveredFate",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 6.5
+      "key": "eleMas",
+      "value": 19.0
+    },
+    {
+      "key": "hp",
+      "value": 239.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
     },
     {
       "key": "atk",
-      "value": 14.0
-    },
-    {
-      "key": "def",
-      "value": 23.0
-    },
-    {
-      "key": "eleMas",
-      "value": 21.0
+      "value": 16.0
     }
   ],
-  "location": "Chevreuse",
+  "location": "Lisa",
   "lock": false,
   "id": 773
 }

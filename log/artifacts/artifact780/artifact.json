@@ -2,27 +2,27 @@
   "setKey": "EmblemOfSeveredFate",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "atk",
+      "value": 14.0
     },
     {
-      "key": "critRate_",
-      "value": 3.9
+      "key": "def_",
+      "value": 5.8
     },
     {
       "key": "def",
-      "value": 16.0
+      "value": 23.0
     },
     {
-      "key": "atk",
-      "value": 19.0
+      "key": "hp",
+      "value": 269.0
     }
   ],
-  "location": "",
+  "location": "Mona",
   "lock": false,
   "id": 780
 }

@@ -1,28 +1,28 @@
 {
   "setKey": "GladiatorsFinale",
-  "slotKey": "circlet",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "critRate_",
+  "mainStatKey": "cryo_dmg_",
   "level": 20,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 6.5
+      "key": "critRate_",
+      "value": 3.5
+    },
+    {
+      "key": "atk",
+      "value": 31.0
     },
     {
       "key": "atk_",
-      "value": 14.6
+      "value": 15.2
     },
     {
-      "key": "def",
-      "value": 63.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 7.8
+      "key": "hp_",
+      "value": 9.9
     }
   ],
-  "location": "",
-  "lock": true,
+  "location": "Skirk",
+  "lock": false,
   "id": 160
 }

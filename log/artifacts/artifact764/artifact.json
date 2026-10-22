@@ -1,25 +1,25 @@
 {
   "setKey": "EmblemOfSeveredFate",
-  "slotKey": "plume",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
+      "key": "enerRech_",
+      "value": 6.5
+    },
+    {
       "key": "def",
-      "value": 16.0
+      "value": 19.0
     },
     {
-      "key": "atk_",
-      "value": 4.1
-    },
-    {
-      "key": "def_",
-      "value": 7.3
+      "key": "critDMG_",
+      "value": 5.4
     },
     {
       "key": "eleMas",
-      "value": 19.0
+      "value": 16.0
     }
   ],
   "location": "",

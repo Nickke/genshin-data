@@ -1,5 +1,5 @@
 {
-  "setKey": "TheExile",
+  "setKey": "ObsidianCodex",
   "slotKey": "circlet",
   "rarity": 4,
   "mainStatKey": "critDMG_",
@@ -7,15 +7,15 @@
   "substats": [
     {
       "key": "",
-      "value": 117.0
+      "value": 14.0
     },
     {
-      "key": "enerRech_",
-      "value": 4.7
+      "key": "hp",
+      "value": 191.0
     },
     {
-      "key": "def",
-      "value": 17.0
+      "key": "hp_",
+      "value": 7.5
     }
   ],
   "location": "",

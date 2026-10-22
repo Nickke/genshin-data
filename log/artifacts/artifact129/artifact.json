@@ -1,28 +1,28 @@
 {
   "setKey": "ShimenawasReminiscence",
-  "slotKey": "goblet",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "dendro_dmg_",
+  "mainStatKey": "atk",
   "level": 20,
   "substats": [
     {
-      "key": "hp",
-      "value": 239.0
-    },
-    {
       "key": "def",
-      "value": 21.0
+      "value": 35.0
     },
     {
       "key": "eleMas",
-      "value": 70.0
+      "value": 44.0
     },
     {
-      "key": "atk",
-      "value": 33.0
+      "key": "critDMG_",
+      "value": 17.9
+    },
+    {
+      "key": "hp",
+      "value": 209.0
     }
   ],
-  "location": "Tighnari",
+  "location": "Wanderer",
   "lock": false,
   "id": 129
 }

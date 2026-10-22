@@ -1,24 +1,24 @@
 {
   "setKey": "HeartOfDepth",
-  "slotKey": "sands",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "atk_",
-      "value": 5.3
+      "key": "hp",
+      "value": 209.0
     },
     {
-      "key": "def_",
-      "value": 7.3
-    },
-    {
-      "key": "def",
-      "value": 23.0
+      "key": "hp_",
+      "value": 4.7
     },
     {
       "key": "eleMas",
+      "value": 16.0
+    },
+    {
+      "key": "atk",
       "value": 19.0
     }
   ],

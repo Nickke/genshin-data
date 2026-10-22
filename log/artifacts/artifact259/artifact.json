@@ -1,28 +1,28 @@
 {
   "setKey": "DisenchantmentInDeepShadow",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "electro_dmg_",
+  "mainStatKey": "eleMas",
   "level": 0,
   "substats": [
-    {
-      "key": "eleMas",
-      "value": 23.0
-    },
     {
       "key": "atk",
       "value": 19.0
     },
     {
-      "key": "hp_",
-      "value": 5.3
+      "key": "def",
+      "value": 16.0
     },
     {
-      "key": "enerRech_",
-      "value": 6.5
+      "key": "hp",
+      "value": 269.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.1
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 259
 }

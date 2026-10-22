@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
-      "key": "atk_",
+      "key": "def_",
       "value": 5.8
     },
     {
-      "key": "atk",
+      "key": "eleMas",
       "value": 19.0
     },
     {
-      "key": "critRate_",
-      "value": 2.7
+      "key": "atk",
+      "value": 14.0
     },
     {
-      "key": "def_",
-      "value": 6.6
+      "key": "critDMG_",
+      "value": 5.4
     }
   ],
-  "location": "",
-  "lock": true,
+  "location": "Diona",
+  "lock": false,
   "id": 718
 }

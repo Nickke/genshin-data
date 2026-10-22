@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 23.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 5.4
-    },
-    {
-      "key": "hp_",
+      "key": "atk_",
       "value": 4.7
     },
     {
       "key": "critRate_",
-      "value": 3.5
+      "value": 3.9
+    },
+    {
+      "key": "def_",
+      "value": 6.6
+    },
+    {
+      "key": "atk",
+      "value": 16.0
     }
   ],
-  "location": "",
+  "location": "Xinyan",
   "lock": true,
   "id": 1497
 }

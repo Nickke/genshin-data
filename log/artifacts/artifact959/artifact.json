@@ -1,28 +1,28 @@
 {
   "setKey": "ShimenawasReminiscence",
-  "slotKey": "goblet",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "dendro_dmg_",
+  "mainStatKey": "critRate_",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
+      "key": "hp",
+      "value": 239.0
+    },
+    {
+      "key": "def_",
+      "value": 7.3
+    },
+    {
+      "key": "eleMas",
       "value": 16.0
     },
     {
-      "key": "hp",
-      "value": 209.0
-    },
-    {
       "key": "def",
-      "value": 19.0
-    },
-    {
-      "key": "atk_",
-      "value": 4.1
+      "value": 21.0
     }
   ],
-  "location": "",
+  "location": "Wanderer",
   "lock": true,
   "id": 959
 }

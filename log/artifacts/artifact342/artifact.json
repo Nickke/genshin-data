@@ -2,24 +2,24 @@
   "setKey": "AubadeOfMorningstarAndMoon",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hydro_dmg_",
+  "mainStatKey": "anemo_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 239.0
-    },
-    {
       "key": "eleMas",
-      "value": 21.0
+      "value": 23.0
     },
     {
-      "key": "critDMG_",
-      "value": 5.4
+      "key": "def_",
+      "value": 7.3
     },
     {
-      "key": "hp_",
+      "key": "atk_",
       "value": 4.7
+    },
+    {
+      "key": "hp",
+      "value": 209.0
     }
   ],
   "location": "",

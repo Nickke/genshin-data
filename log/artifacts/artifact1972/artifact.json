@@ -1,13 +1,17 @@
 {
-  "setKey": "PrayersToSpringtime",
-  "slotKey": "circlet",
+  "setKey": "Instructor",
+  "slotKey": "flower",
   "rarity": 4,
-  "mainStatKey": "hp_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
       "key": "",
-      "value": 137.0
+      "value": 1.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 3.6
     }
   ],
   "location": "",

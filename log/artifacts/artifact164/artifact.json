@@ -1,24 +1,28 @@
 {
-  "setKey": "HeartOfTheFurnace",
-  "slotKey": "circlet",
-  "rarity": 4,
-  "mainStatKey": "critDMG_",
-  "level": 0,
+  "setKey": "GladiatorsFinale",
+  "slotKey": "goblet",
+  "rarity": 5,
+  "mainStatKey": "hydro_dmg_",
+  "level": 20,
   "substats": [
     {
-      "key": "heal_",
-      "value": 137.1
+      "key": "def_",
+      "value": 12.4
     },
     {
-      "key": "enerRech_",
-      "value": 4.1
+      "key": "critRate_",
+      "value": 9.3
     },
     {
-      "key": "hp_",
-      "value": 7.9
+      "key": "critDMG_",
+      "value": 7.8
+    },
+    {
+      "key": "atk_",
+      "value": 10.5
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "Yelan",
+  "lock": true,
   "id": 164
 }

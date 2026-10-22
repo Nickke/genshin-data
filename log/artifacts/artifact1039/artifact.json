@@ -1,28 +1,28 @@
 {
-  "setKey": "HeartOfDepth",
-  "slotKey": "circlet",
+  "setKey": "NoblesseOblige",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "critDMG_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "atk_",
-      "value": 4.7
-    },
-    {
       "key": "hp_",
-      "value": 4.7
+      "value": 5.3
     },
     {
-      "key": "atk",
-      "value": 16.0
+      "key": "atk_",
+      "value": 4.1
     },
     {
       "key": "def_",
       "value": 7.3
+    },
+    {
+      "key": "eleMas",
+      "value": 23.0
     }
   ],
-  "location": "Freminet",
+  "location": "Chevreuse",
   "lock": false,
   "id": 1039
 }

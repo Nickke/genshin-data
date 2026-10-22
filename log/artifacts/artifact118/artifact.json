@@ -1,28 +1,28 @@
 {
-  "setKey": "ShimenawasReminiscence",
-  "slotKey": "flower",
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "critRate_",
   "level": 20,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 23.3
+      "key": "hp",
+      "value": 687.0
     },
     {
-      "key": "enerRech_",
-      "value": 11.0
-    },
-    {
-      "key": "hp_",
-      "value": 11.7
+      "key": "def",
+      "value": 37.0
     },
     {
       "key": "eleMas",
-      "value": 19.0
+      "value": 21.0
+    },
+    {
+      "key": "atk_",
+      "value": 14.6
     }
   ],
-  "location": "Dehya",
+  "location": "Xingqiu",
   "lock": false,
   "id": 118
 }

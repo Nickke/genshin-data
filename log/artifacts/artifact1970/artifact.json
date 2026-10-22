@@ -1,25 +1,17 @@
 {
-  "setKey": "BlizzardStrayer",
-  "slotKey": "circlet",
-  "rarity": 5,
-  "mainStatKey": "hp_",
+  "setKey": "TheExile",
+  "slotKey": "plume",
+  "rarity": 4,
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
+      "key": "",
+      "value": 970.0
+    },
+    {
       "key": "def",
-      "value": 19.0
-    },
-    {
-      "key": "critRate_",
-      "value": 2.7
-    },
-    {
-      "key": "hp",
-      "value": 239.0
-    },
-    {
-      "key": "atk",
-      "value": 18.0
+      "value": 15.0
     }
   ],
   "location": "",

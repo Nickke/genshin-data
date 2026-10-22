@@ -1,28 +1,28 @@
 {
-  "setKey": "HeartOfDepth",
-  "slotKey": "circlet",
+  "setKey": "CrimsonWitchOfFlames",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 16.0
-    },
-    {
       "key": "atk",
-      "value": 14.0
+      "value": 18.0
     },
     {
-      "key": "hp",
-      "value": 209.0
+      "key": "atk_",
+      "value": 4.7
     },
     {
       "key": "hp_",
-      "value": 5.8
+      "value": 4.1
+    },
+    {
+      "key": "critDMG_",
+      "value": 5.4
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "Gaming",
+  "lock": true,
   "id": 1044
 }

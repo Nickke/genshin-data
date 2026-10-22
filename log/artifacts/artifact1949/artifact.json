@@ -1,28 +1,28 @@
 {
   "setKey": "BlizzardStrayer",
-  "slotKey": "plume",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 19.0
+      "key": "critDMG_",
+      "value": 7.0
     },
     {
-      "key": "hp_",
-      "value": 4.1
+      "key": "atk",
+      "value": 14.0
     },
     {
-      "key": "atk_",
-      "value": 4.1
+      "key": "hp",
+      "value": 269.0
     },
     {
       "key": "eleMas",
-      "value": 21.0
+      "value": 23.0
     }
   ],
-  "location": "Diona",
+  "location": "Layla",
   "lock": false,
   "id": 1949
 }

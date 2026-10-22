@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
+      "key": "atk_",
+      "value": 5.3
+    },
+    {
+      "key": "def_",
+      "value": 6.6
+    },
+    {
+      "key": "critRate_",
+      "value": 3.9
+    },
+    {
       "key": "eleMas",
       "value": 23.0
-    },
-    {
-      "key": "def",
-      "value": 21.0
-    },
-    {
-      "key": "enerRech_",
-      "value": 5.8
-    },
-    {
-      "key": "critDMG_",
-      "value": 7.8
     }
   ],
-  "location": "",
+  "location": "Zibai",
   "lock": false,
   "id": 399
 }

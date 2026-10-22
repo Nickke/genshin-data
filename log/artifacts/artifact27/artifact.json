@@ -1,28 +1,28 @@
 {
-  "setKey": "ObsidianCodex",
-  "slotKey": "sands",
+  "setKey": "NightOfTheSkysUnveiling",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "critDMG_",
   "level": 20,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 8.9
-    },
-    {
-      "key": "def_",
-      "value": 5.8
-    },
-    {
-      "key": "def",
-      "value": 42.0
+      "key": "eleMas",
+      "value": 37.0
     },
     {
       "key": "atk",
-      "value": 35.0
+      "value": 54.0
+    },
+    {
+      "key": "def",
+      "value": 44.0
+    },
+    {
+      "key": "atk_",
+      "value": 11.7
     }
   ],
-  "location": "Mavuika",
+  "location": "Durin",
   "lock": false,
   "id": 27
 }

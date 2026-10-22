@@ -1,25 +1,25 @@
 {
   "setKey": "ShimenawasReminiscence",
-  "slotKey": "plume",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp",
   "level": 20,
   "substats": [
     {
-      "key": "hp",
-      "value": 986.0
+      "key": "critDMG_",
+      "value": 11.7
+    },
+    {
+      "key": "def",
+      "value": 58.0
     },
     {
       "key": "hp_",
       "value": 4.1
     },
     {
-      "key": "critDMG_",
-      "value": 5.4
-    },
-    {
-      "key": "def",
-      "value": 37.0
+      "key": "critRate_",
+      "value": 6.6
     }
   ],
   "location": "Yoimiya",

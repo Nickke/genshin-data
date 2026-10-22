@@ -2,27 +2,27 @@
   "setKey": "WanderersTroupe",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "critRate_",
+  "mainStatKey": "critDMG_",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 4.5
+      "key": "hp",
+      "value": 269.0
     },
     {
       "key": "def_",
-      "value": 7.3
+      "value": 6.6
     },
     {
-      "key": "hp_",
-      "value": 4.7
+      "key": "eleMas",
+      "value": 16.0
     },
     {
-      "key": "critDMG_",
-      "value": 5.4
+      "key": "enerRech_",
+      "value": 5.2
     }
   ],
-  "location": "KujouSara",
+  "location": "Zibai",
   "lock": true,
   "id": 1375
 }

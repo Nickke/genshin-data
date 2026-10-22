@@ -1,28 +1,28 @@
 {
-  "setKey": "EmblemOfSeveredFate",
-  "slotKey": "circlet",
+  "setKey": "ShimenawasReminiscence",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 21.0
+      "key": "enerRech_",
+      "value": 6.5
+    },
+    {
+      "key": "atk_",
+      "value": 4.7
     },
     {
       "key": "def",
       "value": 16.0
     },
     {
-      "key": "critRate_",
-      "value": 3.5
-    },
-    {
-      "key": "def_",
-      "value": 5.8
+      "key": "eleMas",
+      "value": 23.0
     }
   ],
-  "location": "Faruzan",
+  "location": "",
   "lock": false,
   "id": 854
 }

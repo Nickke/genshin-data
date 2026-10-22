@@ -1,28 +1,28 @@
 {
   "setKey": "ShimenawasReminiscence",
-  "slotKey": "sands",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "geo_dmg_",
   "level": 0,
   "substats": [
     {
+      "key": "critDMG_",
+      "value": 5.4
+    },
+    {
       "key": "def",
-      "value": 19.0
+      "value": 23.0
     },
     {
-      "key": "hp_",
-      "value": 4.7
+      "key": "hp",
+      "value": 209.0
     },
     {
-      "key": "atk_",
-      "value": 5.8
-    },
-    {
-      "key": "enerRech_",
-      "value": 5.8
+      "key": "critRate_",
+      "value": 3.5
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "Ningguang",
+  "lock": true,
   "id": 942
 }

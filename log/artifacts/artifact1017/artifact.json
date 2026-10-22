@@ -1,8 +1,8 @@
 {
   "setKey": "HeartOfDepth",
-  "slotKey": "sands",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "physical_dmg_",
   "level": 0,
   "substats": [
     {
@@ -10,12 +10,12 @@
       "value": 2.7
     },
     {
-      "key": "hp",
-      "value": 209.0
+      "key": "def",
+      "value": 21.0
     },
     {
-      "key": "def",
-      "value": 23.0
+      "key": "hp_",
+      "value": 4.1
     },
     {
       "key": "critDMG_",

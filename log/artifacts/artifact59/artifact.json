@@ -1,28 +1,28 @@
 {
-  "setKey": "GildedDreams",
-  "slotKey": "plume",
+  "setKey": "MarechausseeHunter",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "critDMG_",
   "level": 20,
   "substats": [
     {
+      "key": "atk",
+      "value": 29.0
+    },
+    {
       "key": "def",
-      "value": 60.0
+      "value": 19.0
+    },
+    {
+      "key": "critRate_",
+      "value": 13.6
     },
     {
       "key": "hp",
-      "value": 448.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 12.4
-    },
-    {
-      "key": "atk_",
-      "value": 11.1
+      "value": 239.0
     }
   ],
-  "location": "Cyno",
-  "lock": true,
+  "location": "Skirk",
+  "lock": false,
   "id": 59
 }

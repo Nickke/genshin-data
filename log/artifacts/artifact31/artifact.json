@@ -1,28 +1,28 @@
 {
-  "setKey": "ScrollOfTheHeroOfCinderCity",
-  "slotKey": "sands",
+  "setKey": "ObsidianCodex",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hp",
   "level": 20,
   "substats": [
     {
+      "key": "enerRech_",
+      "value": 13.0
+    },
+    {
+      "key": "atk",
+      "value": 35.0
+    },
+    {
       "key": "critDMG_",
-      "value": 27.2
+      "value": 14.0
     },
     {
-      "key": "eleMas",
-      "value": 23.0
-    },
-    {
-      "key": "critRate_",
-      "value": 7.4
-    },
-    {
-      "key": "def_",
-      "value": 5.8
+      "key": "hp_",
+      "value": 9.9
     }
   ],
-  "location": "Odette",
-  "lock": true,
+  "location": "Mavuika",
+  "lock": false,
   "id": 31
 }

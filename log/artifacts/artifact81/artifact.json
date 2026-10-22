@@ -1,28 +1,28 @@
 {
-  "setKey": "VermillionHereafter",
-  "slotKey": "sands",
+  "setKey": "DeepwoodMemories",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hp",
   "level": 20,
   "substats": [
     {
-      "key": "hp_",
-      "value": 9.3
-    },
-    {
       "key": "atk",
-      "value": 31.0
+      "value": 33.0
     },
     {
-      "key": "hp",
-      "value": 508.0
+      "key": "atk_",
+      "value": 12.8
     },
     {
-      "key": "def",
-      "value": 37.0
+      "key": "eleMas",
+      "value": 47.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 15.5
     }
   ],
-  "location": "Xiao",
-  "lock": false,
+  "location": "",
+  "lock": true,
   "id": 81
 }

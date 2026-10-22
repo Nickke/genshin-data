@@ -1,28 +1,28 @@
 {
   "setKey": "ShimenawasReminiscence",
-  "slotKey": "circlet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hp_",
   "level": 20,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 6.2
+      "key": "hp",
+      "value": 299.0
     },
     {
-      "key": "enerRech_",
-      "value": 11.0
+      "key": "atk_",
+      "value": 19.2
     },
     {
-      "key": "critDMG_",
-      "value": 11.7
+      "key": "atk",
+      "value": 29.0
     },
     {
-      "key": "def",
-      "value": 56.0
+      "key": "eleMas",
+      "value": 35.0
     }
   ],
-  "location": "",
+  "location": "Zhongli",
   "lock": true,
   "id": 133
 }

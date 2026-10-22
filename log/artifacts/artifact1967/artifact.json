@@ -1,28 +1,16 @@
 {
-  "setKey": "BlizzardStrayer",
-  "slotKey": "goblet",
-  "rarity": 5,
-  "mainStatKey": "atk_",
+  "setKey": "ScrollOfTheHeroOfCinderCity",
+  "slotKey": "circlet",
+  "rarity": 4,
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
-      "value": 4.1
-    },
-    {
-      "key": "hp",
-      "value": 269.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 5.4
-    },
-    {
-      "key": "def",
-      "value": 21.0
+      "key": "",
+      "value": 137.0
     }
   ],
-  "location": "",
+  "location": "Kachina",
   "lock": false,
   "id": 1967
 }

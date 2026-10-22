@@ -2,27 +2,27 @@
   "setKey": "EmblemOfSeveredFate",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "enerRech_",
   "level": 20,
   "substats": [
     {
+      "key": "hp_",
+      "value": 4.1
+    },
+    {
       "key": "critRate_",
-      "value": 8.6
+      "value": 7.4
     },
     {
-      "key": "enerRech_",
-      "value": 13.0
-    },
-    {
-      "key": "def_",
-      "value": 12.4
+      "key": "critDMG_",
+      "value": 21.8
     },
     {
       "key": "atk_",
-      "value": 4.7
+      "value": 13.4
     }
   ],
-  "location": "Nahida",
-  "lock": false,
+  "location": "Durin",
+  "lock": true,
   "id": 103
 }

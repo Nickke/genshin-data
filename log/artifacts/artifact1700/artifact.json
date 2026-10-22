@@ -1,28 +1,28 @@
 {
   "setKey": "GladiatorsFinale",
-  "slotKey": "sands",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "geo_dmg_",
   "level": 0,
   "substats": [
     {
+      "key": "hp_",
+      "value": 5.3
+    },
+    {
+      "key": "atk_",
+      "value": 5.3
+    },
+    {
       "key": "def",
-      "value": 16.0
+      "value": 21.0
     },
     {
-      "key": "hp",
-      "value": 209.0
-    },
-    {
-      "key": "eleMas",
-      "value": 16.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 7.8
+      "key": "def_",
+      "value": 7.3
     }
   ],
-  "location": "Chongyun",
-  "lock": false,
+  "location": "",
+  "lock": true,
   "id": 1700
 }

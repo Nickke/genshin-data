@@ -1,25 +1,25 @@
 {
-  "setKey": "LongNightsOath",
-  "slotKey": "flower",
+  "setKey": "FinaleOfTheDeepGalleries",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "eleMas",
   "level": 0,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 3.5
+      "key": "hp",
+      "value": 269.0
     },
     {
-      "key": "hp_",
-      "value": 4.1
+      "key": "def_",
+      "value": 7.3
     },
     {
       "key": "atk_",
-      "value": 4.1
+      "value": 4.7
     },
     {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "enerRech_",
+      "value": 5.2
     }
   ],
   "location": "",

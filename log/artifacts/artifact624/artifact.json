@@ -1,21 +1,21 @@
 {
-  "setKey": "VourukashasGlow",
-  "slotKey": "plume",
+  "setKey": "MarechausseeHunter",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 239.0
+      "key": "atk",
+      "value": 14.0
     },
     {
-      "key": "eleMas",
-      "value": 16.0
+      "key": "def_",
+      "value": 5.1
     },
     {
-      "key": "hp_",
-      "value": 4.7
+      "key": "critRate_",
+      "value": 3.5
     },
     {
       "key": "enerRech_",

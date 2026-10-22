@@ -1,28 +1,28 @@
 {
   "setKey": "EmblemOfSeveredFate",
-  "slotKey": "circlet",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "critDMG_",
+  "mainStatKey": "electro_dmg_",
   "level": 20,
   "substats": [
     {
       "key": "atk",
-      "value": 19.0
+      "value": 35.0
     },
     {
-      "key": "critRate_",
-      "value": 7.8
+      "key": "eleMas",
+      "value": 40.0
     },
     {
-      "key": "hp_",
+      "key": "hp",
+      "value": 209.0
+    },
+    {
+      "key": "critDMG_",
       "value": 21.0
-    },
-    {
-      "key": "def_",
-      "value": 5.8
     }
   ],
-  "location": "Neuvillette",
+  "location": "RaidenShogun",
   "lock": true,
   "id": 114
 }

@@ -1,28 +1,28 @@
 {
-  "setKey": "ShimenawasReminiscence",
-  "slotKey": "plume",
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "critDMG_",
   "level": 20,
   "substats": [
     {
-      "key": "def",
-      "value": 58.0
+      "key": "hp",
+      "value": 209.0
     },
     {
-      "key": "enerRech_",
-      "value": 14.9
+      "key": "eleMas",
+      "value": 16.0
     },
     {
-      "key": "critDMG_",
-      "value": 6.2
+      "key": "hp_",
+      "value": 15.2
     },
     {
-      "key": "atk_",
-      "value": 9.9
+      "key": "atk",
+      "value": 45.0
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "Yelan",
+  "lock": true,
   "id": 119
 }

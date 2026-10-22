@@ -1,25 +1,25 @@
 {
   "setKey": "EmblemOfSeveredFate",
-  "slotKey": "goblet",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "critDMG_",
   "level": 0,
   "substats": [
     {
+      "key": "hp",
+      "value": 269.0
+    },
+    {
       "key": "def_",
-      "value": 5.1
-    },
-    {
-      "key": "atk",
-      "value": 16.0
-    },
-    {
-      "key": "eleMas",
-      "value": 23.0
+      "value": 6.6
     },
     {
       "key": "def",
-      "value": 16.0
+      "value": 21.0
+    },
+    {
+      "key": "atk",
+      "value": 19.0
     }
   ],
   "location": "",

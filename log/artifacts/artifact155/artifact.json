@@ -1,28 +1,28 @@
 {
-  "setKey": "GladiatorsFinale",
+  "setKey": "ViridescentVenerer",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "pyro_dmg_",
+  "mainStatKey": "eleMas",
   "level": 20,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 44.0
+      "key": "atk_",
+      "value": 8.7
     },
     {
-      "key": "critRate_",
-      "value": 3.9
+      "key": "atk",
+      "value": 31.0
     },
     {
-      "key": "critDMG_",
-      "value": 13.2
+      "key": "hp_",
+      "value": 16.9
     },
     {
       "key": "hp",
-      "value": 747.0
+      "value": 418.0
     }
   ],
-  "location": "Arlecchino",
-  "lock": true,
+  "location": "Sucrose",
+  "lock": false,
   "id": 155
 }

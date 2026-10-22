@@ -1,28 +1,28 @@
 {
   "setKey": "GoldenTroupe",
-  "slotKey": "circlet",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "critDMG_",
+  "mainStatKey": "atk",
   "level": 20,
   "substats": [
     {
-      "key": "atk",
-      "value": 19.0
-    },
-    {
-      "key": "eleMas",
-      "value": 42.0
-    },
-    {
       "key": "enerRech_",
-      "value": 17.5
+      "value": 4.5
+    },
+    {
+      "key": "def_",
+      "value": 28.4
+    },
+    {
+      "key": "hp",
+      "value": 239.0
     },
     {
       "key": "atk_",
-      "value": 10.5
+      "value": 4.7
     }
   ],
   "location": "Furina",
-  "lock": true,
+  "lock": false,
   "id": 46
 }

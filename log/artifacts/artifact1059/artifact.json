@@ -1,10 +1,14 @@
 {
-  "setKey": "CrimsonWitchOfFlames",
+  "setKey": "WanderersTroupe",
   "slotKey": "flower",
   "rarity": 5,
   "mainStatKey": "hp",
   "level": 0,
   "substats": [
+    {
+      "key": "def",
+      "value": 23.0
+    },
     {
       "key": "atk",
       "value": 18.0
@@ -14,15 +18,11 @@
       "value": 4.7
     },
     {
-      "key": "hp_",
-      "value": 4.1
-    },
-    {
-      "key": "critDMG_",
-      "value": 5.4
+      "key": "eleMas",
+      "value": 21.0
     }
   ],
-  "location": "Gaming",
+  "location": "",
   "lock": true,
   "id": 1059
 }

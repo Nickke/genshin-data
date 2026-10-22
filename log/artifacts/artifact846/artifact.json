@@ -1,28 +1,28 @@
 {
-  "setKey": "EmblemOfSeveredFate",
-  "slotKey": "circlet",
+  "setKey": "ShimenawasReminiscence",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 5.4
-    },
-    {
-      "key": "def_",
-      "value": 5.8
-    },
-    {
       "key": "enerRech_",
-      "value": 6.5
+      "value": 4.5
     },
     {
       "key": "def",
-      "value": 23.0
+      "value": 16.0
+    },
+    {
+      "key": "atk_",
+      "value": 4.7
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 846
 }

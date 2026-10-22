@@ -1,28 +1,28 @@
 {
-  "setKey": "GildedDreams",
-  "slotKey": "flower",
+  "setKey": "MarechausseeHunter",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "atk",
   "level": 20,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 13.2
+      "key": "atk_",
+      "value": 14.0
     },
     {
-      "key": "def_",
-      "value": 11.7
+      "key": "critDMG_",
+      "value": 14.0
     },
     {
       "key": "def",
-      "value": 23.0
+      "value": 63.0
     },
     {
-      "key": "hp_",
-      "value": 14.6
+      "key": "eleMas",
+      "value": 19.0
     }
   ],
-  "location": "Cyno",
+  "location": "Wriothesley",
   "lock": false,
   "id": 56
 }

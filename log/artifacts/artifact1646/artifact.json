@@ -1,28 +1,28 @@
 {
   "setKey": "GladiatorsFinale",
-  "slotKey": "plume",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 19.0
+      "key": "enerRech_",
+      "value": 5.8
+    },
+    {
+      "key": "critDMG_",
+      "value": 7.8
+    },
+    {
+      "key": "critRate_",
+      "value": 3.9
     },
     {
       "key": "hp_",
-      "value": 4.7
-    },
-    {
-      "key": "def",
-      "value": 19.0
-    },
-    {
-      "key": "def_",
       "value": 5.8
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "Noelle",
+  "lock": true,
   "id": 1646
 }

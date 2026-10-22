@@ -1,28 +1,28 @@
 {
   "setKey": "EchoesOfAnOffering",
-  "slotKey": "sands",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "hydro_dmg_",
   "level": 0,
   "substats": [
     {
+      "key": "critDMG_",
+      "value": 7.0
+    },
+    {
+      "key": "eleMas",
+      "value": 23.0
+    },
+    {
       "key": "hp",
-      "value": 269.0
+      "value": 239.0
     },
     {
-      "key": "enerRech_",
-      "value": 4.5
-    },
-    {
-      "key": "def",
-      "value": 16.0
-    },
-    {
-      "key": "hp_",
-      "value": 4.1
+      "key": "def_",
+      "value": 6.6
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 688
 }

@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 6.2
-    },
-    {
-      "key": "atk_",
-      "value": 4.1
-    },
-    {
-      "key": "def",
-      "value": 19.0
+      "key": "hp",
+      "value": 299.0
     },
     {
       "key": "def_",
-      "value": 5.1
+      "value": 5.8
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.2
+    },
+    {
+      "key": "critRate_",
+      "value": 3.5
     }
   ],
-  "location": "Kaeya",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 1942
 }

@@ -1,28 +1,28 @@
 {
   "setKey": "GladiatorsFinale",
-  "slotKey": "circlet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "critRate_",
+  "mainStatKey": "atk_",
   "level": 20,
   "substats": [
     {
-      "key": "def",
-      "value": 35.0
-    },
-    {
-      "key": "atk_",
-      "value": 4.7
-    },
-    {
       "key": "hp",
-      "value": 926.0
+      "value": 478.0
+    },
+    {
+      "key": "hp_",
+      "value": 9.3
     },
     {
       "key": "critDMG_",
-      "value": 14.0
+      "value": 7.8
+    },
+    {
+      "key": "def",
+      "value": 58.0
     }
   ],
-  "location": "RaidenShogun",
+  "location": "",
   "lock": false,
   "id": 159
 }

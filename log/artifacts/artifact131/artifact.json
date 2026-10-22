@@ -1,28 +1,28 @@
 {
   "setKey": "ShimenawasReminiscence",
-  "slotKey": "circlet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "critDMG_",
+  "mainStatKey": "atk_",
   "level": 20,
   "substats": [
     {
-      "key": "def",
-      "value": 35.0
+      "key": "critRate_",
+      "value": 3.5
+    },
+    {
+      "key": "critDMG_",
+      "value": 21.8
+    },
+    {
+      "key": "atk",
+      "value": 33.0
     },
     {
       "key": "enerRech_",
-      "value": 12.3
-    },
-    {
-      "key": "hp",
-      "value": 956.0
-    },
-    {
-      "key": "atk_",
-      "value": 5.3
+      "value": 16.8
     }
   ],
-  "location": "Nefer",
-  "lock": true,
+  "location": "Wriothesley",
+  "lock": false,
   "id": 131
 }

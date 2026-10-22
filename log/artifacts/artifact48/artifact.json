@@ -1,28 +1,28 @@
 {
-  "setKey": "MarechausseeHunter",
-  "slotKey": "flower",
+  "setKey": "GoldenTroupe",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "enerRech_",
   "level": 20,
   "substats": [
     {
-      "key": "hp_",
-      "value": 9.3
-    },
-    {
-      "key": "eleMas",
-      "value": 42.0
-    },
-    {
-      "key": "def_",
-      "value": 17.5
-    },
-    {
       "key": "def",
-      "value": 16.0
+      "value": 21.0
+    },
+    {
+      "key": "atk_",
+      "value": 16.3
+    },
+    {
+      "key": "atk",
+      "value": 33.0
+    },
+    {
+      "key": "hp_",
+      "value": 10.5
     }
   ],
-  "location": "Wriothesley",
-  "lock": false,
+  "location": "",
+  "lock": true,
   "id": 48
 }

@@ -1,21 +1,21 @@
 {
-  "setKey": "GladiatorsFinale",
-  "slotKey": "circlet",
+  "setKey": "MaidenBeloved",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
       "key": "atk",
-      "value": 18.0
-    },
-    {
-      "key": "enerRech_",
-      "value": 5.2
+      "value": 16.0
     },
     {
       "key": "eleMas",
-      "value": 19.0
+      "value": 16.0
+    },
+    {
+      "key": "hp_",
+      "value": 4.7
     },
     {
       "key": "def_",

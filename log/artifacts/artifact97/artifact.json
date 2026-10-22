@@ -1,28 +1,24 @@
 {
   "setKey": "EmblemOfSeveredFate",
-  "slotKey": "sands",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "atk",
   "level": 20,
   "substats": [
     {
-      "key": "def_",
-      "value": 24.1
+      "key": "critRate_",
+      "value": 18.3
     },
     {
       "key": "critDMG_",
-      "value": 7.0
+      "value": 5.4
     },
     {
-      "key": "critRate_",
-      "value": 7.4
-    },
-    {
-      "key": "atk",
-      "value": 16.0
+      "key": "def",
+      "value": 42.0
     }
   ],
-  "location": "",
-  "lock": true,
+  "location": "Xingqiu",
+  "lock": false,
   "id": 97
 }

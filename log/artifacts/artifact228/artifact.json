@@ -1,25 +1,25 @@
 {
   "setKey": "ScarletProof",
-  "slotKey": "plume",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
-      "value": 5.3
-    },
-    {
       "key": "enerRech_",
-      "value": 5.2
+      "value": 6.5
     },
     {
       "key": "def",
       "value": 19.0
     },
     {
-      "key": "def_",
-      "value": 6.6
+      "key": "eleMas",
+      "value": 19.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 7.8
     }
   ],
   "location": "",

@@ -1,28 +1,28 @@
 {
   "setKey": "EmblemOfSeveredFate",
-  "slotKey": "plume",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp",
   "level": 20,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 6.6
+      "key": "atk",
+      "value": 51.0
     },
     {
-      "key": "enerRech_",
-      "value": 10.4
+      "key": "hp_",
+      "value": 4.7
     },
     {
-      "key": "eleMas",
-      "value": 56.0
+      "key": "critDMG_",
+      "value": 16.3
     },
     {
       "key": "def",
-      "value": 39.0
+      "value": 44.0
     }
   ],
-  "location": "Traveler",
-  "lock": true,
+  "location": "Yelan",
+  "lock": false,
   "id": 93
 }

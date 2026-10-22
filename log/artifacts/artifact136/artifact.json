@@ -1,28 +1,28 @@
 {
-  "setKey": "NoblesseOblige",
-  "slotKey": "flower",
+  "setKey": "ShimenawasReminiscence",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "dendro_dmg_",
   "level": 20,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 11.0
+      "key": "hp",
+      "value": 239.0
     },
     {
-      "key": "hp_",
-      "value": 14.0
+      "key": "def",
+      "value": 21.0
     },
     {
-      "key": "def_",
-      "value": 12.4
+      "key": "eleMas",
+      "value": 70.0
     },
     {
       "key": "atk",
-      "value": 19.0
+      "value": 33.0
     }
   ],
-  "location": "Bennett",
+  "location": "Tighnari",
   "lock": false,
   "id": 136
 }

@@ -1,28 +1,28 @@
 {
-  "setKey": "NoblesseOblige",
-  "slotKey": "plume",
+  "setKey": "WanderersTroupe",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
-      "value": 5.3
-    },
-    {
-      "key": "atk_",
-      "value": 4.1
-    },
-    {
-      "key": "def_",
-      "value": 7.3
+      "key": "critDMG_",
+      "value": 5.4
     },
     {
       "key": "eleMas",
       "value": 23.0
+    },
+    {
+      "key": "def",
+      "value": 21.0
+    },
+    {
+      "key": "atk_",
+      "value": 4.1
     }
   ],
-  "location": "Chevreuse",
-  "lock": false,
+  "location": "",
+  "lock": true,
   "id": 1054
 }

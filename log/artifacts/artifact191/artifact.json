@@ -1,25 +1,25 @@
 {
-  "setKey": "HeartOfTheFurnace",
-  "slotKey": "flower",
+  "setKey": "GladiatorsFinale",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "hp",
-  "level": 0,
+  "mainStatKey": "atk",
+  "level": 8,
   "substats": [
     {
-      "key": "hp_",
-      "value": 4.1
+      "key": "critRate_",
+      "value": 6.2
+    },
+    {
+      "key": "atk_",
+      "value": 5.8
     },
     {
       "key": "def_",
-      "value": 6.6
+      "value": 5.8
     },
     {
-      "key": "def",
-      "value": 23.0
-    },
-    {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "critDMG_",
+      "value": 13.2
     }
   ],
   "location": "",

@@ -2,24 +2,24 @@
   "setKey": "ScarletProof",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 16.0
-    },
-    {
-      "key": "def_",
-      "value": 7.3
-    },
-    {
-      "key": "eleMas",
+      "key": "def",
       "value": 23.0
     },
     {
-      "key": "def",
-      "value": 21.0
+      "key": "atk",
+      "value": 19.0
+    },
+    {
+      "key": "hp",
+      "value": 209.0
+    },
+    {
+      "key": "hp_",
+      "value": 5.3
     }
   ],
   "location": "",

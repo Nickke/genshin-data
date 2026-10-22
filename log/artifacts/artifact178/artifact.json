@@ -1,24 +1,24 @@
 {
-  "setKey": "NoblesseOblige",
-  "slotKey": "circlet",
+  "setKey": "CrimsonWitchOfFlames",
+  "slotKey": "plume",
   "rarity": 4,
-  "mainStatKey": "hp_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
       "key": "",
-      "value": 4170.0
+      "value": 117970.0
+    },
+    {
+      "key": "atk_",
+      "value": 3.7
     },
     {
       "key": "enerRech_",
-      "value": 5.2
-    },
-    {
-      "key": "def",
-      "value": 13.0
+      "value": 4.7
     }
   ],
-  "location": "",
+  "location": "Gaming",
   "lock": false,
   "id": 178
 }

@@ -2,27 +2,27 @@
   "setKey": "ObsidianCodex",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "pyro_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
+      "key": "hp",
+      "value": 299.0
+    },
+    {
+      "key": "atk_",
       "value": 5.8
     },
     {
       "key": "def_",
-      "value": 5.1
+      "value": 5.8
     },
     {
-      "key": "hp",
-      "value": 269.0
-    },
-    {
-      "key": "critRate_",
-      "value": 3.1
+      "key": "def",
+      "value": 21.0
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 491
 }

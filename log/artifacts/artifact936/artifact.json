@@ -1,28 +1,28 @@
 {
   "setKey": "ShimenawasReminiscence",
-  "slotKey": "sands",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "cryo_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 5.2
-    },
-    {
-      "key": "def_",
-      "value": 6.6
-    },
-    {
       "key": "atk",
-      "value": 14.0
+      "value": 16.0
     },
     {
       "key": "hp",
-      "value": 299.0
+      "value": 269.0
+    },
+    {
+      "key": "def",
+      "value": 16.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 5.4
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 936
 }

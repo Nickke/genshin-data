@@ -1,28 +1,28 @@
 {
-  "setKey": "VermillionHereafter",
-  "slotKey": "goblet",
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 3.1
-    },
-    {
-      "key": "critDMG_",
-      "value": 7.0
-    },
-    {
-      "key": "hp",
-      "value": 209.0
+      "key": "atk_",
+      "value": 4.7
     },
     {
       "key": "def",
-      "value": 21.0
+      "value": 19.0
+    },
+    {
+      "key": "def_",
+      "value": 7.3
+    },
+    {
+      "key": "enerRech_",
+      "value": 6.5
     }
   ],
-  "location": "",
+  "location": "KujouSara",
   "lock": true,
   "id": 704
 }

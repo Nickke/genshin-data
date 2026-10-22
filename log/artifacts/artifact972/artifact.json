@@ -2,27 +2,27 @@
   "setKey": "ShimenawasReminiscence",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "critRate_",
+  "mainStatKey": "heal_",
   "level": 0,
   "substats": [
     {
-      "key": "atk_",
-      "value": 5.8
-    },
-    {
       "key": "hp_",
-      "value": 4.1
+      "value": 5.3
     },
     {
-      "key": "atk",
-      "value": 14.0
+      "key": "hp",
+      "value": 269.0
     },
     {
-      "key": "critDMG_",
-      "value": 7.8
+      "key": "eleMas",
+      "value": 19.0
+    },
+    {
+      "key": "critRate_",
+      "value": 2.7
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 972
 }

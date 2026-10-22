@@ -1,28 +1,28 @@
 {
-  "setKey": "ViridescentVenerer",
-  "slotKey": "goblet",
+  "setKey": "WanderersTroupe",
+  "slotKey": "sands",
   "rarity": 5,
   "mainStatKey": "eleMas",
   "level": 20,
   "substats": [
     {
-      "key": "atk_",
-      "value": 8.7
-    },
-    {
-      "key": "atk",
-      "value": 31.0
+      "key": "critRate_",
+      "value": 18.3
     },
     {
       "key": "hp_",
-      "value": 16.9
+      "value": 11.7
     },
     {
-      "key": "hp",
-      "value": 418.0
+      "key": "atk",
+      "value": 14.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 7.0
     }
   ],
-  "location": "Sucrose",
-  "lock": false,
+  "location": "Nefer",
+  "lock": true,
   "id": 148
 }

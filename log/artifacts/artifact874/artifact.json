@@ -1,28 +1,28 @@
 {
   "setKey": "ShimenawasReminiscence",
-  "slotKey": "flower",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 6.5
+      "key": "def_",
+      "value": 5.1
     },
     {
-      "key": "atk",
-      "value": 16.0
+      "key": "hp_",
+      "value": 4.1
     },
     {
-      "key": "critRate_",
-      "value": 2.7
+      "key": "critDMG_",
+      "value": 7.8
     },
     {
-      "key": "eleMas",
-      "value": 16.0
+      "key": "hp",
+      "value": 269.0
     }
   ],
-  "location": "Lynette",
+  "location": "",
   "lock": false,
   "id": 874
 }

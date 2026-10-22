@@ -1,25 +1,25 @@
 {
   "setKey": "ADayCarvedFromRisingWinds",
-  "slotKey": "circlet",
+  "slotKey": "goblet",
   "rarity": 5,
   "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "def_",
-      "value": 5.8
+      "key": "hp",
+      "value": 239.0
     },
     {
       "key": "hp_",
-      "value": 4.7
+      "value": 5.8
     },
     {
-      "key": "atk",
-      "value": 18.0
+      "key": "def",
+      "value": 19.0
     },
     {
-      "key": "hp",
-      "value": 239.0
+      "key": "enerRech_",
+      "value": 5.8
     }
   ],
   "location": "",

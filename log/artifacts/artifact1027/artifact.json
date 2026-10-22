@@ -1,28 +1,28 @@
 {
   "setKey": "HeartOfDepth",
-  "slotKey": "sands",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "critRate_",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 239.0
+      "key": "atk",
+      "value": 14.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 6.5
+    },
+    {
+      "key": "def",
+      "value": 23.0
     },
     {
       "key": "hp_",
-      "value": 5.8
-    },
-    {
-      "key": "critRate_",
-      "value": 2.7
-    },
-    {
-      "key": "eleMas",
-      "value": 16.0
+      "value": 4.1
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "Rosaria",
+  "lock": true,
   "id": 1027
 }

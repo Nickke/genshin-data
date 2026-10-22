@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
-      "key": "def",
+      "key": "atk",
       "value": 19.0
     },
     {
-      "key": "eleMas",
-      "value": 21.0
+      "key": "critRate_",
+      "value": 3.9
     },
     {
-      "key": "critDMG_",
-      "value": 6.2
+      "key": "enerRech_",
+      "value": 5.8
     },
     {
-      "key": "atk",
-      "value": 14.0
+      "key": "def",
+      "value": 19.0
     }
   ],
-  "location": "",
+  "location": "Thoma",
   "lock": false,
   "id": 1825
 }

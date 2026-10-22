@@ -1,28 +1,28 @@
 {
-  "setKey": "DeepwoodMemories",
-  "slotKey": "flower",
+  "setKey": "GildedDreams",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "eleMas",
   "level": 20,
   "substats": [
     {
-      "key": "atk",
-      "value": 33.0
-    },
-    {
-      "key": "atk_",
-      "value": 12.8
-    },
-    {
-      "key": "eleMas",
-      "value": 47.0
-    },
-    {
       "key": "critDMG_",
-      "value": 15.5
+      "value": 7.0
+    },
+    {
+      "key": "atk",
+      "value": 54.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 12.3
+    },
+    {
+      "key": "def_",
+      "value": 12.4
     }
   ],
-  "location": "",
-  "lock": true,
+  "location": "KukiShinobu",
+  "lock": false,
   "id": 74
 }

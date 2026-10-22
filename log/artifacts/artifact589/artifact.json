@@ -2,23 +2,23 @@
   "setKey": "GoldenTroupe",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
-    {
-      "key": "enerRech_",
-      "value": 5.2
-    },
     {
       "key": "def",
       "value": 19.0
     },
     {
-      "key": "atk",
-      "value": 16.0
+      "key": "hp",
+      "value": 299.0
     },
     {
-      "key": "atk_",
+      "key": "eleMas",
+      "value": 19.0
+    },
+    {
+      "key": "def_",
       "value": 5.8
     }
   ],

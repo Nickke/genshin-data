@@ -1,25 +1,21 @@
 {
-  "setKey": "EmblemOfSeveredFate",
-  "slotKey": "circlet",
-  "rarity": 5,
-  "mainStatKey": "hp_",
-  "level": 8,
+  "setKey": "Berserker",
+  "slotKey": "goblet",
+  "rarity": 4,
+  "mainStatKey": "atk_",
+  "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 19.0
-    },
-    {
-      "key": "atk",
-      "value": 16.0
-    },
-    {
       "key": "enerRech_",
-      "value": 5.2
+      "value": 41.7
     },
     {
-      "key": "def",
-      "value": 42.0
+      "key": "critRate_",
+      "value": 4.7
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
     }
   ],
   "location": "",

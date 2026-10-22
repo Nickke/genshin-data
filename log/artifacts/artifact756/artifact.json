@@ -1,28 +1,28 @@
 {
   "setKey": "EmblemOfSeveredFate",
-  "slotKey": "plume",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
       "key": "def",
-      "value": 23.0
+      "value": 16.0
     },
     {
-      "key": "eleMas",
-      "value": 19.0
+      "key": "hp",
+      "value": 209.0
     },
     {
       "key": "hp_",
-      "value": 5.3
+      "value": 4.7
     },
     {
-      "key": "atk_",
-      "value": 4.7
+      "key": "enerRech_",
+      "value": 5.8
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "Beidou",
+  "lock": true,
   "id": 756
 }

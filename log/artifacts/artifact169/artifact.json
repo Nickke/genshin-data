@@ -1,24 +1,24 @@
 {
-  "setKey": "ObsidianCodex",
-  "slotKey": "circlet",
-  "rarity": 4,
-  "mainStatKey": "critDMG_",
-  "level": 0,
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 20,
   "substats": [
     {
-      "key": "",
-      "value": 14.0
+      "key": "critRate_",
+      "value": 6.2
     },
     {
-      "key": "hp",
-      "value": 191.0
+      "key": "critDMG_",
+      "value": 7.8
     },
     {
-      "key": "hp_",
-      "value": 7.5
+      "key": "enerRech_",
+      "value": 10.4
     }
   ],
-  "location": "",
+  "location": "Xingqiu",
   "lock": false,
   "id": 169
 }

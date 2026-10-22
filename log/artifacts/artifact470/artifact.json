@@ -7,19 +7,19 @@
   "substats": [
     {
       "key": "hp_",
-      "value": 5.3
+      "value": 4.1
     },
     {
-      "key": "eleMas",
-      "value": 16.0
-    },
-    {
-      "key": "def",
-      "value": 23.0
+      "key": "atk_",
+      "value": 5.8
     },
     {
       "key": "hp",
-      "value": 299.0
+      "value": 239.0
+    },
+    {
+      "key": "critRate_",
+      "value": 3.1
     }
   ],
   "location": "",

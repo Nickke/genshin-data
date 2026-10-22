@@ -1,28 +1,28 @@
 {
-  "setKey": "DesertPavilionChronicle",
-  "slotKey": "flower",
+  "setKey": "FlowerOfParadiseLost",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
+    {
+      "key": "critRate_",
+      "value": 3.9
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.8
+    },
     {
       "key": "critDMG_",
       "value": 5.4
     },
     {
-      "key": "atk",
-      "value": 16.0
-    },
-    {
-      "key": "atk_",
-      "value": 4.7
-    },
-    {
-      "key": "hp_",
-      "value": 5.8
+      "key": "hp",
+      "value": 269.0
     }
   ],
-  "location": "",
+  "location": "YunJin",
   "lock": true,
   "id": 628
 }

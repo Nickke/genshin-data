@@ -1,28 +1,28 @@
 {
-  "setKey": "CrimsonWitchOfFlames",
+  "setKey": "WanderersTroupe",
   "slotKey": "flower",
   "rarity": 5,
   "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "atk_",
-      "value": 5.3
+      "key": "critRate_",
+      "value": 3.9
     },
     {
-      "key": "def",
-      "value": 23.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 6.2
+      "key": "hp_",
+      "value": 4.1
     },
     {
       "key": "atk",
       "value": 19.0
+    },
+    {
+      "key": "eleMas",
+      "value": 23.0
     }
   ],
-  "location": "",
+  "location": "Tighnari",
   "lock": true,
   "id": 1060
 }

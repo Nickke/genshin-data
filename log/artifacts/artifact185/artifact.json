@@ -1,28 +1,24 @@
 {
-  "setKey": "GladiatorsFinale",
+  "setKey": "NoblesseOblige",
   "slotKey": "circlet",
-  "rarity": 5,
-  "mainStatKey": "critDMG_",
-  "level": 8,
+  "rarity": 4,
+  "mainStatKey": "hp_",
+  "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 19.0
+      "key": "",
+      "value": 4170.0
     },
     {
-      "key": "hp_",
-      "value": 4.7
+      "key": "enerRech_",
+      "value": 5.2
     },
     {
-      "key": "atk_",
-      "value": 8.7
-    },
-    {
-      "key": "def_",
-      "value": 5.8
+      "key": "def",
+      "value": 13.0
     }
   ],
-  "location": "Arlecchino",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 185
 }

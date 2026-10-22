@@ -1,28 +1,28 @@
 {
-  "setKey": "GildedDreams",
+  "setKey": "MarechausseeHunter",
   "slotKey": "flower",
   "rarity": 5,
   "mainStatKey": "hp",
   "level": 20,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 7.0
+      "key": "hp_",
+      "value": 9.3
+    },
+    {
+      "key": "eleMas",
+      "value": 42.0
     },
     {
       "key": "def_",
-      "value": 7.3
+      "value": 17.5
     },
     {
-      "key": "critDMG_",
-      "value": 12.4
-    },
-    {
-      "key": "hp_",
-      "value": 13.4
+      "key": "def",
+      "value": 16.0
     }
   ],
-  "location": "KukiShinobu",
+  "location": "Wriothesley",
   "lock": false,
   "id": 55
 }

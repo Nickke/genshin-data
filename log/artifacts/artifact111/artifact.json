@@ -1,28 +1,28 @@
 {
   "setKey": "EmblemOfSeveredFate",
-  "slotKey": "circlet",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "critRate_",
+  "mainStatKey": "hp_",
   "level": 20,
   "substats": [
     {
       "key": "hp",
-      "value": 687.0
+      "value": 986.0
     },
     {
-      "key": "def",
-      "value": 37.0
-    },
-    {
-      "key": "eleMas",
-      "value": 21.0
+      "key": "critRate_",
+      "value": 6.6
     },
     {
       "key": "atk_",
-      "value": 14.6
+      "value": 9.9
+    },
+    {
+      "key": "enerRech_",
+      "value": 6.5
     }
   ],
-  "location": "Xingqiu",
+  "location": "",
   "lock": false,
   "id": 111
 }

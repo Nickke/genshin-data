@@ -1,25 +1,25 @@
 {
-  "setKey": "ShimenawasReminiscence",
-  "slotKey": "circlet",
+  "setKey": "HeartOfDepth",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "heal_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 239.0
-    },
-    {
       "key": "def",
-      "value": 23.0
+      "value": 21.0
     },
     {
       "key": "atk",
-      "value": 16.0
+      "value": 19.0
     },
     {
-      "key": "eleMas",
-      "value": 16.0
+      "key": "hp_",
+      "value": 4.7
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.2
     }
   ],
   "location": "",

@@ -1,28 +1,28 @@
 {
   "setKey": "EmblemOfSeveredFate",
-  "slotKey": "circlet",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "critDMG_",
+  "mainStatKey": "hydro_dmg_",
   "level": 20,
   "substats": [
     {
-      "key": "hp",
-      "value": 209.0
+      "key": "atk",
+      "value": 37.0
     },
     {
-      "key": "eleMas",
-      "value": 16.0
+      "key": "hp",
+      "value": 717.0
     },
     {
       "key": "hp_",
-      "value": 15.2
+      "value": 8.7
     },
     {
-      "key": "atk",
-      "value": 45.0
+      "key": "critDMG_",
+      "value": 12.4
     }
   ],
-  "location": "Yelan",
+  "location": "Xingqiu",
   "lock": true,
   "id": 112
 }

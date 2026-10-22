@@ -1,28 +1,28 @@
 {
-  "setKey": "EmblemOfSeveredFate",
-  "slotKey": "flower",
+  "setKey": "DeepwoodMemories",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "critDMG_",
   "level": 20,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 7.8
-    },
-    {
       "key": "def",
-      "value": 58.0
+      "value": 81.0
     },
     {
-      "key": "atk_",
-      "value": 14.6
+      "key": "eleMas",
+      "value": 19.0
     },
     {
       "key": "critRate_",
-      "value": 2.7
+      "value": 3.5
+    },
+    {
+      "key": "atk_",
+      "value": 10.5
     }
   ],
-  "location": "RaidenShogun",
+  "location": "Nahida",
   "lock": false,
   "id": 85
 }

@@ -1,28 +1,28 @@
 {
-  "setKey": "GildedDreams",
-  "slotKey": "plume",
+  "setKey": "MarechausseeHunter",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp_",
   "level": 20,
   "substats": [
     {
-      "key": "def_",
-      "value": 18.2
-    },
-    {
       "key": "hp",
-      "value": 747.0
+      "value": 986.0
     },
     {
-      "key": "critDMG_",
-      "value": 7.8
+      "key": "def_",
+      "value": 10.9
     },
     {
-      "key": "critRate_",
-      "value": 6.2
+      "key": "atk",
+      "value": 16.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 4.5
     }
   ],
-  "location": "KukiShinobu",
+  "location": "Neuvillette",
   "lock": false,
   "id": 58
 }

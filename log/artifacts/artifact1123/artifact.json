@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
-      "key": "def",
-      "value": 23.0
-    },
-    {
-      "key": "atk_",
-      "value": 4.1
-    },
-    {
       "key": "atk",
-      "value": 19.0
+      "value": 16.0
+    },
+    {
+      "key": "hp_",
+      "value": 4.7
     },
     {
       "key": "enerRech_",
-      "value": 6.5
+      "value": 5.8
+    },
+    {
+      "key": "def",
+      "value": 21.0
     }
   ],
-  "location": "Sayu",
+  "location": "",
   "lock": false,
   "id": 1123
 }

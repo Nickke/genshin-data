@@ -1,28 +1,28 @@
 {
-  "setKey": "EchoesOfAnOffering",
+  "setKey": "HuskOfOpulentDreams",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hydro_dmg_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "critDMG_",
-      "value": 7.0
-    },
-    {
       "key": "eleMas",
-      "value": 23.0
+      "value": 21.0
     },
     {
-      "key": "hp",
-      "value": 239.0
+      "key": "enerRech_",
+      "value": 6.5
+    },
+    {
+      "key": "critRate_",
+      "value": 3.9
     },
     {
       "key": "def_",
-      "value": 6.6
+      "value": 5.8
     }
   ],
-  "location": "",
-  "lock": true,
+  "location": "Yaoyao",
+  "lock": false,
   "id": 696
 }

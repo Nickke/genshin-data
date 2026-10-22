@@ -1,28 +1,28 @@
 {
-  "setKey": "NightOfTheSkysUnveiling",
+  "setKey": "AubadeOfMorningstarAndMoon",
   "slotKey": "plume",
   "rarity": 5,
   "mainStatKey": "atk",
   "level": 20,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 10.4
+      "key": "hp_",
+      "value": 9.3
+    },
+    {
+      "key": "critRate_",
+      "value": 8.9
     },
     {
       "key": "critDMG_",
-      "value": 10.9
+      "value": 11.7
     },
     {
-      "key": "hp",
-      "value": 926.0
-    },
-    {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "enerRech_",
+      "value": 4.5
     }
   ],
-  "location": "Nefer",
-  "lock": true,
+  "location": "Columbina",
+  "lock": false,
   "id": 18
 }

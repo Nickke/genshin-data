@@ -1,13 +1,13 @@
 {
-  "setKey": "TheExile",
-  "slotKey": "goblet",
+  "setKey": "Instructor",
+  "slotKey": "flower",
   "rarity": 3,
-  "mainStatKey": "physical_dmg_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 9.0
+      "key": "enerRech_",
+      "value": 3.5
     }
   ],
   "location": "",

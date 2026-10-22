@@ -1,28 +1,28 @@
 {
   "setKey": "EmblemOfSeveredFate",
-  "slotKey": "sands",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "hydro_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
-      "value": 5.3
+      "key": "atk_",
+      "value": 4.7
+    },
+    {
+      "key": "critRate_",
+      "value": 3.1
     },
     {
       "key": "def",
       "value": 16.0
     },
     {
-      "key": "critRate_",
-      "value": 3.9
-    },
-    {
-      "key": "eleMas",
-      "value": 21.0
+      "key": "hp_",
+      "value": 4.7
     }
   ],
-  "location": "YunJin",
-  "lock": false,
+  "location": "",
+  "lock": true,
   "id": 794
 }

@@ -7,18 +7,18 @@
   "substats": [
     {
       "key": "atk",
-      "value": 18.0
+      "value": 19.0
     },
     {
-      "key": "hp_",
-      "value": 4.1
+      "key": "enerRech_",
+      "value": 5.2
     },
     {
-      "key": "def",
+      "key": "eleMas",
       "value": 16.0
     },
     {
-      "key": "atk_",
+      "key": "hp_",
       "value": 5.8
     }
   ],

@@ -1,28 +1,28 @@
 {
   "setKey": "BlizzardStrayer",
-  "slotKey": "plume",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 209.0
+      "key": "atk",
+      "value": 14.0
     },
     {
       "key": "atk_",
-      "value": 5.3
+      "value": 5.8
     },
     {
       "key": "eleMas",
-      "value": 21.0
+      "value": 16.0
     },
     {
-      "key": "def_",
-      "value": 6.6
+      "key": "hp_",
+      "value": 5.3
     }
   ],
-  "location": "Chongyun",
+  "location": "",
   "lock": false,
   "id": 1950
 }

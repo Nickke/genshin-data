@@ -1,28 +1,28 @@
 {
-  "setKey": "WanderersTroupe",
-  "slotKey": "circlet",
+  "setKey": "ViridescentVenerer",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 269.0
+      "key": "critRate_",
+      "value": 2.7
     },
     {
-      "key": "atk",
+      "key": "hp",
+      "value": 209.0
+    },
+    {
+      "key": "eleMas",
       "value": 16.0
     },
     {
       "key": "critDMG_",
-      "value": 7.8
-    },
-    {
-      "key": "eleMas",
-      "value": 23.0
+      "value": 5.4
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 1425
 }

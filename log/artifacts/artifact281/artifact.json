@@ -1,13 +1,13 @@
 {
   "setKey": "CelestialGift",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 5.2
+      "key": "eleMas",
+      "value": 23.0
     },
     {
       "key": "critRate_",
@@ -15,11 +15,11 @@
     },
     {
       "key": "hp_",
-      "value": 4.1
+      "value": 5.8
     },
     {
-      "key": "hp",
-      "value": 239.0
+      "key": "atk",
+      "value": 14.0
     }
   ],
   "location": "",

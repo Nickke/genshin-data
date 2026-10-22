@@ -2,27 +2,27 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
       "key": "critRate_",
-      "value": 2.7
+      "value": 3.5
     },
     {
       "key": "atk_",
-      "value": 5.8
+      "value": 4.1
     },
     {
-      "key": "def",
-      "value": 19.0
+      "key": "hp_",
+      "value": 5.3
     },
     {
       "key": "critDMG_",
-      "value": 7.0
+      "value": 7.8
     }
   ],
-  "location": "Diluc",
+  "location": "",
   "lock": true,
   "id": 1656
 }

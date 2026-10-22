@@ -1,28 +1,28 @@
 {
-  "setKey": "HeartOfDepth",
-  "slotKey": "circlet",
+  "setKey": "CrimsonWitchOfFlames",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "def_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
       "key": "hp",
-      "value": 269.0
+      "value": 299.0
     },
     {
-      "key": "hp_",
-      "value": 5.8
+      "key": "eleMas",
+      "value": 21.0
+    },
+    {
+      "key": "def_",
+      "value": 6.6
     },
     {
       "key": "def",
-      "value": 16.0
-    },
-    {
-      "key": "atk",
-      "value": 14.0
+      "value": 19.0
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "Gaming",
+  "lock": true,
   "id": 1047
 }

@@ -1,28 +1,28 @@
 {
-  "setKey": "MarechausseeHunter",
-  "slotKey": "plume",
+  "setKey": "GoldenTroupe",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "hp_",
   "level": 20,
   "substats": [
     {
-      "key": "atk_",
-      "value": 14.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 14.0
-    },
-    {
       "key": "def",
-      "value": 63.0
+      "value": 58.0
+    },
+    {
+      "key": "atk_",
+      "value": 9.9
+    },
+    {
+      "key": "hp",
+      "value": 747.0
     },
     {
       "key": "eleMas",
-      "value": 19.0
+      "value": 23.0
     }
   ],
-  "location": "Wriothesley",
+  "location": "Furina",
   "lock": false,
   "id": 49
 }

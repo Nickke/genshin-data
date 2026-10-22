@@ -1,28 +1,28 @@
 {
-  "setKey": "WanderersTroupe",
-  "slotKey": "goblet",
+  "setKey": "NoblesseOblige",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "atk",
   "level": 20,
   "substats": [
     {
-      "key": "def_",
-      "value": 19.7
-    },
-    {
-      "key": "enerRech_",
-      "value": 11.7
-    },
-    {
-      "key": "def",
-      "value": 19.0
-    },
-    {
       "key": "hp",
-      "value": 478.0
+      "value": 299.0
+    },
+    {
+      "key": "hp_",
+      "value": 11.1
+    },
+    {
+      "key": "atk_",
+      "value": 13.4
+    },
+    {
+      "key": "eleMas",
+      "value": 68.0
     }
   ],
-  "location": "Lauma",
-  "lock": false,
+  "location": "Bennett",
+  "lock": true,
   "id": 144
 }

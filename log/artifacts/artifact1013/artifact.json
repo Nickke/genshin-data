@@ -1,25 +1,25 @@
 {
   "setKey": "HeartOfDepth",
-  "slotKey": "plume",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "dendro_dmg_",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 269.0
-    },
-    {
-      "key": "def",
-      "value": 16.0
+      "key": "atk",
+      "value": 18.0
     },
     {
       "key": "hp_",
-      "value": 4.7
+      "value": 5.8
     },
     {
-      "key": "critRate_",
-      "value": 3.9
+      "key": "hp",
+      "value": 239.0
+    },
+    {
+      "key": "eleMas",
+      "value": 16.0
     }
   ],
   "location": "",

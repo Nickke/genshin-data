@@ -1,28 +1,28 @@
 {
-  "setKey": "ScrollOfTheHeroOfCinderCity",
-  "slotKey": "circlet",
+  "setKey": "ObsidianCodex",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "critRate_",
+  "mainStatKey": "atk_",
   "level": 20,
   "substats": [
     {
+      "key": "critRate_",
+      "value": 8.9
+    },
+    {
+      "key": "def_",
+      "value": 5.8
+    },
+    {
       "key": "def",
-      "value": 46.0
+      "value": 42.0
     },
     {
-      "key": "atk_",
-      "value": 5.3
-    },
-    {
-      "key": "critDMG_",
-      "value": 28.8
-    },
-    {
-      "key": "hp",
-      "value": 299.0
+      "key": "atk",
+      "value": 35.0
     }
   ],
-  "location": "Traveler",
-  "lock": true,
+  "location": "Mavuika",
+  "lock": false,
   "id": 34
 }

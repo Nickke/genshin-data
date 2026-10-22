@@ -1,24 +1,28 @@
 {
-  "setKey": "NoblesseOblige",
-  "slotKey": "sands",
+  "setKey": "ShimenawasReminiscence",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "enerRech_",
+  "mainStatKey": "critDMG_",
   "level": 20,
   "substats": [
     {
+      "key": "def",
+      "value": 35.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 12.3
+    },
+    {
       "key": "hp",
-      "value": 747.0
+      "value": 956.0
     },
     {
-      "key": "hp_",
+      "key": "atk_",
       "value": 5.3
-    },
-    {
-      "key": "critRate_",
-      "value": 9.3
     }
   ],
-  "location": "Bennett",
-  "lock": false,
+  "location": "Nefer",
+  "lock": true,
   "id": 138
 }

@@ -6,20 +6,20 @@
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
-      "value": 4.1
-    },
-    {
       "key": "def_",
       "value": 5.1
+    },
+    {
+      "key": "atk",
+      "value": 14.0
     },
     {
       "key": "def",
       "value": 21.0
     },
     {
-      "key": "critRate_",
-      "value": 3.5
+      "key": "hp_",
+      "value": 4.7
     }
   ],
   "location": "",

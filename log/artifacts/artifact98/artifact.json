@@ -1,28 +1,28 @@
 {
   "setKey": "EmblemOfSeveredFate",
-  "slotKey": "sands",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "atk",
   "level": 20,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 19.0
-    },
-    {
-      "key": "critRate_",
+      "key": "atk_",
       "value": 10.5
     },
     {
-      "key": "enerRech_",
-      "value": 5.2
+      "key": "def",
+      "value": 46.0
     },
     {
-      "key": "atk",
-      "value": 53.0
+      "key": "hp",
+      "value": 239.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 22.0
     }
   ],
-  "location": "Yelan",
+  "location": "Durin",
   "lock": true,
   "id": 98
 }

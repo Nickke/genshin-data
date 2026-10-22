@@ -1,21 +1,21 @@
 {
-  "setKey": "TheExile",
+  "setKey": "NightOfTheSkysUnveiling",
   "slotKey": "flower",
   "rarity": 4,
   "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
+      "key": "",
+      "value": 7.0
+    },
+    {
+      "key": "critRate_",
+      "value": 5.9
+    },
+    {
       "key": "eleMas",
-      "value": 17.0
-    },
-    {
-      "key": "hp_",
-      "value": 4.7
-    },
-    {
-      "key": "atk_",
-      "value": 4.2
+      "value": 15.0
     }
   ],
   "location": "",

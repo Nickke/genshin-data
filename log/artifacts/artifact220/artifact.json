@@ -1,25 +1,25 @@
 {
-  "setKey": "ScarletProof",
-  "slotKey": "flower",
+  "setKey": "HeartOfTheFurnace",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "def_",
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "def",
+      "value": 21.0
     },
     {
-      "key": "def_",
-      "value": 5.1
+      "key": "critRate_",
+      "value": 3.9
     },
     {
-      "key": "enerRech_",
-      "value": 5.2
+      "key": "hp",
+      "value": 269.0
     },
     {
       "key": "atk",
-      "value": 19.0
+      "value": 16.0
     }
   ],
   "location": "",

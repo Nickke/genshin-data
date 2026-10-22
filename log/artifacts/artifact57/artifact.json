@@ -1,28 +1,28 @@
 {
-  "setKey": "GildedDreams",
-  "slotKey": "flower",
+  "setKey": "MarechausseeHunter",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "atk",
   "level": 20,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 37.0
+      "key": "enerRech_",
+      "value": 11.7
     },
     {
       "key": "def",
-      "value": 42.0
+      "value": 39.0
     },
     {
-      "key": "def_",
-      "value": 17.5
+      "key": "hp",
+      "value": 538.0
     },
     {
-      "key": "enerRech_",
-      "value": 5.2
+      "key": "hp_",
+      "value": 9.9
     }
   ],
-  "location": "Alhaitham",
-  "lock": false,
+  "location": "Neuvillette",
+  "lock": true,
   "id": 57
 }

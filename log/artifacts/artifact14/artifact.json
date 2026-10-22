@@ -1,28 +1,28 @@
 {
-  "setKey": "SilkenMoonsSerenade",
-  "slotKey": "plume",
+  "setKey": "DisenchantmentInDeepShadow",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "atk_",
   "level": 20,
   "substats": [
     {
-      "key": "atk_",
-      "value": 5.3
+      "key": "atk",
+      "value": 64.0
     },
     {
       "key": "def",
-      "value": 60.0
+      "value": 21.0
     },
     {
-      "key": "hp_",
-      "value": 14.0
+      "key": "eleMas",
+      "value": 44.0
     },
     {
-      "key": "enerRech_",
-      "value": 5.2
+      "key": "hp",
+      "value": 598.0
     }
   ],
-  "location": "Lauma",
+  "location": "Sandrone",
   "lock": false,
   "id": 14
 }

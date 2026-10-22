@@ -2,27 +2,27 @@
   "setKey": "EmblemOfSeveredFate",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
+      "key": "def",
+      "value": 19.0
+    },
+    {
       "key": "hp",
-      "value": 269.0
+      "value": 209.0
     },
     {
-      "key": "atk",
-      "value": 16.0
-    },
-    {
-      "key": "enerRech_",
-      "value": 5.8
-    },
-    {
-      "key": "atk_",
+      "key": "hp_",
       "value": 4.1
+    },
+    {
+      "key": "def_",
+      "value": 6.6
     }
   ],
-  "location": "Barbara",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 810
 }

@@ -1,25 +1,25 @@
 {
   "setKey": "NightOfTheSkysUnveiling",
-  "slotKey": "goblet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "geo_dmg_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 16.0
+      "key": "enerRech_",
+      "value": 4.5
     },
     {
-      "key": "hp_",
-      "value": 4.7
+      "key": "critDMG_",
+      "value": 7.8
     },
     {
-      "key": "atk_",
-      "value": 4.7
+      "key": "def_",
+      "value": 7.3
     },
     {
-      "key": "critRate_",
-      "value": 3.5
+      "key": "def",
+      "value": 23.0
     }
   ],
   "location": "",

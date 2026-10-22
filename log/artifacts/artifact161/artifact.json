@@ -1,28 +1,28 @@
 {
-  "setKey": "ScarletProof",
-  "slotKey": "circlet",
+  "setKey": "GladiatorsFinale",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "critDMG_",
-  "level": 18,
+  "mainStatKey": "atk_",
+  "level": 20,
   "substats": [
     {
-      "key": "atk_",
-      "value": 11.1
-    },
-    {
       "key": "def_",
-      "value": 6.6
+      "value": 20.4
     },
     {
-      "key": "atk",
-      "value": 31.0
+      "key": "critDMG_",
+      "value": 7.0
     },
     {
       "key": "enerRech_",
-      "value": 11.0
+      "value": 9.1
+    },
+    {
+      "key": "hp_",
+      "value": 9.3
     }
   ],
-  "location": "Vesna",
+  "location": "",
   "lock": true,
   "id": 161
 }

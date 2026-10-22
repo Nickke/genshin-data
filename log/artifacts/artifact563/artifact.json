@@ -2,27 +2,27 @@
   "setKey": "ScrollOfTheHeroOfCinderCity",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
-      "value": 4.1
+      "key": "eleMas",
+      "value": 23.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 6.5
+    },
+    {
+      "key": "critDMG_",
+      "value": 7.8
     },
     {
       "key": "atk",
-      "value": 19.0
-    },
-    {
-      "key": "hp",
-      "value": 239.0
-    },
-    {
-      "key": "critRate_",
-      "value": 2.7
+      "value": 14.0
     }
   ],
   "location": "",
-  "lock": false,
+  "lock": true,
   "id": 563
 }

@@ -1,28 +1,28 @@
 {
   "setKey": "DesertPavilionChronicle",
-  "slotKey": "sands",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
       "key": "critDMG_",
-      "value": 6.2
+      "value": 5.4
     },
     {
-      "key": "critRate_",
-      "value": 3.9
+      "key": "atk",
+      "value": 16.0
     },
     {
-      "key": "eleMas",
-      "value": 23.0
+      "key": "atk_",
+      "value": 4.7
     },
     {
-      "key": "def_",
+      "key": "hp_",
       "value": 5.8
     }
   ],
-  "location": "Yanfei",
+  "location": "",
   "lock": true,
   "id": 629
 }

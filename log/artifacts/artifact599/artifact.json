@@ -2,23 +2,23 @@
   "setKey": "GoldenTroupe",
   "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 16.0
+      "key": "enerRech_",
+      "value": 6.5
     },
     {
       "key": "atk",
-      "value": 18.0
+      "value": 16.0
     },
     {
-      "key": "def",
-      "value": 21.0
+      "key": "hp",
+      "value": 269.0
     },
     {
-      "key": "atk_",
+      "key": "hp_",
       "value": 5.8
     }
   ],

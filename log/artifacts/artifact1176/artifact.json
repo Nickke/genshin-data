@@ -7,22 +7,22 @@
   "substats": [
     {
       "key": "def",
-      "value": 23.0
+      "value": 21.0
     },
     {
       "key": "eleMas",
-      "value": 19.0
-    },
-    {
-      "key": "atk_",
-      "value": 4.1
+      "value": 21.0
     },
     {
       "key": "enerRech_",
-      "value": 5.2
+      "value": 5.8
+    },
+    {
+      "key": "def_",
+      "value": 5.1
     }
   ],
   "location": "",
-  "lock": true,
+  "lock": false,
   "id": 1176
 }

@@ -1,28 +1,28 @@
 {
   "setKey": "ShimenawasReminiscence",
-  "slotKey": "sands",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "atk",
   "level": 20,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 4.5
-    },
-    {
       "key": "hp",
-      "value": 657.0
+      "value": 478.0
     },
     {
-      "key": "critRate_",
-      "value": 6.6
+      "key": "def_",
+      "value": 19.0
     },
     {
-      "key": "atk",
-      "value": 35.0
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 16.2
     }
   ],
-  "location": "Sucrose",
+  "location": "Xiangling",
   "lock": false,
   "id": 127
 }

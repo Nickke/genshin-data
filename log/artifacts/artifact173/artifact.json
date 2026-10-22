@@ -1,21 +1,21 @@
 {
-  "setKey": "Scholar",
+  "setKey": "SilkenMoonsSerenade",
   "slotKey": "circlet",
   "rarity": 4,
-  "mainStatKey": "critDMG_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 857.0
-    },
-    {
-      "key": "def",
+      "key": "",
       "value": 19.0
     },
     {
-      "key": "hp",
-      "value": 382.0
+      "key": "atk",
+      "value": 37.0
+    },
+    {
+      "key": "eleMas",
+      "value": 26.0
     }
   ],
   "location": "",

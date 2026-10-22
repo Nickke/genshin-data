@@ -1,28 +1,28 @@
 {
   "setKey": "EmblemOfSeveredFate",
-  "slotKey": "sands",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "atk",
   "level": 20,
   "substats": [
     {
+      "key": "critRate_",
+      "value": 6.6
+    },
+    {
+      "key": "enerRech_",
+      "value": 10.4
+    },
+    {
       "key": "eleMas",
-      "value": 37.0
+      "value": 56.0
     },
     {
       "key": "def",
-      "value": 37.0
-    },
-    {
-      "key": "atk",
-      "value": 31.0
-    },
-    {
-      "key": "hp",
-      "value": 747.0
+      "value": 39.0
     }
   ],
-  "location": "Dehya",
-  "lock": false,
+  "location": "Traveler",
+  "lock": true,
   "id": 100
 }

@@ -2,24 +2,24 @@
   "setKey": "EmblemOfSeveredFate",
   "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "eleMas",
   "level": 0,
   "substats": [
     {
       "key": "atk",
-      "value": 14.0
-    },
-    {
-      "key": "def",
-      "value": 16.0
-    },
-    {
-      "key": "critDMG_",
-      "value": 7.0
+      "value": 19.0
     },
     {
       "key": "def_",
-      "value": 5.1
+      "value": 6.6
+    },
+    {
+      "key": "atk_",
+      "value": 5.3
+    },
+    {
+      "key": "def",
+      "value": 19.0
     }
   ],
   "location": "",

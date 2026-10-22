@@ -1,25 +1,21 @@
 {
   "setKey": "TheExile",
-  "slotKey": "goblet",
-  "rarity": 3,
-  "mainStatKey": "hydro_dmg_",
-  "level": 12,
+  "slotKey": "circlet",
+  "rarity": 4,
+  "mainStatKey": "critDMG_",
+  "level": 0,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 2.1
+      "key": "",
+      "value": 117.0
     },
     {
-      "key": "critDMG_",
-      "value": 4.2
+      "key": "enerRech_",
+      "value": 4.7
     },
     {
       "key": "def",
-      "value": 11.0
-    },
-    {
-      "key": "def_",
-      "value": 3.5
+      "value": 17.0
     }
   ],
   "location": "",

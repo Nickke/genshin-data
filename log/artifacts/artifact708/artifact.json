@@ -1,28 +1,28 @@
 {
-  "setKey": "OceanHuedClam",
+  "setKey": "EmblemOfSeveredFate",
   "slotKey": "flower",
   "rarity": 5,
   "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 6.5
+      "key": "critRate_",
+      "value": 3.5
+    },
+    {
+      "key": "def_",
+      "value": 6.6
     },
     {
       "key": "atk",
-      "value": 19.0
+      "value": 18.0
     },
     {
       "key": "hp_",
-      "value": 5.3
-    },
-    {
-      "key": "atk_",
-      "value": 4.1
+      "value": 4.7
     }
   ],
-  "location": "",
+  "location": "Faruzan",
   "lock": false,
   "id": 708
 }

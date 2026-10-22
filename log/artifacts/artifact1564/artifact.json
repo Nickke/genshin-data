@@ -7,22 +7,22 @@
   "substats": [
     {
       "key": "eleMas",
-      "value": 16.0
+      "value": 23.0
     },
     {
-      "key": "def",
-      "value": 19.0
+      "key": "critDMG_",
+      "value": 7.0
+    },
+    {
+      "key": "hp_",
+      "value": 4.1
     },
     {
       "key": "atk_",
       "value": 4.7
-    },
-    {
-      "key": "enerRech_",
-      "value": 5.8
     }
   ],
-  "location": "",
-  "lock": false,
+  "location": "ShikanoinHeizou",
+  "lock": true,
   "id": 1564
 }

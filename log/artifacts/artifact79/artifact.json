@@ -1,28 +1,28 @@
 {
-  "setKey": "VermillionHereafter",
-  "slotKey": "flower",
+  "setKey": "GildedDreams",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "hp",
+  "mainStatKey": "hp_",
   "level": 20,
   "substats": [
     {
+      "key": "atk",
+      "value": 53.0
+    },
+    {
       "key": "critDMG_",
-      "value": 7.8
+      "value": 6.2
     },
     {
-      "key": "def_",
-      "value": 16.0
+      "key": "hp",
+      "value": 508.0
     },
     {
-      "key": "eleMas",
-      "value": 42.0
-    },
-    {
-      "key": "critRate_",
-      "value": 7.0
+      "key": "enerRech_",
+      "value": 11.7
     }
   ],
-  "location": "Xiao",
-  "lock": true,
+  "location": "Barbara",
+  "lock": false,
   "id": 79
 }

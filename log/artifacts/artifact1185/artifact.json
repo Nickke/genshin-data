@@ -6,23 +6,23 @@
   "level": 0,
   "substats": [
     {
-      "key": "hp_",
+      "key": "def",
+      "value": 19.0
+    },
+    {
+      "key": "hp",
+      "value": 239.0
+    },
+    {
+      "key": "enerRech_",
       "value": 5.8
     },
     {
-      "key": "atk_",
-      "value": 4.7
-    },
-    {
-      "key": "critDMG_",
-      "value": 7.8
-    },
-    {
-      "key": "critRate_",
-      "value": 3.1
+      "key": "hp_",
+      "value": 5.8
     }
   ],
-  "location": "Amber",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 1185
 }

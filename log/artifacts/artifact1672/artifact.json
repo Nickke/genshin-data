@@ -10,16 +10,16 @@
       "value": 18.0
     },
     {
+      "key": "eleMas",
+      "value": 16.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
+    },
+    {
       "key": "hp_",
-      "value": 4.7
-    },
-    {
-      "key": "def",
-      "value": 23.0
-    },
-    {
-      "key": "def_",
-      "value": 7.3
+      "value": 5.3
     }
   ],
   "location": "",

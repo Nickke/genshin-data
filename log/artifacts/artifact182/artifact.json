@@ -1,25 +1,21 @@
 {
-  "setKey": "Instructor",
+  "setKey": "MartialArtist",
   "slotKey": "goblet",
-  "rarity": 3,
-  "mainStatKey": "pyro_dmg_",
-  "level": 12,
+  "rarity": 4,
+  "mainStatKey": "hp_",
+  "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 14.0
+      "key": "",
+      "value": 117.0
     },
     {
-      "key": "atk",
-      "value": 7.0
+      "key": "atk_",
+      "value": 4.2
     },
     {
       "key": "def_",
-      "value": 8.3
-    },
-    {
-      "key": "hp",
-      "value": 115.0
+      "value": 11.1
     }
   ],
   "location": "",

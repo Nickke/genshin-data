@@ -2,27 +2,27 @@
   "setKey": "GladiatorsFinale",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
+      "key": "def",
       "value": 19.0
+    },
+    {
+      "key": "hp",
+      "value": 299.0
     },
     {
       "key": "critRate_",
       "value": 3.9
     },
     {
-      "key": "def_",
-      "value": 7.3
-    },
-    {
-      "key": "eleMas",
-      "value": 19.0
+      "key": "enerRech_",
+      "value": 5.8
     }
   ],
-  "location": "Noelle",
+  "location": "Layla",
   "lock": false,
   "id": 1760
 }

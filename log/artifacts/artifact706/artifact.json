@@ -1,25 +1,25 @@
 {
-  "setKey": "VermillionHereafter",
-  "slotKey": "goblet",
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "enerRech_",
-      "value": 6.5
+      "key": "critRate_",
+      "value": 2.7
+    },
+    {
+      "key": "hp_",
+      "value": 5.8
+    },
+    {
+      "key": "def",
+      "value": 19.0
     },
     {
       "key": "atk",
       "value": 14.0
-    },
-    {
-      "key": "def_",
-      "value": 6.6
-    },
-    {
-      "key": "hp",
-      "value": 239.0
     }
   ],
   "location": "",

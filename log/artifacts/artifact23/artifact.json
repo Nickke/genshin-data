@@ -1,28 +1,28 @@
 {
-  "setKey": "FinaleOfTheDeepGalleries",
-  "slotKey": "plume",
+  "setKey": "SilkenMoonsSerenade",
+  "slotKey": "circlet",
   "rarity": 5,
-  "mainStatKey": "atk",
+  "mainStatKey": "eleMas",
   "level": 20,
   "substats": [
     {
-      "key": "hp",
-      "value": 299.0
-    },
-    {
-      "key": "critRate_",
-      "value": 7.0
-    },
-    {
-      "key": "atk_",
-      "value": 21.0
-    },
-    {
       "key": "def",
-      "value": 23.0
+      "value": 37.0
+    },
+    {
+      "key": "hp",
+      "value": 866.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 5.2
+    },
+    {
+      "key": "hp_",
+      "value": 9.9
     }
   ],
-  "location": "Zhongli",
+  "location": "Lauma",
   "lock": false,
   "id": 23
 }

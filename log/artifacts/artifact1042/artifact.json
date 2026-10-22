@@ -1,28 +1,28 @@
 {
-  "setKey": "HeartOfDepth",
-  "slotKey": "circlet",
+  "setKey": "NoblesseOblige",
+  "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "critRate_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "atk",
-      "value": 14.0
+      "key": "def_",
+      "value": 5.8
+    },
+    {
+      "key": "def",
+      "value": 19.0
     },
     {
       "key": "enerRech_",
       "value": 6.5
     },
     {
-      "key": "def",
-      "value": 23.0
-    },
-    {
-      "key": "hp_",
-      "value": 4.1
+      "key": "hp",
+      "value": 299.0
     }
   ],
-  "location": "Rosaria",
+  "location": "",
   "lock": true,
   "id": 1042
 }

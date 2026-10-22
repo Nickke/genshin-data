@@ -1,25 +1,25 @@
 {
   "setKey": "ScarletProof",
-  "slotKey": "sands",
+  "slotKey": "plume",
   "rarity": 5,
-  "mainStatKey": "hp_",
+  "mainStatKey": "atk",
   "level": 0,
   "substats": [
     {
-      "key": "def_",
-      "value": 7.3
+      "key": "enerRech_",
+      "value": 4.5
     },
     {
-      "key": "def",
-      "value": 21.0
+      "key": "def_",
+      "value": 6.6
     },
     {
       "key": "critDMG_",
       "value": 7.8
     },
     {
-      "key": "hp",
-      "value": 209.0
+      "key": "eleMas",
+      "value": 19.0
     }
   ],
   "location": "",

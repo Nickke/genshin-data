@@ -1,28 +1,28 @@
 {
-  "setKey": "VermillionHereafter",
-  "slotKey": "circlet",
+  "setKey": "EmblemOfSeveredFate",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "heal_",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 23.0
-    },
-    {
-      "key": "enerRech_",
-      "value": 6.5
-    },
-    {
-      "key": "def",
+      "key": "atk",
       "value": 16.0
     },
     {
-      "key": "critRate_",
-      "value": 3.5
+      "key": "def_",
+      "value": 5.1
+    },
+    {
+      "key": "hp_",
+      "value": 5.3
+    },
+    {
+      "key": "eleMas",
+      "value": 23.0
     }
   ],
-  "location": "",
+  "location": "Mika",
   "lock": false,
   "id": 707
 }

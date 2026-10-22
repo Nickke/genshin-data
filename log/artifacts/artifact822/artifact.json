@@ -1,28 +1,28 @@
 {
   "setKey": "EmblemOfSeveredFate",
-  "slotKey": "goblet",
+  "slotKey": "circlet",
   "rarity": 5,
   "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "def",
+      "key": "critRate_",
+      "value": 3.1
+    },
+    {
+      "key": "critDMG_",
+      "value": 5.4
+    },
+    {
+      "key": "eleMas",
       "value": 16.0
     },
     {
-      "key": "hp",
-      "value": 209.0
-    },
-    {
       "key": "atk",
-      "value": 18.0
-    },
-    {
-      "key": "hp_",
-      "value": 4.1
+      "value": 16.0
     }
   ],
-  "location": "Thoma",
-  "lock": false,
+  "location": "Xiangling",
+  "lock": true,
   "id": 822
 }

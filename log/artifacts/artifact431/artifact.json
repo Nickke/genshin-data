@@ -1,25 +1,25 @@
 {
   "setKey": "FinaleOfTheDeepGalleries",
-  "slotKey": "sands",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "hp",
   "level": 0,
   "substats": [
     {
-      "key": "hp",
-      "value": 269.0
-    },
-    {
       "key": "def_",
-      "value": 7.3
+      "value": 5.8
     },
     {
-      "key": "atk_",
-      "value": 4.7
+      "key": "eleMas",
+      "value": 19.0
     },
     {
-      "key": "enerRech_",
-      "value": 5.2
+      "key": "def",
+      "value": 21.0
+    },
+    {
+      "key": "atk",
+      "value": 14.0
     }
   ],
   "location": "",

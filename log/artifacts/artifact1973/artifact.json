@@ -1,8 +1,8 @@
 {
-  "setKey": "Berserker",
-  "slotKey": "sands",
+  "setKey": "Instructor",
+  "slotKey": "goblet",
   "rarity": 4,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "anemo_dmg_",
   "level": 0,
   "substats": [
     {
@@ -10,8 +10,8 @@
       "value": 8570.0
     },
     {
-      "key": "atk_",
-      "value": 4.7
+      "key": "hp",
+      "value": 239.0
     }
   ],
   "location": "",

@@ -1,28 +1,28 @@
 {
   "setKey": "ShimenawasReminiscence",
-  "slotKey": "sands",
+  "slotKey": "flower",
   "rarity": 5,
-  "mainStatKey": "atk_",
+  "mainStatKey": "hp",
   "level": 20,
   "substats": [
     {
-      "key": "critRate_",
-      "value": 3.5
+      "key": "def",
+      "value": 60.0
     },
     {
-      "key": "critDMG_",
-      "value": 21.8
+      "key": "atk_",
+      "value": 5.3
     },
     {
-      "key": "atk",
-      "value": 33.0
+      "key": "def_",
+      "value": 23.3
     },
     {
-      "key": "enerRech_",
-      "value": 16.8
+      "key": "eleMas",
+      "value": 21.0
     }
   ],
-  "location": "Wriothesley",
+  "location": "Ningguang",
   "lock": false,
   "id": 124
 }

@@ -2,27 +2,27 @@
   "setKey": "BlizzardStrayer",
   "slotKey": "goblet",
   "rarity": 5,
-  "mainStatKey": "cryo_dmg_",
+  "mainStatKey": "atk_",
   "level": 0,
   "substats": [
     {
-      "key": "atk_",
-      "value": 4.7
-    },
-    {
-      "key": "enerRech_",
-      "value": 4.5
+      "key": "hp_",
+      "value": 4.1
     },
     {
       "key": "hp",
-      "value": 209.0
+      "value": 269.0
     },
     {
       "key": "critDMG_",
-      "value": 6.2
+      "value": 5.4
+    },
+    {
+      "key": "def",
+      "value": 21.0
     }
   ],
-  "location": "KamisatoAyaka",
-  "lock": true,
+  "location": "",
+  "lock": false,
   "id": 1963
 }

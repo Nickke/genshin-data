@@ -1,28 +1,28 @@
 {
   "setKey": "ScarletProof",
-  "slotKey": "circlet",
+  "slotKey": "sands",
   "rarity": 5,
-  "mainStatKey": "critDMG_",
+  "mainStatKey": "atk_",
   "level": 20,
   "substats": [
     {
-      "key": "eleMas",
-      "value": 19.0
+      "key": "def_",
+      "value": 5.8
+    },
+    {
+      "key": "def",
+      "value": 65.0
     },
     {
       "key": "critRate_",
-      "value": 10.9
+      "value": 7.0
     },
     {
       "key": "hp_",
-      "value": 5.3
-    },
-    {
-      "key": "hp",
-      "value": 777.0
+      "value": 13.4
     }
   ],
-  "location": "Sandrone",
-  "lock": true,
+  "location": "Vesna",
+  "lock": false,
   "id": 6
 }
