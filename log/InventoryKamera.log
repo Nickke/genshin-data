@@ -1,5 +1,116 @@
-2026-11-12 09:54:22.478|INFO|InventoryKamera|Kamera initialized
-2026-11-12 09:54:33.791|INFO|GenshinProcesor|Scraper initialized
-2026-11-12 09:54:33.878|INFO|MainForm|Inventory Kamera version 1.0.0
-2026-11-12 09:54:34.571|INFO|DatabaseManager|Checking for newer game data...
-2026-11-12 09:54:37.356|INFO|MainForm|Game data is up to date (7.2)
+2026-11-12 10:08:01.029|INFO|InventoryKamera|Kamera initialized
+2026-11-12 10:08:11.882|INFO|GenshinProcesor|Scraper initialized
+2026-11-12 10:08:11.999|INFO|MainForm|Inventory Kamera version 1.0.0
+2026-11-12 10:08:12.956|INFO|DatabaseManager|Checking for newer game data...
+2026-11-12 10:08:13.876|INFO|MainForm|Game data is up to date (7.2)
+2026-11-12 10:08:27.290|INFO|MainForm|Starting scan
+2026-11-12 10:08:27.320|INFO|MainForm|Hotkey registered
+2026-11-12 10:08:27.320|INFO|MainForm|Scan settings: 
+	Game Version Data:			 7.2
+	Weapons:				 True
+	Artifacts:				 True
+	Characters:				 True
+	Dev Items:				 True
+	Materials:				 True
+	Min Weapon Rarity:		 1
+	Min Weapon Level:		 1
+	Equip Weapons:			 True
+	Min Artifact Rarity:	 1
+	Min Artifact Level:		 0
+	Equip Artifacts:		 True
+	Delay:					 0
+2026-11-12 10:08:28.286|INFO|InventoryKamera|Kamera initialized
+2026-11-12 10:08:28.286|INFO|MainForm|Resolution: 1600x900
+2026-11-12 10:08:28.516|WARN|InventoryKamera|Failed to reset logging directories|System.IO.DirectoryNotFoundException: Impossibile trovare una parte del percorso 'C:\Users\nicob\Downloads\Inventory_KameraV1.3.17\logging\weapons'.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive, Boolean checkHost)
+   in InventoryKamera.InventoryKamera.ResetLogging()
+2026-11-12 10:08:28.754|INFO|InventoryKamera|Logging directory reset
+2026-11-12 10:08:45.088|INFO|GenshinProcesor|Internally set traveler custom name to nickke
+2026-11-12 10:08:45.202|INFO|GenshinProcesor|Internally set manekin custom name to bruce
+2026-11-12 10:08:45.208|INFO|GenshinProcesor|Internally set manekina custom name to saphire
+2026-11-12 10:08:45.208|INFO|InventoryKamera|Scanning weapons...
+2026-11-12 10:08:50.900|ERROR|UserInterface|Unable to locate Weapons item count.
+2026-11-12 10:08:52.928|INFO|InventoryKamera|Done scanning weapons
+2026-11-12 10:08:52.928|INFO|InventoryKamera|Scanning artifacts...
+2026-11-12 10:08:58.073|ERROR|UserInterface|Unable to locate Artifacts item count.
+2026-11-12 10:09:00.114|INFO|InventoryKamera|Done scanning artifacts
+2026-11-12 10:09:00.114|INFO|InventoryKamera|Scanning characters...
+2026-11-12 10:09:06.759|ERROR|UserInterface|Could not determine character's name
+2026-11-12 10:09:06.770|ERROR|UserInterface|Could not determine character's element
+2026-11-12 10:09:06.789|ERROR|CharacterScraper|Failed to scan character
+Invalid character name
+Invalid level
+Invalid element
+Invalid talents
+Character
+Name: 
+Element: 
+Level: 0
+Ascension Level: 0
+Constellation: 0
+AUTO : 0
+SKILL : 0
+BURST : 0
+
+2026-11-12 10:09:10.081|ERROR|UserInterface|Could not determine character's name
+2026-11-12 10:09:10.081|ERROR|UserInterface|Could not determine character's element
+2026-11-12 10:09:10.081|ERROR|CharacterScraper|Failed to scan character
+Invalid character name
+Invalid level
+Invalid element
+Invalid talents
+Character
+Name: 
+Element: 
+Level: 0
+Ascension Level: 0
+Constellation: 0
+AUTO : 0
+SKILL : 0
+BURST : 0
+
+2026-11-12 10:09:13.287|ERROR|UserInterface|Could not determine character's name
+2026-11-12 10:09:13.313|ERROR|UserInterface|Could not determine character's element
+2026-11-12 10:09:13.313|ERROR|CharacterScraper|Failed to scan character
+Invalid character name
+Invalid level
+Invalid element
+Invalid talents
+Character
+Name: 
+Element: 
+Level: 0
+Ascension Level: 0
+Constellation: 0
+AUTO : 0
+SKILL : 0
+BURST : 0
+
+2026-11-12 10:09:16.350|ERROR|UserInterface|Could not determine character's name
+2026-11-12 10:09:16.366|ERROR|UserInterface|Could not determine character's element
+2026-11-12 10:09:16.366|ERROR|CharacterScraper|Failed to scan character
+Invalid character name
+Invalid level
+Invalid element
+Invalid talents
+Character
+Name: 
+Element: 
+Level: 0
+Ascension Level: 0
+Constellation: 0
+AUTO : 0
+SKILL : 0
+BURST : 0
+
+2026-11-12 10:09:18.746|INFO|InventoryKamera|Done scanning characters
+2026-11-12 10:09:18.746|INFO|InventoryKamera|Scanning character development materials...
+2026-11-12 10:09:24.587|WARN|MaterialScraper|Scan_Materials: page 1 returned no scannable items; aborting scan.
+2026-11-12 10:09:26.611|INFO|InventoryKamera|Done scanning character development materials
+2026-11-12 10:09:26.611|INFO|InventoryKamera|Scanning materials...
+2026-11-12 10:09:32.196|WARN|MaterialScraper|Scan_Materials: page 1 returned no scannable items; aborting scan.
+2026-11-12 10:09:34.214|INFO|InventoryKamera|Done scanning materials
+2026-11-12 10:09:34.366|INFO|MainForm|Data converted to GOOD
+2026-11-12 10:09:35.439|INFO|MainForm|Exported data
+2026-11-12 10:09:42.876|INFO|MainForm|Hotkey removed
