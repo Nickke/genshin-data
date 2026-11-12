@@ -1,11 +1,11 @@
-2026-11-12 11:31:50.404|INFO|InventoryKamera|Kamera initialized
-2026-11-12 11:31:51.199|INFO|GenshinProcesor|Scraper initialized
-2026-11-12 11:31:51.214|INFO|MainForm|Inventory Kamera version 1.0.0
-2026-11-12 11:31:51.384|INFO|DatabaseManager|Checking for newer game data...
-2026-11-12 11:31:51.982|INFO|MainForm|Game data is up to date (7.2)
-2026-11-12 11:31:56.492|INFO|MainForm|Starting scan
-2026-11-12 11:31:56.496|INFO|MainForm|Hotkey registered
-2026-11-12 11:31:56.496|INFO|MainForm|Scan settings: 
+2026-11-12 11:52:25.472|INFO|InventoryKamera|Kamera initialized
+2026-11-12 11:52:26.512|INFO|GenshinProcesor|Scraper initialized
+2026-11-12 11:52:26.530|INFO|MainForm|Inventory Kamera version 1.3.17
+2026-11-12 11:52:26.957|INFO|DatabaseManager|Checking for newer game data...
+2026-11-12 11:52:27.534|INFO|MainForm|Current game data is up to date with data for 7.2
+2026-11-12 11:52:59.897|INFO|MainForm|Starting scan
+2026-11-12 11:52:59.897|INFO|MainForm|Hotkey registered
+2026-11-12 11:52:59.897|INFO|MainForm|Scan settings: 
 	Game Version Data:			 7.2
 	Weapons:				 True
 	Artifacts:				 True
@@ -19,202 +19,267 @@
 	Min Artifact Level:		 0
 	Equip Artifacts:		 True
 	Delay:					 0
-2026-11-12 11:31:56.516|DEBUG|Navigation|Checking 2 executable(s): GenshinImpact, YuanShen
-2026-11-12 11:31:56.516|DEBUG|Navigation|Checking for GenshinImpact.exe
-2026-11-12 11:31:56.529|DEBUG|Navigation|Found GenshinImpact.exe
-2026-11-12 11:31:56.529|DEBUG|Navigation|Window location (1600x900): x=160, y=101
-2026-11-12 11:31:56.570|INFO|InventoryKamera|Kamera initialized
-2026-11-12 11:31:56.570|INFO|MainForm|Resolution: 1600x900
-2026-11-12 11:31:56.585|INFO|InventoryKamera|Logging directory reset
-2026-11-12 11:31:56.604|DEBUG|InventoryKamera|Added 3 workers
-2026-11-12 11:31:56.630|DEBUG|InventoryKamera|Thread #5 priority: Normal
-2026-11-12 11:31:56.630|DEBUG|InventoryKamera|Thread #13 priority: Normal
-2026-11-12 11:31:56.630|DEBUG|InventoryKamera|Thread #12 priority: Normal
-2026-11-12 11:31:57.012|DEBUG|GenshinProcesor|8 Engines restarted
-2026-11-12 11:31:57.012|INFO|GenshinProcesor|Internally set traveler custom name to nickke
-2026-11-12 11:31:57.012|INFO|GenshinProcesor|Internally set wanderer custom name to zefiro
-2026-11-12 11:31:57.012|INFO|GenshinProcesor|Internally set manekin custom name to bruce
-2026-11-12 11:31:57.012|INFO|GenshinProcesor|Internally set manekina custom name to saphire
-2026-11-12 11:31:57.012|INFO|InventoryKamera|Scanning weapons...
-2026-11-12 11:32:00.278|ERROR|UserInterface|Unable to locate Weapons item count.
-2026-11-12 11:32:02.285|INFO|InventoryKamera|Done scanning weapons
-2026-11-12 11:32:02.285|INFO|InventoryKamera|Scanning artifacts...
-2026-11-12 11:32:05.476|ERROR|UserInterface|Unable to locate Artifacts item count.
-2026-11-12 11:32:07.498|INFO|InventoryKamera|Done scanning artifacts
-2026-11-12 11:32:07.498|INFO|InventoryKamera|Scanning characters...
-2026-11-12 11:32:07.530|DEBUG|InventoryKamera|Thread 12 exit
-2026-11-12 11:32:07.530|DEBUG|InventoryKamera|Thread 13 exit
-2026-11-12 11:32:07.734|DEBUG|InventoryKamera|Thread 5 exit
-2026-11-12 11:32:11.616|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:11.616|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 1/75). Retrying...
-2026-11-12 11:32:11.765|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:11.765|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 2/75). Retrying...
-2026-11-12 11:32:11.899|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:11.899|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 3/75). Retrying...
-2026-11-12 11:32:12.065|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:12.065|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 4/75). Retrying...
-2026-11-12 11:32:12.216|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:12.216|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 5/75). Retrying...
-2026-11-12 11:32:12.354|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:12.354|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 6/75). Retrying...
-2026-11-12 11:32:12.501|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:12.501|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 7/75). Retrying...
-2026-11-12 11:32:12.648|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:12.648|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 8/75). Retrying...
-2026-11-12 11:32:12.797|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:12.797|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 9/75). Retrying...
-2026-11-12 11:32:12.929|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:12.929|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 10/75). Retrying...
-2026-11-12 11:32:13.078|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:13.078|DEBUG|CharacterScraper|OCR stale after 10 identical empty attempts — aborting early.
-2026-11-12 11:32:13.078|ERROR|UserInterface|Could not determine character's name
-2026-11-12 11:32:13.078|ERROR|UserInterface|Could not determine character's element
-2026-11-12 11:32:13.089|ERROR|CharacterScraper|Failed to scan character
-Invalid character name
-Invalid level
-Invalid element
-Invalid talents
-Character
-Name: 
-Element: 
-Level: 0
-Ascension Level: 0
-Constellation: 0
-AUTO : 0
-SKILL : 0
-BURST : 0
-
-2026-11-12 11:32:14.545|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:14.545|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 1/75). Retrying...
-2026-11-12 11:32:14.705|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:14.705|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 2/75). Retrying...
-2026-11-12 11:32:14.853|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:14.853|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 3/75). Retrying...
-2026-11-12 11:32:14.986|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:14.986|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 4/75). Retrying...
-2026-11-12 11:32:15.150|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:15.150|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 5/75). Retrying...
-2026-11-12 11:32:15.291|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:15.291|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 6/75). Retrying...
-2026-11-12 11:32:15.439|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:15.439|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 7/75). Retrying...
-2026-11-12 11:32:15.600|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:15.600|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 8/75). Retrying...
-2026-11-12 11:32:15.736|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:15.736|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 9/75). Retrying...
-2026-11-12 11:32:15.886|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:15.886|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 10/75). Retrying...
-2026-11-12 11:32:16.034|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:16.034|DEBUG|CharacterScraper|OCR stale after 10 identical empty attempts — aborting early.
-2026-11-12 11:32:16.034|ERROR|UserInterface|Could not determine character's name
-2026-11-12 11:32:16.034|ERROR|UserInterface|Could not determine character's element
-2026-11-12 11:32:16.034|ERROR|CharacterScraper|Failed to scan character
-Invalid character name
-Invalid level
-Invalid element
-Invalid talents
-Character
-Name: 
-Element: 
-Level: 0
-Ascension Level: 0
-Constellation: 0
-AUTO : 0
-SKILL : 0
-BURST : 0
-
-2026-11-12 11:32:17.500|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:17.500|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 1/75). Retrying...
-2026-11-12 11:32:17.640|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:17.640|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 2/75). Retrying...
-2026-11-12 11:32:17.784|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:17.784|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 3/75). Retrying...
-2026-11-12 11:32:17.932|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:17.932|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 4/75). Retrying...
-2026-11-12 11:32:18.078|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:18.078|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 5/75). Retrying...
-2026-11-12 11:32:18.211|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:18.211|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 6/75). Retrying...
-2026-11-12 11:32:18.360|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:18.360|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 7/75). Retrying...
-2026-11-12 11:32:18.515|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:18.515|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 8/75). Retrying...
-2026-11-12 11:32:18.651|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:18.651|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 9/75). Retrying...
-2026-11-12 11:32:18.795|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:18.795|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 10/75). Retrying...
-2026-11-12 11:32:18.962|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:18.962|DEBUG|CharacterScraper|OCR stale after 10 identical empty attempts — aborting early.
-2026-11-12 11:32:18.966|ERROR|UserInterface|Could not determine character's name
-2026-11-12 11:32:18.966|ERROR|UserInterface|Could not determine character's element
-2026-11-12 11:32:18.966|ERROR|CharacterScraper|Failed to scan character
-Invalid character name
-Invalid level
-Invalid element
-Invalid talents
-Character
-Name: 
-Element: 
-Level: 0
-Ascension Level: 0
-Constellation: 0
-AUTO : 0
-SKILL : 0
-BURST : 0
-
-2026-11-12 11:32:20.446|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:20.446|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 1/75). Retrying...
-2026-11-12 11:32:20.590|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:20.590|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 2/75). Retrying...
-2026-11-12 11:32:20.736|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:20.736|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 3/75). Retrying...
-2026-11-12 11:32:20.890|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:20.890|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 4/75). Retrying...
-2026-11-12 11:32:21.019|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:21.019|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 5/75). Retrying...
-2026-11-12 11:32:21.169|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:21.169|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 6/75). Retrying...
-2026-11-12 11:32:21.304|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:21.304|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 7/75). Retrying...
-2026-11-12 11:32:21.452|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:21.452|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 8/75). Retrying...
-2026-11-12 11:32:21.585|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:21.585|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 9/75). Retrying...
-2026-11-12 11:32:21.718|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:21.718|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 10/75). Retrying...
-2026-11-12 11:32:21.869|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 11:32:21.869|DEBUG|CharacterScraper|OCR stale after 10 identical empty attempts — aborting early.
-2026-11-12 11:32:21.871|ERROR|UserInterface|Could not determine character's name
-2026-11-12 11:32:21.871|ERROR|UserInterface|Could not determine character's element
-2026-11-12 11:32:21.871|ERROR|CharacterScraper|Failed to scan character
-Invalid character name
-Invalid level
-Invalid element
-Invalid talents
-Character
-Name: 
-Element: 
-Level: 0
-Ascension Level: 0
-Constellation: 0
-AUTO : 0
-SKILL : 0
-BURST : 0
-
-2026-11-12 11:32:24.245|INFO|InventoryKamera|Done scanning characters
-2026-11-12 11:32:24.245|INFO|InventoryKamera|Scanning character development materials...
-2026-11-12 11:32:27.296|DEBUG|MaterialScraper|Scanned mora input: System.Collections.Generic.List`1[System.String]
-2026-11-12 11:32:27.296|DEBUG|MaterialScraper|Parsed mora input: 
-2026-11-12 11:32:27.296|ERROR|UserInterface|Unable to parse mora count
-2026-11-12 11:32:28.699|DEBUG|MaterialScraper|Scanning material page 1
-2026-11-12 11:32:28.699|DEBUG|MaterialScraper|Located 0 possible item locations on page.
-2026-11-12 11:32:28.699|WARN|MaterialScraper|Scan_Materials: page 1 returned no scannable items; aborting scan.
-2026-11-12 11:32:30.709|INFO|InventoryKamera|Done scanning character development materials
-2026-11-12 11:32:30.709|INFO|InventoryKamera|Scanning materials...
-2026-11-12 11:32:35.125|DEBUG|MaterialScraper|Scanning material page 1
-2026-11-12 11:32:35.125|DEBUG|MaterialScraper|Located 0 possible item locations on page.
-2026-11-12 11:32:35.125|WARN|MaterialScraper|Scan_Materials: page 1 returned no scannable items; aborting scan.
-2026-11-12 11:32:37.148|INFO|InventoryKamera|Done scanning materials
-2026-11-12 11:32:37.162|INFO|MainForm|Data converted to GOOD
-2026-11-12 11:32:37.205|INFO|MainForm|Exported data
-2026-11-12 11:32:37.205|INFO|MainForm|Auto-copied JSON to C:\Users\nicob\Documents\GitHub\genshin-data\GenshinData
+2026-11-12 11:52:59.915|DEBUG|Navigation|Checking for GenshinImpact.exe
+2026-11-12 11:52:59.915|DEBUG|Navigation|Found GenshinImpact.exe
+2026-11-12 11:52:59.924|DEBUG|Navigation|Window location (1600x900): x=160, y=101
+2026-11-12 11:52:59.983|INFO|InventoryKamera|Kamera initialized
+2026-11-12 11:52:59.988|INFO|MainForm|Resolution: 1600x900
+2026-11-12 11:53:00.025|INFO|InventoryKamera|Logging directory reset
+2026-11-12 11:53:00.052|DEBUG|InventoryKamera|Added 3 workers
+2026-11-12 11:53:00.064|DEBUG|InventoryKamera|Thread #7 priority: Normal
+2026-11-12 11:53:00.064|DEBUG|InventoryKamera|Thread #6 priority: Normal
+2026-11-12 11:53:00.064|DEBUG|InventoryKamera|Thread #4 priority: Normal
+2026-11-12 11:53:00.501|DEBUG|GenshinProcesor|8 Engines restarted
+2026-11-12 11:53:00.501|INFO|GenshinProcesor|Internally set traveler custom name to nickke
+2026-11-12 11:53:00.501|INFO|GenshinProcesor|Internally set wanderer custom name to zefiro
+2026-11-12 11:53:00.501|INFO|InventoryKamera|Scanning weapons...
+2026-11-12 11:53:05.237|INFO|UserInterface|Parsed 284 weapons to scan
+2026-11-12 11:53:05.237|INFO|WeaponScraper|Found 284 for weapon count.
+2026-11-12 11:53:05.237|DEBUG|WeaponScraper|Sorting by quality to optimize scan time.
+2026-11-12 11:53:05.265|DEBUG|WeaponScraper|Inventory is sorted by quality
+2026-11-12 11:53:05.265|DEBUG|WeaponScraper|Scanning weapon page 0
+2026-11-12 11:53:05.265|DEBUG|WeaponScraper|Located 40 possible item locations on page.
+2026-11-12 11:53:12.282|DEBUG|WeaponScraper|Finished queuing page of weapons. Scrolling...
+2026-11-12 11:53:14.947|DEBUG|WeaponScraper|Scanning weapon page 1
+2026-11-12 11:53:14.947|DEBUG|WeaponScraper|Located 40 possible item locations on page.
+2026-11-12 11:53:22.359|DEBUG|WeaponScraper|Finished queuing page of weapons. Scrolling...
+2026-11-12 11:53:24.728|DEBUG|WeaponScraper|Scanning weapon page 2
+2026-11-12 11:53:24.728|DEBUG|WeaponScraper|Located 40 possible item locations on page.
+2026-11-12 11:53:31.983|DEBUG|WeaponScraper|Finished queuing page of weapons. Scrolling...
+2026-11-12 11:53:34.632|DEBUG|WeaponScraper|Scanning weapon page 3
+2026-11-12 11:53:34.632|DEBUG|WeaponScraper|Located 40 possible item locations on page.
+2026-11-12 11:53:41.669|DEBUG|WeaponScraper|Finished queuing page of weapons. Scrolling...
+2026-11-12 11:53:44.302|DEBUG|WeaponScraper|Scanning weapon page 4
+2026-11-12 11:53:44.302|DEBUG|WeaponScraper|Located 40 possible item locations on page.
+2026-11-12 11:53:51.733|DEBUG|WeaponScraper|Finished queuing page of weapons. Scrolling...
+2026-11-12 11:53:54.183|DEBUG|WeaponScraper|Scanning weapon page 5
+2026-11-12 11:53:54.183|DEBUG|WeaponScraper|Located 40 possible item locations on page.
+2026-11-12 11:54:01.234|DEBUG|WeaponScraper|Finished queuing page of weapons. Scrolling...
+2026-11-12 11:54:03.470|DEBUG|WeaponScraper|Scanning weapon page 6
+2026-11-12 11:54:03.470|DEBUG|WeaponScraper|Located 40 possible item locations on page.
+2026-11-12 11:54:10.711|DEBUG|WeaponScraper|Finished queuing page of weapons. Scrolling...
+2026-11-12 11:54:12.771|DEBUG|WeaponScraper|Scanning weapon page 7
+2026-11-12 11:54:12.771|DEBUG|WeaponScraper|Located 40 possible item locations on page.
+2026-11-12 11:54:13.473|INFO|WeaponScraper|Stopping weapon scan based on scans queued (284 of 284)
+2026-11-12 11:54:15.496|INFO|InventoryKamera|Done scanning weapons
+2026-11-12 11:54:15.496|INFO|InventoryKamera|Scanning artifacts...
+2026-11-12 11:54:20.659|INFO|UserInterface|Parsed 2211 artifacts to scan
+2026-11-12 11:54:20.659|INFO|ArtifactScraper|Found 2211 for artifact count.
+2026-11-12 11:54:20.744|DEBUG|ArtifactScraper|Scanning artifact page 1
+2026-11-12 11:54:20.744|DEBUG|ArtifactScraper|Located 32 possible item locations on page.
+2026-11-12 11:54:21.210|DEBUG|ArtifactScraper|Parsing artifact substat: atk+35
+2026-11-12 11:54:21.210|DEBUG|ArtifactScraper|Parsing artifact substat: atk+8.7%
+2026-11-12 11:54:21.210|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+8.9%
+2026-11-12 11:54:21.210|DEBUG|ArtifactScraper|Parsing artifact substat: def+23
+2026-11-12 11:54:21.489|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+28.8%
+2026-11-12 11:54:21.489|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+2.7%
+2026-11-12 11:54:21.489|DEBUG|ArtifactScraper|Parsing artifact substat: atk+5.8%
+2026-11-12 11:54:21.489|DEBUG|ArtifactScraper|Parsing artifact substat: def+46
+2026-11-12 11:54:21.657|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+18.1%
+2026-11-12 11:54:21.657|DEBUG|ArtifactScraper|Parsing artifact substat: def+16
+2026-11-12 11:54:21.657|DEBUG|ArtifactScraper|Parsing artifact substat: def+14.6%
+2026-11-12 11:54:21.657|DEBUG|ArtifactScraper|Parsing artifact substat: hp+657
+2026-11-12 11:54:21.783|DEBUG|ArtifactScraper|Parsing artifact substat: hp+299
+2026-11-12 11:54:21.783|DEBUG|ArtifactScraper|Parsing artifact substat: hp+4.7%
+2026-11-12 11:54:21.783|DEBUG|ArtifactScraper|Parsing artifact substat: atk+45
+2026-11-12 11:54:21.783|DEBUG|ArtifactScraper|Parsing artifact substat: def+19.0%
+2026-11-12 11:54:22.062|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+5.4%
+2026-11-12 11:54:22.062|DEBUG|ArtifactScraper|Parsing artifact substat: def+5.8%
+2026-11-12 11:54:22.062|DEBUG|ArtifactScraper|Parsing artifact substat: atk+9.9%
+2026-11-12 11:54:22.062|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+20.2%
+2026-11-12 11:54:22.151|DEBUG|ArtifactScraper|Parsing artifact substat: hp+21.6%
+2026-11-12 11:54:22.151|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+3.1%
+2026-11-12 11:54:22.151|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+13.2%
+2026-11-12 11:54:22.151|DEBUG|ArtifactScraper|Parsing artifact substat: def+13.9%
+2026-11-12 11:54:22.460|DEBUG|ArtifactScraper|Parsing artifact substat: def+5.8%
+2026-11-12 11:54:22.460|DEBUG|ArtifactScraper|Parsing artifact substat: def+65
+2026-11-12 11:54:22.460|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+7.0%
+2026-11-12 11:54:22.460|DEBUG|ArtifactScraper|Parsing artifact substat: hp+13.4%
+2026-11-12 11:54:22.500|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+3.9%
+2026-11-12 11:54:22.500|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+5.4%
+2026-11-12 11:54:22.500|DEBUG|ArtifactScraper|Parsing artifact substat: def+17.5%
+2026-11-12 11:54:22.500|DEBUG|ArtifactScraper|Parsing artifact substat: hp+717
+2026-11-12 11:54:22.832|DEBUG|ArtifactScraper|Parsing artifact substat: atk+31
+2026-11-12 11:54:22.832|DEBUG|ArtifactScraper|Parsing artifact substat: def+16
+2026-11-12 11:54:22.832|DEBUG|ArtifactScraper|Parsing artifact substat: hp+13.4%
+2026-11-12 11:54:22.832|DEBUG|ArtifactScraper|Parsing artifact substat: hp+418
+2026-11-12 11:54:22.896|DEBUG|ArtifactScraper|Parsing artifact substat: atk+11.1%
+2026-11-12 11:54:22.896|DEBUG|ArtifactScraper|Parsing artifact substat: def+6.6%
+2026-11-12 11:54:22.896|DEBUG|ArtifactScraper|Parsing artifact substat: atk+51
+2026-11-12 11:54:22.896|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+11.0%
+2026-11-12 11:54:23.219|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+19
+2026-11-12 11:54:23.219|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+10.9%
+2026-11-12 11:54:23.220|DEBUG|ArtifactScraper|Parsing artifact substat: hp+5.3%
+2026-11-12 11:54:23.220|DEBUG|ArtifactScraper|Parsing artifact substat: hp+777
+2026-11-12 11:54:23.312|DEBUG|ArtifactScraper|Parsing artifact substat: atk+13.4%
+2026-11-12 11:54:23.312|DEBUG|ArtifactScraper|Parsing artifact substat: def+49
+2026-11-12 11:54:23.312|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+7.0%
+2026-11-12 11:54:23.312|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+5.8%
+2026-11-12 11:54:23.628|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+18.7%
+2026-11-12 11:54:23.628|DEBUG|ArtifactScraper|Parsing artifact substat: hp+448
+2026-11-12 11:54:23.628|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+3.9%
+2026-11-12 11:54:23.628|DEBUG|ArtifactScraper|Parsing artifact substat: atk+9.3%
+2026-11-12 11:54:23.699|DEBUG|ArtifactScraper|Parsing artifact substat: def+10.9%
+2026-11-12 11:54:23.699|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+23
+2026-11-12 11:54:23.699|DEBUG|ArtifactScraper|Parsing artifact substat: hp+21.0%
+2026-11-12 11:54:23.699|DEBUG|ArtifactScraper|Parsing artifact substat: def+39
+2026-11-12 11:54:23.790|DEBUG|ArtifactScraper|Parsing artifact substat: atk+64
+2026-11-12 11:54:23.790|DEBUG|ArtifactScraper|Parsing artifact substat: def+21
+2026-11-12 11:54:23.790|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+44
+2026-11-12 11:54:23.790|DEBUG|ArtifactScraper|Parsing artifact substat: hp+598
+2026-11-12 11:54:24.072|DEBUG|ArtifactScraper|Parsing artifact substat: hp+777
+2026-11-12 11:54:24.072|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+14.0%
+2026-11-12 11:54:24.072|DEBUG|ArtifactScraper|Parsing artifact substat: atk+4.1%
+2026-11-12 11:54:24.072|DEBUG|ArtifactScraper|Parsing artifact substat: def+13.1%
+2026-11-12 11:54:24.135|DEBUG|ArtifactScraper|Parsing artifact substat: hp+777
+2026-11-12 11:54:24.135|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+14.0%
+2026-11-12 11:54:24.135|DEBUG|ArtifactScraper|Parsing artifact substat: atk+4.1%
+2026-11-12 11:54:24.135|DEBUG|ArtifactScraper|Parsing artifact substat: def+13.1%
+2026-11-12 11:54:24.501|DEBUG|ArtifactScraper|Parsing artifact substat: hp+11.7%
+2026-11-12 11:54:24.501|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+35
+2026-11-12 11:54:24.501|DEBUG|ArtifactScraper|Parsing artifact substat: def+13.1%
+2026-11-12 11:54:24.501|DEBUG|ArtifactScraper|Parsing artifact substat: def+37
+2026-11-12 11:54:24.531|DEBUG|ArtifactScraper|Parsing artifact substat: hp+9.3%
+2026-11-12 11:54:24.531|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+8.9%
+2026-11-12 11:54:24.531|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+11.7%
+2026-11-12 11:54:24.531|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+4.5%
+2026-11-12 11:54:24.808|DEBUG|ArtifactScraper|Parsing artifact substat: hp+508
+2026-11-12 11:54:24.808|DEBUG|ArtifactScraper|Parsing artifact substat: atk+45
+2026-11-12 11:54:24.808|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+6.2%
+2026-11-12 11:54:24.808|DEBUG|ArtifactScraper|Parsing artifact substat: def+46
+2026-11-12 11:54:24.907|DEBUG|ArtifactScraper|Parsing artifact substat: hp+9.9%
+2026-11-12 11:54:24.907|DEBUG|ArtifactScraper|Parsing artifact substat: def+44
+2026-11-12 11:54:24.907|DEBUG|ArtifactScraper|Parsing artifact substat: def+20.4%
+2026-11-12 11:54:24.907|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+37
+2026-11-12 11:54:25.173|DEBUG|ArtifactScraper|Parsing artifact substat: atk+5.3%
+2026-11-12 11:54:25.173|DEBUG|ArtifactScraper|Parsing artifact substat: def+60
+2026-11-12 11:54:25.173|DEBUG|ArtifactScraper|Parsing artifact substat: hp+14.0%
+2026-11-12 11:54:25.173|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+5.2%
+2026-11-12 11:54:25.173|DEBUG|ArtifactScraper|Parsing artifact substat: hp+4.1%
+2026-11-12 11:54:25.173|DEBUG|ArtifactScraper|Parsing artifact substat: def+39
+2026-11-12 11:54:25.173|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+16.8%
+2026-11-12 11:54:25.173|DEBUG|ArtifactScraper|Parsing artifact substat: hp+508
+2026-11-12 11:54:25.541|DEBUG|ArtifactScraper|Parsing artifact substat: def+37
+2026-11-12 11:54:25.541|DEBUG|ArtifactScraper|Parsing artifact substat: hp+866
+2026-11-12 11:54:25.541|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+5.2%
+2026-11-12 11:54:25.541|DEBUG|ArtifactScraper|Parsing artifact substat: hp+9.9%
+2026-11-12 11:54:25.564|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+3.5%
+2026-11-12 11:54:25.564|DEBUG|ArtifactScraper|Parsing artifact substat: atk+33
+2026-11-12 11:54:25.564|DEBUG|ArtifactScraper|Parsing artifact substat: hp+8.7%
+2026-11-12 11:54:25.564|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+20.2%
+2026-11-12 11:54:25.861|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+10.4%
+2026-11-12 11:54:25.861|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+10.9%
+2026-11-12 11:54:25.861|DEBUG|ArtifactScraper|Parsing artifact substat: hp+926
+2026-11-12 11:54:25.861|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+23
+2026-11-12 11:54:25.895|DEBUG|ArtifactScraper|Parsing artifact substat: def+16
+2026-11-12 11:54:25.895|DEBUG|ArtifactScraper|Parsing artifact substat: atk+15.7%
+2026-11-12 11:54:25.895|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+13.0%
+2026-11-12 11:54:25.895|DEBUG|ArtifactScraper|Parsing artifact substat: hp+9.9%
+2026-11-12 11:54:26.208|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+37
+2026-11-12 11:54:26.208|DEBUG|ArtifactScraper|Parsing artifact substat: atk+54
+2026-11-12 11:54:26.208|DEBUG|ArtifactScraper|Parsing artifact substat: def+44
+2026-11-12 11:54:26.208|DEBUG|ArtifactScraper|Parsing artifact substat: atk+11.7%
+2026-11-12 11:54:26.257|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+5.8%
+2026-11-12 11:54:26.257|DEBUG|ArtifactScraper|Parsing artifact substat: atk+12.8%
+2026-11-12 11:54:26.257|DEBUG|ArtifactScraper|Parsing artifact substat: atk+33
+2026-11-12 11:54:26.257|DEBUG|ArtifactScraper|Parsing artifact substat: def+6.6%
+2026-11-12 11:54:26.461|DEBUG|ArtifactScraper|Finished queuing page of artifacts. Scrolling...
+2026-11-12 11:54:26.486|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+23
+2026-11-12 11:54:26.486|DEBUG|ArtifactScraper|Parsing artifact substat: hp+19.8%
+2026-11-12 11:54:26.486|DEBUG|ArtifactScraper|Parsing artifact substat: hp+598
+2026-11-12 11:54:26.486|DEBUG|ArtifactScraper|Parsing artifact substat: atk+5.8%
+2026-11-12 11:54:26.611|DEBUG|ArtifactScraper|Parsing artifact substat: hp+299
+2026-11-12 11:54:26.611|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+7.0%
+2026-11-12 11:54:26.611|DEBUG|ArtifactScraper|Parsing artifact substat: atk+21.0%
+2026-11-12 11:54:26.611|DEBUG|ArtifactScraper|Parsing artifact substat: def+23
+2026-11-12 11:54:26.813|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+13.0%
+2026-11-12 11:54:26.813|DEBUG|ArtifactScraper|Parsing artifact substat: atk+35
+2026-11-12 11:54:26.813|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+14.0%
+2026-11-12 11:54:26.813|DEBUG|ArtifactScraper|Parsing artifact substat: hp+9.9%
+2026-11-12 11:54:28.599|DEBUG|ArtifactScraper|Scanning artifact page 2
+2026-11-12 11:54:28.599|DEBUG|ArtifactScraper|Located 32 possible item locations on page.
+2026-11-12 11:54:28.983|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+7.8%
+2026-11-12 11:54:28.983|DEBUG|ArtifactScraper|Parsing artifact substat: hp+16.9%
+2026-11-12 11:54:28.983|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+3.1%
+2026-11-12 11:54:28.983|DEBUG|ArtifactScraper|Parsing artifact substat: atk+14.0%
+2026-11-12 11:54:29.277|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+19
+2026-11-12 11:54:29.277|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+6.6%
+2026-11-12 11:54:29.277|DEBUG|ArtifactScraper|Parsing artifact substat: atk+5.3%
+2026-11-12 11:54:29.277|DEBUG|ArtifactScraper|Parsing artifact substat: def+27.0%
+2026-11-12 11:54:29.399|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+8.9%
+2026-11-12 11:54:29.399|DEBUG|ArtifactScraper|Parsing artifact substat: def+5.8%
+2026-11-12 11:54:29.399|DEBUG|ArtifactScraper|Parsing artifact substat: def+42
+2026-11-12 11:54:29.399|DEBUG|ArtifactScraper|Parsing artifact substat: atk+35
+2026-11-12 11:54:29.623|DEBUG|ArtifactScraper|Parsing artifact substat: hp+747
+2026-11-12 11:54:29.623|DEBUG|ArtifactScraper|Parsing artifact substat: def+13.9%
+2026-11-12 11:54:29.623|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+7.8%
+2026-11-12 11:54:29.623|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+40
+2026-11-12 11:54:29.743|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+14.2%
+2026-11-12 11:54:29.743|DEBUG|ArtifactScraper|Parsing artifact substat: atk+10.5%
+2026-11-12 11:54:29.743|DEBUG|ArtifactScraper|Parsing artifact substat: atk+18
+2026-11-12 11:54:29.743|DEBUG|ArtifactScraper|Parsing artifact substat: def+46
+2026-11-12 11:54:30.052|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+5.4%
+2026-11-12 11:54:30.052|DEBUG|ArtifactScraper|Parsing artifact substat: atk+51
+2026-11-12 11:54:30.052|DEBUG|ArtifactScraper|Parsing artifact substat: def+58
+2026-11-12 11:54:30.052|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+10.4%
+2026-11-12 11:54:30.212|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+27.2%
+2026-11-12 11:54:30.212|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+23
+2026-11-12 11:54:30.212|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+7.4%
+2026-11-12 11:54:30.212|DEBUG|ArtifactScraper|Parsing artifact substat: def+5.8%
+2026-11-12 11:54:30.319|DEBUG|ArtifactScraper|Parsing artifact substat: atk+14
+2026-11-12 11:54:30.319|DEBUG|ArtifactScraper|Parsing artifact substat: atk+5.3%
+2026-11-12 11:54:30.319|DEBUG|ArtifactScraper|Parsing artifact substat: hp+687
+2026-11-12 11:54:30.319|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+8.6%
+2026-11-12 11:54:30.601|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+21
+2026-11-12 11:54:30.601|DEBUG|ArtifactScraper|Parsing artifact substat: atk+58
+2026-11-12 11:54:30.601|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+11.7%
+2026-11-12 11:54:30.601|DEBUG|ArtifactScraper|Parsing artifact substat: def+5.8%
+2026-11-12 11:54:30.683|DEBUG|ArtifactScraper|Parsing artifact substat: def+46
+2026-11-12 11:54:30.683|DEBUG|ArtifactScraper|Parsing artifact substat: atk+5.3%
+2026-11-12 11:54:30.683|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+28.8%
+2026-11-12 11:54:30.683|DEBUG|ArtifactScraper|Parsing artifact substat: hp+299
+2026-11-12 11:54:31.107|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+2.7%
+2026-11-12 11:54:31.107|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+6.5%
+2026-11-12 11:54:31.107|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+20.2%
+2026-11-12 11:54:31.107|DEBUG|ArtifactScraper|Parsing artifact substat: atk+16.9%
+2026-11-12 11:54:31.227|DEBUG|ArtifactScraper|Parsing artifact substat: def+32
+2026-11-12 11:54:31.227|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+17.5%
+2026-11-12 11:54:31.227|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+6.6%
+2026-11-12 11:54:31.227|DEBUG|ArtifactScraper|Parsing artifact substat: atk+18
+2026-11-12 11:54:31.521|DEBUG|ArtifactScraper|Parsing artifact substat: atk+4.1%
+2026-11-12 11:54:31.521|DEBUG|ArtifactScraper|Parsing artifact substat: hp+10.5%
+2026-11-12 11:54:31.521|DEBUG|ArtifactScraper|Parsing artifact substat: atk+54
+2026-11-12 11:54:31.521|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+42
+2026-11-12 11:54:31.747|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+12.4%
+2026-11-12 11:54:31.747|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+12.4%
+2026-11-12 11:54:31.747|DEBUG|ArtifactScraper|Parsing artifact substat: def+11.7%
+2026-11-12 11:54:31.747|DEBUG|ArtifactScraper|Parsing artifact substat: hp+269
+2026-11-12 11:54:31.797|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+4.5%
+2026-11-12 11:54:31.797|DEBUG|ArtifactScraper|Parsing artifact substat: def+28.4%
+2026-11-12 11:54:31.797|DEBUG|ArtifactScraper|Parsing artifact substat: hp+239
+2026-11-12 11:54:31.797|DEBUG|ArtifactScraper|Parsing artifact substat: atk+4.7%
+2026-11-12 11:54:32.034|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+17.1%
+2026-11-12 11:54:32.034|DEBUG|ArtifactScraper|Parsing artifact substat: def+19.0%
+2026-11-12 11:54:32.034|DEBUG|ArtifactScraper|Parsing artifact substat: hp+209
+2026-11-12 11:54:32.034|DEBUG|ArtifactScraper|Parsing artifact substat: hp+8.7%
+2026-11-12 11:54:32.227|DEBUG|ArtifactScraper|Parsing artifact substat: critdmg+17.1%
+2026-11-12 11:54:32.227|DEBUG|ArtifactScraper|Parsing artifact substat: def+19.0%
+2026-11-12 11:54:32.227|DEBUG|ArtifactScraper|Parsing artifact substat: hp+209
+2026-11-12 11:54:32.227|DEBUG|ArtifactScraper|Parsing artifact substat: hp+8.7%
+2026-11-12 11:54:32.300|DEBUG|ArtifactScraper|Parsing artifact substat: def+58
+2026-11-12 11:54:32.300|DEBUG|ArtifactScraper|Parsing artifact substat: atk+9.9%
+2026-11-12 11:54:32.300|DEBUG|ArtifactScraper|Parsing artifact substat: hp+747
+2026-11-12 11:54:32.300|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+23
+2026-11-12 11:54:32.548|DEBUG|ArtifactScraper|Parsing artifact substat: critrate+10.1%
+2026-11-12 11:54:32.548|DEBUG|ArtifactScraper|Parsing artifact substat: def+42
+2026-11-12 11:54:32.548|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+11.0%
+2026-11-12 11:54:32.548|DEBUG|ArtifactScraper|Parsing artifact substat: hp+4.7%
+2026-11-12 11:54:32.719|DEBUG|ArtifactScraper|Parsing artifact substat: atk+53
+2026-11-12 11:54:32.719|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+40
+2026-11-12 11:54:32.719|DEBUG|ArtifactScraper|Parsing artifact substat: def+11.7%
+2026-11-12 11:54:32.719|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+5.2%
+2026-11-12 11:54:33.046|DEBUG|ArtifactScraper|Parsing artifact substat: atk+13.4%
+2026-11-12 11:54:33.079|DEBUG|ArtifactScraper|Parsing artifact substat: atk+19
+2026-11-12 11:54:33.079|DEBUG|ArtifactScraper|Parsing artifact substat: elementalmastery+42
+2026-11-12 11:54:33.079|DEBUG|ArtifactScraper|Parsing artifact substat: energyrecharge+17.5%
+2026-11-12 11:54:33.079|DEBUG|ArtifactScraper|Parsing artifact substat: atk+10.5%
