@@ -1,9 +1,0 @@
-2026-11-12 10:07:04.281|INFO|InventoryKamera|Kamera initialized
-2026-11-12 10:07:18.272|INFO|GenshinProcesor|Scraper initialized
-2026-11-12 10:07:19.113|INFO|MainForm|Inventory Kamera version 1.0.0
-2026-11-12 10:07:23.016|INFO|DatabaseManager|Checking for newer game data...
-2026-11-12 10:07:25.776|INFO|MainForm|Game data is up to date (7.2)
-2026-11-12 10:07:34.322|INFO|GenshinProcesor|Scraper initialized
-2026-11-12 10:07:34.862|INFO|MainForm|Inventory Kamera version 1.0.0
-2026-11-12 10:07:42.799|INFO|DatabaseManager|Checking for newer game data...
-2026-11-12 10:07:45.109|INFO|MainForm|Game data is up to date (7.2)
