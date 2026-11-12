@@ -1,11 +1,11 @@
-2026-11-12 13:11:10.662|INFO|InventoryKamera|Kamera initialized
-2026-11-12 13:11:11.599|INFO|GenshinProcesor|Scraper initialized
-2026-11-12 13:11:11.618|INFO|MainForm|Inventory Kamera version 1.0.0
-2026-11-12 13:11:11.811|INFO|DatabaseManager|Checking for newer game data...
-2026-11-12 13:11:13.830|INFO|MainForm|Game data is up to date (7.2)
-2026-11-12 13:11:54.120|INFO|MainForm|Starting scan
-2026-11-12 13:11:54.120|INFO|MainForm|Hotkey registered
-2026-11-12 13:11:54.120|INFO|MainForm|Scan settings: 
+2026-11-12 13:35:48.637|INFO|InventoryKamera|Kamera initialized
+2026-11-12 13:35:49.568|INFO|GenshinProcesor|Scraper initialized
+2026-11-12 13:35:49.584|INFO|MainForm|Inventory Kamera version 1.0.0
+2026-11-12 13:35:49.822|INFO|DatabaseManager|Checking for newer game data...
+2026-11-12 13:35:50.470|INFO|MainForm|Game data is up to date (7.2)
+2026-11-12 13:35:59.819|INFO|MainForm|Starting scan
+2026-11-12 13:35:59.819|INFO|MainForm|Hotkey registered
+2026-11-12 13:35:59.819|INFO|MainForm|Scan settings: 
 	Game Version Data:			 7.2
 	Weapons:				 True
 	Artifacts:				 True
@@ -19,57 +19,57 @@
 	Min Artifact Level:		 0
 	Equip Artifacts:		 True
 	Delay:					 0
-2026-11-12 13:11:54.143|DEBUG|Navigation|Checking 2 executable(s): GenshinImpact, YuanShen
-2026-11-12 13:11:54.143|DEBUG|Navigation|Checking for GenshinImpact.exe
-2026-11-12 13:11:54.156|DEBUG|Navigation|Found GenshinImpact.exe
-2026-11-12 13:11:54.156|DEBUG|Navigation|Window location (1600x900): x=160, y=101
-2026-11-12 13:11:54.235|INFO|InventoryKamera|Kamera initialized
-2026-11-12 13:11:54.235|INFO|MainForm|Resolution: 1600x900
-2026-11-12 13:11:55.348|INFO|InventoryKamera|Logging directory reset
-2026-11-12 13:11:55.368|DEBUG|InventoryKamera|Added 3 workers
-2026-11-12 13:11:55.383|DEBUG|InventoryKamera|Thread #10 priority: Normal
-2026-11-12 13:11:55.383|DEBUG|InventoryKamera|Thread #11 priority: Normal
-2026-11-12 13:11:55.383|DEBUG|InventoryKamera|Thread #12 priority: Normal
-2026-11-12 13:11:55.963|DEBUG|GenshinProcesor|8 Engines restarted
-2026-11-12 13:11:55.968|INFO|GenshinProcesor|Internally set traveler custom name to nickke
-2026-11-12 13:11:55.985|INFO|GenshinProcesor|Internally set wanderer custom name to zefiro
-2026-11-12 13:11:55.985|INFO|GenshinProcesor|Internally set manekin custom name to bruce
-2026-11-12 13:11:55.985|INFO|GenshinProcesor|Internally set manekina custom name to saphire
-2026-11-12 13:11:55.985|INFO|InventoryKamera|Scanning weapons...
-2026-11-12 13:11:59.296|ERROR|UserInterface|Unable to locate Weapons item count.
-2026-11-12 13:12:01.306|INFO|InventoryKamera|Done scanning weapons
-2026-11-12 13:12:01.306|INFO|InventoryKamera|Scanning artifacts...
-2026-11-12 13:12:04.579|ERROR|UserInterface|Unable to locate Artifacts item count.
-2026-11-12 13:12:06.592|INFO|InventoryKamera|Done scanning artifacts
-2026-11-12 13:12:06.592|INFO|InventoryKamera|Scanning characters...
-2026-11-12 13:12:06.749|DEBUG|InventoryKamera|Thread 11 exit
-2026-11-12 13:12:06.749|DEBUG|InventoryKamera|Thread 10 exit
-2026-11-12 13:12:07.001|DEBUG|InventoryKamera|Thread 12 exit
-2026-11-12 13:12:10.744|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:10.748|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 1/75). Retrying...
-2026-11-12 13:12:10.898|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:10.898|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 2/75). Retrying...
-2026-11-12 13:12:11.050|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:11.050|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 3/75). Retrying...
-2026-11-12 13:12:11.200|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:11.200|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 4/75). Retrying...
-2026-11-12 13:12:11.334|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:11.334|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 5/75). Retrying...
-2026-11-12 13:12:11.481|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:11.481|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 6/75). Retrying...
-2026-11-12 13:12:11.614|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:11.614|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 7/75). Retrying...
-2026-11-12 13:12:11.764|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:11.764|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 8/75). Retrying...
-2026-11-12 13:12:11.895|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:11.895|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 9/75). Retrying...
-2026-11-12 13:12:12.049|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:12.049|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 10/75). Retrying...
-2026-11-12 13:12:12.194|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:12.194|DEBUG|CharacterScraper|OCR stale after 10 identical empty attempts — aborting early.
-2026-11-12 13:12:12.198|ERROR|UserInterface|Could not determine character's name
-2026-11-12 13:12:12.198|ERROR|UserInterface|Could not determine character's element
-2026-11-12 13:12:12.198|ERROR|CharacterScraper|Failed to scan character
+2026-11-12 13:35:59.847|DEBUG|Navigation|Checking 2 executable(s): GenshinImpact, YuanShen
+2026-11-12 13:35:59.847|DEBUG|Navigation|Checking for GenshinImpact.exe
+2026-11-12 13:35:59.860|DEBUG|Navigation|Found GenshinImpact.exe
+2026-11-12 13:35:59.860|DEBUG|Navigation|Window location (1600x900): x=160, y=101
+2026-11-12 13:35:59.909|INFO|InventoryKamera|Kamera initialized
+2026-11-12 13:35:59.909|INFO|MainForm|Resolution: 1600x900
+2026-11-12 13:35:59.932|INFO|InventoryKamera|Logging directory reset
+2026-11-12 13:35:59.961|DEBUG|InventoryKamera|Added 3 workers
+2026-11-12 13:35:59.975|DEBUG|InventoryKamera|Thread #5 priority: Normal
+2026-11-12 13:35:59.975|DEBUG|InventoryKamera|Thread #13 priority: Normal
+2026-11-12 13:35:59.975|DEBUG|InventoryKamera|Thread #12 priority: Normal
+2026-11-12 13:36:00.380|DEBUG|GenshinProcesor|8 Engines restarted
+2026-11-12 13:36:00.380|INFO|GenshinProcesor|Internally set traveler custom name to nickke
+2026-11-12 13:36:00.392|INFO|GenshinProcesor|Internally set wanderer custom name to zefiro
+2026-11-12 13:36:00.392|INFO|GenshinProcesor|Internally set manekin custom name to bruce
+2026-11-12 13:36:00.392|INFO|GenshinProcesor|Internally set manekina custom name to saphire
+2026-11-12 13:36:00.392|INFO|InventoryKamera|Scanning weapons...
+2026-11-12 13:36:03.622|ERROR|UserInterface|Unable to locate Weapons item count.
+2026-11-12 13:36:05.642|INFO|InventoryKamera|Done scanning weapons
+2026-11-12 13:36:05.642|INFO|InventoryKamera|Scanning artifacts...
+2026-11-12 13:36:08.815|ERROR|UserInterface|Unable to locate Artifacts item count.
+2026-11-12 13:36:10.830|INFO|InventoryKamera|Done scanning artifacts
+2026-11-12 13:36:10.830|INFO|InventoryKamera|Scanning characters...
+2026-11-12 13:36:11.018|DEBUG|InventoryKamera|Thread 12 exit
+2026-11-12 13:36:11.018|DEBUG|InventoryKamera|Thread 13 exit
+2026-11-12 13:36:11.018|DEBUG|InventoryKamera|Thread 5 exit
+2026-11-12 13:36:14.967|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:14.967|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 1/75). Retrying...
+2026-11-12 13:36:15.112|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:15.112|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 2/75). Retrying...
+2026-11-12 13:36:15.248|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:15.248|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 3/75). Retrying...
+2026-11-12 13:36:15.393|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:15.393|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 4/75). Retrying...
+2026-11-12 13:36:15.526|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:15.527|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 5/75). Retrying...
+2026-11-12 13:36:15.677|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:15.677|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 6/75). Retrying...
+2026-11-12 13:36:15.836|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:15.836|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 7/75). Retrying...
+2026-11-12 13:36:15.980|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:15.980|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 8/75). Retrying...
+2026-11-12 13:36:16.133|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:16.133|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 9/75). Retrying...
+2026-11-12 13:36:16.289|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:16.289|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 10/75). Retrying...
+2026-11-12 13:36:16.425|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:16.425|DEBUG|CharacterScraper|OCR stale after 10 identical empty attempts — aborting early.
+2026-11-12 13:36:16.425|ERROR|UserInterface|Could not determine character's name
+2026-11-12 13:36:16.425|ERROR|UserInterface|Could not determine character's element
+2026-11-12 13:36:16.433|ERROR|CharacterScraper|Failed to scan character
 Invalid character name
 Invalid level
 Invalid element
@@ -84,31 +84,31 @@ AUTO : 0
 SKILL : 0
 BURST : 0
 
-2026-11-12 13:12:13.666|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:13.666|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 1/75). Retrying...
-2026-11-12 13:12:13.813|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:13.813|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 2/75). Retrying...
-2026-11-12 13:12:13.957|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:13.957|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 3/75). Retrying...
-2026-11-12 13:12:14.091|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:14.091|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 4/75). Retrying...
-2026-11-12 13:12:14.257|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:14.257|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 5/75). Retrying...
-2026-11-12 13:12:14.409|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:14.409|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 6/75). Retrying...
-2026-11-12 13:12:14.537|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:14.537|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 7/75). Retrying...
-2026-11-12 13:12:14.694|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:14.694|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 8/75). Retrying...
-2026-11-12 13:12:14.847|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:14.847|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 9/75). Retrying...
-2026-11-12 13:12:14.987|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:14.987|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 10/75). Retrying...
-2026-11-12 13:12:15.122|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:15.122|DEBUG|CharacterScraper|OCR stale after 10 identical empty attempts — aborting early.
-2026-11-12 13:12:15.122|ERROR|UserInterface|Could not determine character's name
-2026-11-12 13:12:15.122|ERROR|UserInterface|Could not determine character's element
-2026-11-12 13:12:15.122|ERROR|CharacterScraper|Failed to scan character
+2026-11-12 13:36:17.886|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:17.886|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 1/75). Retrying...
+2026-11-12 13:36:18.042|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:18.042|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 2/75). Retrying...
+2026-11-12 13:36:18.192|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:18.192|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 3/75). Retrying...
+2026-11-12 13:36:18.338|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:18.338|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 4/75). Retrying...
+2026-11-12 13:36:18.476|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:18.476|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 5/75). Retrying...
+2026-11-12 13:36:18.620|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:18.620|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 6/75). Retrying...
+2026-11-12 13:36:18.757|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:18.757|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 7/75). Retrying...
+2026-11-12 13:36:18.903|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:18.903|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 8/75). Retrying...
+2026-11-12 13:36:19.034|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:19.034|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 9/75). Retrying...
+2026-11-12 13:36:19.184|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:19.184|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 10/75). Retrying...
+2026-11-12 13:36:19.345|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:19.345|DEBUG|CharacterScraper|OCR stale after 10 identical empty attempts — aborting early.
+2026-11-12 13:36:19.345|ERROR|UserInterface|Could not determine character's name
+2026-11-12 13:36:19.355|ERROR|UserInterface|Could not determine character's element
+2026-11-12 13:36:19.355|ERROR|CharacterScraper|Failed to scan character
 Invalid character name
 Invalid level
 Invalid element
@@ -123,31 +123,31 @@ AUTO : 0
 SKILL : 0
 BURST : 0
 
-2026-11-12 13:12:16.588|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:16.588|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 1/75). Retrying...
-2026-11-12 13:12:16.734|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:16.734|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 2/75). Retrying...
-2026-11-12 13:12:16.868|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:16.868|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 3/75). Retrying...
-2026-11-12 13:12:17.014|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:17.014|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 4/75). Retrying...
-2026-11-12 13:12:17.149|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:17.149|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 5/75). Retrying...
-2026-11-12 13:12:17.297|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:17.297|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 6/75). Retrying...
-2026-11-12 13:12:17.432|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:17.432|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 7/75). Retrying...
-2026-11-12 13:12:17.580|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:17.580|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 8/75). Retrying...
-2026-11-12 13:12:17.731|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:17.731|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 9/75). Retrying...
-2026-11-12 13:12:17.872|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:17.872|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 10/75). Retrying...
-2026-11-12 13:12:18.016|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:18.016|DEBUG|CharacterScraper|OCR stale after 10 identical empty attempts — aborting early.
-2026-11-12 13:12:18.016|ERROR|UserInterface|Could not determine character's name
-2026-11-12 13:12:18.016|ERROR|UserInterface|Could not determine character's element
-2026-11-12 13:12:18.016|ERROR|CharacterScraper|Failed to scan character
+2026-11-12 13:36:20.822|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:20.822|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 1/75). Retrying...
+2026-11-12 13:36:20.967|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:20.967|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 2/75). Retrying...
+2026-11-12 13:36:21.115|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:21.115|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 3/75). Retrying...
+2026-11-12 13:36:21.260|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:21.260|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 4/75). Retrying...
+2026-11-12 13:36:21.411|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:21.411|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 5/75). Retrying...
+2026-11-12 13:36:21.553|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:21.553|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 6/75). Retrying...
+2026-11-12 13:36:21.709|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:21.709|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 7/75). Retrying...
+2026-11-12 13:36:21.851|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:21.851|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 8/75). Retrying...
+2026-11-12 13:36:22.002|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:22.002|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 9/75). Retrying...
+2026-11-12 13:36:22.158|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:22.158|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 10/75). Retrying...
+2026-11-12 13:36:22.295|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:22.295|DEBUG|CharacterScraper|OCR stale after 10 identical empty attempts — aborting early.
+2026-11-12 13:36:22.295|ERROR|UserInterface|Could not determine character's name
+2026-11-12 13:36:22.295|ERROR|UserInterface|Could not determine character's element
+2026-11-12 13:36:22.295|ERROR|CharacterScraper|Failed to scan character
 Invalid character name
 Invalid level
 Invalid element
@@ -162,31 +162,31 @@ AUTO : 0
 SKILL : 0
 BURST : 0
 
-2026-11-12 13:12:19.480|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:19.480|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 1/75). Retrying...
-2026-11-12 13:12:19.627|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:19.627|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 2/75). Retrying...
-2026-11-12 13:12:19.784|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:19.784|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 3/75). Retrying...
-2026-11-12 13:12:19.948|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:19.948|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 4/75). Retrying...
-2026-11-12 13:12:20.106|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:20.106|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 5/75). Retrying...
-2026-11-12 13:12:20.274|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:20.274|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 6/75). Retrying...
-2026-11-12 13:12:20.426|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:20.426|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 7/75). Retrying...
-2026-11-12 13:12:20.579|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:20.579|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 8/75). Retrying...
-2026-11-12 13:12:20.724|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:20.724|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 9/75). Retrying...
-2026-11-12 13:12:20.873|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:20.873|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 10/75). Retrying...
-2026-11-12 13:12:21.030|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 13:12:21.030|DEBUG|CharacterScraper|OCR stale after 10 identical empty attempts — aborting early.
-2026-11-12 13:12:21.030|ERROR|UserInterface|Could not determine character's name
-2026-11-12 13:12:21.030|ERROR|UserInterface|Could not determine character's element
-2026-11-12 13:12:21.030|ERROR|CharacterScraper|Failed to scan character
+2026-11-12 13:36:23.772|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:23.772|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 1/75). Retrying...
+2026-11-12 13:36:23.924|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:23.924|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 2/75). Retrying...
+2026-11-12 13:36:24.068|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:24.068|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 3/75). Retrying...
+2026-11-12 13:36:24.206|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:24.206|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 4/75). Retrying...
+2026-11-12 13:36:24.350|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:24.350|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 5/75). Retrying...
+2026-11-12 13:36:24.506|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:24.506|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 6/75). Retrying...
+2026-11-12 13:36:24.637|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:24.637|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 7/75). Retrying...
+2026-11-12 13:36:24.794|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:24.794|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 8/75). Retrying...
+2026-11-12 13:36:24.935|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:24.935|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 9/75). Retrying...
+2026-11-12 13:36:25.084|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:25.084|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 10/75). Retrying...
+2026-11-12 13:36:25.216|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 13:36:25.216|DEBUG|CharacterScraper|OCR stale after 10 identical empty attempts — aborting early.
+2026-11-12 13:36:25.216|ERROR|UserInterface|Could not determine character's name
+2026-11-12 13:36:25.216|ERROR|UserInterface|Could not determine character's element
+2026-11-12 13:36:25.216|ERROR|CharacterScraper|Failed to scan character
 Invalid character name
 Invalid level
 Invalid element
@@ -201,20 +201,20 @@ AUTO : 0
 SKILL : 0
 BURST : 0
 
-2026-11-12 13:12:23.423|INFO|InventoryKamera|Done scanning characters
-2026-11-12 13:12:23.423|INFO|InventoryKamera|Scanning character development materials...
-2026-11-12 13:12:26.478|DEBUG|MaterialScraper|Scanned mora input: System.Collections.Generic.List`1[System.String]
-2026-11-12 13:12:26.478|DEBUG|MaterialScraper|Parsed mora input: 
-2026-11-12 13:12:26.481|ERROR|UserInterface|Unable to parse mora count
-2026-11-12 13:12:28.114|DEBUG|MaterialScraper|Scanning material page 1
-2026-11-12 13:12:28.114|DEBUG|MaterialScraper|Located 0 possible item locations on page.
-2026-11-12 13:12:28.114|WARN|MaterialScraper|Scan_Materials: page 1 returned no scannable items; aborting scan.
-2026-11-12 13:12:30.133|INFO|InventoryKamera|Done scanning character development materials
-2026-11-12 13:12:30.133|INFO|InventoryKamera|Scanning materials...
-2026-11-12 13:12:34.536|DEBUG|MaterialScraper|Scanning material page 1
-2026-11-12 13:12:34.536|DEBUG|MaterialScraper|Located 0 possible item locations on page.
-2026-11-12 13:12:34.536|WARN|MaterialScraper|Scan_Materials: page 1 returned no scannable items; aborting scan.
-2026-11-12 13:12:36.556|INFO|InventoryKamera|Done scanning materials
-2026-11-12 13:12:36.582|INFO|MainForm|Data converted to GOOD
-2026-11-12 13:12:36.691|INFO|MainForm|Exported data
-2026-11-12 13:12:36.691|INFO|MainForm|Auto-copied JSON to C:\Users\nicob\Documents\GitHub\genshin-data\GenshinData
+2026-11-12 13:36:27.604|INFO|InventoryKamera|Done scanning characters
+2026-11-12 13:36:27.607|INFO|InventoryKamera|Scanning character development materials...
+2026-11-12 13:36:30.679|DEBUG|MaterialScraper|Scanned mora input: System.Collections.Generic.List`1[System.String]
+2026-11-12 13:36:30.679|DEBUG|MaterialScraper|Parsed mora input: 
+2026-11-12 13:36:30.679|ERROR|UserInterface|Unable to parse mora count
+2026-11-12 13:36:32.199|DEBUG|MaterialScraper|Scanning material page 1
+2026-11-12 13:36:32.199|DEBUG|MaterialScraper|Located 0 possible item locations on page.
+2026-11-12 13:36:32.199|WARN|MaterialScraper|Scan_Materials: page 1 returned no scannable items; aborting scan.
+2026-11-12 13:36:34.211|INFO|InventoryKamera|Done scanning character development materials
+2026-11-12 13:36:34.211|INFO|InventoryKamera|Scanning materials...
+2026-11-12 13:36:38.655|DEBUG|MaterialScraper|Scanning material page 1
+2026-11-12 13:36:38.655|DEBUG|MaterialScraper|Located 0 possible item locations on page.
+2026-11-12 13:36:38.655|WARN|MaterialScraper|Scan_Materials: page 1 returned no scannable items; aborting scan.
+2026-11-12 13:36:40.682|INFO|InventoryKamera|Done scanning materials
+2026-11-12 13:36:40.705|INFO|MainForm|Data converted to GOOD
+2026-11-12 13:36:40.750|INFO|MainForm|Exported data
+2026-11-12 13:36:40.750|INFO|MainForm|Auto-copied JSON to C:\Users\nicob\Documents\GitHub\genshin-data\GenshinData
