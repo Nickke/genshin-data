@@ -1,0 +1,16 @@
+{
+  "setKey": "BloodstainedChivalry",
+  "slotKey": "circlet",
+  "rarity": 4,
+  "mainStatKey": "atk_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "eleMas",
+      "value": 13.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1914
+}

@@ -1,0 +1,28 @@
+{
+  "setKey": "HeartOfTheFurnace",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 20,
+  "substats": [
+    {
+      "key": "atk",
+      "value": 35.0
+    },
+    {
+      "key": "atk_",
+      "value": 8.7
+    },
+    {
+      "key": "critRate_",
+      "value": 8.9
+    },
+    {
+      "key": "def",
+      "value": 23.0
+    }
+  ],
+  "location": "Odette",
+  "lock": false,
+  "id": 0
+}

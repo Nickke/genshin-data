@@ -1,0 +1,16 @@
+{
+  "setKey": "TheExile",
+  "slotKey": "goblet",
+  "rarity": 4,
+  "mainStatKey": "cryo_dmg_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "",
+      "value": 1070.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1957
+}

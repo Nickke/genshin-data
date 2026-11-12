@@ -1,0 +1,24 @@
+2026-11-11 22:12:04.503|INFO|InventoryKamera|Kamera initialized
+2026-11-11 22:12:05.428|FATAL|Program|Main application crashed|System.TypeInitializationException: L'inizializzatore di tipo di 'InventoryKamera.GenshinProcesor' ha generato un'eccezione. ---> Newtonsoft.Json.JsonReaderException: Error reading string. Unexpected token: StartObject. Path 'absolution', line 2, position 17.
+   in Newtonsoft.Json.JsonReader.ReadAsString()
+   in Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   in Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateDictionary(IDictionary dictionary, JsonReader reader, JsonDictionaryContract contract, JsonProperty containerProperty, String id)
+   in Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   in Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   in Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   in Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   in Newtonsoft.Json.Linq.JToken.ToObject(Type objectType, JsonSerializer jsonSerializer)
+   in Newtonsoft.Json.Linq.JToken.ToObject(Type objectType)
+   in Newtonsoft.Json.Linq.JToken.ToObject[T]()
+   in InventoryKamera.GenshinProcesor.ReloadData()
+   in InventoryKamera.GenshinProcesor..cctor()
+   --- Fine della traccia dello stack dell'eccezione interna ---
+   in InventoryKamera.MainForm.ValidateCustomName(Object sender, EventArgs e)
+   in System.Windows.Forms.Control.OnParentChanged(EventArgs e)
+   in System.Windows.Forms.Control.AssignParent(Control value)
+   in System.Windows.Forms.Control.ControlCollection.Add(Control value)
+   in System.Windows.Forms.Form.ControlCollection.Add(Control value)
+   in InventoryKamera.MainForm.InitializeComponent()
+   in InventoryKamera.MainForm..ctor()
+   in InventoryKamera.Program.Main()
+2026-11-11 22:12:07.470|INFO|Program|Application closed

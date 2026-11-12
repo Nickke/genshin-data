@@ -1,0 +1,16 @@
+{
+  "setKey": "TheExile",
+  "slotKey": "sands",
+  "rarity": 3,
+  "mainStatKey": "atk_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "atk",
+      "value": 9.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 2078
+}

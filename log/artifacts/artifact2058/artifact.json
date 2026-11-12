@@ -1,0 +1,20 @@
+{
+  "setKey": "Adventurer",
+  "slotKey": "sands",
+  "rarity": 3,
+  "mainStatKey": "def_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "critDMG_",
+      "value": 4.7
+    },
+    {
+      "key": "atk_",
+      "value": 3.2
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 2058
+}

@@ -1,0 +1,16 @@
+{
+  "setKey": "Berserker",
+  "slotKey": "circlet",
+  "rarity": 3,
+  "mainStatKey": "critDMG_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def",
+      "value": 9.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 2172
+}

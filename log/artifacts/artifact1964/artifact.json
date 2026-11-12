@@ -1,0 +1,16 @@
+{
+  "setKey": "Gambler",
+  "slotKey": "goblet",
+  "rarity": 4,
+  "mainStatKey": "pyro_dmg_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "",
+      "value": 14470.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1964
+}

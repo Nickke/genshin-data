@@ -1,0 +1,20 @@
+{
+  "setKey": "TheExile",
+  "slotKey": "flower",
+  "rarity": 3,
+  "mainStatKey": "hp",
+  "level": 0,
+  "substats": [
+    {
+      "key": "eleMas",
+      "value": 10.0
+    },
+    {
+      "key": "def",
+      "value": 9.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 2065
+}

@@ -1,0 +1,24 @@
+{
+  "setKey": "ViridescentVenerer",
+  "slotKey": "circlet",
+  "rarity": 5,
+  "mainStatKey": "eleMas",
+  "level": 20,
+  "substats": [
+    {
+      "key": "hp_",
+      "value": 8.2
+    },
+    {
+      "key": "enerRech_",
+      "value": 12.3
+    },
+    {
+      "key": "atk_",
+      "value": 5.8
+    }
+  ],
+  "location": "YumemizukiMizuki",
+  "lock": false,
+  "id": 192
+}

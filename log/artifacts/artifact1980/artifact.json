@@ -1,0 +1,16 @@
+{
+  "setKey": "Instructor",
+  "slotKey": "circlet",
+  "rarity": 4,
+  "mainStatKey": "heal_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "",
+      "value": 11070.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1980
+}

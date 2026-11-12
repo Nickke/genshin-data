@@ -1,0 +1,16 @@
+{
+  "setKey": "Adventurer",
+  "slotKey": "circlet",
+  "rarity": 2,
+  "mainStatKey": "critRate_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "atk",
+      "value": 4.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 2209
+}
