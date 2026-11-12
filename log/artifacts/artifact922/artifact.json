@@ -1,0 +1,28 @@
+{
+  "setKey": "BloodstainedChivalry",
+  "slotKey": "plume",
+  "rarity": 5,
+  "mainStatKey": "atk",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def",
+      "value": 23.0
+    },
+    {
+      "key": "eleMas",
+      "value": 23.0
+    },
+    {
+      "key": "def_",
+      "value": 5.1
+    },
+    {
+      "key": "hp",
+      "value": 269.0
+    }
+  ],
+  "location": "",
+  "lock": true,
+  "id": 922
+}

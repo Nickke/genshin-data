@@ -1,0 +1,20 @@
+{
+  "setKey": "Gambler",
+  "slotKey": "circlet",
+  "rarity": 4,
+  "mainStatKey": "atk_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "",
+      "value": 137.0
+    },
+    {
+      "key": "hp",
+      "value": 191.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1966
+}

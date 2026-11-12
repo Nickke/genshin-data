@@ -23,6 +23,6 @@
     }
   ],
   "location": "Vesna",
-  "lock": false,
+  "lock": true,
   "id": 6
 }

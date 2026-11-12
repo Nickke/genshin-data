@@ -1,0 +1,20 @@
+{
+  "setKey": "Instructor",
+  "slotKey": "sands",
+  "rarity": 4,
+  "mainStatKey": "atk_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "",
+      "value": 970.0
+    },
+    {
+      "key": "critDMG_",
+      "value": 6.2
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1972
+}

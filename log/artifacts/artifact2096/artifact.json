@@ -1,0 +1,20 @@
+{
+  "setKey": "TheExile",
+  "slotKey": "goblet",
+  "rarity": 3,
+  "mainStatKey": "geo_dmg_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def",
+      "value": 9.0
+    },
+    {
+      "key": "eleMas",
+      "value": 11.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 2096
+}

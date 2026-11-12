@@ -1,0 +1,16 @@
+{
+  "setKey": "Adventurer",
+  "slotKey": "flower",
+  "rarity": 2,
+  "mainStatKey": "hp",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def",
+      "value": 5.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 2219
+}

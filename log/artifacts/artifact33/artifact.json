@@ -23,6 +23,6 @@
     }
   ],
   "location": "Mavuika",
-  "lock": true,
+  "lock": false,
   "id": 33
 }

@@ -1,0 +1,20 @@
+{
+  "setKey": "Instructor",
+  "slotKey": "sands",
+  "rarity": 3,
+  "mainStatKey": "def_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "eleMas",
+      "value": 10.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 3.1
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 2150
+}

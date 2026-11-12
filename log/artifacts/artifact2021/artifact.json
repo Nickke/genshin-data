@@ -1,0 +1,20 @@
+{
+  "setKey": "Scholar",
+  "slotKey": "circlet",
+  "rarity": 3,
+  "mainStatKey": "heal_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def",
+      "value": 9.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 3.9
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 2021
+}

@@ -1,0 +1,16 @@
+{
+  "setKey": "HeartOfTheFurnace",
+  "slotKey": "goblet",
+  "rarity": 4,
+  "mainStatKey": "def_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "",
+      "value": 14470.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1906
+}
