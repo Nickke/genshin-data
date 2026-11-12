@@ -1,0 +1,12 @@
+2026-11-12 09:41:08.935|INFO|InventoryKamera|Kamera initialized
+2026-11-12 09:41:10.546|INFO|GenshinProcesor|Scraper initialized
+2026-11-12 09:41:10.571|FATAL|Program|Main application crashed|System.Resources.MissingManifestResourceException: Non sono state trovate risorse appropriate per le impostazioni cultura specificate o non associate ad alcun paese. Assicurarsi che "InventoryKamera.MainForm.resources" sia stato correttamente incorporato o collegato all'assembly "InventoryKamera" in fase di compilazione o che tutti gli assembly satellite richiesti siano caricabili e firmati completamente.
+   in System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+   in System.Resources.ManifestBasedResourceGroveler.GrovelForResourceSet(CultureInfo culture, Dictionary`2 localResourceSets, Boolean tryParents, Boolean createIfNotExists, StackCrawlMark& stackMark)
+   in System.Resources.ResourceManager.InternalGetResourceSet(CultureInfo requestedCulture, Boolean createIfNotExists, Boolean tryParents, StackCrawlMark& stackMark)
+   in System.Resources.ResourceManager.InternalGetResourceSet(CultureInfo culture, Boolean createIfNotExists, Boolean tryParents)
+   in System.Resources.ResourceManager.GetObject(String name, CultureInfo culture, Boolean wrapUnmanagedMemStream)
+   in InventoryKamera.MainForm.InitializeComponent()
+   in InventoryKamera.MainForm..ctor()
+   in InventoryKamera.Program.Main()
+2026-11-12 09:51:39.217|INFO|Program|Application closed
