@@ -1,0 +1,64 @@
+2026-11-12 07:56:48.082|INFO|InventoryKamera|Kamera initialized
+2026-11-12 07:56:49.496|INFO|GenshinProcesor|Scraper initialized
+2026-11-12 07:56:49.558|INFO|MainForm|Inventory Kamera version 1.3.17
+2026-11-12 07:56:49.772|INFO|DatabaseManager|Checking for newer game data...
+2026-11-12 07:56:50.003|INFO|DatabaseManager|Checking for newer game data...
+2026-11-12 07:56:50.401|INFO|MainForm|Game data is up to date (7.2)
+2026-11-12 07:56:50.556|INFO|MainForm|Current game data is up to date with data for 7.2
+2026-11-12 07:58:41.655|INFO|MainForm|Starting scan
+2026-11-12 07:58:41.655|INFO|MainForm|Hotkey registered
+2026-11-12 07:58:41.655|INFO|MainForm|Scan settings: 
+	Game Version Data:			 7.2
+	Weapons:				 True
+	Artifacts:				 True
+	Characters:				 True
+	Dev Items:				 True
+	Materials:				 True
+	Min Weapon Rarity:		 1
+	Min Weapon Level:		 1
+	Equip Weapons:			 True
+	Min Artifact Rarity:	 1
+	Min Artifact Level:		 0
+	Equip Artifacts:		 True
+	Delay:					 0
+2026-11-12 07:58:41.805|INFO|InventoryKamera|Kamera initialized
+2026-11-12 07:58:41.805|INFO|MainForm|Resolution: 1600x900
+2026-11-12 07:58:41.953|INFO|InventoryKamera|Logging directory reset
+2026-11-12 07:58:42.688|INFO|GenshinProcesor|Internally set traveler custom name to nickke
+2026-11-12 07:58:42.701|INFO|GenshinProcesor|Internally set wanderer custom name to zefiro
+2026-11-12 07:58:42.701|INFO|GenshinProcesor|Internally set manekin custom name to bruce
+2026-11-12 07:58:42.701|INFO|GenshinProcesor|Internally set manekina custom name to saphire
+2026-11-12 07:58:42.701|INFO|InventoryKamera|Scanning weapons...
+2026-11-12 07:58:48.414|INFO|UserInterface|Parsed 284 weapons to scan
+2026-11-12 07:58:48.414|INFO|WeaponScraper|Found 284 for weapon count.
+2026-11-12 07:59:57.647|INFO|WeaponScraper|Stopping weapon scan based on scans queued (284 of 284)
+2026-11-12 07:59:59.668|INFO|InventoryKamera|Done scanning weapons
+2026-11-12 07:59:59.668|INFO|InventoryKamera|Scanning artifacts...
+2026-11-12 08:00:04.739|INFO|UserInterface|Parsed 2211 artifacts to scan
+2026-11-12 08:00:04.739|INFO|ArtifactScraper|Found 2211 for artifact count.
+2026-11-12 08:09:14.615|INFO|ArtifactScraper|Stopping artifact scan based on scans queued (2211 of 2211)
+2026-11-12 08:09:16.643|INFO|InventoryKamera|Done scanning artifacts
+2026-11-12 08:09:16.643|INFO|InventoryKamera|Scanning characters...
+2026-11-12 08:09:20.986|INFO|CharacterScraper|Mavuika Level: 90
+2026-11-12 08:09:20.986|INFO|CharacterScraper|Mavuika Ascended: False
+2026-11-12 08:09:22.657|INFO|CharacterScraper|Mavuika Constellation: 0
+2026-11-12 08:09:23.999|ERROR|UserInterface|Common Language Runtime ha rilevato un programma non valido.
+   in InventoryKamera.CharacterScraper.ScanTalents(Character character)
+   in InventoryKamera.CharacterScraper.ScanCharacter(String firstCharacter)
+   in InventoryKamera.CharacterScraper.ScanCharacters(List`1& Characters)
+   in InventoryKamera.InventoryKamera.GatherData()
+2026-11-12 08:09:26.019|INFO|InventoryKamera|Done scanning characters
+2026-11-12 08:09:26.019|INFO|InventoryKamera|Scanning character development materials...
+2026-11-12 08:11:13.092|ERROR|UserInterface|Failed to parse quantity for ArtificedSpareClockworkComponentCoppelia
+2026-11-12 08:11:14.372|ERROR|UserInterface|Failed to parse quantity for TourbillonDevice
+2026-11-12 08:11:54.704|ERROR|UserInterface|Failed to parse quantity for TeachingsOfKindling
+2026-11-12 08:12:44.120|WARN|MaterialScraper|Scroll wrap-around detected. Forcing LastPage scan.
+2026-11-12 08:12:51.344|INFO|InventoryKamera|Done scanning character development materials
+2026-11-12 08:12:51.344|INFO|InventoryKamera|Scanning materials...
+2026-11-12 08:14:46.977|WARN|MaterialScraper|Scroll wrap-around detected. Forcing LastPage scan.
+2026-11-12 08:14:54.281|INFO|InventoryKamera|Done scanning materials
+2026-11-12 08:14:54.298|INFO|MainForm|Data converted to GOOD
+2026-11-12 08:14:54.347|INFO|MainForm|Exported data
+2026-11-12 08:14:54.347|INFO|MainForm|Auto-copied JSON to C:\Users\nicob\Documents\GitHub\genshin-data\GenshinData
+2026-11-12 08:15:35.717|INFO|MainForm|Auto-copied log to C:\Users\nicob\Documents\GitHub\genshin-data\log
+2026-11-12 08:15:50.626|INFO|MainForm|Hotkey removed
