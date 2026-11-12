@@ -1,7 +1,11 @@
-2026-11-12 10:53:06.950|INFO|MainForm|Hotkey removed
-2026-11-12 10:53:55.959|INFO|MainForm|Starting scan
-2026-11-12 10:53:55.959|INFO|MainForm|Hotkey registered
-2026-11-12 10:53:55.959|INFO|MainForm|Scan settings: 
+2026-11-12 11:31:50.404|INFO|InventoryKamera|Kamera initialized
+2026-11-12 11:31:51.199|INFO|GenshinProcesor|Scraper initialized
+2026-11-12 11:31:51.214|INFO|MainForm|Inventory Kamera version 1.0.0
+2026-11-12 11:31:51.384|INFO|DatabaseManager|Checking for newer game data...
+2026-11-12 11:31:51.982|INFO|MainForm|Game data is up to date (7.2)
+2026-11-12 11:31:56.492|INFO|MainForm|Starting scan
+2026-11-12 11:31:56.496|INFO|MainForm|Hotkey registered
+2026-11-12 11:31:56.496|INFO|MainForm|Scan settings: 
 	Game Version Data:			 7.2
 	Weapons:				 True
 	Artifacts:				 True
@@ -15,168 +19,57 @@
 	Min Artifact Level:		 0
 	Equip Artifacts:		 True
 	Delay:					 0
-2026-11-12 10:53:55.959|DEBUG|Navigation|Checking for GenshinImpact.exe
-2026-11-12 10:53:55.965|DEBUG|Navigation|Found GenshinImpact.exe
-2026-11-12 10:53:55.965|DEBUG|Navigation|Window location (1600x900): x=160, y=101
-2026-11-12 10:53:56.007|INFO|InventoryKamera|Kamera initialized
-2026-11-12 10:53:56.007|INFO|MainForm|Resolution: 1600x900
-2026-11-12 10:53:56.007|WARN|InventoryKamera|Failed to reset logging directories|System.IO.DirectoryNotFoundException: Impossibile trovare una parte del percorso 'C:\Users\nicob\Downloads\Inventory_KameraV1.3.17\logging\weapons'.
-   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
-   in System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive, Boolean checkHost)
-   in InventoryKamera.InventoryKamera.ResetLogging()
-2026-11-12 10:53:56.023|INFO|InventoryKamera|Logging directory reset
-2026-11-12 10:53:56.061|DEBUG|InventoryKamera|Thread #4 priority: Normal
-2026-11-12 10:53:56.061|DEBUG|InventoryKamera|Thread #9 priority: Normal
-2026-11-12 10:53:56.061|DEBUG|InventoryKamera|Thread #11 priority: Normal
-2026-11-12 10:53:56.061|DEBUG|InventoryKamera|Added 3 workers
-2026-11-12 10:53:56.912|DEBUG|GenshinProcesor|8 Engines restarted
-2026-11-12 10:53:56.912|INFO|GenshinProcesor|Internally set traveler custom name to nickke
-2026-11-12 10:53:56.923|INFO|GenshinProcesor|Internally set wanderer custom name to zefiro
-2026-11-12 10:53:56.923|INFO|GenshinProcesor|Internally set manekin custom name to bruce
-2026-11-12 10:53:56.923|INFO|GenshinProcesor|Internally set manekina custom name to saphire
-2026-11-12 10:53:56.923|INFO|InventoryKamera|Scanning weapons...
-2026-11-12 10:53:59.982|DEBUG|InventoryScraper|Defaulted to 2000 for inventory page capacity
-2026-11-12 10:54:01.324|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0
-2026-11-12 10:54:01.324|WARN|InventoryScraper|Detected 0 rows and 0 columns of items
-2026-11-12 10:54:02.946|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,125
-2026-11-12 10:54:02.946|WARN|InventoryScraper|Detected 0 rows and 0 columns of items
-2026-11-12 10:54:04.309|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,25
-2026-11-12 10:54:04.309|WARN|InventoryScraper|Detected 0 rows and 0 columns of items
-2026-11-12 10:54:05.683|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,375
-2026-11-12 10:54:05.683|WARN|InventoryScraper|Detected 0 rows and 0 columns of items
-2026-11-12 10:54:07.296|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,5
-2026-11-12 10:54:07.296|WARN|InventoryScraper|Detected 0 rows and 0 columns of items
-2026-11-12 10:54:08.646|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,625
-2026-11-12 10:54:08.646|WARN|InventoryScraper|Detected 0 rows and 0 columns of items
-2026-11-12 10:54:09.992|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,75
-2026-11-12 10:54:09.992|WARN|InventoryScraper|Detected 3 rows and 3 columns of items
-2026-11-12 10:54:11.286|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,875
-2026-11-12 10:54:11.286|WARN|InventoryScraper|Detected 5 rows and 7 columns of items
-2026-11-12 10:54:12.584|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,78
-2026-11-12 10:54:12.584|WARN|InventoryScraper|Detected 3 rows and 4 columns of items
-2026-11-12 10:54:13.894|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,905
-2026-11-12 10:54:13.894|WARN|InventoryScraper|Detected 6 rows and 7 columns of items
-2026-11-12 10:54:15.373|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,81
-2026-11-12 10:54:15.373|WARN|InventoryScraper|Detected 4 rows and 4 columns of items
-2026-11-12 10:54:16.823|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,935
-2026-11-12 10:54:16.823|WARN|InventoryScraper|Detected 6 rows and 8 columns of items
-2026-11-12 10:54:18.774|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,84
-2026-11-12 10:54:18.774|WARN|InventoryScraper|Detected 5 rows and 6 columns of items
-2026-11-12 10:54:20.663|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,965
-2026-11-12 10:54:20.663|WARN|InventoryScraper|Detected 6 rows and 8 columns of items
-2026-11-12 10:54:22.554|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,87
-2026-11-12 10:54:22.555|WARN|InventoryScraper|Detected 5 rows and 7 columns of items
-2026-11-12 10:54:24.432|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,775
-2026-11-12 10:54:24.432|WARN|InventoryScraper|Detected 3 rows and 4 columns of items
-2026-11-12 10:54:26.412|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,9
-2026-11-12 10:54:26.412|WARN|InventoryScraper|Detected 6 rows and 7 columns of items
-2026-11-12 10:54:28.620|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,805
-2026-11-12 10:54:28.620|WARN|InventoryScraper|Detected 4 rows and 4 columns of items
-2026-11-12 10:54:30.558|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,93
-2026-11-12 10:54:30.558|WARN|InventoryScraper|Detected 6 rows and 8 columns of items
-2026-11-12 10:54:32.519|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,835
-2026-11-12 10:54:32.519|WARN|InventoryScraper|Detected 5 rows and 6 columns of items
-2026-11-12 10:54:34.442|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,96
-2026-11-12 10:54:34.442|WARN|InventoryScraper|Detected 6 rows and 8 columns of items
-2026-11-12 10:54:36.711|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,865
-2026-11-12 10:54:36.711|WARN|InventoryScraper|Detected 5 rows and 6 columns of items
-2026-11-12 10:54:38.545|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,99
-2026-11-12 10:54:38.545|WARN|InventoryScraper|Detected 6 rows and 8 columns of items
-2026-11-12 10:54:40.296|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,895
-2026-11-12 10:54:40.296|WARN|InventoryScraper|Detected 6 rows and 7 columns of items
-2026-11-12 10:54:42.006|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,8
-2026-11-12 10:54:42.006|WARN|InventoryScraper|Detected 4 rows and 4 columns of items
-2026-11-12 10:54:43.769|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,925
-2026-11-12 10:54:43.769|WARN|InventoryScraper|Detected 6 rows and 8 columns of items
-2026-11-12 10:54:45.536|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,83
-2026-11-12 10:54:45.536|WARN|InventoryScraper|Detected 4 rows and 5 columns of items
-2026-11-12 10:54:47.262|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,955
-2026-11-12 10:54:47.262|WARN|InventoryScraper|Detected 6 rows and 8 columns of items
-2026-11-12 10:54:48.680|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,86
-2026-11-12 10:54:48.680|WARN|InventoryScraper|Detected 5 rows and 6 columns of items
-2026-11-12 10:54:50.008|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,985
-2026-11-12 10:54:50.008|WARN|InventoryScraper|Detected 6 rows and 8 columns of items
-2026-11-12 10:54:51.310|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,89
-2026-11-12 10:54:51.310|WARN|InventoryScraper|Detected 6 rows and 7 columns of items
-2026-11-12 10:54:52.637|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,795
-2026-11-12 10:54:52.637|WARN|InventoryScraper|Detected 3 rows and 4 columns of items
-2026-11-12 10:54:53.946|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,92
-2026-11-12 10:54:53.946|WARN|InventoryScraper|Detected 6 rows and 8 columns of items
-2026-11-12 10:54:55.287|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,825
-2026-11-12 10:54:55.287|WARN|InventoryScraper|Detected 4 rows and 5 columns of items
-2026-11-12 10:54:56.642|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,95
-2026-11-12 10:54:56.642|WARN|InventoryScraper|Detected 6 rows and 8 columns of items
-2026-11-12 10:54:58.056|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,855
-2026-11-12 10:54:58.056|WARN|InventoryScraper|Detected 5 rows and 6 columns of items
-2026-11-12 10:54:59.988|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,98
-2026-11-12 10:54:59.988|WARN|InventoryScraper|Detected 6 rows and 7 columns of items
-2026-11-12 10:55:02.010|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,885
-2026-11-12 10:55:02.010|WARN|InventoryScraper|Detected 5 rows and 7 columns of items
-2026-11-12 10:55:03.796|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,79
-2026-11-12 10:55:03.796|WARN|InventoryScraper|Detected 3 rows and 4 columns of items
-2026-11-12 10:55:05.561|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,915
-2026-11-12 10:55:05.561|WARN|InventoryScraper|Detected 6 rows and 8 columns of items
-2026-11-12 10:55:07.108|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,820000000000001
-2026-11-12 10:55:07.108|WARN|InventoryScraper|Detected 4 rows and 3 columns of items
-2026-11-12 10:55:08.605|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,945000000000001
-2026-11-12 10:55:08.605|WARN|InventoryScraper|Detected 6 rows and 8 columns of items
-2026-11-12 10:55:10.104|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,850000000000001
-2026-11-12 10:55:10.104|WARN|InventoryScraper|Detected 5 rows and 6 columns of items
-2026-11-12 10:55:11.585|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,975000000000001
-2026-11-12 10:55:11.585|WARN|InventoryScraper|Detected 6 rows and 7 columns of items
-2026-11-12 10:55:13.130|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,880000000000001
-2026-11-12 10:55:13.130|WARN|InventoryScraper|Detected 5 rows and 7 columns of items
-2026-11-12 10:55:15.041|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,785000000000001
-2026-11-12 10:55:15.041|WARN|InventoryScraper|Detected 3 rows and 4 columns of items
-2026-11-12 10:55:16.943|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,910000000000001
-2026-11-12 10:55:16.943|WARN|InventoryScraper|Detected 6 rows and 7 columns of items
-2026-11-12 10:55:18.603|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,815000000000001
-2026-11-12 10:55:18.603|WARN|InventoryScraper|Detected 4 rows and 3 columns of items
-2026-11-12 10:55:20.087|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,940000000000001
-2026-11-12 10:55:20.087|WARN|InventoryScraper|Detected 6 rows and 8 columns of items
-2026-11-12 10:55:21.580|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,845000000000001
-2026-11-12 10:55:21.580|WARN|InventoryScraper|Detected 5 rows and 6 columns of items
-2026-11-12 10:55:22.939|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,970000000000001
-2026-11-12 10:55:22.939|WARN|InventoryScraper|Detected 6 rows and 7 columns of items
-2026-11-12 10:55:23.185|WARN|InventoryScraper|Could not find 40 items in inventory. Re-using previous item page.
-2026-11-12 10:55:23.322|ERROR|UserInterface|Il valore non può essere null.
-Nome parametro: Could not find first page of items!
-   in InventoryKamera.InventoryScraper.GetPageOfItems(Int32 pageNum, Boolean acceptLess)
-   in InventoryKamera.WeaponScraper.ScanWeapons(Int32 count)
-   in InventoryKamera.InventoryKamera.GatherData()
-2026-11-12 10:55:25.342|INFO|InventoryKamera|Done scanning weapons
-2026-11-12 10:55:25.342|INFO|InventoryKamera|Scanning artifacts...
-2026-11-12 10:55:28.524|ERROR|UserInterface|Unable to locate Artifacts item count.
-2026-11-12 10:55:30.532|INFO|InventoryKamera|Done scanning artifacts
-2026-11-12 10:55:30.532|INFO|InventoryKamera|Scanning characters...
-2026-11-12 10:55:30.580|DEBUG|InventoryKamera|Thread 11 exit
-2026-11-12 10:55:30.660|DEBUG|InventoryKamera|Thread 4 exit
-2026-11-12 10:55:30.722|DEBUG|InventoryKamera|Thread 9 exit
-2026-11-12 10:55:34.677|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:34.677|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 1/75). Retrying...
-2026-11-12 10:55:34.830|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:34.830|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 2/75). Retrying...
-2026-11-12 10:55:34.970|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:34.970|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 3/75). Retrying...
-2026-11-12 10:55:35.119|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:35.119|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 4/75). Retrying...
-2026-11-12 10:55:35.252|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:35.252|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 5/75). Retrying...
-2026-11-12 10:55:35.401|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:35.401|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 6/75). Retrying...
-2026-11-12 10:55:35.533|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:35.533|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 7/75). Retrying...
-2026-11-12 10:55:35.697|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:35.697|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 8/75). Retrying...
-2026-11-12 10:55:35.834|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:35.834|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 9/75). Retrying...
-2026-11-12 10:55:35.986|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:35.986|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 10/75). Retrying...
-2026-11-12 10:55:36.140|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:36.140|DEBUG|CharacterScraper|OCR stale after 10 identical empty attempts — aborting early.
-2026-11-12 10:55:36.140|ERROR|UserInterface|Could not determine character's name
-2026-11-12 10:55:36.140|ERROR|UserInterface|Could not determine character's element
-2026-11-12 10:55:36.140|ERROR|CharacterScraper|Failed to scan character
+2026-11-12 11:31:56.516|DEBUG|Navigation|Checking 2 executable(s): GenshinImpact, YuanShen
+2026-11-12 11:31:56.516|DEBUG|Navigation|Checking for GenshinImpact.exe
+2026-11-12 11:31:56.529|DEBUG|Navigation|Found GenshinImpact.exe
+2026-11-12 11:31:56.529|DEBUG|Navigation|Window location (1600x900): x=160, y=101
+2026-11-12 11:31:56.570|INFO|InventoryKamera|Kamera initialized
+2026-11-12 11:31:56.570|INFO|MainForm|Resolution: 1600x900
+2026-11-12 11:31:56.585|INFO|InventoryKamera|Logging directory reset
+2026-11-12 11:31:56.604|DEBUG|InventoryKamera|Added 3 workers
+2026-11-12 11:31:56.630|DEBUG|InventoryKamera|Thread #5 priority: Normal
+2026-11-12 11:31:56.630|DEBUG|InventoryKamera|Thread #13 priority: Normal
+2026-11-12 11:31:56.630|DEBUG|InventoryKamera|Thread #12 priority: Normal
+2026-11-12 11:31:57.012|DEBUG|GenshinProcesor|8 Engines restarted
+2026-11-12 11:31:57.012|INFO|GenshinProcesor|Internally set traveler custom name to nickke
+2026-11-12 11:31:57.012|INFO|GenshinProcesor|Internally set wanderer custom name to zefiro
+2026-11-12 11:31:57.012|INFO|GenshinProcesor|Internally set manekin custom name to bruce
+2026-11-12 11:31:57.012|INFO|GenshinProcesor|Internally set manekina custom name to saphire
+2026-11-12 11:31:57.012|INFO|InventoryKamera|Scanning weapons...
+2026-11-12 11:32:00.278|ERROR|UserInterface|Unable to locate Weapons item count.
+2026-11-12 11:32:02.285|INFO|InventoryKamera|Done scanning weapons
+2026-11-12 11:32:02.285|INFO|InventoryKamera|Scanning artifacts...
+2026-11-12 11:32:05.476|ERROR|UserInterface|Unable to locate Artifacts item count.
+2026-11-12 11:32:07.498|INFO|InventoryKamera|Done scanning artifacts
+2026-11-12 11:32:07.498|INFO|InventoryKamera|Scanning characters...
+2026-11-12 11:32:07.530|DEBUG|InventoryKamera|Thread 12 exit
+2026-11-12 11:32:07.530|DEBUG|InventoryKamera|Thread 13 exit
+2026-11-12 11:32:07.734|DEBUG|InventoryKamera|Thread 5 exit
+2026-11-12 11:32:11.616|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:11.616|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 1/75). Retrying...
+2026-11-12 11:32:11.765|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:11.765|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 2/75). Retrying...
+2026-11-12 11:32:11.899|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:11.899|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 3/75). Retrying...
+2026-11-12 11:32:12.065|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:12.065|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 4/75). Retrying...
+2026-11-12 11:32:12.216|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:12.216|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 5/75). Retrying...
+2026-11-12 11:32:12.354|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:12.354|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 6/75). Retrying...
+2026-11-12 11:32:12.501|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:12.501|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 7/75). Retrying...
+2026-11-12 11:32:12.648|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:12.648|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 8/75). Retrying...
+2026-11-12 11:32:12.797|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:12.797|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 9/75). Retrying...
+2026-11-12 11:32:12.929|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:12.929|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 10/75). Retrying...
+2026-11-12 11:32:13.078|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:13.078|DEBUG|CharacterScraper|OCR stale after 10 identical empty attempts — aborting early.
+2026-11-12 11:32:13.078|ERROR|UserInterface|Could not determine character's name
+2026-11-12 11:32:13.078|ERROR|UserInterface|Could not determine character's element
+2026-11-12 11:32:13.089|ERROR|CharacterScraper|Failed to scan character
 Invalid character name
 Invalid level
 Invalid element
@@ -191,31 +84,31 @@ AUTO : 0
 SKILL : 0
 BURST : 0
 
-2026-11-12 10:55:37.608|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:37.608|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 1/75). Retrying...
-2026-11-12 10:55:37.746|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:37.746|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 2/75). Retrying...
-2026-11-12 10:55:37.887|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:37.887|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 3/75). Retrying...
-2026-11-12 10:55:38.026|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:38.026|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 4/75). Retrying...
-2026-11-12 10:55:38.160|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:38.160|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 5/75). Retrying...
-2026-11-12 10:55:38.310|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:38.310|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 6/75). Retrying...
-2026-11-12 10:55:38.448|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:38.448|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 7/75). Retrying...
-2026-11-12 10:55:38.594|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:38.594|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 8/75). Retrying...
-2026-11-12 10:55:38.725|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:38.725|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 9/75). Retrying...
-2026-11-12 10:55:38.876|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:38.876|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 10/75). Retrying...
-2026-11-12 10:55:39.011|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:39.011|DEBUG|CharacterScraper|OCR stale after 10 identical empty attempts — aborting early.
-2026-11-12 10:55:39.011|ERROR|UserInterface|Could not determine character's name
-2026-11-12 10:55:39.011|ERROR|UserInterface|Could not determine character's element
-2026-11-12 10:55:39.011|ERROR|CharacterScraper|Failed to scan character
+2026-11-12 11:32:14.545|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:14.545|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 1/75). Retrying...
+2026-11-12 11:32:14.705|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:14.705|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 2/75). Retrying...
+2026-11-12 11:32:14.853|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:14.853|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 3/75). Retrying...
+2026-11-12 11:32:14.986|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:14.986|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 4/75). Retrying...
+2026-11-12 11:32:15.150|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:15.150|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 5/75). Retrying...
+2026-11-12 11:32:15.291|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:15.291|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 6/75). Retrying...
+2026-11-12 11:32:15.439|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:15.439|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 7/75). Retrying...
+2026-11-12 11:32:15.600|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:15.600|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 8/75). Retrying...
+2026-11-12 11:32:15.736|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:15.736|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 9/75). Retrying...
+2026-11-12 11:32:15.886|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:15.886|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 10/75). Retrying...
+2026-11-12 11:32:16.034|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:16.034|DEBUG|CharacterScraper|OCR stale after 10 identical empty attempts — aborting early.
+2026-11-12 11:32:16.034|ERROR|UserInterface|Could not determine character's name
+2026-11-12 11:32:16.034|ERROR|UserInterface|Could not determine character's element
+2026-11-12 11:32:16.034|ERROR|CharacterScraper|Failed to scan character
 Invalid character name
 Invalid level
 Invalid element
@@ -230,31 +123,31 @@ AUTO : 0
 SKILL : 0
 BURST : 0
 
-2026-11-12 10:55:40.456|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:40.456|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 1/75). Retrying...
-2026-11-12 10:55:40.592|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:40.592|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 2/75). Retrying...
-2026-11-12 10:55:40.737|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:40.737|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 3/75). Retrying...
-2026-11-12 10:55:40.870|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:40.870|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 4/75). Retrying...
-2026-11-12 10:55:41.020|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:41.020|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 5/75). Retrying...
-2026-11-12 10:55:41.156|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:41.156|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 6/75). Retrying...
-2026-11-12 10:55:41.304|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:41.304|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 7/75). Retrying...
-2026-11-12 10:55:41.456|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:41.456|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 8/75). Retrying...
-2026-11-12 10:55:41.602|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:41.602|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 9/75). Retrying...
-2026-11-12 10:55:41.737|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:41.737|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 10/75). Retrying...
-2026-11-12 10:55:41.884|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:41.884|DEBUG|CharacterScraper|OCR stale after 10 identical empty attempts — aborting early.
-2026-11-12 10:55:41.884|ERROR|UserInterface|Could not determine character's name
-2026-11-12 10:55:41.884|ERROR|UserInterface|Could not determine character's element
-2026-11-12 10:55:41.884|ERROR|CharacterScraper|Failed to scan character
+2026-11-12 11:32:17.500|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:17.500|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 1/75). Retrying...
+2026-11-12 11:32:17.640|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:17.640|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 2/75). Retrying...
+2026-11-12 11:32:17.784|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:17.784|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 3/75). Retrying...
+2026-11-12 11:32:17.932|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:17.932|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 4/75). Retrying...
+2026-11-12 11:32:18.078|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:18.078|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 5/75). Retrying...
+2026-11-12 11:32:18.211|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:18.211|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 6/75). Retrying...
+2026-11-12 11:32:18.360|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:18.360|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 7/75). Retrying...
+2026-11-12 11:32:18.515|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:18.515|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 8/75). Retrying...
+2026-11-12 11:32:18.651|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:18.651|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 9/75). Retrying...
+2026-11-12 11:32:18.795|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:18.795|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 10/75). Retrying...
+2026-11-12 11:32:18.962|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:18.962|DEBUG|CharacterScraper|OCR stale after 10 identical empty attempts — aborting early.
+2026-11-12 11:32:18.966|ERROR|UserInterface|Could not determine character's name
+2026-11-12 11:32:18.966|ERROR|UserInterface|Could not determine character's element
+2026-11-12 11:32:18.966|ERROR|CharacterScraper|Failed to scan character
 Invalid character name
 Invalid level
 Invalid element
@@ -269,31 +162,31 @@ AUTO : 0
 SKILL : 0
 BURST : 0
 
-2026-11-12 10:55:43.353|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:43.353|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 1/75). Retrying...
-2026-11-12 10:55:43.497|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:43.497|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 2/75). Retrying...
-2026-11-12 10:55:43.650|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:43.650|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 3/75). Retrying...
-2026-11-12 10:55:43.803|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:43.803|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 4/75). Retrying...
-2026-11-12 10:55:43.948|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:43.948|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 5/75). Retrying...
-2026-11-12 10:55:44.097|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:44.097|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 6/75). Retrying...
-2026-11-12 10:55:44.250|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:44.250|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 7/75). Retrying...
-2026-11-12 10:55:44.395|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:44.395|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 8/75). Retrying...
-2026-11-12 10:55:44.528|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:44.528|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 9/75). Retrying...
-2026-11-12 10:55:44.681|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:44.681|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 10/75). Retrying...
-2026-11-12 10:55:44.830|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
-2026-11-12 10:55:44.830|DEBUG|CharacterScraper|OCR stale after 10 identical empty attempts — aborting early.
-2026-11-12 10:55:44.830|ERROR|UserInterface|Could not determine character's name
-2026-11-12 10:55:44.838|ERROR|UserInterface|Could not determine character's element
-2026-11-12 10:55:44.838|ERROR|CharacterScraper|Failed to scan character
+2026-11-12 11:32:20.446|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:20.446|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 1/75). Retrying...
+2026-11-12 11:32:20.590|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:20.590|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 2/75). Retrying...
+2026-11-12 11:32:20.736|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:20.736|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 3/75). Retrying...
+2026-11-12 11:32:20.890|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:20.890|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 4/75). Retrying...
+2026-11-12 11:32:21.019|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:21.019|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 5/75). Retrying...
+2026-11-12 11:32:21.169|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:21.169|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 6/75). Retrying...
+2026-11-12 11:32:21.304|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:21.304|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 7/75). Retrying...
+2026-11-12 11:32:21.452|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:21.452|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 8/75). Retrying...
+2026-11-12 11:32:21.585|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:21.585|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 9/75). Retrying...
+2026-11-12 11:32:21.718|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:21.718|DEBUG|CharacterScraper|Could not parse character name/element (Atempt 10/75). Retrying...
+2026-11-12 11:32:21.869|DEBUG|CharacterScraper|OCR name region (invert=True) — block: '' | line: ''
+2026-11-12 11:32:21.869|DEBUG|CharacterScraper|OCR stale after 10 identical empty attempts — aborting early.
+2026-11-12 11:32:21.871|ERROR|UserInterface|Could not determine character's name
+2026-11-12 11:32:21.871|ERROR|UserInterface|Could not determine character's element
+2026-11-12 11:32:21.871|ERROR|CharacterScraper|Failed to scan character
 Invalid character name
 Invalid level
 Invalid element
@@ -308,20 +201,20 @@ AUTO : 0
 SKILL : 0
 BURST : 0
 
-2026-11-12 10:55:47.210|INFO|InventoryKamera|Done scanning characters
-2026-11-12 10:55:47.210|INFO|InventoryKamera|Scanning character development materials...
-2026-11-12 10:55:50.265|DEBUG|MaterialScraper|Scanned mora input: System.Collections.Generic.List`1[System.String]
-2026-11-12 10:55:50.265|DEBUG|MaterialScraper|Parsed mora input: 
-2026-11-12 10:55:50.265|ERROR|UserInterface|Unable to parse mora count
-2026-11-12 10:55:51.343|DEBUG|MaterialScraper|Scanning material page 1
-2026-11-12 10:55:51.343|DEBUG|MaterialScraper|Located 0 possible item locations on page.
-2026-11-12 10:55:51.343|WARN|MaterialScraper|Scan_Materials: page 1 returned no scannable items; aborting scan.
-2026-11-12 10:55:53.348|INFO|InventoryKamera|Done scanning character development materials
-2026-11-12 10:55:53.348|INFO|InventoryKamera|Scanning materials...
-2026-11-12 10:55:57.767|DEBUG|MaterialScraper|Scanning material page 1
-2026-11-12 10:55:57.767|DEBUG|MaterialScraper|Located 0 possible item locations on page.
-2026-11-12 10:55:57.767|WARN|MaterialScraper|Scan_Materials: page 1 returned no scannable items; aborting scan.
-2026-11-12 10:55:59.788|INFO|InventoryKamera|Done scanning materials
-2026-11-12 10:55:59.791|INFO|MainForm|Data converted to GOOD
-2026-11-12 10:55:59.791|INFO|MainForm|Exported data
-2026-11-12 10:55:59.791|INFO|MainForm|Auto-copied JSON to C:\Users\nicob\Documents\GitHub\genshin-data\GenshinData
+2026-11-12 11:32:24.245|INFO|InventoryKamera|Done scanning characters
+2026-11-12 11:32:24.245|INFO|InventoryKamera|Scanning character development materials...
+2026-11-12 11:32:27.296|DEBUG|MaterialScraper|Scanned mora input: System.Collections.Generic.List`1[System.String]
+2026-11-12 11:32:27.296|DEBUG|MaterialScraper|Parsed mora input: 
+2026-11-12 11:32:27.296|ERROR|UserInterface|Unable to parse mora count
+2026-11-12 11:32:28.699|DEBUG|MaterialScraper|Scanning material page 1
+2026-11-12 11:32:28.699|DEBUG|MaterialScraper|Located 0 possible item locations on page.
+2026-11-12 11:32:28.699|WARN|MaterialScraper|Scan_Materials: page 1 returned no scannable items; aborting scan.
+2026-11-12 11:32:30.709|INFO|InventoryKamera|Done scanning character development materials
+2026-11-12 11:32:30.709|INFO|InventoryKamera|Scanning materials...
+2026-11-12 11:32:35.125|DEBUG|MaterialScraper|Scanning material page 1
+2026-11-12 11:32:35.125|DEBUG|MaterialScraper|Located 0 possible item locations on page.
+2026-11-12 11:32:35.125|WARN|MaterialScraper|Scan_Materials: page 1 returned no scannable items; aborting scan.
+2026-11-12 11:32:37.148|INFO|InventoryKamera|Done scanning materials
+2026-11-12 11:32:37.162|INFO|MainForm|Data converted to GOOD
+2026-11-12 11:32:37.205|INFO|MainForm|Exported data
+2026-11-12 11:32:37.205|INFO|MainForm|Auto-copied JSON to C:\Users\nicob\Documents\GitHub\genshin-data\GenshinData
