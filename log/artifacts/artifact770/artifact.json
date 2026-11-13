@@ -23,6 +23,6 @@
     }
   ],
   "location": "Thoma",
-  "lock": true,
+  "lock": false,
   "id": 770
 }

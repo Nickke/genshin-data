@@ -6,6 +6,10 @@
   "level": 20,
   "substats": [
     {
+      "key": "",
+      "value": 3.0
+    },
+    {
       "key": "hp_",
       "value": 8.2
     },

@@ -23,6 +23,6 @@
     }
   ],
   "location": "Columbina",
-  "lock": true,
+  "lock": false,
   "id": 19
 }
