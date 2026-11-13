@@ -1,12 +1,12 @@
-2026-11-13 12:02:12.983|INFO|InventoryKamera|Kamera initialized
-2026-11-13 12:02:14.051|INFO|GenshinProcesor|Scraper initialized
-2026-11-13 12:02:14.100|INFO|MainForm|Inventory Kamera version 2.0.0
-2026-11-13 12:02:14.269|INFO|MainForm|Application settings loaded from previous version
-2026-11-13 12:02:14.429|INFO|DatabaseManager|Checking for newer game data...
-2026-11-13 12:02:15.094|INFO|MainForm|Game data is up to date (7.2)
-2026-11-13 12:02:19.457|INFO|MainForm|Starting scan
-2026-11-13 12:02:19.457|INFO|MainForm|Hotkey registered
-2026-11-13 12:02:19.457|INFO|MainForm|Scan settings: 
+2026-11-13 12:53:34.760|INFO|InventoryKamera|Kamera initialized
+2026-11-13 12:53:35.769|INFO|GenshinProcesor|Scraper initialized
+2026-11-13 12:53:35.789|INFO|MainForm|Inventory Kamera version 2.0.1
+2026-11-13 12:53:35.967|INFO|MainForm|Application settings loaded from previous version
+2026-11-13 12:53:36.174|INFO|DatabaseManager|Checking for newer game data...
+2026-11-13 12:53:36.835|INFO|MainForm|Game data is up to date (7.2)
+2026-11-13 12:53:46.575|INFO|MainForm|Starting scan
+2026-11-13 12:53:46.579|INFO|MainForm|Hotkey registered
+2026-11-13 12:53:46.579|INFO|MainForm|Scan settings: 
 	Game Version Data:			 7.2
 	Weapons:				 True
 	Artifacts:				 True
@@ -20,26 +20,69 @@
 	Min Artifact Level:		 0
 	Equip Artifacts:		 True
 	Delay:					 0
-2026-11-13 12:02:19.563|INFO|InventoryKamera|Kamera initialized
-2026-11-13 12:02:19.563|INFO|MainForm|Resolution: 1600x900
-2026-11-13 12:02:19.563|WARN|InventoryKamera|Failed to reset logging directories|System.IO.DirectoryNotFoundException: Impossibile trovare una parte del percorso 'C:\Users\nicob\Downloads\Inventory_KameraV1.3.17\logging\weapons'.
-   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
-   in System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive, Boolean checkHost)
-   in InventoryKamera.InventoryKamera.ResetLogging()
-2026-11-13 12:02:19.645|INFO|InventoryKamera|Logging directory reset
-2026-11-13 12:02:20.259|INFO|GenshinProcesor|Internally set traveler custom name to nickke
-2026-11-13 12:02:20.266|INFO|GenshinProcesor|Internally set manekin custom name to bruce
-2026-11-13 12:02:20.266|INFO|GenshinProcesor|Internally set manekina custom name to saphire
-2026-11-13 12:02:20.266|INFO|InventoryKamera|Scanning weapons...
-2026-11-13 12:02:23.516|ERROR|UserInterface|Unable to locate Weapons item count.
-2026-11-13 12:02:25.528|INFO|InventoryKamera|Done scanning weapons
-2026-11-13 12:02:25.528|INFO|InventoryKamera|Scanning artifacts...
-2026-11-13 12:02:28.762|ERROR|UserInterface|Unable to locate Artifacts item count.
-2026-11-13 12:02:30.765|INFO|InventoryKamera|Done scanning artifacts
-2026-11-13 12:02:30.765|INFO|InventoryKamera|Scanning characters...
-2026-11-13 12:02:36.531|ERROR|UserInterface|Could not determine character's name
-2026-11-13 12:02:36.531|ERROR|UserInterface|Could not determine character's element
-2026-11-13 12:02:36.546|ERROR|CharacterScraper|Failed to scan character
+2026-11-13 12:53:46.695|INFO|InventoryKamera|Kamera initialized
+2026-11-13 12:53:46.695|INFO|MainForm|Resolution: 1600x900
+2026-11-13 12:53:46.703|INFO|InventoryKamera|Logging directory reset
+2026-11-13 12:53:47.211|INFO|GenshinProcesor|Internally set traveler custom name to nickke
+2026-11-13 12:53:47.217|INFO|GenshinProcesor|Internally set wanderer custom name to zefiro
+2026-11-13 12:53:47.217|INFO|GenshinProcesor|Internally set manekin custom name to bruce
+2026-11-13 12:53:47.217|INFO|GenshinProcesor|Internally set manekina custom name to saphire
+2026-11-13 12:53:47.217|INFO|InventoryKamera|Scanning weapons...
+2026-11-13 12:53:51.695|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0
+2026-11-13 12:53:51.695|WARN|InventoryScraper|Detected 0 rows and 0 columns of items
+2026-11-13 12:53:53.118|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,125
+2026-11-13 12:53:53.118|WARN|InventoryScraper|Detected 2 rows and 4 columns of items
+2026-11-13 12:53:54.565|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,25
+2026-11-13 12:53:54.565|WARN|InventoryScraper|Detected 2 rows and 5 columns of items
+2026-11-13 12:53:56.013|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,375
+2026-11-13 12:53:56.013|WARN|InventoryScraper|Detected 2 rows and 5 columns of items
+2026-11-13 12:53:57.274|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,5
+2026-11-13 12:53:57.274|WARN|InventoryScraper|Detected 2 rows and 5 columns of items
+2026-11-13 12:53:58.547|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,625
+2026-11-13 12:53:58.547|WARN|InventoryScraper|Detected 3 rows and 6 columns of items
+2026-11-13 12:53:59.967|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,75
+2026-11-13 12:53:59.967|WARN|InventoryScraper|Detected 3 rows and 6 columns of items
+2026-11-13 12:54:01.448|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,875
+2026-11-13 12:54:01.448|WARN|InventoryScraper|Detected 5 rows and 7 columns of items
+2026-11-13 12:54:02.901|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,78
+2026-11-13 12:54:02.901|WARN|InventoryScraper|Detected 3 rows and 7 columns of items
+2026-11-13 12:54:04.610|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,905
+2026-11-13 12:54:04.610|WARN|InventoryScraper|Detected 5 rows and 6 columns of items
+2026-11-13 12:54:04.900|WARN|InventoryScraper|Could not find 40 items in inventory. Re-using previous item page.
+2026-11-13 12:54:05.061|ERROR|UserInterface|Il valore non può essere null.
+Nome parametro: Could not find first page of items!
+   in InventoryKamera.InventoryScraper.GetPageOfItems(Int32 pageNum, Boolean acceptLess)
+   in InventoryKamera.WeaponScraper.ScanWeapons(Int32 count)
+   in InventoryKamera.InventoryKamera.GatherData()
+2026-11-13 12:54:07.081|INFO|InventoryKamera|Done scanning weapons
+2026-11-13 12:54:07.081|INFO|InventoryKamera|Scanning artifacts...
+2026-11-13 12:54:11.367|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0
+2026-11-13 12:54:11.367|WARN|InventoryScraper|Detected 0 rows and 0 columns of items
+2026-11-13 12:54:12.576|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,125
+2026-11-13 12:54:12.576|WARN|InventoryScraper|Detected 2 rows and 4 columns of items
+2026-11-13 12:54:13.785|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,25
+2026-11-13 12:54:13.785|WARN|InventoryScraper|Detected 2 rows and 5 columns of items
+2026-11-13 12:54:15.034|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,375
+2026-11-13 12:54:15.034|WARN|InventoryScraper|Detected 2 rows and 5 columns of items
+2026-11-13 12:54:16.334|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,5
+2026-11-13 12:54:16.334|WARN|InventoryScraper|Detected 2 rows and 5 columns of items
+2026-11-13 12:54:17.710|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,625
+2026-11-13 12:54:17.710|WARN|InventoryScraper|Detected 3 rows and 5 columns of items
+2026-11-13 12:54:19.057|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,75
+2026-11-13 12:54:19.057|WARN|InventoryScraper|Detected 3 rows and 5 columns of items
+2026-11-13 12:54:20.618|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,875
+2026-11-13 12:54:20.618|WARN|InventoryScraper|Detected 4 rows and 7 columns of items
+2026-11-13 12:54:20.878|WARN|InventoryScraper|Could not find 32 items in inventory. Re-using previous item page.
+2026-11-13 12:54:21.003|ERROR|UserInterface|Il valore non può essere null.
+Nome parametro: Could not find first page of items!
+   in InventoryKamera.InventoryScraper.GetPageOfItems(Int32 pageNum, Boolean acceptLess)
+   in InventoryKamera.ArtifactScraper.ScanArtifacts(Int32 count)
+   in InventoryKamera.InventoryKamera.GatherData()
+2026-11-13 12:54:23.026|INFO|InventoryKamera|Done scanning artifacts
+2026-11-13 12:54:23.026|INFO|InventoryKamera|Scanning characters...
+2026-11-13 12:54:28.737|ERROR|UserInterface|Could not determine character's name
+2026-11-13 12:54:28.737|ERROR|UserInterface|Could not determine character's element
+2026-11-13 12:54:28.750|ERROR|CharacterScraper|Failed to scan character
 Invalid character name
 Invalid level
 Invalid element
@@ -54,9 +97,9 @@ AUTO : 0
 SKILL : 0
 BURST : 0
 
-2026-11-13 12:02:39.505|ERROR|UserInterface|Could not determine character's name
-2026-11-13 12:02:39.514|ERROR|UserInterface|Could not determine character's element
-2026-11-13 12:02:39.514|ERROR|CharacterScraper|Failed to scan character
+2026-11-13 12:54:31.689|ERROR|UserInterface|Could not determine character's name
+2026-11-13 12:54:31.689|ERROR|UserInterface|Could not determine character's element
+2026-11-13 12:54:31.689|ERROR|CharacterScraper|Failed to scan character
 Invalid character name
 Invalid level
 Invalid element
@@ -71,9 +114,9 @@ AUTO : 0
 SKILL : 0
 BURST : 0
 
-2026-11-13 12:02:42.532|ERROR|UserInterface|Could not determine character's name
-2026-11-13 12:02:42.532|ERROR|UserInterface|Could not determine character's element
-2026-11-13 12:02:42.532|ERROR|CharacterScraper|Failed to scan character
+2026-11-13 12:54:34.655|ERROR|UserInterface|Could not determine character's name
+2026-11-13 12:54:34.655|ERROR|UserInterface|Could not determine character's element
+2026-11-13 12:54:34.655|ERROR|CharacterScraper|Failed to scan character
 Invalid character name
 Invalid level
 Invalid element
@@ -88,9 +131,9 @@ AUTO : 0
 SKILL : 0
 BURST : 0
 
-2026-11-13 12:02:45.548|ERROR|UserInterface|Could not determine character's name
-2026-11-13 12:02:45.548|ERROR|UserInterface|Could not determine character's element
-2026-11-13 12:02:45.548|ERROR|CharacterScraper|Failed to scan character
+2026-11-13 12:54:37.530|ERROR|UserInterface|Could not determine character's name
+2026-11-13 12:54:37.530|ERROR|UserInterface|Could not determine character's element
+2026-11-13 12:54:37.530|ERROR|CharacterScraper|Failed to scan character
 Invalid character name
 Invalid level
 Invalid element
@@ -105,231 +148,14 @@ AUTO : 0
 SKILL : 0
 BURST : 0
 
-2026-11-13 12:02:47.936|INFO|InventoryKamera|Done scanning characters
-2026-11-13 12:02:47.936|INFO|InventoryKamera|Scanning character development materials...
-2026-11-13 12:02:51.067|ERROR|UserInterface|Unable to parse mora count
-2026-11-13 12:02:52.401|WARN|MaterialScraper|Scan_Materials: page 1 returned no scannable items; aborting scan.
-2026-11-13 12:02:54.425|INFO|InventoryKamera|Done scanning character development materials
-2026-11-13 12:02:54.425|INFO|InventoryKamera|Scanning materials...
-2026-11-13 12:02:58.486|WARN|MaterialScraper|Scan_Materials: page 1 returned no scannable items; aborting scan.
-2026-11-13 12:03:00.514|INFO|InventoryKamera|Done scanning materials
-2026-11-13 12:03:00.531|INFO|MainForm|Data converted to GOOD
-2026-11-13 12:03:00.592|INFO|MainForm|Exported data
-2026-11-13 12:03:00.817|INFO|MainForm|Hotkey pressed
-2026-11-13 12:03:00.863|INFO|MainForm|Hotkey removed
-2026-11-13 12:03:40.375|INFO|MainForm|Starting scan
-2026-11-13 12:03:40.375|INFO|MainForm|Hotkey registered
-2026-11-13 12:03:40.375|INFO|MainForm|Scan settings: 
-	Game Version Data:			 7.2
-	Weapons:				 True
-	Artifacts:				 True
-	Characters:				 True
-	Dev Items:				 True
-	Materials:				 True
-	Min Weapon Rarity:		 3
-	Min Weapon Level:		 1
-	Equip Weapons:			 True
-	Min Artifact Rarity:	 4
-	Min Artifact Level:		 0
-	Equip Artifacts:		 True
-	Delay:					 0
-2026-11-13 12:03:40.425|INFO|InventoryKamera|Kamera initialized
-2026-11-13 12:03:40.425|INFO|MainForm|Resolution: 1600x900
-2026-11-13 12:03:48.899|INFO|InventoryKamera|Logging directory reset
-2026-11-13 12:03:49.554|INFO|GenshinProcesor|Internally set traveler custom name to nickke
-2026-11-13 12:03:49.554|INFO|GenshinProcesor|Internally set manekin custom name to bruce
-2026-11-13 12:03:49.554|INFO|GenshinProcesor|Internally set manekina custom name to saphire
-2026-11-13 12:03:49.554|INFO|InventoryKamera|Scanning weapons...
-2026-11-13 12:03:52.774|ERROR|UserInterface|Unable to locate Weapons item count.
-2026-11-13 12:03:54.793|INFO|InventoryKamera|Done scanning weapons
-2026-11-13 12:03:54.793|INFO|InventoryKamera|Scanning artifacts...
-2026-11-13 12:03:57.994|ERROR|UserInterface|Unable to locate Artifacts item count.
-2026-11-13 12:04:00.012|INFO|InventoryKamera|Done scanning artifacts
-2026-11-13 12:04:00.012|INFO|InventoryKamera|Scanning characters...
-2026-11-13 12:04:05.627|ERROR|UserInterface|Could not determine character's name
-2026-11-13 12:04:05.627|ERROR|UserInterface|Could not determine character's element
-2026-11-13 12:04:05.627|ERROR|CharacterScraper|Failed to scan character
-Invalid character name
-Invalid level
-Invalid element
-Invalid talents
-Character
-Name: 
-Element: 
-Level: 0
-Ascension Level: 0
-Constellation: 0
-AUTO : 0
-SKILL : 0
-BURST : 0
-
-2026-11-13 12:04:09.176|ERROR|UserInterface|Could not determine character's name
-2026-11-13 12:04:09.187|ERROR|UserInterface|Could not determine character's element
-2026-11-13 12:04:09.187|ERROR|CharacterScraper|Failed to scan character
-Invalid character name
-Invalid level
-Invalid element
-Invalid talents
-Character
-Name: 
-Element: 
-Level: 0
-Ascension Level: 0
-Constellation: 0
-AUTO : 0
-SKILL : 0
-BURST : 0
-
-2026-11-13 12:04:12.051|ERROR|UserInterface|Could not determine character's name
-2026-11-13 12:04:12.051|ERROR|UserInterface|Could not determine character's element
-2026-11-13 12:04:12.051|ERROR|CharacterScraper|Failed to scan character
-Invalid character name
-Invalid level
-Invalid element
-Invalid talents
-Character
-Name: 
-Element: 
-Level: 0
-Ascension Level: 0
-Constellation: 0
-AUTO : 0
-SKILL : 0
-BURST : 0
-
-2026-11-13 12:04:15.046|ERROR|UserInterface|Could not determine character's name
-2026-11-13 12:04:15.046|ERROR|UserInterface|Could not determine character's element
-2026-11-13 12:04:15.046|ERROR|CharacterScraper|Failed to scan character
-Invalid character name
-Invalid level
-Invalid element
-Invalid talents
-Character
-Name: 
-Element: 
-Level: 0
-Ascension Level: 0
-Constellation: 0
-AUTO : 0
-SKILL : 0
-BURST : 0
-
-2026-11-13 12:04:17.453|INFO|InventoryKamera|Done scanning characters
-2026-11-13 12:04:17.453|INFO|InventoryKamera|Scanning character development materials...
-2026-11-13 12:04:20.493|ERROR|UserInterface|Unable to parse mora count
-2026-11-13 12:04:21.962|WARN|MaterialScraper|Scan_Materials: page 1 returned no scannable items; aborting scan.
-2026-11-13 12:04:23.969|INFO|InventoryKamera|Done scanning character development materials
-2026-11-13 12:04:23.969|INFO|InventoryKamera|Scanning materials...
-2026-11-13 12:04:25.955|INFO|MainForm|Hotkey pressed
-2026-11-13 12:04:26.008|INFO|MainForm|Partial data auto-saved on stop/error
-2026-11-13 12:04:26.019|INFO|MainForm|Auto-copied partial JSON to C:\Users\nicob\Documents\GitHub\genshin-data\GenshinData
-2026-11-13 12:04:26.019|INFO|MainForm|Hotkey removed
-2026-11-13 12:05:22.662|INFO|MainForm|Starting scan
-2026-11-13 12:05:22.662|INFO|MainForm|Hotkey registered
-2026-11-13 12:05:22.662|INFO|MainForm|Scan settings: 
-	Game Version Data:			 7.2
-	Weapons:				 True
-	Artifacts:				 True
-	Characters:				 True
-	Dev Items:				 True
-	Materials:				 True
-	Min Weapon Rarity:		 3
-	Min Weapon Level:		 1
-	Equip Weapons:			 True
-	Min Artifact Rarity:	 4
-	Min Artifact Level:		 0
-	Equip Artifacts:		 True
-	Delay:					 0
-2026-11-13 12:05:22.707|INFO|InventoryKamera|Kamera initialized
-2026-11-13 12:05:22.707|INFO|MainForm|Resolution: 1600x900
-2026-11-13 12:05:22.707|INFO|InventoryKamera|Logging directory reset
-2026-11-13 12:05:23.215|INFO|GenshinProcesor|Internally set traveler custom name to nickke
-2026-11-13 12:05:23.219|INFO|GenshinProcesor|Internally set wanderer custom name to zefiro
-2026-11-13 12:05:23.219|INFO|GenshinProcesor|Internally set manekin custom name to bruce
-2026-11-13 12:05:23.219|INFO|GenshinProcesor|Internally set manekina custom name to saphire
-2026-11-13 12:05:23.219|INFO|InventoryKamera|Scanning weapons...
-2026-11-13 12:05:26.462|ERROR|UserInterface|Unable to locate Weapons item count.
-2026-11-13 12:05:28.486|INFO|InventoryKamera|Done scanning weapons
-2026-11-13 12:05:28.486|INFO|InventoryKamera|Scanning artifacts...
-2026-11-13 12:05:31.660|ERROR|UserInterface|Unable to locate Artifacts item count.
-2026-11-13 12:05:33.681|INFO|InventoryKamera|Done scanning artifacts
-2026-11-13 12:05:33.681|INFO|InventoryKamera|Scanning characters...
-2026-11-13 12:05:39.380|ERROR|UserInterface|Could not determine character's name
-2026-11-13 12:05:39.391|ERROR|UserInterface|Could not determine character's element
-2026-11-13 12:05:39.391|ERROR|CharacterScraper|Failed to scan character
-Invalid character name
-Invalid level
-Invalid element
-Invalid talents
-Character
-Name: 
-Element: 
-Level: 0
-Ascension Level: 0
-Constellation: 0
-AUTO : 0
-SKILL : 0
-BURST : 0
-
-2026-11-13 12:05:42.378|ERROR|UserInterface|Could not determine character's name
-2026-11-13 12:05:42.378|ERROR|UserInterface|Could not determine character's element
-2026-11-13 12:05:42.378|ERROR|CharacterScraper|Failed to scan character
-Invalid character name
-Invalid level
-Invalid element
-Invalid talents
-Character
-Name: 
-Element: 
-Level: 0
-Ascension Level: 0
-Constellation: 0
-AUTO : 0
-SKILL : 0
-BURST : 0
-
-2026-11-13 12:05:45.318|ERROR|UserInterface|Could not determine character's name
-2026-11-13 12:05:45.318|ERROR|UserInterface|Could not determine character's element
-2026-11-13 12:05:45.318|ERROR|CharacterScraper|Failed to scan character
-Invalid character name
-Invalid level
-Invalid element
-Invalid talents
-Character
-Name: 
-Element: 
-Level: 0
-Ascension Level: 0
-Constellation: 0
-AUTO : 0
-SKILL : 0
-BURST : 0
-
-2026-11-13 12:05:48.302|ERROR|UserInterface|Could not determine character's name
-2026-11-13 12:05:48.311|ERROR|UserInterface|Could not determine character's element
-2026-11-13 12:05:48.311|ERROR|CharacterScraper|Failed to scan character
-Invalid character name
-Invalid level
-Invalid element
-Invalid talents
-Character
-Name: 
-Element: 
-Level: 0
-Ascension Level: 0
-Constellation: 0
-AUTO : 0
-SKILL : 0
-BURST : 0
-
-2026-11-13 12:05:50.689|INFO|InventoryKamera|Done scanning characters
-2026-11-13 12:05:50.689|INFO|InventoryKamera|Scanning character development materials...
-2026-11-13 12:05:53.782|ERROR|UserInterface|Unable to parse mora count
-2026-11-13 12:05:54.912|WARN|MaterialScraper|Scan_Materials: page 1 returned no scannable items; aborting scan.
-2026-11-13 12:05:56.927|INFO|InventoryKamera|Done scanning character development materials
-2026-11-13 12:05:56.927|INFO|InventoryKamera|Scanning materials...
-2026-11-13 12:06:01.052|WARN|MaterialScraper|Scan_Materials: page 1 returned no scannable items; aborting scan.
-2026-11-13 12:06:03.070|INFO|InventoryKamera|Done scanning materials
-2026-11-13 12:06:03.077|INFO|MainForm|Data converted to GOOD
-2026-11-13 12:06:03.077|INFO|MainForm|Exported data
-2026-11-13 12:06:03.077|INFO|MainForm|Auto-copied JSON to C:\Users\nicob\Documents\GitHub\genshin-data\GenshinData
+2026-11-13 12:54:39.935|INFO|InventoryKamera|Done scanning characters
+2026-11-13 12:54:39.938|INFO|InventoryKamera|Scanning character development materials...
+2026-11-13 12:54:43.021|ERROR|UserInterface|Unable to parse mora count
+2026-11-13 12:54:44.089|WARN|MaterialScraper|Scan_Materials: page 1 returned no scannable items; aborting scan.
+2026-11-13 12:54:46.111|INFO|InventoryKamera|Done scanning character development materials
+2026-11-13 12:54:46.111|INFO|InventoryKamera|Scanning materials...
+2026-11-13 12:54:50.206|WARN|MaterialScraper|Scan_Materials: page 1 returned no scannable items; aborting scan.
+2026-11-13 12:54:52.219|INFO|InventoryKamera|Done scanning materials
+2026-11-13 12:54:52.219|INFO|MainForm|Data converted to GOOD
+2026-11-13 12:54:52.286|INFO|MainForm|Exported data
+2026-11-13 12:54:52.312|INFO|MainForm|Auto-copied JSON to C:\Users\nicob\Documents\GitHub\genshin-data\GenshinData
