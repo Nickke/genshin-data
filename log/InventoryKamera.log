@@ -1,161 +1,80 @@
-2026-11-13 12:53:34.760|INFO|InventoryKamera|Kamera initialized
-2026-11-13 12:53:35.769|INFO|GenshinProcesor|Scraper initialized
-2026-11-13 12:53:35.789|INFO|MainForm|Inventory Kamera version 2.0.1
-2026-11-13 12:53:35.967|INFO|MainForm|Application settings loaded from previous version
-2026-11-13 12:53:36.174|INFO|DatabaseManager|Checking for newer game data...
-2026-11-13 12:53:36.835|INFO|MainForm|Game data is up to date (7.2)
-2026-11-13 12:53:46.575|INFO|MainForm|Starting scan
-2026-11-13 12:53:46.579|INFO|MainForm|Hotkey registered
-2026-11-13 12:53:46.579|INFO|MainForm|Scan settings: 
+2026-11-13 13:09:06.585|INFO|InventoryKamera|Kamera initialized
+2026-11-13 13:09:07.673|INFO|GenshinProcesor|Scraper initialized
+2026-11-13 13:09:07.693|INFO|MainForm|Inventory Kamera version 1.3.17
+2026-11-13 13:09:07.819|INFO|MainForm|Application settings loaded from previous version
+2026-11-13 13:09:08.064|INFO|DatabaseManager|Checking for newer game data...
+2026-11-13 13:09:08.570|INFO|MainForm|Current game data is up to date with data for 7.2
+2026-11-13 13:09:28.195|INFO|MainForm|Starting scan
+2026-11-13 13:09:28.195|INFO|MainForm|Hotkey registered
+2026-11-13 13:09:28.195|INFO|MainForm|Scan settings: 
 	Game Version Data:			 7.2
 	Weapons:				 True
 	Artifacts:				 True
 	Characters:				 True
 	Dev Items:				 True
 	Materials:				 True
-	Min Weapon Rarity:		 3
+	Min Weapon Rarity:		 1
 	Min Weapon Level:		 1
 	Equip Weapons:			 True
-	Min Artifact Rarity:	 4
+	Min Artifact Rarity:	 1
 	Min Artifact Level:		 0
 	Equip Artifacts:		 True
 	Delay:					 0
-2026-11-13 12:53:46.695|INFO|InventoryKamera|Kamera initialized
-2026-11-13 12:53:46.695|INFO|MainForm|Resolution: 1600x900
-2026-11-13 12:53:46.703|INFO|InventoryKamera|Logging directory reset
-2026-11-13 12:53:47.211|INFO|GenshinProcesor|Internally set traveler custom name to nickke
-2026-11-13 12:53:47.217|INFO|GenshinProcesor|Internally set wanderer custom name to zefiro
-2026-11-13 12:53:47.217|INFO|GenshinProcesor|Internally set manekin custom name to bruce
-2026-11-13 12:53:47.217|INFO|GenshinProcesor|Internally set manekina custom name to saphire
-2026-11-13 12:53:47.217|INFO|InventoryKamera|Scanning weapons...
-2026-11-13 12:53:51.695|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0
-2026-11-13 12:53:51.695|WARN|InventoryScraper|Detected 0 rows and 0 columns of items
-2026-11-13 12:53:53.118|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,125
-2026-11-13 12:53:53.118|WARN|InventoryScraper|Detected 2 rows and 4 columns of items
-2026-11-13 12:53:54.565|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,25
-2026-11-13 12:53:54.565|WARN|InventoryScraper|Detected 2 rows and 5 columns of items
-2026-11-13 12:53:56.013|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,375
-2026-11-13 12:53:56.013|WARN|InventoryScraper|Detected 2 rows and 5 columns of items
-2026-11-13 12:53:57.274|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,5
-2026-11-13 12:53:57.274|WARN|InventoryScraper|Detected 2 rows and 5 columns of items
-2026-11-13 12:53:58.547|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,625
-2026-11-13 12:53:58.547|WARN|InventoryScraper|Detected 3 rows and 6 columns of items
-2026-11-13 12:53:59.967|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,75
-2026-11-13 12:53:59.967|WARN|InventoryScraper|Detected 3 rows and 6 columns of items
-2026-11-13 12:54:01.448|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,875
-2026-11-13 12:54:01.448|WARN|InventoryScraper|Detected 5 rows and 7 columns of items
-2026-11-13 12:54:02.901|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,78
-2026-11-13 12:54:02.901|WARN|InventoryScraper|Detected 3 rows and 7 columns of items
-2026-11-13 12:54:04.610|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,905
-2026-11-13 12:54:04.610|WARN|InventoryScraper|Detected 5 rows and 6 columns of items
-2026-11-13 12:54:04.900|WARN|InventoryScraper|Could not find 40 items in inventory. Re-using previous item page.
-2026-11-13 12:54:05.061|ERROR|UserInterface|Il valore non può essere null.
-Nome parametro: Could not find first page of items!
-   in InventoryKamera.InventoryScraper.GetPageOfItems(Int32 pageNum, Boolean acceptLess)
-   in InventoryKamera.WeaponScraper.ScanWeapons(Int32 count)
-   in InventoryKamera.InventoryKamera.GatherData()
-2026-11-13 12:54:07.081|INFO|InventoryKamera|Done scanning weapons
-2026-11-13 12:54:07.081|INFO|InventoryKamera|Scanning artifacts...
-2026-11-13 12:54:11.367|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0
-2026-11-13 12:54:11.367|WARN|InventoryScraper|Detected 0 rows and 0 columns of items
-2026-11-13 12:54:12.576|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,125
-2026-11-13 12:54:12.576|WARN|InventoryScraper|Detected 2 rows and 4 columns of items
-2026-11-13 12:54:13.785|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,25
-2026-11-13 12:54:13.785|WARN|InventoryScraper|Detected 2 rows and 5 columns of items
-2026-11-13 12:54:15.034|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,375
-2026-11-13 12:54:15.034|WARN|InventoryScraper|Detected 2 rows and 5 columns of items
-2026-11-13 12:54:16.334|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,5
-2026-11-13 12:54:16.334|WARN|InventoryScraper|Detected 2 rows and 5 columns of items
-2026-11-13 12:54:17.710|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,625
-2026-11-13 12:54:17.710|WARN|InventoryScraper|Detected 3 rows and 5 columns of items
-2026-11-13 12:54:19.057|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,75
-2026-11-13 12:54:19.057|WARN|InventoryScraper|Detected 3 rows and 5 columns of items
-2026-11-13 12:54:20.618|WARN|InventoryScraper|Unable to locate full page of weapons with weight 0,875
-2026-11-13 12:54:20.618|WARN|InventoryScraper|Detected 4 rows and 7 columns of items
-2026-11-13 12:54:20.878|WARN|InventoryScraper|Could not find 32 items in inventory. Re-using previous item page.
-2026-11-13 12:54:21.003|ERROR|UserInterface|Il valore non può essere null.
-Nome parametro: Could not find first page of items!
-   in InventoryKamera.InventoryScraper.GetPageOfItems(Int32 pageNum, Boolean acceptLess)
-   in InventoryKamera.ArtifactScraper.ScanArtifacts(Int32 count)
-   in InventoryKamera.InventoryKamera.GatherData()
-2026-11-13 12:54:23.026|INFO|InventoryKamera|Done scanning artifacts
-2026-11-13 12:54:23.026|INFO|InventoryKamera|Scanning characters...
-2026-11-13 12:54:28.737|ERROR|UserInterface|Could not determine character's name
-2026-11-13 12:54:28.737|ERROR|UserInterface|Could not determine character's element
-2026-11-13 12:54:28.750|ERROR|CharacterScraper|Failed to scan character
-Invalid character name
-Invalid level
-Invalid element
-Invalid talents
-Character
-Name: 
-Element: 
-Level: 0
-Ascension Level: 0
-Constellation: 0
-AUTO : 0
-SKILL : 0
-BURST : 0
+2026-11-13 13:09:28.270|INFO|InventoryKamera|Kamera initialized
+2026-11-13 13:09:28.270|INFO|MainForm|Resolution: 1600x900
+2026-11-13 13:09:28.270|INFO|InventoryKamera|Logging directory reset
+2026-11-13 13:09:28.833|INFO|GenshinProcesor|Internally set traveler custom name to nckke
+2026-11-13 13:09:28.833|INFO|GenshinProcesor|Internally set wanderer custom name to zefiro
+2026-11-13 13:09:28.833|INFO|InventoryKamera|Scanning weapons...
+2026-11-13 13:09:33.434|INFO|UserInterface|Parsed 284 weapons to scan
+2026-11-13 13:09:33.434|INFO|WeaponScraper|Found 284 for weapon count.
+2026-11-13 13:09:36.218|ERROR|UserInterface|Unable to validate information for weapon ID#14
+2026-11-13 13:09:36.222|ERROR|UserInterface|Invalid refinement level
+Weapon ID: 14
+Name: SacrificialFragments
+Rarity: 4
+Level 90
+Refinement: -1
+Locked: False
+Equipped character: Nahida
+2026-11-13 13:09:37.929|ERROR|UserInterface|Unable to validate information for weapon ID#24
+2026-11-13 13:09:37.929|ERROR|UserInterface|Invalid refinement level
+Weapon ID: 24
+Name: PrototypeRancour
+Rarity: 4
+Level 90
+Refinement: -1
+Locked: False
+Equipped character: Kirara
+2026-11-13 13:09:49.515|ERROR|UserInterface|Unable to validate information for weapon ID#78
+2026-11-13 13:09:49.519|ERROR|UserInterface|Invalid refinement level
+Weapon ID: 78
+Name: EyeofPerception
+Rarity: 4
+Level 1
+Refinement: -1
+Locked: False
 
-2026-11-13 12:54:31.689|ERROR|UserInterface|Could not determine character's name
-2026-11-13 12:54:31.689|ERROR|UserInterface|Could not determine character's element
-2026-11-13 12:54:31.689|ERROR|CharacterScraper|Failed to scan character
-Invalid character name
-Invalid level
-Invalid element
-Invalid talents
-Character
-Name: 
-Element: 
-Level: 0
-Ascension Level: 0
-Constellation: 0
-AUTO : 0
-SKILL : 0
-BURST : 0
+2026-11-13 13:10:03.733|ERROR|UserInterface|Unable to validate information for weapon ID#136
+2026-11-13 13:10:03.735|ERROR|UserInterface|Invalid refinement level
+Weapon ID: 136
+Name: FavoniusSword
+Rarity: 4
+Level 1
+Refinement: -1
+Locked: False
+Equipped character: Kaeya
+2026-11-13 13:10:10.281|ERROR|UserInterface|Unable to validate information for weapon ID#162
+2026-11-13 13:10:10.281|ERROR|UserInterface|Invalid refinement level
+Weapon ID: 162
+Name: EmeraldOrb
+Rarity: 3
+Level 1
+Refinement: -1
+Locked: False
 
-2026-11-13 12:54:34.655|ERROR|UserInterface|Could not determine character's name
-2026-11-13 12:54:34.655|ERROR|UserInterface|Could not determine character's element
-2026-11-13 12:54:34.655|ERROR|CharacterScraper|Failed to scan character
-Invalid character name
-Invalid level
-Invalid element
-Invalid talents
-Character
-Name: 
-Element: 
-Level: 0
-Ascension Level: 0
-Constellation: 0
-AUTO : 0
-SKILL : 0
-BURST : 0
-
-2026-11-13 12:54:37.530|ERROR|UserInterface|Could not determine character's name
-2026-11-13 12:54:37.530|ERROR|UserInterface|Could not determine character's element
-2026-11-13 12:54:37.530|ERROR|CharacterScraper|Failed to scan character
-Invalid character name
-Invalid level
-Invalid element
-Invalid talents
-Character
-Name: 
-Element: 
-Level: 0
-Ascension Level: 0
-Constellation: 0
-AUTO : 0
-SKILL : 0
-BURST : 0
-
-2026-11-13 12:54:39.935|INFO|InventoryKamera|Done scanning characters
-2026-11-13 12:54:39.938|INFO|InventoryKamera|Scanning character development materials...
-2026-11-13 12:54:43.021|ERROR|UserInterface|Unable to parse mora count
-2026-11-13 12:54:44.089|WARN|MaterialScraper|Scan_Materials: page 1 returned no scannable items; aborting scan.
-2026-11-13 12:54:46.111|INFO|InventoryKamera|Done scanning character development materials
-2026-11-13 12:54:46.111|INFO|InventoryKamera|Scanning materials...
-2026-11-13 12:54:50.206|WARN|MaterialScraper|Scan_Materials: page 1 returned no scannable items; aborting scan.
-2026-11-13 12:54:52.219|INFO|InventoryKamera|Done scanning materials
-2026-11-13 12:54:52.219|INFO|MainForm|Data converted to GOOD
-2026-11-13 12:54:52.286|INFO|MainForm|Exported data
-2026-11-13 12:54:52.312|INFO|MainForm|Auto-copied JSON to C:\Users\nicob\Documents\GitHub\genshin-data\GenshinData
+2026-11-13 13:10:36.816|INFO|WeaponScraper|Stopping weapon scan based on scans queued (284 of 284)
+2026-11-13 13:10:38.840|INFO|InventoryKamera|Done scanning weapons
+2026-11-13 13:10:38.840|INFO|InventoryKamera|Scanning artifacts...
+2026-11-13 13:10:43.296|INFO|UserInterface|Parsed 2243 artifacts to scan
+2026-11-13 13:10:43.296|INFO|ArtifactScraper|Found 2243 for artifact count.
