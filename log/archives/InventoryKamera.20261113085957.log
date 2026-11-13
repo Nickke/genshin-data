@@ -1,0 +1,115 @@
+2026-11-13 08:54:00.626|INFO|InventoryKamera|Kamera initialized
+2026-11-13 08:54:02.723|INFO|GenshinProcesor|Scraper initialized
+2026-11-13 08:54:02.832|INFO|MainForm|Inventory Kamera version 1.0.0
+2026-11-13 08:54:03.280|INFO|DatabaseManager|Checking for newer game data...
+2026-11-13 08:54:04.600|INFO|MainForm|Game data is up to date (7.2)
+2026-11-13 08:59:15.665|INFO|MainForm|Starting scan
+2026-11-13 08:59:15.665|INFO|MainForm|Hotkey registered
+2026-11-13 08:59:15.665|INFO|MainForm|Scan settings: 
+	Game Version Data:			 7.2
+	Weapons:				 True
+	Artifacts:				 True
+	Characters:				 True
+	Dev Items:				 True
+	Materials:				 True
+	Min Weapon Rarity:		 1
+	Min Weapon Level:		 1
+	Equip Weapons:			 True
+	Min Artifact Rarity:	 1
+	Min Artifact Level:		 0
+	Equip Artifacts:		 True
+	Delay:					 0
+2026-11-13 08:59:15.805|INFO|InventoryKamera|Kamera initialized
+2026-11-13 08:59:15.806|INFO|MainForm|Resolution: 1600x900
+2026-11-13 08:59:15.806|INFO|InventoryKamera|Logging directory reset
+2026-11-13 08:59:16.493|INFO|GenshinProcesor|Internally set traveler custom name to nickke
+2026-11-13 08:59:16.512|INFO|GenshinProcesor|Internally set wanderer custom name to zefiro
+2026-11-13 08:59:16.512|INFO|GenshinProcesor|Internally set manekin custom name to bruce
+2026-11-13 08:59:16.512|INFO|GenshinProcesor|Internally set manekina custom name to saphire
+2026-11-13 08:59:16.512|INFO|InventoryKamera|Scanning weapons...
+2026-11-13 08:59:19.905|ERROR|UserInterface|Unable to locate Weapons item count.
+2026-11-13 08:59:21.931|INFO|InventoryKamera|Done scanning weapons
+2026-11-13 08:59:21.931|INFO|InventoryKamera|Scanning artifacts...
+2026-11-13 08:59:25.177|ERROR|UserInterface|Unable to locate Artifacts item count.
+2026-11-13 08:59:27.185|INFO|InventoryKamera|Done scanning artifacts
+2026-11-13 08:59:27.185|INFO|InventoryKamera|Scanning characters...
+2026-11-13 08:59:32.782|ERROR|UserInterface|Could not determine character's name
+2026-11-13 08:59:32.782|ERROR|UserInterface|Could not determine character's element
+2026-11-13 08:59:32.802|ERROR|CharacterScraper|Failed to scan character
+Invalid character name
+Invalid level
+Invalid element
+Invalid talents
+Character
+Name: 
+Element: 
+Level: 0
+Ascension Level: 0
+Constellation: 0
+AUTO : 0
+SKILL : 0
+BURST : 0
+
+2026-11-13 08:59:35.705|ERROR|UserInterface|Could not determine character's name
+2026-11-13 08:59:35.705|ERROR|UserInterface|Could not determine character's element
+2026-11-13 08:59:35.705|ERROR|CharacterScraper|Failed to scan character
+Invalid character name
+Invalid level
+Invalid element
+Invalid talents
+Character
+Name: 
+Element: 
+Level: 0
+Ascension Level: 0
+Constellation: 0
+AUTO : 0
+SKILL : 0
+BURST : 0
+
+2026-11-13 08:59:38.597|ERROR|UserInterface|Could not determine character's name
+2026-11-13 08:59:38.597|ERROR|UserInterface|Could not determine character's element
+2026-11-13 08:59:38.597|ERROR|CharacterScraper|Failed to scan character
+Invalid character name
+Invalid level
+Invalid element
+Invalid talents
+Character
+Name: 
+Element: 
+Level: 0
+Ascension Level: 0
+Constellation: 0
+AUTO : 0
+SKILL : 0
+BURST : 0
+
+2026-11-13 08:59:41.526|ERROR|UserInterface|Could not determine character's name
+2026-11-13 08:59:41.526|ERROR|UserInterface|Could not determine character's element
+2026-11-13 08:59:41.526|ERROR|CharacterScraper|Failed to scan character
+Invalid character name
+Invalid level
+Invalid element
+Invalid talents
+Character
+Name: 
+Element: 
+Level: 0
+Ascension Level: 0
+Constellation: 0
+AUTO : 0
+SKILL : 0
+BURST : 0
+
+2026-11-13 08:59:43.901|INFO|InventoryKamera|Done scanning characters
+2026-11-13 08:59:43.901|INFO|InventoryKamera|Scanning character development materials...
+2026-11-13 08:59:46.962|ERROR|UserInterface|Unable to parse mora count
+2026-11-13 08:59:48.509|WARN|MaterialScraper|Scan_Materials: page 1 returned no scannable items; aborting scan.
+2026-11-13 08:59:50.520|INFO|InventoryKamera|Done scanning character development materials
+2026-11-13 08:59:50.520|INFO|InventoryKamera|Scanning materials...
+2026-11-13 08:59:55.026|WARN|MaterialScraper|Scan_Materials: page 1 returned no scannable items; aborting scan.
+2026-11-13 08:59:57.042|INFO|InventoryKamera|Done scanning materials
+2026-11-13 08:59:57.064|INFO|MainForm|Data converted to GOOD
+2026-11-13 08:59:57.150|INFO|MainForm|Exported data
+2026-11-13 08:59:57.169|INFO|MainForm|Auto-copied JSON to C:\Users\nicob\Documents\GitHub\genshin-data\GenshinData
+2026-11-13 08:59:57.213|INFO|MainForm|Auto-copied log to C:\Users\nicob\Documents\GitHub\genshin-data\log
