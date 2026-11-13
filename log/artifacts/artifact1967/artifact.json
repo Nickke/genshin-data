@@ -1,0 +1,20 @@
+{
+  "setKey": "Gambler",
+  "slotKey": "circlet",
+  "rarity": 4,
+  "mainStatKey": "def_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "",
+      "value": 167.0
+    },
+    {
+      "key": "enerRech_",
+      "value": 4.7
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1967
+}

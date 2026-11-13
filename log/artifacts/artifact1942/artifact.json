@@ -1,0 +1,16 @@
+{
+  "setKey": "Scholar",
+  "slotKey": "plume",
+  "rarity": 4,
+  "mainStatKey": "atk",
+  "level": 0,
+  "substats": [
+    {
+      "key": "",
+      "value": 117.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1942
+}

@@ -1,0 +1,20 @@
+{
+  "setKey": "Scholar",
+  "slotKey": "plume",
+  "rarity": 3,
+  "mainStatKey": "atk",
+  "level": 0,
+  "substats": [
+    {
+      "key": "def",
+      "value": 9.0
+    },
+    {
+      "key": "critRate_",
+      "value": 1.9
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 2001
+}

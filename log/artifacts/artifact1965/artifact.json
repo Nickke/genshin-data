@@ -1,0 +1,16 @@
+{
+  "setKey": "Gambler",
+  "slotKey": "goblet",
+  "rarity": 4,
+  "mainStatKey": "electro_dmg_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "heal_",
+      "value": 137.1
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1965
+}

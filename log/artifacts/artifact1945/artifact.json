@@ -1,0 +1,16 @@
+{
+  "setKey": "Scholar",
+  "slotKey": "sands",
+  "rarity": 4,
+  "mainStatKey": "atk_",
+  "level": 0,
+  "substats": [
+    {
+      "key": "",
+      "value": 137.0
+    }
+  ],
+  "location": "",
+  "lock": false,
+  "id": 1945
+}

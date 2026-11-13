@@ -1,0 +1,28 @@
+{
+  "setKey": "BloodstainedChivalry",
+  "slotKey": "flower",
+  "rarity": 5,
+  "mainStatKey": "hp",
+  "level": 0,
+  "substats": [
+    {
+      "key": "critDMG_",
+      "value": 7.8
+    },
+    {
+      "key": "atk",
+      "value": 18.0
+    },
+    {
+      "key": "def_",
+      "value": 6.6
+    },
+    {
+      "key": "critRate_",
+      "value": 3.1
+    }
+  ],
+  "location": "",
+  "lock": true,
+  "id": 917
+}
