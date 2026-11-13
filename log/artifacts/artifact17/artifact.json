@@ -23,6 +23,6 @@
     }
   ],
   "location": "Zhongli",
-  "lock": true,
+  "lock": false,
   "id": 17
 }

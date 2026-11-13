@@ -2,7 +2,7 @@
   "setKey": "Adventurer",
   "slotKey": "sands",
   "rarity": 2,
-  "mainStatKey": "eleMas",
+  "mainStatKey": "hp_",
   "level": 0,
   "substats": [],
   "location": "",
