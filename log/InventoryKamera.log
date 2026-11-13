@@ -1,80 +1,118 @@
-2026-11-13 13:09:06.585|INFO|InventoryKamera|Kamera initialized
-2026-11-13 13:09:07.673|INFO|GenshinProcesor|Scraper initialized
-2026-11-13 13:09:07.693|INFO|MainForm|Inventory Kamera version 1.3.17
-2026-11-13 13:09:07.819|INFO|MainForm|Application settings loaded from previous version
-2026-11-13 13:09:08.064|INFO|DatabaseManager|Checking for newer game data...
-2026-11-13 13:09:08.570|INFO|MainForm|Current game data is up to date with data for 7.2
-2026-11-13 13:09:28.195|INFO|MainForm|Starting scan
-2026-11-13 13:09:28.195|INFO|MainForm|Hotkey registered
-2026-11-13 13:09:28.195|INFO|MainForm|Scan settings: 
+2026-11-13 13:33:44.678|INFO|InventoryKamera|Kamera initialized
+2026-11-13 13:33:45.741|INFO|GenshinProcesor|Scraper initialized
+2026-11-13 13:33:45.765|INFO|MainForm|Inventory Kamera version 2.0.1
+2026-11-13 13:33:45.908|INFO|MainForm|Application settings loaded from previous version
+2026-11-13 13:33:46.004|INFO|DatabaseManager|Checking for newer game data...
+2026-11-13 13:33:46.527|INFO|MainForm|Game data is up to date (7.2)
+2026-11-13 13:34:36.634|INFO|MainForm|Starting scan
+2026-11-13 13:34:36.634|INFO|MainForm|Hotkey registered
+2026-11-13 13:34:36.634|INFO|MainForm|Scan settings: 
 	Game Version Data:			 7.2
 	Weapons:				 True
 	Artifacts:				 True
 	Characters:				 True
 	Dev Items:				 True
 	Materials:				 True
-	Min Weapon Rarity:		 1
+	Min Weapon Rarity:		 3
 	Min Weapon Level:		 1
 	Equip Weapons:			 True
-	Min Artifact Rarity:	 1
+	Min Artifact Rarity:	 4
 	Min Artifact Level:		 0
 	Equip Artifacts:		 True
 	Delay:					 0
-2026-11-13 13:09:28.270|INFO|InventoryKamera|Kamera initialized
-2026-11-13 13:09:28.270|INFO|MainForm|Resolution: 1600x900
-2026-11-13 13:09:28.270|INFO|InventoryKamera|Logging directory reset
-2026-11-13 13:09:28.833|INFO|GenshinProcesor|Internally set traveler custom name to nckke
-2026-11-13 13:09:28.833|INFO|GenshinProcesor|Internally set wanderer custom name to zefiro
-2026-11-13 13:09:28.833|INFO|InventoryKamera|Scanning weapons...
-2026-11-13 13:09:33.434|INFO|UserInterface|Parsed 284 weapons to scan
-2026-11-13 13:09:33.434|INFO|WeaponScraper|Found 284 for weapon count.
-2026-11-13 13:09:36.218|ERROR|UserInterface|Unable to validate information for weapon ID#14
-2026-11-13 13:09:36.222|ERROR|UserInterface|Invalid refinement level
-Weapon ID: 14
-Name: SacrificialFragments
-Rarity: 4
-Level 90
-Refinement: -1
-Locked: False
-Equipped character: Nahida
-2026-11-13 13:09:37.929|ERROR|UserInterface|Unable to validate information for weapon ID#24
-2026-11-13 13:09:37.929|ERROR|UserInterface|Invalid refinement level
-Weapon ID: 24
-Name: PrototypeRancour
-Rarity: 4
-Level 90
-Refinement: -1
-Locked: False
-Equipped character: Kirara
-2026-11-13 13:09:49.515|ERROR|UserInterface|Unable to validate information for weapon ID#78
-2026-11-13 13:09:49.519|ERROR|UserInterface|Invalid refinement level
-Weapon ID: 78
-Name: EyeofPerception
-Rarity: 4
-Level 1
-Refinement: -1
-Locked: False
+2026-11-13 13:34:36.726|INFO|InventoryKamera|Kamera initialized
+2026-11-13 13:34:36.726|INFO|MainForm|Resolution: 1600x900
+2026-11-13 13:34:36.726|WARN|InventoryKamera|Failed to reset logging directories|System.IO.DirectoryNotFoundException: Impossibile trovare una parte del percorso 'C:\Users\nicob\Documents\GitHub\genshin-tool\logging\weapons'.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive, Boolean checkHost)
+   in InventoryKamera.InventoryKamera.ResetLogging()
+2026-11-13 13:34:36.764|INFO|InventoryKamera|Logging directory reset
+2026-11-13 13:34:37.430|INFO|GenshinProcesor|Internally set traveler custom name to nickke
+2026-11-13 13:34:37.430|INFO|GenshinProcesor|Internally set manekin custom name to bruce
+2026-11-13 13:34:37.430|INFO|GenshinProcesor|Internally set manekina custom name to saphire
+2026-11-13 13:34:37.430|INFO|InventoryKamera|Scanning weapons...
+2026-11-13 13:34:40.814|ERROR|UserInterface|Unable to locate Weapons item count.
+2026-11-13 13:34:42.837|INFO|InventoryKamera|Done scanning weapons
+2026-11-13 13:34:42.837|INFO|InventoryKamera|Scanning artifacts...
+2026-11-13 13:34:46.207|ERROR|UserInterface|Unable to locate Artifacts item count.
+2026-11-13 13:34:48.225|INFO|InventoryKamera|Done scanning artifacts
+2026-11-13 13:34:48.225|INFO|InventoryKamera|Scanning characters...
+2026-11-13 13:34:53.944|ERROR|UserInterface|Could not determine character's name
+2026-11-13 13:34:53.944|ERROR|UserInterface|Could not determine character's element
+2026-11-13 13:34:53.944|ERROR|CharacterScraper|Failed to scan character
+Invalid character name
+Invalid level
+Invalid element
+Invalid talents
+Character
+Name: 
+Element: 
+Level: 0
+Ascension Level: 0
+Constellation: 0
+AUTO : 0
+SKILL : 0
+BURST : 0
 
-2026-11-13 13:10:03.733|ERROR|UserInterface|Unable to validate information for weapon ID#136
-2026-11-13 13:10:03.735|ERROR|UserInterface|Invalid refinement level
-Weapon ID: 136
-Name: FavoniusSword
-Rarity: 4
-Level 1
-Refinement: -1
-Locked: False
-Equipped character: Kaeya
-2026-11-13 13:10:10.281|ERROR|UserInterface|Unable to validate information for weapon ID#162
-2026-11-13 13:10:10.281|ERROR|UserInterface|Invalid refinement level
-Weapon ID: 162
-Name: EmeraldOrb
-Rarity: 3
-Level 1
-Refinement: -1
-Locked: False
+2026-11-13 13:34:56.910|ERROR|UserInterface|Could not determine character's name
+2026-11-13 13:34:56.910|ERROR|UserInterface|Could not determine character's element
+2026-11-13 13:34:56.910|ERROR|CharacterScraper|Failed to scan character
+Invalid character name
+Invalid level
+Invalid element
+Invalid talents
+Character
+Name: 
+Element: 
+Level: 0
+Ascension Level: 0
+Constellation: 0
+AUTO : 0
+SKILL : 0
+BURST : 0
 
-2026-11-13 13:10:36.816|INFO|WeaponScraper|Stopping weapon scan based on scans queued (284 of 284)
-2026-11-13 13:10:38.840|INFO|InventoryKamera|Done scanning weapons
-2026-11-13 13:10:38.840|INFO|InventoryKamera|Scanning artifacts...
-2026-11-13 13:10:43.296|INFO|UserInterface|Parsed 2243 artifacts to scan
-2026-11-13 13:10:43.296|INFO|ArtifactScraper|Found 2243 for artifact count.
+2026-11-13 13:34:59.777|ERROR|UserInterface|Could not determine character's name
+2026-11-13 13:34:59.777|ERROR|UserInterface|Could not determine character's element
+2026-11-13 13:34:59.777|ERROR|CharacterScraper|Failed to scan character
+Invalid character name
+Invalid level
+Invalid element
+Invalid talents
+Character
+Name: 
+Element: 
+Level: 0
+Ascension Level: 0
+Constellation: 0
+AUTO : 0
+SKILL : 0
+BURST : 0
+
+2026-11-13 13:35:02.739|ERROR|UserInterface|Could not determine character's name
+2026-11-13 13:35:02.739|ERROR|UserInterface|Could not determine character's element
+2026-11-13 13:35:02.739|ERROR|CharacterScraper|Failed to scan character
+Invalid character name
+Invalid level
+Invalid element
+Invalid talents
+Character
+Name: 
+Element: 
+Level: 0
+Ascension Level: 0
+Constellation: 0
+AUTO : 0
+SKILL : 0
+BURST : 0
+
+2026-11-13 13:35:05.131|INFO|InventoryKamera|Done scanning characters
+2026-11-13 13:35:05.131|INFO|InventoryKamera|Scanning character development materials...
+2026-11-13 13:35:08.322|ERROR|UserInterface|Unable to parse mora count
+2026-11-13 13:35:09.594|WARN|MaterialScraper|Scan_Materials: page 1 returned no scannable items; aborting scan.
+2026-11-13 13:35:11.616|INFO|InventoryKamera|Done scanning character development materials
+2026-11-13 13:35:11.616|INFO|InventoryKamera|Scanning materials...
+2026-11-13 13:35:16.143|WARN|MaterialScraper|Scan_Materials: page 1 returned no scannable items; aborting scan.
+2026-11-13 13:35:18.169|INFO|InventoryKamera|Done scanning materials
+2026-11-13 13:35:18.200|INFO|MainForm|Data converted to GOOD
+2026-11-13 13:35:18.262|INFO|MainForm|Exported data
+2026-11-13 13:35:18.262|INFO|MainForm|Auto-copied JSON to C:\Users\nicob\Documents\GitHub\genshin-data\GenshinData
